@@ -1,626 +1,724 @@
 <!DOCTYPE html>
-<html lang="zh-TW">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>韓語單字閃卡 - LMT韓語學習區</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Flashcards · LMT Korean</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,500;14..32,600;14..32,700&family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet" />
     <style>
+        /* ——— 全域變數 (與首頁一致) ——— */
+        :root {
+            --bg-primary: #0b0b10;
+            --bg-secondary: #111118;
+            --bg-card: #181822;
+            --border-subtle: rgba(255, 255, 255, 0.04);
+            --border-card: rgba(255, 255, 255, 0.05);
+            --text-primary: #e4dfd8;
+            --text-secondary: #a09a94;
+            --text-muted: #6b6660;
+            --accent-gold: #c9a96e;
+            --accent-gold-dim: rgba(201, 169, 110, 0.12);
+            --shadow-card: 0 8px 32px rgba(0, 0, 0, 0.45);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
         body {
-            font-family: 'Roboto', 'Noto Sans KR', sans-serif;
-            background-color: #0F172A; 
-            color: #E2E8F0; 
-            display: flex;
-            flex-direction: column;
+            font-family: 'Inter', 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            -webkit-font-smoothing: antialiased;
             min-height: 100vh;
-        }
-        main {
-            flex-grow: 1;
             display: flex;
             flex-direction: column;
-            align-items: center; 
         }
-        .selection-controls-container {
-            background-color: rgba(30, 41, 59, 0.9); 
-            padding: 1rem 1.5rem;
-            border-radius: 0.75rem;
-            margin-bottom: 1.5rem;
-            box-shadow: 0 6px 20px rgba(0,0,0,0.3);
-            width: 100%;
-            max-width: 500px; 
-            backdrop-filter: blur(10px); 
-            -webkit-backdrop-filter: blur(10px); 
-        }
-        .category-select-group {
+
+        main {
+            flex: 1;
             display: flex;
+            flex-direction: column;
             align-items: center;
-            gap: 0.5rem;
-            margin-bottom: 0.75rem;
         }
-        .category-select-label, .unfamiliar-toggle-label {
-            color: #A5B4FC;
-            font-weight: 500;
-            font-size: 0.875rem; 
+
+        /* ——— 導航 (與首頁一致) ——— */
+        .nav-bar {
+            background: rgba(11, 11, 16, 0.75);
+            backdrop-filter: blur(18px) saturate(160%);
+            -webkit-backdrop-filter: blur(18px) saturate(160%);
+            border-bottom: 1px solid var(--border-subtle);
+            position: fixed;
+            top: 0;
+            width: 100%;
+            z-index: 50;
         }
-        #category-select { 
-            background-color: #334155; 
-            color: #E0E7FF;
-            border: 1px solid #475569; 
-            border-radius: 0.5rem;
-            padding: 0.5rem 2.5rem 0.5rem 0.75rem; 
+
+        .nav-link {
+            color: var(--text-secondary);
+            font-weight: 450;
+            font-size: 0.8rem;
+            letter-spacing: 0.02em;
+            padding: 0.4rem 1rem;
+            border-radius: 6px;
+            transition: color 0.2s, background 0.2s;
+            text-decoration: none;
+        }
+        .nav-link:hover {
+            color: var(--text-primary);
+            background: rgba(255, 255, 255, 0.03);
+        }
+        .nav-link.active {
+            color: var(--text-primary);
+            background: rgba(201, 169, 110, 0.07);
+        }
+
+        .mobile-nav-link {
+            color: var(--text-secondary);
+            font-weight: 450;
+            font-size: 0.9rem;
+            padding: 0.6rem 1rem;
+            border-radius: 6px;
+            transition: color 0.2s, background 0.2s;
+            display: block;
+            text-align: center;
+            text-decoration: none;
+        }
+        .mobile-nav-link:hover {
+            color: var(--text-primary);
+            background: rgba(255, 255, 255, 0.03);
+        }
+        .mobile-nav-link.active {
+            color: var(--text-primary);
+            background: rgba(201, 169, 110, 0.07);
+        }
+
+        /* ——— 返回按鈕 ——— */
+        .back-btn {
+            color: var(--text-muted);
+            transition: color 0.2s ease;
+            text-decoration: none;
+        }
+        .back-btn:hover {
+            color: var(--text-primary);
+        }
+
+        /* ——— 控制面板 ——— */
+        .controls-panel {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-card);
+            border-radius: 12px;
+            padding: 1.25rem 1.5rem;
+            width: 100%;
+            max-width: 520px;
+            backdrop-filter: blur(8px);
+            box-shadow: var(--shadow-card);
+        }
+
+        .select-custom {
+            background: var(--bg-card);
+            color: var(--text-secondary);
+            border: 1px solid var(--border-card);
+            border-radius: 8px;
+            padding: 0.5rem 2rem 0.5rem 0.75rem;
+            font-size: 0.8rem;
+            font-weight: 450;
             appearance: none;
-            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3E%3Cpath stroke='%239CA3AF' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='M6 8l4 4 4-4'/%3E%3C/svg%3E");
+            background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3e%3cpath stroke='%236b6660' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='M6 8l4 4 4-4'/%3e%3c/svg%3e");
             background-repeat: no-repeat;
             background-position: right 0.5rem center;
-            background-size: 1.5em 1.5em;
-            flex-grow: 1; 
-            transition: border-color 0.2s ease, box-shadow 0.2s ease;
-        }
-        #category-select:focus {
-            outline: none;
-            border-color: #6366F1;
-            box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.4);
-        }
-        .unfamiliar-toggle-group {
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-        }
-        #unfamiliar-toggle { 
-            height: 1.125rem; 
-            width: 1.125rem;      
-            border-radius: 0.25rem; 
-            border: 1px solid #475569; 
-            background-color: #334155; 
-            accent-color: #4F46E5; 
-            vertical-align: middle; 
+            background-size: 1.2em 1.2em;
+            transition: border-color 0.2s;
+            width: 100%;
             cursor: pointer;
         }
-        #unfamiliar-toggle:focus {
+        .select-custom:focus {
             outline: none;
-            box-shadow: 0 0 0 2px rgba(99, 102, 241, 0.4); 
+            border-color: var(--accent-gold);
         }
-        .flashcard-container { 
-            width: 100%;
-            max-width: 500px; 
-            margin-top: 0; 
-            margin-bottom: 1rem;
+        .select-custom:disabled {
+            opacity: 0.4;
+            cursor: not-allowed;
         }
+
+        .checkbox-custom {
+            accent-color: var(--accent-gold);
+            width: 1rem;
+            height: 1rem;
+            background: var(--bg-card);
+            border: 1px solid var(--border-card);
+            border-radius: 4px;
+            cursor: pointer;
+            flex-shrink: 0;
+        }
+        .checkbox-custom:focus {
+            outline: none;
+            box-shadow: 0 0 0 2px rgba(201, 169, 110, 0.2);
+        }
+
+        /* ——— 閃卡 ——— */
         .flashcard-scene {
-            perspective: 1200px; 
+            perspective: 1200px;
             width: 100%;
-            height: 300px; 
+            max-width: 520px;
+            height: 320px;
         }
+
         .flashcard {
             width: 100%;
             height: 100%;
             position: relative;
             transform-style: preserve-3d;
-            transition: transform 0.7s cubic-bezier(0.25, 0.46, 0.45, 0.94); 
+            transition: transform 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
             cursor: pointer;
-            border-radius: 0.75rem; 
-            box-shadow: 0 12px 30px rgba(0, 0, 0, 0.35); 
+            border-radius: 16px;
+            box-shadow: var(--shadow-card);
         }
         .flashcard.is-flipped {
             transform: rotateY(180deg);
         }
+
         .flashcard-face {
             position: absolute;
             width: 100%;
             height: 100%;
             backface-visibility: hidden;
-            -webkit-backface-visibility: hidden; 
-            border-radius: 0.75rem;
+            -webkit-backface-visibility: hidden;
+            border-radius: 16px;
             display: flex;
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            padding: 1.5rem 2rem; 
+            padding: 1.75rem 2rem;
             text-align: center;
-            border: 1px solid #334155; 
+            border: 1px solid var(--border-card);
         }
+
         .flashcard-front {
-            background-color: #1E293B; 
+            background: var(--bg-card);
         }
-        .flashcard-front.unfamiliar { 
-            background-color: #334155; 
-            border: 2px solid #F59E0B; 
+        .flashcard-front.unfamiliar {
+            border-color: var(--accent-gold);
+            box-shadow: 0 0 0 1px rgba(201, 169, 110, 0.15), var(--shadow-card);
         }
+
         .flashcard-back {
-            background-color: #293548; 
+            background: #1e1e2e;
             transform: rotateY(180deg);
-            justify-content: space-around; 
+            justify-content: space-around;
         }
-        .korean-word-large {
+
+        .korean-word {
             font-family: 'Noto Sans KR', sans-serif;
-            font-size: 3.25rem; 
-            font-weight: 700;
-            color: #67E8F9; 
-            margin-bottom: 0.25rem; 
+            font-size: 3rem;
+            font-weight: 600;
+            color: #d4c5a0;
             line-height: 1.2;
-        }
-        .pos-tag { 
-            font-family: 'Roboto', sans-serif;
-            font-size: 0.75rem; 
-            color: #94A3B8; 
-            background-color: #334155; 
-            padding: 0.2rem 0.5rem;
-            border-radius: 1rem; 
-            font-weight: 500;
-            margin-top: 0.75rem; 
-            margin-bottom: 0.75rem;
-        }
-        .chinese-meaning-flashcard { 
-            font-size: 1.35rem; 
-            color: #A5B4FC; 
-            font-weight: 500;
-            margin-bottom: 0.5rem; 
-        }
-        .example-flashcard {
-            font-size: 0.9rem; 
-            color: #CBD5E1; 
-            line-height: 1.65;
-            width: 90%; 
-            margin-top: 0.5rem; 
-        }
-        .example-flashcard .highlight-word { 
-            color: #67E8F9; 
-            font-weight: bold;
-        }
-        .example-flashcard p:first-child {
-            margin-bottom: 0.25rem; 
+            letter-spacing: -0.01em;
         }
 
-        .controls {
-            display: flex;
-            justify-content: space-between; 
-            align-items: center;
-            gap: 0.5rem; 
-            margin-top: 1.5rem;
-            width: 100%;
-            max-width: 480px; 
+        .pos-tag {
+            font-size: 0.65rem;
+            font-weight: 400;
+            color: var(--text-muted);
+            background: rgba(255, 255, 255, 0.04);
+            padding: 0.2rem 0.7rem;
+            border-radius: 100px;
+            border: 1px solid var(--border-card);
+            margin-top: 0.5rem;
         }
-        .control-btn {
-            background-color: #3B82F6; 
-            color: white;
-            padding: 0.75rem 0; 
-            flex-grow: 1; 
-            max-width: 140px; 
-            border-radius: 0.5rem; 
+
+        .chinese-meaning {
+            font-size: 1.3rem;
+            font-weight: 400;
+            color: #b8aec8;
+        }
+
+        .example-text {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            line-height: 1.7;
+            max-width: 90%;
+            margin-top: 0.5rem;
+        }
+        .example-text .highlight {
+            color: var(--accent-gold);
             font-weight: 500;
-            transition: background-color 0.2s ease, box-shadow 0.2s ease;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.2);
-            font-size: 0.875rem; 
+        }
+
+        /* ——— 按鈕 ——— */
+        .btn-ctrl {
+            background: var(--bg-card);
+            border: 1px solid var(--border-card);
+            color: var(--text-secondary);
+            padding: 0.6rem 0;
+            border-radius: 8px;
+            font-size: 0.8rem;
+            font-weight: 500;
+            transition: all 0.2s ease;
+            cursor: pointer;
+            flex: 1;
+            max-width: 120px;
             text-align: center;
         }
-        .control-btn:hover {
-            background-color: #2563EB; 
+        .btn-ctrl:hover:not(:disabled) {
+            background: rgba(255, 255, 255, 0.04);
+            color: var(--text-primary);
+            border-color: rgba(255, 255, 255, 0.1);
         }
-        .control-btn:disabled {
-            background-color: #475569; 
+        .btn-ctrl:disabled {
+            opacity: 0.3;
             cursor: not-allowed;
-            opacity: 0.7;
         }
-        .control-btn.mark-btn.marked { 
-            background-color: #F59E0B; 
-            box-shadow: 0 4px 10px rgba(245, 158, 11, 0.3);
+
+        .btn-mark {
+            background: transparent;
+            border: 1px solid var(--border-card);
+            color: var(--text-secondary);
+            padding: 0.6rem 0;
+            border-radius: 8px;
+            font-size: 0.8rem;
+            font-weight: 500;
+            transition: all 0.2s ease;
+            cursor: pointer;
+            flex: 1;
+            max-width: 120px;
+            text-align: center;
         }
-        .control-btn.mark-btn.marked:hover {
-            background-color: #D97706; 
+        .btn-mark:hover:not(:disabled) {
+            background: rgba(255, 255, 255, 0.04);
+            color: var(--text-primary);
         }
+        .btn-mark.marked {
+            color: var(--accent-gold);
+            border-color: rgba(201, 169, 110, 0.25);
+            background: rgba(201, 169, 110, 0.06);
+        }
+        .btn-mark.marked:hover:not(:disabled) {
+            background: rgba(201, 169, 110, 0.1);
+        }
+        .btn-mark:disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+        }
+
+        /* ——— 進度文字 ——— */
         .progress-text {
-            color: #94A3B8; 
-            margin-top: 1rem;
-            text-align: center;
+            color: var(--text-muted);
+            font-size: 0.75rem;
+            font-weight: 400;
+            margin-top: 0.75rem;
+            letter-spacing: 0.02em;
         }
 
-        ::-webkit-scrollbar { width: 8px; height: 8px; }
-        ::-webkit-scrollbar-track { background: #1E293B; }
-        ::-webkit-scrollbar-thumb { background: #475569; border-radius: 4px; }
-        ::-webkit-scrollbar-thumb:hover { background: #64748B; }
+        /* ——— 標籤 ——— */
+        .label-text {
+            font-size: 0.7rem;
+            font-weight: 500;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+            color: var(--text-muted);
+        }
 
-        /* === UNIFIED SITE HEADER & NAV STYLES (from grammar page) === */
-        .site-header { transition: background-color 0.3s ease-in-out; }
-        .site-title { font-size: 1.5rem; font-weight: 700; color: #F1F5F9; letter-spacing: 0.5px; }
-        .nav-link { 
-            color: #CBD5E1; 
-            font-weight: 500; 
-            padding: 0.5rem 1rem; 
-            border-radius: 0.375rem; 
-            transition: color 0.2s, background-color 0.2s; 
-            position: relative;
+        /* ——— 滾動條 ——— */
+        ::-webkit-scrollbar {
+            width: 5px;
+            height: 5px;
         }
-        .nav-link:hover { color: #FFFFFF; background-color: #334155; }
-        .nav-link.active { color: #FFFFFF; font-weight: 700; background-color: #4F46E5; }
-        .mobile-nav-link {
-            padding-top: 0.75rem;
-            padding-bottom: 0.75rem;
-            font-size: 1.125rem;
-            text-align: center;
-            display: block;
-            color: #CBD5E1;
-            border-radius: 0.375rem;
+        ::-webkit-scrollbar-track {
+            background: var(--bg-primary);
         }
-        .mobile-nav-link:hover { color: #FFFFFF; background-color: #334155; }
-        .mobile-nav-link.active { color: #FFFFFF; font-weight: 600; background-color: #4F46E5; }
-        /* === END OF UNIFIED STYLES === */
+        ::-webkit-scrollbar-thumb {
+            background: #2a2a3a;
+            border-radius: 4px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #3d3d4a;
+        }
+
+        /* ——— 響應式 ——— */
+        @media (max-width: 640px) {
+            .flashcard-scene {
+                height: 280px;
+            }
+            .korean-word {
+                font-size: 2.4rem;
+            }
+            .chinese-meaning {
+                font-size: 1.1rem;
+            }
+            .controls-panel {
+                padding: 1rem 1.25rem;
+            }
+            .btn-ctrl,
+            .btn-mark {
+                font-size: 0.7rem;
+                max-width: 90px;
+                padding: 0.5rem 0;
+            }
+        }
     </style>
 </head>
-<body class="antialiased">
-    <!-- === UPDATED HEADER SECTION === -->
-    <header class="site-header bg-slate-900/70 backdrop-blur-md text-white shadow-lg sticky top-0 z-50">
-        <nav class="container mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="flex items-center justify-between h-16">
-                <div class="flex items-center">
-                    <a href="../index.html" class="site-title">LMT Korean Learning Zone</a>
+<body>
+
+    <!-- ===== NAVIGATION ===== -->
+    <header class="nav-bar">
+        <nav class="max-w-6xl mx-auto px-6 lg:px-8">
+            <div class="flex items-center justify-between h-14">
+                <a href="../index.html" class="flex items-center gap-2 text-white font-medium text-sm tracking-tight">
+                    <span class="text-[#c9a96e]">◆</span>
+                    <span>LMT</span>
+                    <span class="text-[#6b6660] font-light text-xs hidden sm:inline">· korean</span>
+                </a>
+
+                <div class="hidden md:flex items-center gap-0.5">
+                    <a href="../index.html" class="nav-link">Home</a>
+                    <a href="../grammar/index.html" class="nav-link">Grammar</a>
+                    <a href="./index.html" class="nav-link active">Vocabulary</a>
+                    <a href="../songs/index.html" class="nav-link">Lyrics</a>
                 </div>
-                <div class="hidden md:flex space-x-4">
-                    <a href="../index.html" class="nav-link">首頁</a>
-                    <a href="../grammar/index.html" class="nav-link">文法教學</a>
-                    <a href="./index.html" class="nav-link active">單字學習</a>
-                    <a href="../songs/index.html" class="nav-link">歌詞教學</a>
-                </div>
-                <div class="md:hidden">
-                    <button id="mobile-menu-button" aria-label="開啟選單" class="text-gray-300 hover:text-white focus:outline-none focus:text-white p-2 rounded-md">
-                        <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
-                        </svg>
-                    </button>
-                </div>
+
+                <button id="menu-toggle" aria-label="Menu" class="md:hidden text-[#a09a94] hover:text-[#e4dfd8] p-1.5 transition">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 6h16M4 12h16m-7 6h7" />
+                    </svg>
+                </button>
             </div>
+
             <div id="mobile-menu" class="md:hidden hidden pb-3 space-y-1">
-                <a href="../index.html" class="mobile-nav-link">首頁</a>
-                <a href="../grammar/index.html" class="mobile-nav-link">文法教學</a>
-                <a href="./index.html" class="mobile-nav-link active">單字學習</a>
-                <a href="../songs/index.html" class="mobile-nav-link">歌詞教學</a>
+                <a href="../index.html" class="mobile-nav-link">Home</a>
+                <a href="../grammar/index.html" class="mobile-nav-link">Grammar</a>
+                <a href="./index.html" class="mobile-nav-link active">Vocabulary</a>
+                <a href="../songs/index.html" class="mobile-nav-link">Lyrics</a>
             </div>
         </nav>
     </header>
-    <!-- === END OF UPDATED HEADER SECTION === -->
 
-    <!-- === NEW: BACK TO VOCABULARY LIST BUTTON === -->
-    <a href="./index.html" title="返回單字列表" class="fixed top-20 left-4 md:top-24 md:left-8 z-40 text-slate-400 hover:text-white transition-colors duration-200">
-        <svg xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+    <!-- ===== BACK BUTTON ===== -->
+    <a href="./index.html" class="back-btn fixed top-20 left-4 md:top-24 md:left-8 z-40 p-1.5 transition" title="Back to vocabulary list">
+        <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5">
             <path stroke-linecap="round" stroke-linejoin="round" d="M11 15l-3-3m0 0l3-3m-3 3h8M3 12a9 9 0 1118 0 9 9 0 01-18 0z" />
         </svg>
     </a>
 
-    <main class="container mx-auto px-4 sm:px-6 lg:px-8 py-8 pt-12 md:pt-24">
-        <h1 class="text-3xl md:text-4xl font-bold text-center mb-6 text-slate-100">韓語單字閃卡</h1>
-        
-        <div class="selection-controls-container">
-            <div class="category-select-group">
-                <label for="category-select" class="category-select-label">選擇分類：</label>
-                <select id="category-select" class="text-sm">
-                    <option value="all">— 全部單字 —</option>
-                </select>
-            </div>
-            <div class="unfamiliar-toggle-group mt-3">
-                <input type="checkbox" id="unfamiliar-toggle" class="border-slate-600 bg-slate-700 focus:ring-offset-slate-800">
-                <label for="unfamiliar-toggle" class="unfamiliar-toggle-label">只看不熟的單字</label>
-            </div>
+    <!-- ===== MAIN ===== -->
+    <main class="max-w-6xl mx-auto px-6 lg:px-8 pt-20 pb-10 w-full">
+        <!-- header -->
+        <div class="text-center mb-8">
+            <span class="text-[0.6rem] font-medium tracking-[0.15em] uppercase text-[#6b6660]">Practice</span>
+            <div class="w-10 h-[2px] bg-[#c9a96e] opacity-40 mx-auto mt-1.5 mb-2 rounded"></div>
+            <h1 class="text-2xl sm:text-3xl font-light text-[#e4dfd8] tracking-tight">Flashcards</h1>
+            <p class="text-[#6b6660] text-sm font-light mt-0.5">Tap to flip · mark unfamiliar words</p>
         </div>
 
-        <div class="flashcard-container">
-            <div class="flashcard-scene" id="flashcard-scene">
-                <div class="flashcard" id="flashcard">
-                    <div class="flashcard-face flashcard-front" id="flashcard-front">
-                        <p class="text-gray-400">載入單字中...</p>
-                    </div>
-                    <div class="flashcard-face flashcard-back" id="flashcard-back">
-                    </div>
+        <!-- controls -->
+        <div class="controls-panel mb-6">
+            <div class="flex flex-col sm:flex-row sm:items-center gap-4">
+                <div class="flex-1">
+                    <label for="category-select" class="label-text block mb-1">Category</label>
+                    <select id="category-select" class="select-custom">
+                        <option value="all">— All words —</option>
+                    </select>
+                </div>
+                <div class="flex items-center gap-3 pt-1 sm:pt-0">
+                    <input type="checkbox" id="unfamiliar-toggle" class="checkbox-custom" />
+                    <label for="unfamiliar-toggle" class="text-[0.75rem] font-medium text-[#6b6660] cursor-pointer select-none">
+                        Unfamiliar only
+                    </label>
                 </div>
             </div>
         </div>
 
-        <div class="controls">
-            <button id="prev-card-btn" class="control-btn">上一張</button>
-            <button id="mark-unfamiliar-btn" class="control-btn mark-btn">標記不熟</button>
-            <button id="next-card-btn" class="control-btn">下一張</button>
+        <!-- flashcard -->
+        <div class="flashcard-scene" id="flashcard-scene">
+            <div class="flashcard" id="flashcard">
+                <div class="flashcard-face flashcard-front" id="flashcard-front">
+                    <p class="text-[#6b6660] text-sm">Loading...</p>
+                </div>
+                <div class="flashcard-face flashcard-back" id="flashcard-back"></div>
+            </div>
         </div>
-        <p class="progress-text" id="progress-text"></p>
 
+        <!-- controls -->
+        <div class="flex items-center justify-center gap-3 mt-5 w-full max-w-[520px]">
+            <button id="prev-btn" class="btn-ctrl">Previous</button>
+            <button id="mark-btn" class="btn-mark">Mark</button>
+            <button id="next-btn" class="btn-ctrl">Next</button>
+        </div>
+        <p class="progress-text" id="progress-text">0 / 0</p>
     </main>
 
-    <footer class="bg-slate-900 text-gray-400 text-center py-8 border-t border-slate-700">
-        <p>&copy; <span id="current-year"></span> Created by LMT. All rights reserved.</p>
+    <!-- ===== FOOTER ===== -->
+    <footer class="border-t border-[#1a1a24] bg-[#0b0b10] py-7 mt-4">
+        <div class="max-w-6xl mx-auto px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-3">
+            <p class="text-[#6b6660] text-[0.65rem] font-light tracking-wide">
+                &copy; <span id="year"></span> LMT · Korean Learning
+            </p>
+            <div class="flex items-center gap-5 text-[0.65rem] text-[#6b6660]">
+                <a href="#" class="hover:text-[#a09a94] transition">GitHub</a>
+                <a href="#" class="hover:text-[#a09a94] transition">Figma</a>
+                <a href="#" class="hover:text-[#a09a94] transition">About</a>
+            </div>
+        </div>
     </footer>
 
     <script>
-        var vocabularyDataGlobal = []; 
-
-        var flashcards = []; 
-        var allPreparedCards = []; 
-        var currentCardIndex = 0;
+        // ——— 核心邏輯 (功能完全保留，僅樣式統一) ———
+        var vocabularyData = [];
+        var allCards = [];
+        var currentDeck = [];
+        var currentIndex = 0;
         var isFlipped = false;
-        var currentSelectedCategoryId = "all"; 
-        var isUnfamiliarModeActive = false;      
+        var selectedCategory = "all";
+        var unfamiliarOnly = false;
 
         var flashcardEl = document.getElementById('flashcard');
-        var flashcardFrontEl = document.getElementById('flashcard-front');
-        var flashcardBackEl = document.getElementById('flashcard-back');
-        var prevBtn = document.getElementById('prev-card-btn');
-        var markBtn = document.getElementById('mark-unfamiliar-btn');
-        var nextBtn = document.getElementById('next-card-btn');
-        var progressTextEl = document.getElementById('progress-text');
-        var categorySelectEl = document.getElementById('category-select');
-        var unfamiliarToggleEl = document.getElementById('unfamiliar-toggle');
+        var frontEl = document.getElementById('flashcard-front');
+        var backEl = document.getElementById('flashcard-back');
+        var prevBtn = document.getElementById('prev-btn');
+        var markBtn = document.getElementById('mark-btn');
+        var nextBtn = document.getElementById('next-btn');
+        var progressEl = document.getElementById('progress-text');
+        var categorySelect = document.getElementById('category-select');
+        var unfamiliarToggle = document.getElementById('unfamiliar-toggle');
 
-        function sanitizeHTML(str) {
+        function sanitize(str) {
             if (typeof str !== 'string') return '';
-            var temp = document.createElement('div');
-            temp.textContent = str;
-            return temp.innerHTML;
+            var d = document.createElement('div');
+            d.textContent = str;
+            return d.innerHTML;
         }
-        
-        function highlightWordInExample(example, word) {
-            if (!word || !example) return sanitizeHTML(example);
-            var escapedWord = word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-            var keywordRegex = new RegExp('(\\b' + escapedWord + '\\b)', 'g');
-            if (!keywordRegex.test(example)) { 
-                keywordRegex = new RegExp('(' + escapedWord + ')', 'g');
-            }
-            return example.replace(keywordRegex, function(match) {
-                return `<span class='highlight-word'>${sanitizeHTML(match)}</span>`;
-            });
+
+        function highlightExample(example, word) {
+            if (!word || !example) return sanitize(example);
+            var clean = example.replace(/<[^>]*>/g, '');
+            var escaped = word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+            return clean.replace(new RegExp('(' + escaped + ')', 'g'), '<span class="highlight">$1</span>');
         }
-        
-        function loadMarkingsAndPrepareAllCards() {
-            var storedMarkings = localStorage.getItem('koreanFlashcardMarkings_LMT_v3'); 
-            var loadedMarkings = storedMarkings ? JSON.parse(storedMarkings) : {};
-            
-            allPreparedCards = []; 
-            vocabularyDataGlobal.forEach(function(category) { 
-                if (category.type === "detailed" && category.items) {
-                     category.items.forEach(function(item) {
-                         if (item.korean && item.chinese && item.exampleKo && item.exampleZh) { 
-                             var cardItem = {
-                                 korean: item.korean,
-                                 chinese: item.chinese,
-                                 pos: item.pos || "", 
-                                 exampleKo: item.exampleKo,
-                                 exampleZh: item.exampleZh,
-                                 isMarkedUnfamiliar: !!loadedMarkings[item.korean],
-                                 categoryId: category.id 
-                             };
-                             allPreparedCards.push(cardItem);
-                         }
+
+        function loadMarkings() {
+            var stored = localStorage.getItem('lmt_flashcard_marks');
+            return stored ? JSON.parse(stored) : {};
+        }
+
+        function saveMarkings(marks) {
+            localStorage.setItem('lmt_flashcard_marks', JSON.stringify(marks));
+        }
+
+        function prepareAllCards(data) {
+            var marks = loadMarkings();
+            allCards = [];
+            data.forEach(function(cat) {
+                if (cat.type === 'detailed' && cat.items) {
+                    cat.items.forEach(function(item) {
+                        if (item.korean && item.chinese) {
+                            allCards.push({
+                                korean: item.korean,
+                                chinese: item.chinese,
+                                pos: item.pos || '',
+                                exampleKo: item.exampleKo || '',
+                                exampleZh: item.exampleZh || '',
+                                categoryId: cat.id,
+                                marked: !!marks[item.korean]
+                            });
+                        }
                     });
                 }
             });
         }
 
-        function saveMarkings() {
-            var markingsToSave = {};
-            allPreparedCards.forEach(function(card) {
-                markingsToSave[card.korean] = card.isMarkedUnfamiliar;
-            });
-            localStorage.setItem('koreanFlashcardMarkings_LMT_v3', JSON.stringify(markingsToSave));
-        }
-
-        function filterAndShuffleCards() {
-            var sourcePool = [];
-
-            if (isUnfamiliarModeActive) {
-                sourcePool = allPreparedCards.filter(function(card) { return card.isMarkedUnfamiliar; });
-            } else {
-                if (currentSelectedCategoryId === "all") {
-                    sourcePool = allPreparedCards.slice(); 
-                } else {
-                    sourcePool = allPreparedCards.filter(function(card) {
-                        return card.categoryId === currentSelectedCategoryId;
-                    });
-                }
+        function buildDeck() {
+            var pool = allCards.slice();
+            if (unfamiliarOnly) {
+                pool = pool.filter(function(c) { return c.marked; });
+            } else if (selectedCategory !== 'all') {
+                pool = pool.filter(function(c) { return c.categoryId === selectedCategory; });
             }
-
-            flashcards = sourcePool; 
-
-            if (flashcards.length > 0) {
-                for (var i = flashcards.length - 1; i > 0; i--) {
-                    var j = Math.floor(Math.random() * (i + 1));
-                    var temp = flashcards[i];
-                    flashcards[i] = flashcards[j];
-                    flashcards[j] = temp;
-                }
+            // shuffle
+            for (var i = pool.length - 1; i > 0; i--) {
+                var j = Math.floor(Math.random() * (i + 1));
+                var tmp = pool[i];
+                pool[i] = pool[j];
+                pool[j] = tmp;
             }
-            currentCardIndex = 0;
+            currentDeck = pool;
+            currentIndex = 0;
             isFlipped = false;
             if (flashcardEl) flashcardEl.classList.remove('is-flipped');
-            displayCard(); 
+            renderCard();
         }
 
-        function displayCard() {
-            if (!flashcardFrontEl || !flashcardBackEl || !markBtn) return; 
+        function renderCard() {
+            if (!frontEl || !backEl || !markBtn) return;
 
-            if (flashcards.length === 0) {
-                var message = "沒有符合條件的單字。";
-                if (isUnfamiliarModeActive) {
-                    message = "太棒了！目前沒有標記為不熟的單字。";
-                } else if (currentSelectedCategoryId !== "all") {
-                    message = "此分類下沒有單字，或請檢查 JSON 資料。";
-                } else {
-                     message = "沒有單字可供學習，請檢查 JSON 資料。";
-                }
-                flashcardFrontEl.innerHTML = `<p class="text-xl text-gray-400">${message}</p>`;
-                flashcardBackEl.innerHTML = '';
-                markBtn.textContent = '標記不熟';
+            if (currentDeck.length === 0) {
+                var msg = 'No words match.';
+                if (unfamiliarOnly) msg = 'No unfamiliar words — great job!';
+                frontEl.innerHTML = '<p class="text-[#6b6660] text-sm">' + msg + '</p>';
+                backEl.innerHTML = '';
+                markBtn.textContent = 'Mark';
                 markBtn.classList.remove('marked');
-                flashcardFrontEl.classList.remove('unfamiliar');
-            } else {
-                var cardData = flashcards[currentCardIndex];
-                flashcardFrontEl.innerHTML = `<div class="korean-word-large" lang="ko">${sanitizeHTML(cardData.korean)}</div>`;
-                
-                var exampleKoHighlighted = highlightWordInExample(cardData.exampleKo, cardData.korean);
-                var posTagHTML = cardData.pos ? `<div class="pos-tag">${sanitizeHTML(cardData.pos)}</div>` : '';
-
-                flashcardBackEl.innerHTML = `
-                    <p class="chinese-meaning-flashcard">${sanitizeHTML(cardData.chinese)}</p>
-                    ${posTagHTML}
-                    <div class="example-flashcard mt-1"> 
-                        <p lang="ko">${exampleKoHighlighted}</p>
-                        <p>(${sanitizeHTML(cardData.exampleZh)})</p>
-                    </div>
-                `;
-                
-                if (cardData.isMarkedUnfamiliar) {
-                    markBtn.textContent = '取消標記';
-                    markBtn.classList.add('marked');
-                    flashcardFrontEl.classList.add('unfamiliar');
-                } else {
-                    markBtn.textContent = '標記不熟';
-                    markBtn.classList.remove('marked');
-                    flashcardFrontEl.classList.remove('unfamiliar');
-                }
+                frontEl.classList.remove('unfamiliar');
+                updateProgress();
+                updateButtons();
+                return;
             }
+
+            var card = currentDeck[currentIndex];
+            var exampleHighlight = highlightExample(card.exampleKo, card.korean);
+            var posHtml = card.pos ? '<span class="pos-tag">' + sanitize(card.pos) + '</span>' : '';
+
+            frontEl.innerHTML = '<div class="korean-word" lang="ko">' + sanitize(card.korean) + '</div>';
+            frontEl.classList.toggle('unfamiliar', card.marked);
+
+            backEl.innerHTML = `
+                <div class="chinese-meaning">${sanitize(card.chinese)}</div>
+                ${posHtml}
+                <div class="example-text">
+                    <p lang="ko">${exampleHighlight}</p>
+                    <p class="text-[#6b6660] text-[0.7rem] mt-0.5">${sanitize(card.exampleZh)}</p>
+                </div>
+            `;
+
+            if (card.marked) {
+                markBtn.textContent = 'Unmark';
+                markBtn.classList.add('marked');
+            } else {
+                markBtn.textContent = 'Mark';
+                markBtn.classList.remove('marked');
+            }
+
             updateProgress();
-            updateNavButtons();
+            updateButtons();
         }
 
-        function flipCardOnClick() { 
-            if (flashcards.length === 0) return;
+        function updateProgress() {
+            if (currentDeck.length > 0) {
+                progressEl.textContent = (currentIndex + 1) + ' / ' + currentDeck.length;
+            } else {
+                progressEl.textContent = '0 / 0';
+            }
+        }
+
+        function updateButtons() {
+            var len = currentDeck.length;
+            prevBtn.disabled = len === 0 || currentIndex === 0;
+            nextBtn.disabled = len === 0 || currentIndex === len - 1;
+            markBtn.disabled = len === 0;
+        }
+
+        function flipCard() {
+            if (currentDeck.length === 0) return;
             isFlipped = !isFlipped;
             flashcardEl.classList.toggle('is-flipped', isFlipped);
         }
 
-        function toggleMarkUnfamiliar() {
-            if (flashcards.length === 0) return;
-            var currentDisplayedCardData = flashcards[currentCardIndex];
-            
-            var masterCardToUpdate = allPreparedCards.find(function(card) {
-                return card.korean === currentDisplayedCardData.korean;
-            });
+        function toggleMark() {
+            if (currentDeck.length === 0) return;
+            var card = currentDeck[currentIndex];
+            card.marked = !card.marked;
 
-            if (masterCardToUpdate) {
-                masterCardToUpdate.isMarkedUnfamiliar = !masterCardToUpdate.isMarkedUnfamiliar;
-                if (currentDisplayedCardData !== masterCardToUpdate) { 
-                    currentDisplayedCardData.isMarkedUnfamiliar = masterCardToUpdate.isMarkedUnfamiliar;
-                }
-            }
-            saveMarkings();
-            displayCard(); 
+            // 同步到 allCards
+            var master = allCards.find(function(c) { return c.korean === card.korean; });
+            if (master) master.marked = card.marked;
+
+            // 保存
+            var marks = {};
+            allCards.forEach(function(c) { marks[c.korean] = c.marked; });
+            saveMarkings(marks);
+
+            renderCard();
         }
 
         function nextCard() {
-            if (currentCardIndex < flashcards.length - 1) {
-                currentCardIndex++;
-                isFlipped = false; 
+            if (currentIndex < currentDeck.length - 1) {
+                currentIndex++;
+                isFlipped = false;
                 flashcardEl.classList.remove('is-flipped');
-                displayCard();
+                renderCard();
             }
         }
 
         function prevCard() {
-            if (currentCardIndex > 0) {
-                currentCardIndex--;
-                isFlipped = false; 
+            if (currentIndex > 0) {
+                currentIndex--;
+                isFlipped = false;
                 flashcardEl.classList.remove('is-flipped');
-                displayCard();
-            }
-        }
-        
-        function updateProgress() {
-            if (flashcards.length > 0) {
-                progressTextEl.textContent = (currentCardIndex + 1) + ' / ' + flashcards.length;
-            } else {
-                 progressTextEl.textContent = isUnfamiliarModeActive ? "0 / 0 (無不熟單字)" : "0 / 0";
+                renderCard();
             }
         }
 
-        function updateNavButtons() {
-            prevBtn.disabled = currentCardIndex === 0 || flashcards.length === 0;
-            nextBtn.disabled = currentCardIndex === flashcards.length - 1 || flashcards.length === 0;
-            markBtn.disabled = flashcards.length === 0;
-        }
-        
-        function populateCategorySelector(dataForSelector) { 
-            if (!categorySelectEl || !dataForSelector) return;
-            
-            while (categorySelectEl.options.length > 1) {
-                categorySelectEl.remove(1);
-            }
-            
-            var uniqueCategories = {};
-            dataForSelector.forEach(function(cat) {
-                if (cat.type === "detailed" && cat.id && cat.category) { 
-                    uniqueCategories[cat.id] = cat.category;
+        function populateCategories(data) {
+            var seen = {};
+            var opts = '<option value="all">— All words —</option>';
+            data.forEach(function(cat) {
+                if (cat.type === 'detailed' && cat.id && cat.category && !seen[cat.id]) {
+                    seen[cat.id] = true;
+                    opts += '<option value="' + cat.id + '">' + sanitize(cat.category) + '</option>';
                 }
             });
-
-            for (var categoryId in uniqueCategories) {
-                if (uniqueCategories.hasOwnProperty(categoryId)) {
-                    var option = document.createElement('option');
-                    option.value = categoryId;
-                    option.textContent = uniqueCategories[categoryId];
-                    categorySelectEl.appendChild(option);
-                }
-            }
+            categorySelect.innerHTML = opts;
         }
 
-        function initializeAppWithData(data) {
-            vocabularyDataGlobal = data; 
-            populateCategorySelector(vocabularyDataGlobal); 
-            loadMarkingsAndPrepareAllCards(); 
-            filterAndShuffleCards(); 
+        function init(data) {
+            vocabularyData = data;
+            populateCategories(data);
+            prepareAllCards(data);
+            buildDeck();
         }
 
+        // ——— 事件綁定 ———
         document.addEventListener('DOMContentLoaded', function() {
-            var jsonFileUrl = new URL('../data/vocabulary.json', window.location.href).href;
+            // 年份
+            document.getElementById('year').textContent = new Date().getFullYear();
 
-            fetch(jsonFileUrl) 
-                .then(function(response) {
-                    if (!response.ok) {
-                        throw new Error('HTTP error ' + response.status + ' while fetching ' + jsonFileUrl);
-                    }
-                    return response.json();
+            // 行動選單
+            var toggle = document.getElementById('menu-toggle');
+            var menu = document.getElementById('mobile-menu');
+            if (toggle && menu) {
+                toggle.addEventListener('click', function() {
+                    menu.classList.toggle('hidden');
+                });
+            }
+
+            // 載入資料
+            var url = new URL('../data/vocabulary.json', window.location.href).href;
+            fetch(url)
+                .then(function(res) {
+                    if (!res.ok) throw new Error('HTTP ' + res.status);
+                    return res.json();
                 })
-                .then(function(loadedData) {
-                    initializeAppWithData(loadedData); 
+                .then(function(data) {
+                    init(data);
                 })
-                .catch(function(error) {
-                    console.error('無法載入單字資料:', error);
-                    if(flashcardFrontEl) flashcardFrontEl.innerHTML = '<p class="text-xl text-red-400 text-center">單字資料載入失敗，請檢查路徑或檔案。</p>';
-                    if(prevBtn) updateNavButtons(); 
-                    if(progressTextEl) updateProgress();
+                .catch(function(err) {
+                    console.error(err);
+                    frontEl.innerHTML = '<p class="text-red-400/70 text-sm">Failed to load vocabulary.</p>';
                 });
 
-            if(flashcardEl) flashcardEl.addEventListener('click', flipCardOnClick);
-            if(markBtn) markBtn.addEventListener('click', toggleMarkUnfamiliar);
-            if(nextBtn) nextBtn.addEventListener('click', nextCard);
-            if(prevBtn) prevBtn.addEventListener('click', prevCard);
+            // 事件
+            if (flashcardEl) flashcardEl.addEventListener('click', flipCard);
+            if (prevBtn) prevBtn.addEventListener('click', prevCard);
+            if (nextBtn) nextBtn.addEventListener('click', nextCard);
+            if (markBtn) markBtn.addEventListener('click', toggleMark);
 
-            if (categorySelectEl) {
-                categorySelectEl.addEventListener('change', function(event) {
-                    currentSelectedCategoryId = event.target.value;
-                    filterAndShuffleCards();
+            if (categorySelect) {
+                categorySelect.addEventListener('change', function() {
+                    selectedCategory = this.value;
+                    buildDeck();
                 });
             }
 
-            if (unfamiliarToggleEl) {
-                unfamiliarToggleEl.addEventListener('change', function(event) {
-                    isUnfamiliarModeActive = event.target.checked;
-                    if (categorySelectEl) {
-                        categorySelectEl.disabled = isUnfamiliarModeActive;
-                        if (isUnfamiliarModeActive) {
-                            categorySelectEl.value = "all"; 
-                        }
-                    }
-                    filterAndShuffleCards();
-                });
-            }
-            
-            var yearSpan = document.getElementById('current-year');
-            if (yearSpan) {
-                yearSpan.textContent = new Date().getFullYear();
-            }
-
-            var menuButton = document.getElementById('mobile-menu-button');
-            var mobileMenu = document.getElementById('mobile-menu');
-            if(menuButton && mobileMenu) {
-                menuButton.addEventListener('click', function() {
-                    mobileMenu.classList.toggle('hidden');
+            if (unfamiliarToggle) {
+                unfamiliarToggle.addEventListener('change', function() {
+                    unfamiliarOnly = this.checked;
+                    if (categorySelect) categorySelect.disabled = unfamiliarOnly;
+                    buildDeck();
                 });
             }
         });

@@ -1,284 +1,595 @@
 <!DOCTYPE html>
-<html lang="zh-TW">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LMT-Korean-Learning-Zone - 首頁</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LMT · Korean Learning</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&family=Poppins:wght@700;900&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,500;14..32,600;14..32,700&family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet" />
     <style>
-        body {
-            font-family: 'Roboto', 'Noto Sans KR', sans-serif;
-            background-color: #121826; 
-            color: #E0E7FF; 
-        }
-        .hero-section {
-            background: linear-gradient(rgba(18, 24, 38, 0.92), rgba(18, 24, 38, 0.92)), url('https://placehold.co/1920x1080/1A202C/2D3748?text=優雅學習背景'); 
-            background-size: cover;
-            background-position: center;
-            min-height: 70vh;
-            display: flex;
-            align-items: center; 
-            justify-content: center; 
-            padding-top: 4rem;
-            padding-bottom: 4rem;
-        }
-        .hero-content {
-            max-width: 800px; 
-        }
-        .hero-subtitle {
-            font-family: 'Roboto', sans-serif;
-            font-weight: 400;
-            color: #CBD5E1; /* slate-300 */
-            text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.4);
-            letter-spacing: 0.05em; 
-            opacity: 0;
-        }
-        .hero-main-title {
-            font-family: 'Poppins', sans-serif;
-            font-weight: 700;
-            @apply bg-gradient-to-r from-sky-300 via-cyan-300 to-indigo-300 bg-clip-text text-transparent;
-            text-shadow: 0 0 40px rgba(125, 211, 252, 0.3);
-            letter-spacing: 0.01em; 
-            line-height: 1.2;
-            margin-top: 0.5rem; 
-            margin-bottom: 1.25rem; 
-            opacity: 0;
-        }
-        .hero-korean-tagline {
-            font-family: 'Noto Sans KR', sans-serif;
-            font-weight: 500;
-            color: #A5B4FC; /* indigo-300 */
-            text-shadow: 0px 1px 4px rgba(0, 0, 0, 0.3);
-            letter-spacing: 0.05em;
-            margin-top: 1.5rem;
-            opacity: 0;
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
         }
 
-        @keyframes fadeInUp {
+        body {
+            font-family: 'Inter', 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: #0b0b10;
+            color: #e4dfd8;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        /* ——— 自訂配色 ——— */
+        :root {
+            --bg-primary: #0b0b10;
+            --bg-secondary: #111118;
+            --bg-card: #181822;
+            --border-subtle: rgba(255, 255, 255, 0.04);
+            --border-card: rgba(255, 255, 255, 0.05);
+            --text-primary: #e4dfd8;
+            --text-secondary: #a09a94;
+            --text-muted: #6b6660;
+            --accent-gold: #c9a96e;
+            --accent-gold-dim: rgba(201, 169, 110, 0.12);
+            --accent-glow: rgba(201, 169, 110, 0.06);
+            --shadow-card: 0 8px 32px rgba(0, 0, 0, 0.45);
+        }
+
+        /* ——— 導航 ——— */
+        .nav-bar {
+            background: rgba(11, 11, 16, 0.75);
+            backdrop-filter: blur(18px) saturate(160%);
+            -webkit-backdrop-filter: blur(18px) saturate(160%);
+            border-bottom: 1px solid var(--border-subtle);
+            position: fixed;
+            top: 0;
+            width: 100%;
+            z-index: 50;
+        }
+
+        .nav-link {
+            color: var(--text-secondary);
+            font-weight: 450;
+            font-size: 0.8rem;
+            letter-spacing: 0.02em;
+            padding: 0.4rem 1rem;
+            border-radius: 6px;
+            transition: color 0.2s, background 0.2s;
+            text-decoration: none;
+        }
+        .nav-link:hover {
+            color: var(--text-primary);
+            background: rgba(255, 255, 255, 0.03);
+        }
+        .nav-link.active {
+            color: var(--text-primary);
+            background: rgba(201, 169, 110, 0.07);
+        }
+
+        .mobile-nav-link {
+            color: var(--text-secondary);
+            font-weight: 450;
+            font-size: 0.9rem;
+            padding: 0.6rem 1rem;
+            border-radius: 6px;
+            transition: color 0.2s, background 0.2s;
+            display: block;
+            text-align: center;
+            text-decoration: none;
+        }
+        .mobile-nav-link:hover {
+            color: var(--text-primary);
+            background: rgba(255, 255, 255, 0.03);
+        }
+        .mobile-nav-link.active {
+            color: var(--text-primary);
+            background: rgba(201, 169, 110, 0.07);
+        }
+
+        /* ——— 按鈕 ——— */
+        .btn-primary {
+            background: var(--accent-gold);
+            color: #0b0b10;
+            font-weight: 600;
+            font-size: 0.8rem;
+            letter-spacing: 0.01em;
+            padding: 0.7rem 1.8rem;
+            border-radius: 8px;
+            transition: all 0.25s ease;
+            border: none;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+        }
+        .btn-primary:hover {
+            background: #dbb87a;
+            transform: translateY(-1px);
+            box-shadow: 0 8px 28px rgba(201, 169, 110, 0.2);
+        }
+
+        .btn-secondary {
+            background: transparent;
+            border: 1px solid rgba(255, 255, 255, 0.06);
+            color: var(--text-secondary);
+            font-weight: 450;
+            font-size: 0.8rem;
+            padding: 0.7rem 1.8rem;
+            border-radius: 8px;
+            transition: all 0.25s ease;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+        }
+        .btn-secondary:hover {
+            border-color: rgba(255, 255, 255, 0.15);
+            color: var(--text-primary);
+            background: rgba(255, 255, 255, 0.02);
+        }
+
+        /* ——— 卡片 ——— */
+        .card-module {
+            background: var(--bg-card);
+            border: 1px solid var(--border-card);
+            border-radius: 16px;
+            padding: 2rem 1.75rem;
+            transition: transform 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94),
+                box-shadow 0.4s ease,
+                border-color 0.3s ease;
+            box-shadow: var(--shadow-card);
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+        }
+        .card-module:hover {
+            transform: translateY(-5px);
+            border-color: rgba(201, 169, 110, 0.12);
+            box-shadow: 0 16px 48px rgba(0, 0, 0, 0.55);
+        }
+
+        .card-module .icon-wrap {
+            width: 52px;
+            height: 52px;
+            border-radius: 12px;
+            background: rgba(201, 169, 110, 0.06);
+            border: 1px solid rgba(201, 169, 110, 0.06);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 1.25rem;
+            flex-shrink: 0;
+        }
+        .card-module .icon-wrap svg {
+            width: 26px;
+            height: 26px;
+            color: var(--accent-gold);
+            opacity: 0.8;
+        }
+
+        .card-module h3 {
+            font-weight: 600;
+            font-size: 1.05rem;
+            color: var(--text-primary);
+            letter-spacing: -0.01em;
+            margin-bottom: 0.4rem;
+        }
+        .card-module p {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            line-height: 1.6;
+            font-weight: 350;
+            flex-grow: 1;
+        }
+        .card-module .card-link {
+            margin-top: 1.25rem;
+            font-size: 0.8rem;
+            font-weight: 500;
+            color: var(--accent-gold);
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.3rem;
+            transition: gap 0.2s ease;
+            letter-spacing: 0.01em;
+        }
+        .card-module .card-link:hover {
+            gap: 0.6rem;
+        }
+
+        /* ——— 結構區塊 ——— */
+        .structure-panel {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-subtle);
+            border-radius: 16px;
+            padding: 1.75rem 2rem;
+            overflow-x: auto;
+        }
+        .structure-panel pre {
+            font-family: 'Inter', 'SF Mono', monospace;
+            font-size: 0.78rem;
+            line-height: 1.9;
+            color: var(--text-secondary);
+            white-space: pre-wrap;
+            word-break: break-all;
+        }
+        .structure-panel .folder {
+            color: var(--text-muted);
+        }
+        .structure-panel .file {
+            color: #7a7570;
+        }
+        .structure-panel .highlight {
+            color: var(--accent-gold);
+        }
+        .structure-panel .root {
+            color: var(--text-primary);
+            font-weight: 500;
+        }
+
+        /* ——— 裝飾 ——— */
+        .gold-line {
+            width: 40px;
+            height: 2px;
+            background: var(--accent-gold);
+            opacity: 0.5;
+            border-radius: 2px;
+        }
+
+        .section-label {
+            font-size: 0.65rem;
+            font-weight: 500;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: var(--text-muted);
+        }
+
+        /* ——— 動畫 ——— */
+        @keyframes fadeUp {
             from {
                 opacity: 0;
-                transform: translateY(25px);
+                transform: translateY(18px);
             }
             to {
                 opacity: 1;
                 transform: translateY(0);
             }
         }
-        .animate-fade-in-up-1 {
-            animation: fadeInUp 0.7s 0.2s ease-out forwards;
+        .fade-up-1 {
+            animation: fadeUp 0.6s 0.05s ease-out forwards;
+            opacity: 0;
         }
-        .animate-fade-in-up-2 {
-            animation: fadeInUp 0.7s 0.45s ease-out forwards;
+        .fade-up-2 {
+            animation: fadeUp 0.6s 0.2s ease-out forwards;
+            opacity: 0;
         }
-        .animate-fade-in-up-3 {
-            animation: fadeInUp 0.7s 0.7s ease-out forwards;
+        .fade-up-3 {
+            animation: fadeUp 0.6s 0.35s ease-out forwards;
+            opacity: 0;
+        }
+        .fade-up-4 {
+            animation: fadeUp 0.6s 0.5s ease-out forwards;
+            opacity: 0;
         }
 
-        .feature-card {
-            background-color: #1F2937; 
-            border: 1px solid #374151; 
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-            display: flex; 
-            flex-direction: column; 
-            height: 100%; 
+        @keyframes float {
+            0%,
+            100% {
+                transform: translateY(0);
+            }
+            50% {
+                transform: translateY(-8px);
+            }
         }
-        .feature-card-content {
-            flex-grow: 1; 
+        .float-slow {
+            animation: float 5s ease-in-out infinite;
         }
-        .feature-card:hover {
-            transform: translateY(-6px) scale(1.03); 
-            box-shadow: 0 12px 30px rgba(79, 70, 229, 0.35); 
-        }
-        .feature-card.disabled-card { 
-            opacity: 0.7;
-            cursor: default; 
-        }
-        .feature-card.disabled-card:hover { 
-            transform: translateY(-2px);
-            box-shadow: 0 5px 15px rgba(55, 65, 81, 0.3); 
-        }
-        .feature-icon svg {
-            width: 3.5rem; 
-            height: 3.5rem; 
-            margin: 0 auto 1rem; 
-            color: #818CF8; 
-        }
-        .btn-primary { 
-            @apply bg-indigo-600 hover:bg-indigo-500 text-white font-semibold py-3 px-8 rounded-lg shadow-md transition-all duration-300 ease-in-out transform hover:scale-105;
-        }
-        .btn-secondary { 
-            @apply bg-teal-600 hover:bg-teal-500 text-white font-medium py-2 px-4 rounded-md transition-colors duration-300;
-        }
-        .btn-feature { 
-            @apply mt-auto bg-sky-600 hover:bg-sky-500 text-white font-medium py-2 px-4 rounded-md transition-colors duration-300;
-        }
-        
-        /* === UNIFIED SITE HEADER & NAV STYLES === */
-        .site-header { transition: background-color 0.3s ease-in-out; }
-        .site-title { font-size: 1.5rem; font-weight: 700; color: #F1F5F9; letter-spacing: 0.5px; }
-        .nav-link { 
-            color: #CBD5E1; 
-            font-weight: 500; 
-            padding: 0.5rem 1rem; 
-            border-radius: 0.375rem; 
-            transition: color 0.2s, background-color 0.2s; 
-            position: relative;
-        }
-        .nav-link:hover { color: #FFFFFF; background-color: #334155; }
-        .nav-link.active { color: #FFFFFF; font-weight: 700; background-color: #4F46E5; }
-        .mobile-nav-link {
-            padding-top: 0.75rem;
-            padding-bottom: 0.75rem;
-            font-size: 1.125rem;
-            text-align: center;
-            display: block;
-            color: #CBD5E1;
-            border-radius: 0.375rem;
-        }
-        .mobile-nav-link:hover { color: #FFFFFF; background-color: #334155; }
-        .mobile-nav-link.active { color: #FFFFFF; font-weight: 600; background-color: #4F46E5; }
-        /* === END OF UNIFIED STYLES === */
 
+        /* ——— 滾動條 ——— */
         ::-webkit-scrollbar {
-            width: 8px;
-            height: 8px;
+            width: 5px;
+            height: 5px;
         }
         ::-webkit-scrollbar-track {
-            background: #1F2937;
+            background: var(--bg-primary);
         }
         ::-webkit-scrollbar-thumb {
-            background: #4A5568;
+            background: #2a2a3a;
             border-radius: 4px;
         }
         ::-webkit-scrollbar-thumb:hover {
-            background: #718096;
+            background: #3d3d4a;
+        }
+
+        /* ——— 響應式微調 ——— */
+        @media (max-width: 640px) {
+            .card-module {
+                padding: 1.5rem 1.25rem;
+            }
+            .structure-panel {
+                padding: 1.25rem;
+            }
+            .structure-panel pre {
+                font-size: 0.7rem;
+                line-height: 1.8;
+            }
         }
     </style>
 </head>
-<body class="antialiased">
-    <header class="site-header bg-slate-900/70 backdrop-blur-md text-white shadow-lg sticky top-0 z-50">
-        <nav class="container mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="flex items-center justify-between h-16">
-                <div class="flex items-center">
-                    <a href="./index.html" class="site-title">LMT Korean Learning Zone</a>
+<body>
+
+    <!-- ===== NAVIGATION ===== -->
+    <header class="nav-bar">
+        <nav class="max-w-6xl mx-auto px-6 lg:px-8">
+            <div class="flex items-center justify-between h-14">
+                <a href="./index.html" class="flex items-center gap-2 text-white font-medium text-sm tracking-tight">
+                    <span class="text-[#c9a96e]">◆</span>
+                    <span>LMT</span>
+                    <span class="text-[#6b6660] font-light text-xs hidden sm:inline">· korean</span>
+                </a>
+
+                <div class="hidden md:flex items-center gap-0.5">
+                    <a href="./index.html" class="nav-link active">Home</a>
+                    <a href="./grammar/index.html" class="nav-link">Grammar</a>
+                    <a href="./vocabulary/index.html" class="nav-link">Vocabulary</a>
+                    <a href="./songs/index.html" class="nav-link">Lyrics</a>
                 </div>
-                <div class="hidden md:flex space-x-4">
-                    <a href="./index.html" class="nav-link active">首頁</a>
-                    <a href="./grammar/index.html" class="nav-link">文法教學</a>
-                    <a href="./vocabulary/index.html" class="nav-link">單字學習</a>
-                    <a href="./songs/index.html" class="nav-link">歌詞教學</a>
-                </div>
-                <div class="md:hidden">
-                    <button id="mobile-menu-button" aria-label="開啟選單" class="text-gray-300 hover:text-white focus:outline-none focus:text-white p-2 rounded-md">
-                        <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
-                        </svg>
-                    </button>
-                </div>
+
+                <button id="menu-toggle" aria-label="Menu" class="md:hidden text-[#a09a94] hover:text-[#e4dfd8] p-1.5 transition">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 6h16M4 12h16m-7 6h7" />
+                    </svg>
+                </button>
             </div>
+
             <div id="mobile-menu" class="md:hidden hidden pb-3 space-y-1">
-                <a href="./index.html" class="mobile-nav-link active">首頁</a>
-                <a href="./grammar/index.html" class="mobile-nav-link">文法教學</a>
-                <a href="./vocabulary/index.html" class="mobile-nav-link">單字學習</a>
-                <a href="./songs/index.html" class="mobile-nav-link">歌詞教學</a> 
+                <a href="./index.html" class="mobile-nav-link active">Home</a>
+                <a href="./grammar/index.html" class="mobile-nav-link">Grammar</a>
+                <a href="./vocabulary/index.html" class="mobile-nav-link">Vocabulary</a>
+                <a href="./songs/index.html" class="mobile-nav-link">Lyrics</a>
             </div>
         </nav>
     </header>
 
-    <section class="hero-section text-white">
-        <div class="container mx-auto px-6 text-center hero-content">
-            <div class="hero-text-container">
-                <p class="hero-subtitle text-2xl md:text-3xl animate-fade-in-up-1">Welcome to</p>
-                <h1 class="hero-main-title text-5xl sm:text-6xl md:text-7xl animate-fade-in-up-2">
-                    LMT Korean Learning Zone
-                </h1>
-                <p class="hero-korean-tagline text-xl md:text-2xl animate-fade-in-up-3" lang="ko">
-                    한국어 학습의 즐거움을 발견하세요!
-                </p>
-            </div>
-        </div>
-    </section>
+    <!-- ===== HERO ===== -->
+    <section class="min-h-[70vh] flex items-center pt-16 pb-12" style="background: radial-gradient(ellipse at 20% 50%, rgba(201,169,110,0.04) 0%, transparent 65%), #0b0b10;">
+        <div class="max-w-6xl mx-auto px-6 lg:px-8 w-full">
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
 
-    <section class="py-16 bg-gray-950">
-        <div class="container mx-auto px-6">
-            <h2 class="text-3xl md:text-4xl font-bold text-center text-indigo-300 mb-16">學習核心模組</h2>
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-                <div class="feature-card p-8 rounded-xl shadow-2xl">
-                    <div class="feature-card-content">
-                        <div class="feature-icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" d="M12 6.042A8.967 8.967 0 0 0 6 3.75c-1.052 0-2.062.18-3 .512v14.25A8.987 8.987 0 0 1 6 18c2.305 0 4.408.867 6 2.292m0-14.25a8.966 8.966 0 0 1 6-2.292c1.052 0 2.062.18 3 .512v14.25A8.987 8.987 0 0 0 18 18a8.967 8.967 0 0 0-6-2.292m0 0V21M12 6.042A8.967 8.967 0 0 1 18 3.75m0 14.25V6.042" />
-                            </svg>
-                        </div>
-                        <h3 class="text-2xl font-semibold text-sky-300 mb-3 text-center">文法教學</h3>
-                        <p class="text-gray-400 leading-relaxed text-center">系統化解析韓語文法，搭配豐富例句與記憶技巧。</p>
+                <!-- left -->
+                <div class="space-y-5">
+                    <div class="fade-up-1 flex items-center gap-3">
+                        <span class="gold-line"></span>
+                        <span class="text-[0.6rem] font-medium tracking-[0.2em] uppercase text-[#6b6660]">Est. 2026</span>
                     </div>
-                    <a href="./grammar/index.html" class="btn-feature block w-full text-center mt-6">查看文法</a>
-                </div>
 
-                <div class="feature-card p-8 rounded-xl shadow-2xl">
-                    <div class="feature-card-content">
-                        <div class="feature-icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" d="M16.862 4.487l1.687-1.688a1.875 1.875 0 112.652 2.652L10.582 16.07a4.5 4.5 0 01-1.897 1.13L6 18l.8-2.685a4.5 4.5 0 011.13-1.897l8.932-8.931zm0 0L19.5 7.125M18 14v4.75A2.25 2.25 0 0115.75 21H5.25A2.25 2.25 0 013 18.75V8.25A2.25 2.25 0 015.25 6H10" />
+                    <h1 class="fade-up-2 text-4xl sm:text-5xl md:text-6xl font-light leading-[1.05] tracking-tight text-[#e4dfd8]">
+                        Korean,<br />
+                        <span class="font-medium text-[#c9a96e]">refined.</span>
+                    </h1>
+
+                    <p class="fade-up-3 text-[#a09a94] text-sm max-w-sm leading-relaxed font-light">
+                        A structured approach to grammar, vocabulary, and lyrics —<br />
+                        designed for clarity and depth.
+                    </p>
+
+                    <div class="fade-up-4 flex flex-wrap gap-3 pt-1">
+                        <a href="#modules" class="btn-primary">
+                            Explore
+                            <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3" />
                             </svg>
-                        </div>
-                        <h3 class="text-2xl font-semibold text-sky-300 mb-3 text-center">單字學習</h3>
-                        <p class="text-gray-400 leading-relaxed text-center">透過主題分類與互動卡片，高效擴充韓語詞彙量。</p>
+                        </a>
+                        <a href="#structure" class="btn-secondary">
+                            Structure
+                            <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z" />
+                            </svg>
+                        </a>
                     </div>
-                    <div class="mt-6 space-y-3 sm:space-y-0 sm:space-x-3 flex flex-col sm:flex-row">
-                        <a href="./vocabulary/index.html" class="btn-feature block w-full text-center flex-1">單字列表</a>
-                        <a href="./vocabulary/flashcards.html" class="btn-secondary block w-full text-center flex-1">閃卡練習</a>
+
+                    <div class="fade-up-4 pt-3 flex items-center gap-4">
+                        <div class="w-px h-6 bg-[#2a2a3a]"></div>
+                        <p class="text-xs font-light text-[#6b6660] tracking-widest" lang="ko">한국어, 새로운 시작</p>
                     </div>
                 </div>
 
-                <div class="feature-card p-8 rounded-xl shadow-2xl"> 
-                    <div class="feature-card-content">
-                        <div class="feature-icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" d="M9 9l10.5-3m0 6.553v3.75a2.25 2.25 0 01-1.632 2.163l-1.32.377a1.803 1.803 0 01-.99-3.467l2.31-.66a2.25 2.25 0 001.632-2.163zm0 0V2.25L9 5.25v10.303m0 0v3.75a2.25 2.25 0 01-1.632 2.163l-1.32.377a1.803 1.803 0 01-.99-3.467l2.31-.66A2.25 2.25 0 009 15.553z" />
-                            </svg>
+                <!-- right: decorative -->
+                <div class="hidden lg:flex justify-center items-center">
+                    <div class="relative w-64 h-64">
+                        <div class="absolute inset-0 bg-[#c9a96e] opacity-[0.03] rounded-full blur-3xl"></div>
+                        <div class="relative w-full h-full flex items-center justify-center">
+                            <div class="w-44 h-44 rounded-full border border-[#2a2a3a] bg-[#111118] flex items-center justify-center float-slow">
+                                <span class="text-6xl font-light text-[#c9a96e] opacity-60" lang="ko">한</span>
+                            </div>
                         </div>
-                        <h3 class="text-2xl font-semibold text-sky-300 mb-3 text-center">歌詞教學</h3>
-                        <p class="text-gray-400 leading-relaxed text-center">從作者喜愛的歌曲中，逐句學習歌詞內的單字及文法。</p>
+                        <div class="absolute top-6 right-8 w-1.5 h-1.5 rounded-full bg-[#c9a96e] opacity-20"></div>
+                        <div class="absolute bottom-10 left-4 w-2 h-2 rounded-full bg-[#c9a96e] opacity-10"></div>
                     </div>
-                    <a href="./songs/index.html" class="btn-feature block w-full text-center mt-6">探索歌詞</a> 
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="py-16 bg-gray-900">
-        <div class="container mx-auto px-6 text-center">
-            <h2 class="text-3xl font-bold text-indigo-300 mb-6">準備好開始了嗎？</h2>
-            <p class="text-lg text-gray-400 mb-8 max-w-xl mx-auto">
-                立即深入探索詳細的文法解析、常用單字以及歌詞教學吧!
+    <!-- ===== MODULES ===== -->
+    <section id="modules" class="py-20 bg-[#0d0d14]">
+        <div class="max-w-6xl mx-auto px-6 lg:px-8">
+            <div class="flex flex-col items-center text-center mb-14">
+                <span class="section-label">Core modules</span>
+                <div class="gold-line mt-2 mb-3"></div>
+                <h2 class="text-2xl sm:text-3xl font-light text-[#e4dfd8] tracking-tight">Three pillars of learning</h2>
+                <p class="text-[#6b6660] text-sm font-light mt-1 max-w-sm">Grammar · Vocabulary · Lyrics</p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-5">
+
+                <!-- Grammar -->
+                <div class="card-module">
+                    <div class="icon-wrap">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.25" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M12 6.042A8.967 8.967 0 0 0 6 3.75c-1.052 0-2.062.18-3 .512v14.25A8.987 8.987 0 0 1 6 18c2.305 0 4.408.867 6 2.292m0-14.25a8.966 8.966 0 0 1 6-2.292c1.052 0 2.062.18 3 .512v14.25A8.987 8.987 0 0 0 18 18a8.967 8.967 0 0 0-6-2.292m0 0V21" />
+                        </svg>
+                    </div>
+                    <h3>Grammar</h3>
+                    <p>Systematic breakdown of Korean grammar — from fundamentals to advanced structures, with contextual examples.</p>
+                    <a href="./grammar/index.html" class="card-link">
+                        Explore grammar
+                        <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13 7l5 5m0 0l-5 5m5-5H6" />
+                        </svg>
+                    </a>
+                </div>
+
+                <!-- Vocabulary -->
+                <div class="card-module">
+                    <div class="icon-wrap">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.25" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M16.862 4.487l1.687-1.688a1.875 1.875 0 112.652 2.652L10.582 16.07a4.5 4.5 0 01-1.897 1.13L6 18l.8-2.685a4.5 4.5 0 011.13-1.897l8.932-8.931zm0 0L19.5 7.125M18 14v4.75A2.25 2.25 0 0115.75 21H5.25A2.25 2.25 0 013 18.75V8.25A2.25 2.25 0 015.25 6H10" />
+                        </svg>
+                    </div>
+                    <h3>Vocabulary</h3>
+                    <p>Thematic word lists with interactive flashcards. Build your lexicon efficiently through spaced repetition.</p>
+                    <div class="mt-auto pt-3 flex flex-wrap gap-3">
+                        <a href="./vocabulary/index.html" class="card-link">
+                            Browse
+                            <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13 7l5 5m0 0l-5 5m5-5H6" />
+                            </svg>
+                        </a>
+                        <span class="text-[#2a2a3a]">|</span>
+                        <a href="./vocabulary/flashcards.html" class="card-link">
+                            Flashcards
+                            <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13 7l5 5m0 0l-5 5m5-5H6" />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Lyrics -->
+                <div class="card-module">
+                    <div class="icon-wrap">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.25" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M9 9l10.5-3m0 6.553v3.75a2.25 2.25 0 01-1.632 2.163l-1.32.377a1.803 1.803 0 01-.99-3.467l2.31-.66a2.25 2.25 0 001.632-2.163zm0 0V2.25L9 5.25v10.303m0 0v3.75a2.25 2.25 0 01-1.632 2.163l-1.32.377a1.803 1.803 0 01-.99-3.467l2.31-.66A2.25 2.25 0 009 15.553z" />
+                        </svg>
+                    </div>
+                    <h3>Lyrics</h3>
+                    <p>Learn through music — dissect lyrics line by line, uncovering vocabulary and grammar in context.</p>
+                    <a href="./songs/index.html" class="card-link">
+                        Discover songs
+                        <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13 7l5 5m0 0l-5 5m5-5H6" />
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===== PROJECT STRUCTURE ===== -->
+    <section id="structure" class="py-16 bg-[#0b0b10] border-t border-[#1a1a24]">
+        <div class="max-w-6xl mx-auto px-6 lg:px-8">
+            <div class="flex flex-col md:flex-row md:items-end justify-between gap-5 mb-8">
+                <div>
+                    <span class="section-label">Project architecture</span>
+                    <div class="gold-line mt-1.5 mb-2"></div>
+                    <h2 class="text-xl sm:text-2xl font-light text-[#e4dfd8] tracking-tight">Structure</h2>
+                    <p class="text-[#6b6660] text-sm font-light mt-0.5">Modular · data-driven · extensible</p>
+                </div>
+                <span class="text-[0.6rem] font-medium tracking-wider text-[#6b6660] bg-[#111118] px-4 py-1.5 rounded-full border border-[#1a1a24]">
+                    LMT-KOREAN-LEARNING-ZONE
+                </span>
+            </div>
+
+            <div class="structure-panel">
+                <pre><span class="root">📁 /LMT-KOREAN-LEARNING-ZONE</span>
+├── <span class="folder">📁 css/</span>
+│   └── <span class="file">style.css</span>
+├── <span class="folder">📁 data/</span>
+│   ├── <span class="folder">📁 lyrics/</span>
+│   │   ├── <span class="highlight">____.json</span>
+│   │   └── <span class="highlight">____.json</span>
+│   ├── <span class="file">grammar.json</span>
+│   ├── <span class="file">songs_list.json</span>
+│   └── <span class="file">vocabulary.json</span>
+├── <span class="folder">📁 grammar/</span>
+│   ├── <span class="file">grammar.html</span>
+│   └── <span class="file">index.html</span>
+├── <span class="folder">📁 img/</span>
+├── <span class="folder">📁 js/</span>
+│   └── <span class="file">main.js</span>
+├── <span class="folder">📁 songs/</span>
+│   ├── <span class="file">index.html</span>
+│   └── <span class="file">lyrics-template.html</span>
+├── <span class="folder">📁 vocabulary/</span>
+│   ├── <span class="file">flashcards.html</span>
+│   └── <span class="file">index.html</span>
+├── <span class="file">.gitmodules</span>
+├── <span class="highlight">index.html</span>  <span class="file">← entry</span>
+├── <span class="file">README.md</span>
+└── <span class="folder">📁 test/</span></pre>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===== CTA ===== -->
+    <section class="py-14 bg-[#0d0d14] border-t border-[#1a1a24]">
+        <div class="max-w-2xl mx-auto px-6 text-center">
+            <div class="gold-line mx-auto mb-5"></div>
+            <h2 class="text-xl sm:text-2xl font-light text-[#e4dfd8] tracking-tight">Begin your Korean journey</h2>
+            <p class="text-[#6b6660] text-sm font-light mt-1 max-w-xs mx-auto">Grammar, vocabulary, and lyrics — all in one place.</p>
+            <div class="mt-7 flex flex-wrap justify-center gap-3">
+                <a href="./grammar/index.html" class="btn-primary">Start learning</a>
+                <a href="#modules" class="btn-secondary">Explore modules</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- ===== FOOTER ===== -->
+    <footer class="border-t border-[#1a1a24] bg-[#0b0b10] py-7">
+        <div class="max-w-6xl mx-auto px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-3">
+            <p class="text-[#6b6660] text-[0.65rem] font-light tracking-wide">
+                &copy; <span id="year"></span> LMT · Korean Learning
             </p>
+            <div class="flex items-center gap-5 text-[0.65rem] text-[#6b6660]">
+                <a href="#" class="hover:text-[#a09a94] transition">GitHub</a>
+                <a href="#" class="hover:text-[#a09a94] transition">Figma</a>
+                <a href="#" class="hover:text-[#a09a94] transition">About</a>
+            </div>
         </div>
-    </section>
-
-    <footer class="bg-gray-900 text-gray-400 text-center py-8 mt-0 border-t border-slate-700">
-        <p>&copy; <span id="current-year"></span> Created by LMT. All rights reserved.</p>
-        <p class="text-sm">LMT-Korean-Learning-Zone</p>
     </footer>
 
     <script>
         document.addEventListener('DOMContentLoaded', function() {
-            var menuButton = document.getElementById('mobile-menu-button');
-            var mobileMenu = document.getElementById('mobile-menu');
-            if(menuButton && mobileMenu) {
-                menuButton.addEventListener('click', function() {
-                    mobileMenu.classList.toggle('hidden');
+            // mobile menu toggle
+            const toggle = document.getElementById('menu-toggle');
+            const menu = document.getElementById('mobile-menu');
+            if (toggle && menu) {
+                toggle.addEventListener('click', function() {
+                    menu.classList.toggle('hidden');
                 });
             }
 
-            var yearSpan = document.getElementById('current-year');
-            if (yearSpan) {
-                yearSpan.textContent = new Date().getFullYear();
-            }
+            // year
+            const yearEl = document.getElementById('year');
+            if (yearEl) yearEl.textContent = new Date().getFullYear();
+
+            // smooth scroll for anchor links
+            document.querySelectorAll('a[href^="#"]').forEach(a => {
+                a.addEventListener('click', function(e) {
+                    const target = document.querySelector(this.getAttribute('href'));
+                    if (target) {
+                        e.preventDefault();
+                        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                        if (menu) menu.classList.add('hidden');
+                    }
+                });
+            });
         });
     </script>
 </body>

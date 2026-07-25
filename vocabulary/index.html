@@ -1,314 +1,435 @@
 <!DOCTYPE html>
-<html lang="zh-TW">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>韓語單字學習 - LMT-Korean-Learning-Zone</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vocabulary · LMT Korean</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,500;14..32,600;14..32,700&family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet" />
     <style>
+        /* ——— 全域變數 (與首頁一致) ——— */
         :root {
+            --bg-primary: #0b0b10;
+            --bg-secondary: #111118;
+            --bg-card: #181822;
+            --border-subtle: rgba(255, 255, 255, 0.04);
+            --border-card: rgba(255, 255, 255, 0.05);
+            --text-primary: #e4dfd8;
+            --text-secondary: #a09a94;
+            --text-muted: #6b6660;
+            --accent-gold: #c9a96e;
+            --accent-gold-dim: rgba(201, 169, 110, 0.12);
+            --shadow-card: 0 8px 32px rgba(0, 0, 0, 0.45);
             --sidebar-width: 260px;
         }
-        html {
-            scroll-behavior: smooth;
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
         }
+
         body {
-            font-family: 'Roboto', 'Noto Sans KR', sans-serif;
-            background-color: #0F172A; /* slate-900 */
-            color: #E2E8F0; /* slate-200 */
+            font-family: 'Inter', 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            -webkit-font-smoothing: antialiased;
         }
-        .main-content-grid {
-            display: grid;
-            grid-template-columns: 1fr;
-            gap: 2rem;
+
+        /* ——— 導航 (與首頁一致) ——— */
+        .nav-bar {
+            background: rgba(11, 11, 16, 0.75);
+            backdrop-filter: blur(18px) saturate(160%);
+            -webkit-backdrop-filter: blur(18px) saturate(160%);
+            border-bottom: 1px solid var(--border-subtle);
+            position: fixed;
+            top: 0;
+            width: 100%;
+            z-index: 50;
         }
-        @media (min-width: 1024px) {
-            .main-content-grid {
-                grid-template-columns: var(--sidebar-width) 1fr;
-            }
+
+        .nav-link {
+            color: var(--text-secondary);
+            font-weight: 450;
+            font-size: 0.8rem;
+            letter-spacing: 0.02em;
+            padding: 0.4rem 1rem;
+            border-radius: 6px;
+            transition: color 0.2s, background 0.2s;
+            text-decoration: none;
         }
+        .nav-link:hover {
+            color: var(--text-primary);
+            background: rgba(255, 255, 255, 0.03);
+        }
+        .nav-link.active {
+            color: var(--text-primary);
+            background: rgba(201, 169, 110, 0.07);
+        }
+
+        .mobile-nav-link {
+            color: var(--text-secondary);
+            font-weight: 450;
+            font-size: 0.9rem;
+            padding: 0.6rem 1rem;
+            border-radius: 6px;
+            transition: color 0.2s, background 0.2s;
+            display: block;
+            text-align: center;
+            text-decoration: none;
+        }
+        .mobile-nav-link:hover {
+            color: var(--text-primary);
+            background: rgba(255, 255, 255, 0.03);
+        }
+        .mobile-nav-link.active {
+            color: var(--text-primary);
+            background: rgba(201, 169, 110, 0.07);
+        }
+
+        /* ——— 側邊欄 ——— */
         .sidebar {
             position: sticky;
-            top: 85px; /* Adjust based on header height */
+            top: 85px;
             height: calc(100vh - 100px);
             align-self: start;
         }
+
         .sidebar-nav-link {
             display: block;
-            padding: 0.75rem 1rem;
-            border-radius: 0.5rem;
-            color: #CBD5E1; /* slate-300 */
-            transition: all 0.2s ease-in-out;
-            font-weight: 500;
-            border-left: 3px solid transparent;
+            padding: 0.6rem 1rem;
+            border-radius: 6px;
+            color: var(--text-secondary);
+            transition: all 0.2s ease;
+            font-weight: 450;
+            font-size: 0.85rem;
+            border-left: 2px solid transparent;
+            text-decoration: none;
         }
         .sidebar-nav-link:hover {
-            background-color: #334155; /* slate-700 */
-            color: #F8FAFC; /* slate-50 */
-            transform: translateX(4px);
+            background: rgba(255, 255, 255, 0.03);
+            color: var(--text-primary);
+            transform: translateX(3px);
         }
         .sidebar-nav-link.active {
-            color: #818CF8; /* indigo-400 */
-            background-color: #1e293b;
-            font-weight: 700;
-            border-left-color: #818CF8; /* indigo-400 */
-        }
-        .vocab-category-card {
-            background-color: transparent;
-            scroll-margin-top: 150px; /* Increased margin for sticky mobile nav */
-            border: none;
-        }
-        @media (min-width: 1024px) {
-            .vocab-category-card {
-                scroll-margin-top: 100px; /* Adjust scroll margin for desktop */
-            }
-        }
-        .category-title {
-            color: #93C5FD; /* blue-300 */
-            border-bottom: 2px solid #3B82F6; /* blue-500 */
-            padding-bottom: 0.75rem;
-            margin-bottom: 1.5rem;
-            font-weight: 700;
-            font-size: 1.75rem;
+            color: var(--text-primary);
+            background: rgba(201, 169, 110, 0.05);
+            border-left-color: var(--accent-gold);
+            font-weight: 500;
         }
 
-        /* === VOCAB CARD STYLES === */
-        .vocab-card {
-            background-color: #1E293B; /* slate-800 */
-            border-radius: 0.75rem; /* increased border-radius */
-            padding: 1.5rem;
-            margin-bottom: 1rem;
-            transition: background-color 0.2s ease, box-shadow 0.3s ease, transform 0.2s ease;
-            border: 1px solid #334155; /* slate-700 */
-            display: flex;
-            flex-direction: column;
-        }
-        .vocab-card:hover {
-            background-color: #28354b;
-            transform: translateY(-2px);
-            box-shadow: 0 8px 25px rgba(0,0,0,0.2);
-        }
-        .vocab-card-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: flex-start;
-            gap: 1rem;
-            margin-bottom: 1rem;
-        }
-        .vocab-card-main {
-            flex-grow: 1;
-        }
-        .korean-word {
-            font-family: 'Noto Sans KR', sans-serif;
-            font-weight: 700;
-            color: #67E8F9; /* cyan-300 */
-            font-size: 1.85rem;
-            line-height: 1.3;
-        }
-        .chinese-meaning {
-            color: #E2E8F0; /* slate-200 */
-            font-size: 1rem;
-            font-weight: 500;
-            margin-top: 0.25rem;
-        }
-        .part-of-speech {
-            font-family: 'Roboto', sans-serif;
-            font-size: 0.8rem;
-            color: #94A3B8; /* slate-400 */
-            font-style: italic;
-            margin-left: 0.5rem;
-        }
-        .audio-button {
-            background-color: #334155; /* slate-700 */
-            color: #94A3B8; /* slate-400 */
-            border-radius: 9999px;
-            padding: 0.6rem;
-            transition: all 0.2s ease;
-            flex-shrink: 0; /* Prevent button from shrinking */
-        }
-        .audio-button:hover {
-            background-color: #475569; /* slate-600 */
-            color: #F8FAFC; /* slate-50 */
-        }
-        .example-block {
-            margin-top: 1rem;
-            padding-left: 1rem;
-            border-left: 3px solid #475569; /* slate-600 */
-            font-size: 0.95rem;
-            line-height: 1.75;
-            color: #CBD5E1; /* slate-300 */
-        }
-        .example-sentence, .translation { color: inherit; }
-        .highlight-word {
-            color: #A5F3FC; /* cyan-200 */
-            font-weight: bold;
-            background-color: rgba(56, 189, 248, 0.1);
-            padding: 0.1rem 0.25rem;
-            border-radius: 0.25rem;
-        }
-
-        .greeting-list {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-            gap: 1rem;
-        }
-        .greeting-item {
-            padding: 1rem 1.25rem;
-            background-color: #1E293B;
-            border: 1px solid #334155;
-            border-radius: 0.5rem;
-            transition: all 0.2s ease;
-        }
-        .greeting-item:hover {
-            transform: translateY(-2px);
-            background-color: #28354b;
-            border-color: #475569;
-        }
-        .greeting-ko {
-            font-weight: 500;
-            color: #86EFAC; /* green-300 */
-            font-size: 1.15rem;
-            display: block;
-            margin-bottom: 0.35rem;
-        }
-        .greeting-zh { color: #D1D5DB; font-size: 0.9rem; }
-        
-        /* === UNIFIED CATEGORY SELECTOR STYLES === */
         .category-select {
             display: block;
             width: 100%;
-            padding: 0.75rem 1rem;
-            font-size: 1rem;
-            font-weight: 500;
-            color: #E2E8F0; /* slate-200 */
-            background-color: #1E293B; /* slate-800 */
-            border: 1px solid #475569; /* slate-600 */
-            border-radius: 0.5rem;
-            appearance: none; /* Remove default arrow */
-            background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3e%3cpath stroke='%2394A3B8' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='M6 8l4 4 4-4'/%3e%3c/svg%3e");
-            background-position: right 0.5rem center;
+            padding: 0.6rem 1rem;
+            font-size: 0.85rem;
+            font-weight: 450;
+            color: var(--text-secondary);
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-card);
+            border-radius: 8px;
+            appearance: none;
+            background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3e%3cpath stroke='%236b6660' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='M6 8l4 4 4-4'/%3e%3c/svg%3e");
+            background-position: right 0.75rem center;
             background-repeat: no-repeat;
-            background-size: 1.5em 1.5em;
+            background-size: 1.2em 1.2em;
+            transition: border-color 0.2s;
         }
         .category-select:focus {
             outline: none;
-            border-color: #3B82F6; /* blue-500 */
-            box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.5);
+            border-color: var(--accent-gold);
         }
 
-        /* === UNIFIED SITE HEADER & NAV STYLES (DO NOT CHANGE) === */
-        .site-header { transition: background-color 0.3s ease-in-out; }
-        .site-title { font-size: 1.5rem; font-weight: 700; color: #F1F5F9; letter-spacing: 0.5px; }
-        .nav-link {
-            color: #CBD5E1;
+        /* ——— 單字卡片 ——— */
+        .vocab-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-card);
+            border-radius: 14px;
+            padding: 1.5rem;
+            transition: transform 0.25s ease, box-shadow 0.3s ease, border-color 0.25s ease;
+            box-shadow: var(--shadow-card);
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+        }
+        .vocab-card:hover {
+            transform: translateY(-3px);
+            border-color: rgba(201, 169, 110, 0.12);
+            box-shadow: 0 12px 40px rgba(0, 0, 0, 0.55);
+        }
+
+        .korean-word {
+            font-family: 'Noto Sans KR', sans-serif;
+            font-weight: 600;
+            color: #d4c5a0;
+            font-size: 1.6rem;
+            line-height: 1.3;
+            letter-spacing: -0.01em;
+        }
+
+        .chinese-meaning {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            font-weight: 400;
+            margin-top: 0.15rem;
+        }
+
+        .part-of-speech {
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            font-weight: 350;
+            margin-left: 0.3rem;
+        }
+
+        .audio-button {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid var(--border-card);
+            border-radius: 50%;
+            width: 38px;
+            height: 38px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--text-muted);
+            transition: all 0.2s ease;
+            flex-shrink: 0;
+            cursor: pointer;
+        }
+        .audio-button:hover {
+            background: rgba(201, 169, 110, 0.08);
+            border-color: rgba(201, 169, 110, 0.2);
+            color: var(--accent-gold);
+        }
+
+        .example-block {
+            margin-top: 1rem;
+            padding-left: 1rem;
+            border-left: 2px solid rgba(201, 169, 110, 0.15);
+            font-size: 0.85rem;
+            line-height: 1.7;
+            color: var(--text-secondary);
+        }
+        .highlight-word {
+            color: var(--accent-gold);
             font-weight: 500;
-            padding: 0.5rem 1rem;
-            border-radius: 0.375rem;
-            transition: color 0.2s, background-color 0.2s;
-            position: relative;
         }
-        .nav-link:hover { color: #FFFFFF; background-color: #334155; }
-        .nav-link.active { color: #FFFFFF; font-weight: 700; background-color: #4F46E5; }
-        .mobile-nav-link {
-            padding-top: 0.75rem;
-            padding-bottom: 0.75rem;
-            font-size: 1.125rem;
-            text-align: center;
-            display: block;
-            color: #CBD5E1;
-            border-radius: 0.375rem;
-        }
-        .mobile-nav-link:hover { color: #FFFFFF; background-color: #334155; }
-        .mobile-nav-link.active { color: #FFFFFF; font-weight: 600; background-color: #4F46E5; }
-        /* === END OF UNIFIED STYLES === */
 
-        ::-webkit-scrollbar { width: 8px; height: 8px; }
-        ::-webkit-scrollbar-track { background: #1E293B; }
-        ::-webkit-scrollbar-thumb { background: #475569; border-radius: 4px; }
-        ::-webkit-scrollbar-thumb:hover { background: #64748B; }
+        /* ——— 招呼語卡片 ——— */
+        .greeting-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 0.75rem;
+        }
+        .greeting-item {
+            background: var(--bg-card);
+            border: 1px solid var(--border-card);
+            border-radius: 10px;
+            padding: 1rem 1.25rem;
+            transition: all 0.2s ease;
+            box-shadow: var(--shadow-card);
+        }
+        .greeting-item:hover {
+            border-color: rgba(201, 169, 110, 0.1);
+            transform: translateY(-2px);
+        }
+        .greeting-ko {
+            font-weight: 500;
+            color: #d4c5a0;
+            font-size: 1.1rem;
+            display: block;
+            margin-bottom: 0.2rem;
+        }
+        .greeting-zh {
+            color: var(--text-muted);
+            font-size: 0.8rem;
+        }
+
+        /* ——— 分類標題 ——— */
+        .category-title {
+            font-weight: 500;
+            font-size: 1.6rem;
+            color: var(--text-primary);
+            letter-spacing: -0.02em;
+            border-bottom: 1px solid var(--border-subtle);
+            padding-bottom: 0.6rem;
+            margin-bottom: 1.5rem;
+        }
+
+        /* ——— FAB 按鈕 ——— */
+        .fab {
+            background: var(--accent-gold);
+            color: #0b0b10;
+            width: 56px;
+            height: 56px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 8px 28px rgba(201, 169, 110, 0.2);
+            transition: all 0.25s ease;
+            text-decoration: none;
+        }
+        .fab:hover {
+            transform: scale(1.05);
+            box-shadow: 0 12px 36px rgba(201, 169, 110, 0.3);
+        }
+
+        /* ——— 工具 ——— */
+        .gold-line {
+            width: 40px;
+            height: 2px;
+            background: var(--accent-gold);
+            opacity: 0.4;
+            border-radius: 2px;
+        }
+
+        .section-label {
+            font-size: 0.6rem;
+            font-weight: 500;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: var(--text-muted);
+        }
+
+        /* ——— 滾動條 ——— */
+        ::-webkit-scrollbar {
+            width: 5px;
+            height: 5px;
+        }
+        ::-webkit-scrollbar-track {
+            background: var(--bg-primary);
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #2a2a3a;
+            border-radius: 4px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #3d3d4a;
+        }
+
+        /* ——— 響應式 ——— */
+        @media (max-width: 1024px) {
+            .sidebar {
+                position: relative;
+                top: 0;
+                height: auto;
+                margin-bottom: 2rem;
+            }
+        }
+        @media (max-width: 640px) {
+            .vocab-card {
+                padding: 1.25rem;
+            }
+            .korean-word {
+                font-size: 1.3rem;
+            }
+        }
     </style>
 </head>
-<body class="antialiased">
-    <header class="site-header bg-slate-900/70 backdrop-blur-md text-white shadow-lg sticky top-0 z-50">
-        <nav class="container mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="flex items-center justify-between h-16">
-                <div class="flex items-center">
-                    <a href="../index.html" class="site-title">LMT Korean Learning Zone</a>
+<body>
+
+    <!-- ===== NAVIGATION ===== -->
+    <header class="nav-bar">
+        <nav class="max-w-6xl mx-auto px-6 lg:px-8">
+            <div class="flex items-center justify-between h-14">
+                <a href="../index.html" class="flex items-center gap-2 text-white font-medium text-sm tracking-tight">
+                    <span class="text-[#c9a96e]">◆</span>
+                    <span>LMT</span>
+                    <span class="text-[#6b6660] font-light text-xs hidden sm:inline">· korean</span>
+                </a>
+
+                <div class="hidden md:flex items-center gap-0.5">
+                    <a href="../index.html" class="nav-link">Home</a>
+                    <a href="../grammar/index.html" class="nav-link">Grammar</a>
+                    <a href="./index.html" class="nav-link active">Vocabulary</a>
+                    <a href="../songs/index.html" class="nav-link">Lyrics</a>
                 </div>
-                <div class="hidden md:flex space-x-4">
-                    <a href="../index.html" class="nav-link">首頁</a>
-                    <a href="../grammar/index.html" class="nav-link">文法教學</a>
-                    <a href="./index.html" class="nav-link active">單字學習</a>
-                    <a href="../songs/index.html" class="nav-link">歌詞教學</a>
-                </div>
-                <div class="md:hidden">
-                    <button id="mobile-menu-button" aria-label="開啟選單" class="text-gray-300 hover:text-white focus:outline-none focus:text-white p-2 rounded-md">
-                        <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
-                        </svg>
-                    </button>
-                </div>
+
+                <button id="menu-toggle" aria-label="Menu" class="md:hidden text-[#a09a94] hover:text-[#e4dfd8] p-1.5 transition">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 6h16M4 12h16m-7 6h7" />
+                    </svg>
+                </button>
             </div>
+
             <div id="mobile-menu" class="md:hidden hidden pb-3 space-y-1">
-                <a href="../index.html" class="mobile-nav-link">首頁</a>
-                <a href="../grammar/index.html" class="mobile-nav-link">文法教學</a>
-                <a href="./index.html" class="mobile-nav-link active">單字學習</a>
-                <a href="../songs/index.html" class="mobile-nav-link">歌詞教學</a>
+                <a href="../index.html" class="mobile-nav-link">Home</a>
+                <a href="../grammar/index.html" class="mobile-nav-link">Grammar</a>
+                <a href="./index.html" class="mobile-nav-link active">Vocabulary</a>
+                <a href="../songs/index.html" class="mobile-nav-link">Lyrics</a>
             </div>
         </nav>
     </header>
-    <main class="container mx-auto px-4 sm:px-6 lg:px-8 pt-20 md:pt-24 pb-8">
-        <h1 class="text-4xl font-bold text-center mb-6 text-slate-100">核心單字</h1>
 
-        <!-- STICKY MOBILE CATEGORY SELECTOR -->
-        <div class="lg:hidden sticky top-16 z-40 bg-slate-900/90 backdrop-blur-md py-4 mb-8 -mx-4 sm:-mx-6 px-4 sm:px-6 border-b border-slate-700">
+    <!-- ===== MAIN ===== -->
+    <main class="max-w-6xl mx-auto px-6 lg:px-8 pt-20 pb-10">
+
+        <!-- page header -->
+        <div class="flex flex-col sm:flex-row sm:items-end justify-between gap-4 mb-8">
+            <div>
+                <span class="section-label">Vocabulary</span>
+                <div class="gold-line mt-1.5 mb-2"></div>
+                <h1 class="text-2xl sm:text-3xl font-light text-[#e4dfd8] tracking-tight">Essential Words</h1>
+                <p class="text-[#6b6660] text-sm font-light mt-0.5">Thematic categories with example sentences</p>
+            </div>
+            <a href="./flashcards.html" class="fab inline-flex items-center justify-center self-start sm:self-center" title="Flashcards">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
+                </svg>
+            </a>
+        </div>
+
+        <!-- mobile category select (sticky) -->
+        <div class="lg:hidden sticky top-16 z-40 bg-[#0b0b10]/90 backdrop-blur py-3 mb-6 -mx-6 px-6 border-b border-[#1a1a24]">
             <select id="category-select-mobile" class="category-select">
-                <!-- Options populated by JS -->
+                <!-- JS populates -->
             </select>
         </div>
 
-        <div class="main-content-grid">
-            <!-- DESKTOP SIDEBAR -->
+        <div class="grid grid-cols-1 lg:grid-cols-[var(--sidebar-width)_1fr] gap-8">
+
+            <!-- SIDEBAR (desktop) -->
             <aside class="hidden lg:block sidebar">
-                <div class="h-full flex flex-col">
-                    <div class="flex-shrink-0">
-                        <h3 class="text-lg font-semibold text-indigo-300 mb-4 px-4">單字分類</h3>
-                        <!-- === MODIFIED: Changed text input to a select dropdown === -->
-                        <div class="px-4 mb-4">
-                             <select id="sidebar-category-select" class="category-select">
-                                 <!-- Options populated by JS -->
-                            </select>
-                        </div>
+                <div class="flex flex-col h-full">
+                    <div class="flex-shrink-0 mb-4">
+                        <h3 class="text-xs font-medium uppercase tracking-wider text-[#6b6660] mb-2">Categories</h3>
+                        <select id="sidebar-category-select" class="category-select">
+                            <!-- JS populates -->
+                        </select>
                     </div>
-                    <nav id="sidebar-nav" class="flex-grow overflow-y-auto pr-2 space-y-1"></nav>
+                    <nav id="sidebar-nav" class="flex-grow overflow-y-auto pr-1 space-y-0.5">
+                        <!-- JS populates -->
+                    </nav>
                 </div>
             </aside>
+
+            <!-- CONTENT -->
             <div id="vocabulary-content" class="space-y-12">
-                <p class="text-center text-gray-400">正在載入單字資料...</p>
+                <p class="text-center text-[#6b6660] text-sm">Loading vocabulary...</p>
             </div>
+
         </div>
     </main>
 
-    <!-- === UPDATED: FLOATING ACTION BUTTON MOVED TO TOP-RIGHT === -->
-    <div class="fixed top-20 right-6 md:top-24 md:right-8 z-40">
-        <a href="./flashcards.html" id="flashcard-fab" class="flex items-center justify-center w-16 h-16 bg-gradient-to-br from-purple-600 to-indigo-600 text-white rounded-full shadow-2xl transform hover:scale-110 hover:shadow-indigo-500/50 focus:outline-none focus:ring-4 focus:ring-purple-300 dark:focus:ring-purple-800 transition-all duration-300 ease-in-out" title="開始閃卡練習">
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-                <path stroke-linecap="round" stroke-linejoin="round" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
-            </svg>
-        </a>
-    </div>
-
-    <footer class="bg-slate-900 text-gray-400 text-center py-8 mt-12 border-t border-slate-700">
-        <p>&copy; <span id="current-year"></span> Created by LMT. All rights reserved.</p>
-        <p class="text-sm">LMT-Korean-Learning-Zone</p>
+    <!-- ===== FOOTER ===== -->
+    <footer class="border-t border-[#1a1a24] bg-[#0b0b10] py-7 mt-8">
+        <div class="max-w-6xl mx-auto px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-3">
+            <p class="text-[#6b6660] text-[0.65rem] font-light tracking-wide">
+                &copy; <span id="year"></span> LMT · Korean Learning
+            </p>
+            <div class="flex items-center gap-5 text-[0.65rem] text-[#6b6660]">
+                <a href="#" class="hover:text-[#a09a94] transition">GitHub</a>
+                <a href="#" class="hover:text-[#a09a94] transition">Figma</a>
+                <a href="#" class="hover:text-[#a09a94] transition">About</a>
+            </div>
+        </div>
     </footer>
 
     <script>
-        let vocabularyDataGlobal = [];
-        let observer;
+        // ——— 核心邏輯 (與原功能一致，僅調整樣式) ———
+        let vocabularyData = [];
 
         function sanitizeHTML(str) {
             if (typeof str !== 'string') return '';
@@ -317,195 +438,169 @@
             return temp.innerHTML;
         }
 
-        function highlightWordInExample(example, word) {
+        function highlightWord(example, word) {
             if (!word || !example) return sanitizeHTML(example);
-            const sanitizedExample = example.replace(/<[^>]*>/g, '');
-            const escapedWord = word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-            const keywordRegex = new RegExp(`(${escapedWord})`, 'g');
-            return sanitizedExample.replace(keywordRegex, `<span class='highlight-word'>$1</span>`);
+            const clean = example.replace(/<[^>]*>/g, '');
+            const escaped = word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+            return clean.replace(new RegExp(`(${escaped})`, 'g'), `<span class="highlight-word">$1</span>`);
         }
 
         function renderSidebar(data) {
-            const sidebarNav = document.getElementById('sidebar-nav');
-            if (!sidebarNav) return;
-            sidebarNav.innerHTML = '';
-            data.forEach(category => {
-                const link = document.createElement('a');
-                link.href = `#${category.id}`;
-                link.className = 'sidebar-nav-link';
-                link.textContent = category.category;
-                link.dataset.targetId = category.id;
-                sidebarNav.appendChild(link);
-            });
-        }
-        
-        function renderMobileCategorySelect(data) {
-            const selectEl = document.getElementById('category-select-mobile');
-            if (!selectEl) return;
-            selectEl.innerHTML = '<option value="">-- 請選擇分類 --</option>';
-            data.forEach(category => {
-                const option = document.createElement('option');
-                option.value = `#${category.id}`;
-                option.textContent = category.category;
-                selectEl.appendChild(option);
-            });
-        }
-        
-        // === NEW: Function to render the sidebar category select dropdown ===
-        function renderSidebarCategorySelect(data) {
-            const selectEl = document.getElementById('sidebar-category-select');
-            if (!selectEl) return;
-            selectEl.innerHTML = '<option value="">-- 快速跳轉分類 --</option>';
-            data.forEach(category => {
-                const option = document.createElement('option');
-                option.value = `#${category.id}`;
-                option.textContent = category.category;
-                selectEl.appendChild(option);
+            const nav = document.getElementById('sidebar-nav');
+            if (!nav) return;
+            nav.innerHTML = '';
+            data.forEach(cat => {
+                const a = document.createElement('a');
+                a.href = `#${cat.id}`;
+                a.className = 'sidebar-nav-link';
+                a.textContent = cat.category;
+                a.dataset.targetId = cat.id;
+                nav.appendChild(a);
             });
         }
 
-        function renderVocabularyContent(data) {
-            const vocabContent = document.getElementById('vocabulary-content');
-            if (!vocabContent) return;
-            vocabContent.innerHTML = '';
+        function renderSelects(data) {
+            const selects = ['category-select-mobile', 'sidebar-category-select'];
+            selects.forEach(id => {
+                const el = document.getElementById(id);
+                if (!el) return;
+                el.innerHTML = '<option value="">— jump to —</option>';
+                data.forEach(cat => {
+                    const opt = document.createElement('option');
+                    opt.value = `#${cat.id}`;
+                    opt.textContent = cat.category;
+                    el.appendChild(opt);
+                });
+            });
+        }
 
-            data.forEach(categoryData => {
-                const categoryCard = document.createElement('div');
-                categoryCard.id = categoryData.id;
-                categoryCard.className = 'vocab-category-card';
+        function renderContent(data) {
+            const container = document.getElementById('vocabulary-content');
+            if (!container) return;
+            container.innerHTML = '';
 
-                const categoryTitleEl = document.createElement('h2');
-                categoryTitleEl.className = 'text-2xl md:text-3xl font-bold category-title';
-                categoryTitleEl.textContent = categoryData.category;
-                categoryCard.appendChild(categoryTitleEl);
+            data.forEach(cat => {
+                const section = document.createElement('div');
+                section.id = cat.id;
+                section.className = 'vocab-category-card';
 
-                const itemsContainer = document.createElement('div');
-                if (categoryData.type === "greetings") {
-                    itemsContainer.className = 'greeting-list';
-                    categoryData.items.forEach(item => {
+                const title = document.createElement('h2');
+                title.className = 'category-title';
+                title.textContent = cat.category;
+                section.appendChild(title);
+
+                const grid = document.createElement('div');
+                if (cat.type === 'greetings') {
+                    grid.className = 'greeting-list';
+                    cat.items.forEach(item => {
                         const div = document.createElement('div');
                         div.className = 'greeting-item';
-                        div.innerHTML = `<span class="greeting-ko">${sanitizeHTML(item.ko)}</span><span class="greeting-zh">${sanitizeHTML(item.zh)}</span>`;
-                        itemsContainer.appendChild(div);
+                        div.innerHTML = `
+                            <span class="greeting-ko">${sanitizeHTML(item.ko)}</span>
+                            <span class="greeting-zh">${sanitizeHTML(item.zh)}</span>
+                        `;
+                        grid.appendChild(div);
                     });
-                } else if (categoryData.type === "detailed") {
-                    itemsContainer.className = 'grid grid-cols-1 xl:grid-cols-2 gap-4';
-                    categoryData.items.forEach(item => {
-                        const itemDiv = document.createElement('div');
-                        itemDiv.className = 'vocab-card'; 
-                        const exampleKoHighlighted = highlightWordInExample(item.exampleKo, item.korean);
-
-                        itemDiv.innerHTML = `
-                            <div class="vocab-card-header">
-                                <div class="vocab-card-main">
-                                    <h3 class="korean-word">${sanitizeHTML(item.korean)}</h3>
-                                    <p class="chinese-meaning">
+                } else if (cat.type === 'detailed') {
+                    grid.className = 'grid grid-cols-1 xl:grid-cols-2 gap-4';
+                    cat.items.forEach(item => {
+                        const card = document.createElement('div');
+                        card.className = 'vocab-card';
+                        const exampleHighlight = highlightWord(item.exampleKo, item.korean);
+                        card.innerHTML = `
+                            <div class="flex items-start justify-between gap-3">
+                                <div>
+                                    <div class="korean-word">${sanitizeHTML(item.korean)}</div>
+                                    <div class="chinese-meaning">
                                         ${sanitizeHTML(item.chinese)}
                                         <span class="part-of-speech">(${sanitizeHTML(item.pos || '')})</span>
-                                    </p>
+                                    </div>
                                 </div>
-                                <button class="audio-button" aria-label="播放 ${sanitizeHTML(item.korean)} 發音">
-                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                                <button class="audio-button" aria-label="Play pronunciation">
+                                    <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
                                         <path fill-rule="evenodd" d="M9.383 3.076A1 1 0 0110 4v12a1 1 0 01-1.707.707L4.586 13H2a1 1 0 01-1-1V8a1 1 0 011-1h2.586l3.707-3.707a1 1 0 011.09-.217zM14.657 2.929a1 1 0 011.414 0A9.972 9.972 0 0119 10a9.972 9.972 0 01-2.929 7.071 1 1 0 01-1.414-1.414A7.971 7.971 0 0017 10c0-2.21-.894-4.208-2.343-5.657a1 1 0 010-1.414zm-2.828 2.828a1 1 0 011.414 0A5.983 5.983 0 0115 10a5.984 5.984 0 01-1.757 4.243 1 1 0 01-1.414-1.414A3.986 3.986 0 0013 10a3.986 3.986 0 00-1.172-2.828 1 1 0 010-1.414z" clip-rule="evenodd" />
                                     </svg>
                                 </button>
                             </div>
                             <div class="example-block">
-                                <p class="example-sentence" lang="ko">${exampleKoHighlighted}</p>
-                                <p class="translation">${sanitizeHTML(item.exampleZh)}</p>
+                                <p class="text-sm" lang="ko">${exampleHighlight}</p>
+                                <p class="text-xs text-[#6b6660] mt-0.5">${sanitizeHTML(item.exampleZh)}</p>
                             </div>
                         `;
-                        itemsContainer.appendChild(itemDiv);
+                        grid.appendChild(card);
                     });
                 }
-                categoryCard.appendChild(itemsContainer);
-                vocabContent.appendChild(categoryCard);
+                section.appendChild(grid);
+                container.appendChild(section);
             });
         }
 
         function setupIntersectionObserver() {
-            const sidebarLinks = document.querySelectorAll('#sidebar-nav a');
+            const links = document.querySelectorAll('#sidebar-nav a');
             const sections = document.querySelectorAll('.vocab-category-card');
-            
-            const options = {
-                root: null,
-                rootMargin: "-80px 0px -50% 0px",
-                threshold: 0
-            };
+            if (!links.length || !sections.length) return;
 
-            observer = new IntersectionObserver((entries) => {
+            const observer = new IntersectionObserver((entries) => {
                 entries.forEach(entry => {
-                    const link = document.querySelector(`.sidebar-nav-link[data-target-id="${entry.target.id}"]`);
-                    if (entry.isIntersecting && link) {
-                        sidebarLinks.forEach(l => l.classList.remove('active'));
-                        link.classList.add('active');
+                    if (entry.isIntersecting) {
+                        const link = document.querySelector(`.sidebar-nav-link[data-target-id="${entry.target.id}"]`);
+                        if (link) {
+                            links.forEach(l => l.classList.remove('active'));
+                            link.classList.add('active');
+                        }
                     }
                 });
-            }, options);
+            }, { root: null, rootMargin: "-80px 0px -50% 0px", threshold: 0 });
 
-            sections.forEach(section => observer.observe(section));
+            sections.forEach(s => observer.observe(s));
         }
-        
+
         function setupSelectNav(selector) {
-             const selectEl = document.getElementById(selector);
-            if (!selectEl) return;
-            
-            selectEl.addEventListener('change', (event) => {
-                const targetId = event.target.value;
-                if (!targetId) return;
-                
-                const targetElement = document.querySelector(targetId);
-                if (targetElement) {
-                    targetElement.scrollIntoView({
-                        behavior: 'smooth',
-                        block: 'start'
-                    });
-                     // Reset select to the default option after jumping
-                    selectEl.value = "";
+            const el = document.getElementById(selector);
+            if (!el) return;
+            el.addEventListener('change', function() {
+                const val = this.value;
+                if (!val) return;
+                const target = document.querySelector(val);
+                if (target) {
+                    target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    this.value = '';
                 }
             });
         }
-        
 
-        document.addEventListener('DOMContentLoaded', () => {
-            const vocabContent = document.getElementById('vocabulary-content');
-            const jsonFileUrl = new URL('../data/vocabulary.json', window.location.href).href;
+        document.addEventListener('DOMContentLoaded', function() {
+            // 年份
+            document.getElementById('year').textContent = new Date().getFullYear();
 
-            fetch(jsonFileUrl)
-                .then(response => {
-                    if (!response.ok) throw new Error(`HTTP error ${response.status}`);
-                    return response.json();
+            // 行動選單
+            const toggle = document.getElementById('menu-toggle');
+            const menu = document.getElementById('mobile-menu');
+            if (toggle && menu) {
+                toggle.addEventListener('click', () => menu.classList.toggle('hidden'));
+            }
+
+            // 載入資料
+            const url = new URL('../data/vocabulary.json', window.location.href).href;
+            fetch(url)
+                .then(res => {
+                    if (!res.ok) throw new Error('HTTP ' + res.status);
+                    return res.json();
                 })
-                .then(loadedData => {
-                    vocabularyDataGlobal = loadedData;
-                    renderSidebar(vocabularyDataGlobal);
-                    renderMobileCategorySelect(vocabularyDataGlobal);
-                    renderSidebarCategorySelect(vocabularyDataGlobal); // Render the new sidebar dropdown
-                    renderVocabularyContent(vocabularyDataGlobal);
-                    
+                .then(data => {
+                    vocabularyData = data;
+                    renderSidebar(data);
+                    renderSelects(data);
+                    renderContent(data);
                     setupIntersectionObserver();
-                    setupSelectNav('category-select-mobile'); // Setup mobile select
-                    setupSelectNav('sidebar-category-select'); // Setup new sidebar select
+                    setupSelectNav('category-select-mobile');
+                    setupSelectNav('sidebar-category-select');
                 })
-                .catch(error => {
-                    console.error('無法載入單字資料:', error);
-                    if (vocabContent) {
-                        vocabContent.innerHTML = '<p class="text-xl text-red-400 text-center">單字資料載入失敗，請檢查路徑或檔案。</p>';
-                    }
+                .catch(err => {
+                    document.getElementById('vocabulary-content').innerHTML =
+                        `<p class="text-center text-red-400/70 text-sm">Failed to load vocabulary data.</p>`;
+                    console.error(err);
                 });
-            
-            const yearSpan = document.getElementById('current-year');
-            if (yearSpan) {
-                yearSpan.textContent = new Date().getFullYear();
-            }
-
-            const menuButton = document.getElementById('mobile-menu-button');
-            const mobileMenu = document.getElementById('mobile-menu');
-            if(menuButton && mobileMenu) {
-                menuButton.addEventListener('click', () => {
-                    mobileMenu.classList.toggle('hidden');
-                });
-            }
         });
     </script>
 </body>
