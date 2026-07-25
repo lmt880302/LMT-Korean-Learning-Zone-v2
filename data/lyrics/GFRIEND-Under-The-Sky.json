@@ -1,0 +1,476 @@
+{
+  "id": "GFRIEND-Under-The-Sky",
+  "title": "Under The Sky (하늘 아래서)",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "끝없이 흩날리던 우리들의 봄날에",
+      "translation": "在無盡飄散的我們的春日",
+      "analysis": [
+        { "point": "끝없이", "explanation": "副詞，無盡地。" },
+        { "point": "흩날리던", "explanation": "흩날리다 (飄散) + 던 (過去回想定語形)。" },
+        { "point": "우리들의", "explanation": "우리 (我們) + 들 (複數) + 의 (所有格)。" },
+        { "point": "봄날에", "explanation": "봄날 (春日) + 에 (時間格)。" }
+      ]
+    },
+    {
+      "korean": "끝나지 않을 것만 같던 어둡던 날에",
+      "translation": "在彷彿不會結束的黑暗日子裡",
+      "analysis": [
+        { "point": "끝나지 않을 것만 같던", "explanation": "끝나다 (結束) + 지 않다 (否定) + 을 것 (將要) + 만 같다 (好像) + 던 (過去回想定語)。" },
+        { "point": "어둡던", "explanation": "어둡다 (黑暗的) + 던 (過去回想定語)。" },
+        { "point": "날에", "explanation": "날 (日子) + 에 (時間格)。" }
+      ]
+    },
+    {
+      "korean": "새롭게 펼쳐지는 미래야 이젠 안녕",
+      "translation": "嶄新展開的未來啊 現在說再見",
+      "analysis": [
+        { "point": "새롭게", "explanation": "새롭다 (新的) + 게 (副詞形)。" },
+        { "point": "펼쳐지는", "explanation": "펼쳐지다 (展開) + 는 (定語形)。" },
+        { "point": "미래야", "explanation": "미래 (未來) + 야 (呼格)。" },
+        { "point": "이젠", "explanation": "이제는 (現在) 的縮略。" },
+        { "point": "안녕", "explanation": "再見。" }
+      ]
+    },
+    {
+      "korean": "이 하얀 하늘 아래서 꿈을 꾸네",
+      "translation": "在這片白色天空下做著夢",
+      "analysis": [
+        { "point": "이", "explanation": "這。" },
+        { "point": "하얀", "explanation": "하얗다 (白色的) 的定語形。" },
+        { "point": "하늘", "explanation": "名詞，天空。" },
+        { "point": "아래서", "explanation": "아래 (下面) + 서 (位置格)。" },
+        { "point": "꿈을 꾸네", "explanation": "꿈 (夢) + 을 (受格) + 꾸다 (做夢) + 네 (感嘆/陳述語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "밤 하늘의 별을 따라가면",
+      "translation": "如果跟隨夜空中的星星",
+      "analysis": [
+        { "point": "밤 하늘의", "explanation": "밤 (夜晚) + 하늘 (天空) + 의 (所有格)。" },
+        { "point": "별을", "explanation": "별 (星星) + 을 (受格)。" },
+        { "point": "따라가면", "explanation": "따라가다 (跟隨) + 으면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "닿을지 몰라 포기 않고",
+      "translation": "也許能觸及 不放棄",
+      "analysis": [
+        { "point": "닿을지 몰라", "explanation": "닿다 (觸及) + 을지 모르다 (也許會)。" },
+        { "point": "포기 않고", "explanation": "포기 (放棄) + 않다 (不) + 고 (連接)。" }
+      ]
+    },
+    {
+      "korean": "가다 보면 잡을지 몰라",
+      "translation": "走下去的話 也許能抓住",
+      "analysis": [
+        { "point": "가다 보면", "explanation": "가다 (走) + 아/어 보면 (如果持續做的話)。" },
+        { "point": "잡을지 몰라", "explanation": "잡다 (抓住) + 을지 모르다 (也許會)。" }
+      ]
+    },
+    {
+      "korean": "조금씩 조금씩 걷다가 보면",
+      "translation": "如果一點一點地走著走著",
+      "analysis": [
+        { "point": "조금씩", "explanation": "副詞，一點一點地。" },
+        { "point": "걷다가 보면", "explanation": "걷다 (走) + 다가 (途中) + 보면 (如果...的話)。" }
+      ]
+    },
+    {
+      "korean": "힘들어도 괜찮아",
+      "translation": "即使辛苦也沒關係",
+      "analysis": [
+        { "point": "힘들어도", "explanation": "힘들다 (辛苦) + 아/어도 (即使)。" },
+        { "point": "괜찮아", "explanation": "괜찮다 (沒關係) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "그저 상상만으로도 너무 좋아",
+      "translation": "僅憑想像就已經很好",
+      "analysis": [
+        { "point": "그저", "explanation": "副詞，僅僅。" },
+        { "point": "상상만으로도", "explanation": "상상 (想像) + 만 (只) + 으로 (以) + 도 (也)。" },
+        { "point": "너무", "explanation": "副詞，非常。" },
+        { "point": "좋아", "explanation": "좋다 (好) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "손에 닿을 것만 같아 너무 좋아",
+      "translation": "彷彿觸手可及 太好了",
+      "analysis": [
+        { "point": "손에", "explanation": "손 (手) + 에 (位置)。" },
+        { "point": "닿을 것만 같아", "explanation": "닿다 (觸及) + 을 것 (將要) + 만 같다 (好像)。" },
+        { "point": "너무 좋아", "explanation": "非常好。" }
+      ]
+    },
+    {
+      "korean": "이젠 나의 꿈을 한 걸음씩 찾아간다면",
+      "translation": "現在如果一步一步去尋找我的夢想",
+      "analysis": [
+        { "point": "이젠", "explanation": "現在。" },
+        { "point": "나의", "explanation": "我的。" },
+        { "point": "꿈을", "explanation": "꿈 (夢) + 을 (受格)。" },
+        { "point": "한 걸음씩", "explanation": "한 걸음 (一步) + 씩 (每)。" },
+        { "point": "찾아간다면", "explanation": "찾아가다 (去尋找) + ㄴ다면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "언젠간 할 수 있어",
+      "translation": "總有一天能做到",
+      "analysis": [
+        { "point": "언젠간", "explanation": "언젠가 (總有一天) + 는 (主題) 的縮略。" },
+        { "point": "할 수 있어", "explanation": "하다 (做) + ㄹ 수 있다 (可以) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "끝없이 흩날리던 우리들의 봄날에",
+      "translation": "在無盡飄散的我們的春日",
+      "analysis": [
+        { "point": "끝없이 흩날리던 우리들의 봄날에", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "끝나지 않을 것만 같던 어둡던 날에",
+      "translation": "在彷彿不會結束的黑暗日子裡",
+      "analysis": [
+        { "point": "끝나지 않을 것만 같던 어둡던 날에", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "새롭게 펼쳐지는 미래야 이젠 안녕",
+      "translation": "嶄新展開的未來啊 現在說再見",
+      "analysis": [
+        { "point": "새롭게 펼쳐지는 미래야 이젠 안녕", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "당당하게 걷겠어",
+      "translation": "我會自信地走下去",
+      "analysis": [
+        { "point": "당당하게", "explanation": "당당하다 (自信的) + 게 (副詞形)。" },
+        { "point": "걷겠어", "explanation": "걷다 (走) + 겠 (意志) + 어 (非格式體)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "새하얀 저 하늘 아래서",
+      "translation": "在雪白的那片天空下",
+      "analysis": [
+        { "point": "새하얀", "explanation": "새하얗다 (雪白的) 的定語形。" },
+        { "point": "저", "explanation": "那。" },
+        { "point": "하늘", "explanation": "天空。" },
+        { "point": "아래서", "explanation": "下面 + 位置格。" }
+      ]
+    },
+    {
+      "korean": "떨어진 벚꽃 길 위에서",
+      "translation": "在飄落的櫻花路上",
+      "analysis": [
+        { "point": "떨어진", "explanation": "떨어지다 (落下、飄落) + ㄴ (過去定語)。" },
+        { "point": "벚꽃", "explanation": "名詞，櫻花。" },
+        { "point": "길", "explanation": "名詞，路。" },
+        { "point": "위에서", "explanation": "위 (上面) + 에서 (位置格)。" }
+      ]
+    },
+    {
+      "korean": "새롭게 다가올 날에 이젠 안녕",
+      "translation": "對即將嶄新到來的日子 現在說再見",
+      "analysis": [
+        { "point": "새롭게", "explanation": "嶄新地。" },
+        { "point": "다가올", "explanation": "다가오다 (靠近、到來) + ㄹ (未來定語)。" },
+        { "point": "날에", "explanation": "날 (日子) + 에 (時間格)。" },
+        { "point": "이젠 안녕", "explanation": "現在再見。" }
+      ]
+    },
+    {
+      "korean": "저 푸른 달빛 아래서 꿈을 꾸네",
+      "translation": "在那片藍色月光下做著夢",
+      "analysis": [
+        { "point": "저", "explanation": "那。" },
+        { "point": "푸른", "explanation": "푸르다 (藍色/綠色的) 的定語形。" },
+        { "point": "달빛", "explanation": "名詞，月光。" },
+        { "point": "아래서", "explanation": "下面。" },
+        { "point": "꿈을 꾸네", "explanation": "做著夢。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 4",
+      "korean": "높은 하늘 위로 날아가서 네게 갈 거야",
+      "translation": "我會飛向高高的天空之上 去到你的身邊",
+      "analysis": [
+        { "point": "높은", "explanation": "높다 (高的) 的定語形。" },
+        { "point": "하늘", "explanation": "天空。" },
+        { "point": "위로", "explanation": "위 (上面) + 로 (往)。" },
+        { "point": "날아가서", "explanation": "날아가다 (飛去) + 아/어서 (連接)。" },
+        { "point": "네게", "explanation": "네 (你) + 에게 (向)。" },
+        { "point": "갈 거야", "explanation": "가다 (去) + ㄹ 것이다 (將要) 的口語縮略。" }
+      ]
+    },
+    {
+      "korean": "혼잣말로 멈추지 마 포기하지 마",
+      "translation": "不要自言自語地停下 不要放棄",
+      "analysis": [
+        { "point": "혼잣말로", "explanation": "혼잣말 (自言自語) + 로 (用、以)。" },
+        { "point": "멈추지 마", "explanation": "멈추다 (停止) + 지 마 (不要)。" },
+        { "point": "포기하지 마", "explanation": "포기하다 (放棄) + 지 마 (不要)。" }
+      ]
+    },
+    {
+      "korean": "시간이 아무리 걸려도 좋아",
+      "translation": "即使花再多時間也沒關係",
+      "analysis": [
+        { "point": "시간이", "explanation": "시간 (時間) + 이 (主格)。" },
+        { "point": "아무리", "explanation": "副詞，無論多麼。" },
+        { "point": "걸려도", "explanation": "걸리다 (花費) + 아/어도 (即使)。" },
+        { "point": "좋아", "explanation": "好、沒關係。" }
+      ]
+    },
+    {
+      "korean": "내 꿈을 이뤄낼 거야",
+      "translation": "我會實現我的夢想",
+      "analysis": [
+        { "point": "내", "explanation": "我的。" },
+        { "point": "꿈을", "explanation": "꿈 (夢) + 을 (受格)。" },
+        { "point": "이뤄낼 거야", "explanation": "이뤄내다 (實現) + ㄹ 것이다 (將要) 的口語縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "상상한 미래가 희미해질 때면",
+      "translation": "當想像的未來變得模糊時",
+      "analysis": [
+        { "point": "상상한", "explanation": "상상하다 (想像) + ㄴ (過去定語)。" },
+        { "point": "미래가", "explanation": "미래 (未來) + 가 (主格)。" },
+        { "point": "희미해질 때면", "explanation": "희미해지다 (變得模糊) + ㄹ 때 (時候) + 면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "언제 올지 몰라 불안해질 때면",
+      "translation": "當不知道何時會來而感到不安時",
+      "analysis": [
+        { "point": "언제 올지 몰라", "explanation": "언제 (何時) + 오다 (來) + ㄹ지 모르다 (不知道)。" },
+        { "point": "불안해질 때면", "explanation": "불안해지다 (變得不安) + ㄹ 때 (時候) + 면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "그땐 나에게 속삭이며 주문을 걸어 봐",
+      "translation": "那時對自己低語 試著唸咒語",
+      "analysis": [
+        { "point": "그땐", "explanation": "그때는 (那時) 的縮略。" },
+        { "point": "나에게", "explanation": "나 (我) + 에게 (對)。" },
+        { "point": "속삭이며", "explanation": "속삭이다 (低語、耳語) + 며 (同時)。" },
+        { "point": "주문을 걸어 봐", "explanation": "주문 (咒語) + 을 (受格) + 걸다 (掛、唸) + 아/어 보다 (嘗試) + 아 (請求)。" }
+      ]
+    },
+    {
+      "korean": "언젠간 할 수 있어",
+      "translation": "總有一天能做到",
+      "analysis": [
+        { "point": "언젠간 할 수 있어", "explanation": "同前。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "끝없이 흩날리던 우리들의 봄날에",
+      "translation": "在無盡飄散的我們的春日",
+      "analysis": [
+        { "point": "끝없이 흩날리던 우리들의 봄날에", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "끝나지 않을 것만 같던 어둡던 날에",
+      "translation": "在彷彿不會結束的黑暗日子裡",
+      "analysis": [
+        { "point": "끝나지 않을 것만 같던 어둡던 날에", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "새롭게 펼쳐지는 미래야 이젠 안녕",
+      "translation": "嶄新展開的未來啊 現在說再見",
+      "analysis": [
+        { "point": "새롭게 펼쳐지는 미래야 이젠 안녕", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "이 하얀 하늘 아래서 꿈을 꾸네",
+      "translation": "在這片白色天空下做著夢",
+      "analysis": [
+        { "point": "이 하얀 하늘 아래서 꿈을 꾸네", "explanation": "同前。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "이젠 알 수 있어 또 할 수 있어",
+      "translation": "現在能明白 也能做到",
+      "analysis": [
+        { "point": "이젠", "explanation": "現在。" },
+        { "point": "알 수 있어", "explanation": "알다 (知道) + ㄹ 수 있다 (可以)。" },
+        { "point": "또", "explanation": "又、也。" },
+        { "point": "할 수 있어", "explanation": "하다 (做) + ㄹ 수 있다 (可以)。" }
+      ]
+    },
+    {
+      "korean": "나의 빛이 닿을 거야",
+      "translation": "我的光芒會到達",
+      "analysis": [
+        { "point": "나의", "explanation": "我的。" },
+        { "point": "빛이", "explanation": "빛 (光) + 이 (主格)。" },
+        { "point": "닿을 거야", "explanation": "닿다 (觸及、到達) + ㄹ 것이다 (將要) 的口語縮略。" }
+      ]
+    },
+    {
+      "korean": "영원히 저 하늘 아래서 Baby",
+      "translation": "永遠在那片天空下 Baby",
+      "analysis": [
+        { "point": "영원히", "explanation": "副詞，永遠。" },
+        { "point": "저 하늘 아래서", "explanation": "那片天空下。" },
+        { "point": "Baby", "explanation": "英文，寶貝，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "끝없이 흩날리던 우리들의 봄날에",
+      "translation": "在無盡飄散的我們的春日",
+      "analysis": [
+        { "point": "끝없이 흩날리던 우리들의 봄날에", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "끝나지 않을 것만 같던 어둡던 날에",
+      "translation": "在彷彿不會結束的黑暗日子裡",
+      "analysis": [
+        { "point": "끝나지 않을 것만 같던 어둡던 날에", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "새롭게 펼쳐지는 미래야 이젠 안녕",
+      "translation": "嶄新展開的未來啊 現在說再見",
+      "analysis": [
+        { "point": "새롭게 펼쳐지는 미래야 이젠 안녕", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "당당하게 걷겠어",
+      "translation": "我會自信地走下去",
+      "analysis": [
+        { "point": "당당하게 걷겠어", "explanation": "同前。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "새하얀 저 하늘 아래서",
+      "translation": "在雪白的那片天空下",
+      "analysis": [
+        { "point": "새하얀 저 하늘 아래서", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "떨어진 벚꽃 길 위에서",
+      "translation": "在飄落的櫻花路上",
+      "analysis": [
+        { "point": "떨어진 벚꽃 길 위에서", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "새롭게 다가올 날에 이젠 안녕",
+      "translation": "對即將嶄新到來的日子 現在說再見",
+      "analysis": [
+        { "point": "새롭게 다가올 날에 이젠 안녕", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "저 푸른 달빛 아래서",
+      "translation": "在那片藍色月光下",
+      "analysis": [
+        { "point": "저 푸른 달빛 아래서", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "Lalalalalalalalala",
+      "translation": "Lalalalalalalalala",
+      "analysis": [
+        { "point": "Lalalalalalalalala", "explanation": "擬聲詞，無特定文法意義，不進行解析。" }
+      ]
+    },
+    {
+      "korean": "Lalalalalalalalala",
+      "translation": "Lalalalalalalalala",
+      "analysis": [
+        { "point": "Lalalalalalalalala", "explanation": "擬聲詞，無特定文法意義，不進行解析。" }
+      ]
+    },
+    {
+      "korean": "Lalalalalalalalala",
+      "translation": "Lalalalalalalalala",
+      "analysis": [
+        { "point": "Lalalalalalalalala", "explanation": "擬聲詞，無特定文法意義，不進行解析。" }
+      ]
+    },
+    {
+      "korean": "Lalalalalalalalala",
+      "translation": "Lalalalalalalalala",
+      "analysis": [
+        { "point": "Lalalalalalalalala", "explanation": "擬聲詞，無特定文法意義，不進行解析。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "끝없이", "chinese": "無盡地", "pos": "副詞" },
+    { "korean": "흩날리다", "chinese": "飄散", "pos": "動詞" },
+    { "korean": "봄날", "chinese": "春日", "pos": "名詞" },
+    { "korean": "끝나다", "chinese": "結束", "pos": "動詞" },
+    { "korean": "어둡다", "chinese": "黑暗的", "pos": "形容詞" },
+    { "korean": "새롭다", "chinese": "新的", "pos": "形容詞" },
+    { "korean": "펼쳐지다", "chinese": "展開", "pos": "動詞" },
+    { "korean": "미래", "chinese": "未來", "pos": "名詞" },
+    { "korean": "안녕", "chinese": "再見", "pos": "名詞" },
+    { "korean": "하얗다", "chinese": "白色的", "pos": "形容詞" },
+    { "korean": "하늘", "chinese": "天空", "pos": "名詞" },
+    { "korean": "아래", "chinese": "下面", "pos": "名詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "꾸다", "chinese": "做夢", "pos": "動詞" },
+    { "korean": "밤", "chinese": "夜晚", "pos": "名詞" },
+    { "korean": "별", "chinese": "星星", "pos": "名詞" },
+    { "korean": "따라가다", "chinese": "跟隨", "pos": "動詞" },
+    { "korean": "닿다", "chinese": "觸及", "pos": "動詞" },
+    { "korean": "포기", "chinese": "放棄", "pos": "名詞" },
+    { "korean": "잡다", "chinese": "抓住", "pos": "動詞" },
+    { "korean": "조금씩", "chinese": "一點一點地", "pos": "副詞" },
+    { "korean": "걷다", "chinese": "走", "pos": "動詞" },
+    { "korean": "힘들다", "chinese": "辛苦", "pos": "形容詞" },
+    { "korean": "괜찮다", "chinese": "沒關係", "pos": "形容詞" },
+    { "korean": "그저", "chinese": "僅僅", "pos": "副詞" },
+    { "korean": "상상", "chinese": "想像", "pos": "名詞" },
+    { "korean": "좋다", "chinese": "好", "pos": "形容詞" },
+    { "korean": "손", "chinese": "手", "pos": "名詞" },
+    { "korean": "찾아가다", "chinese": "去尋找", "pos": "動詞" },
+    { "korean": "언젠간", "chinese": "總有一天", "pos": "副詞" },
+    { "korean": "당당하다", "chinese": "自信的", "pos": "形容詞" },
+    { "korean": "새하얗다", "chinese": "雪白的", "pos": "形容詞" },
+    { "korean": "떨어지다", "chinese": "落下", "pos": "動詞" },
+    { "korean": "벚꽃", "chinese": "櫻花", "pos": "名詞" },
+    { "korean": "길", "chinese": "路", "pos": "名詞" },
+    { "korean": "다가오다", "chinese": "到來", "pos": "動詞" },
+    { "korean": "푸르다", "chinese": "藍色/綠色的", "pos": "形容詞" },
+    { "korean": "달빛", "chinese": "月光", "pos": "名詞" },
+    { "korean": "높다", "chinese": "高的", "pos": "形容詞" },
+    { "korean": "날아가다", "chinese": "飛去", "pos": "動詞" },
+    { "korean": "혼잣말", "chinese": "自言自語", "pos": "名詞" },
+    { "korean": "멈추다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "걸리다", "chinese": "花費", "pos": "動詞" },
+    { "korean": "이뤄내다", "chinese": "實現", "pos": "動詞" },
+    { "korean": "희미해지다", "chinese": "變得模糊", "pos": "動詞" },
+    { "korean": "불안해지다", "chinese": "變得不安", "pos": "動詞" },
+    { "korean": "속삭이다", "chinese": "低語", "pos": "動詞" },
+    { "korean": "주문", "chinese": "咒語", "pos": "名詞" },
+    { "korean": "걸다", "chinese": "掛、唸", "pos": "動詞" },
+    { "korean": "빛", "chinese": "光", "pos": "名詞" },
+    { "korean": "영원히", "chinese": "永遠", "pos": "副詞" }
+  ]
+}

@@ -361,6 +361,12 @@
 "lyricsFile": "../data/lyrics/GFRIEND-TRUST.json"
 },
 {
+"id": "GFRIEND-Under-The-Sky",
+"title": "Under The Sky (하늘 아래서)",
+"artist": "GFRIEND (여자친구)",
+"lyricsFile": "../data/lyrics/GFRIEND-Under-The-Sky.json"
+},
+{
 "id": "GFRIEND-White",
 "title": "White (하얀마음)",
 "artist": "GFRIEND (여자친구)",
