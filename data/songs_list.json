@@ -331,6 +331,12 @@
 "lyricsFile": "../data/lyrics/GFRIEND-Summer Rain.json"
 },
 {
+"id": "GFRIEND-Stairs-In-The-North",
+"title": "Stairs In The North (북쪽 계단)",
+"artist": "GFRIEND (여자친구)",
+"lyricsFile": "../data/lyrics/GFRIEND-Sunrise.json"
+},
+{
 "id": "GFRIEND-Sunrise",
 "title": "Sunrise (해야)",
 "artist": "GFRIEND (여자친구)",
@@ -697,12 +703,6 @@
 "lyricsFile": "../data/lyrics/minah-colorful.json"
 },
 {
-"id": "minah-cry-me-out",
-"title": "Cry Me Out (Cover)",
-"artist": "MINAH (민아)",
-"lyricsFile": "../data/lyrics/minah-cry-me-out.json"
-},
-{
 "id": "minah-han-saram",
 "title": "한 사람",
 "artist": "MINAH (민아)",
@@ -755,6 +755,37 @@
 "title": "손만 잡을게 (feat. DINDIN)",
 "artist": "MINAH (민아)",
 "lyricsFile": "../data/lyrics/minah-sonman-jabeulge.json"
+},
+
+{
+"id": "RESCENE-Pretty-Girl",
+"title": "Pretty Girl",
+"artist": "RESCENE (리센느)",
+"lyricsFile": "../data/lyrics/RESCENE-Pretty-Girl.json"
+},
+{
+"id": "RESCENE-Deja-Vu",
+"title": "Deja Vu",
+"artist": "RESCENE (리센느)",
+"lyricsFile": "../data/lyrics/RESCENE-Deja-Vu.json"
+},
+{
+"id": "RESCENE-LOVE-ATTACK",
+"title": "LOVE ATTACK",
+"artist": "RESCENE (리센느)",
+"lyricsFile": "../data/lyrics/RESCENE-LOVE-ATTACK.json"
+},
+{
+"id": "RESCENE-Love-Echo",
+"title": "Love Echo",
+"artist": "RESCENE (리센느)",
+"lyricsFile": "../data/lyrics/RESCENE-Love-Echo.json"
+},
+{
+"id": "RESCENE-Love-Frequency",
+"title": "Love Frequency (고백주파수)",
+"artist": "RESCENE (리센느)",
+"lyricsFile": "../data/lyrics/RESCENE-Love-Frequency.json"
 },
 {
 "id": "mind-u-a-night-full-of-longing",

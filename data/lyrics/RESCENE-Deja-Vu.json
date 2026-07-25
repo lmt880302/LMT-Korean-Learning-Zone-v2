@@ -1,0 +1,609 @@
+{
+  "id": "RESCENE-Deja-Vu",
+  "title": "Deja Vu",
+  "artist": "RESCENE (리센느)",
+  "lines": [
+    {
+      "sectionTitle": "Intro",
+      "korean": "햇살 젖은 바람",
+      "translation": "浸透陽光的風",
+      "analysis": [
+        { "point": "햇살", "explanation": "名詞，陽光。" },
+        { "point": "젖은", "explanation": "젖다 (浸濕) + 은 (過去定語形)。" },
+        { "point": "바람", "explanation": "名詞，風。" }
+      ]
+    },
+    {
+      "korean": "잠이 든 I",
+      "translation": "入睡的我",
+      "analysis": [
+        { "point": "잠이 든", "explanation": "잠 (睡眠) + 이 (主格) + 들다 (進入) + 은 (過去定語)。" },
+        { "point": "I", "explanation": "英文，我，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "물든 창문 틈새",
+      "translation": "染上色彩的窗戶縫隙",
+      "analysis": [
+        { "point": "물든", "explanation": "물들다 (染色) + 은 (過去定語)。" },
+        { "point": "창문", "explanation": "名詞，窗戶。" },
+        { "point": "틈새", "explanation": "名詞，縫隙。" }
+      ]
+    },
+    {
+      "korean": "스며든 light",
+      "translation": "滲透進來的光",
+      "analysis": [
+        { "point": "스며든", "explanation": "스며들다 (滲透) + 은 (過去定語)。" },
+        { "point": "light", "explanation": "英文，光，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "나의 코끝을 스친 scent",
+      "translation": "掠過我鼻尖的香氣",
+      "analysis": [
+        { "point": "나의", "explanation": "我的。" },
+        { "point": "코끝을", "explanation": "코끝 (鼻尖) + 을 (受格)。" },
+        { "point": "스친", "explanation": "스치다 (掠過) + 은 (過去定語)。" },
+        { "point": "scent", "explanation": "英文，香氣，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "(그 향기에)",
+      "translation": "（在那香氣中）",
+      "analysis": [
+        { "point": "그", "explanation": "那。" },
+        { "point": "향기에", "explanation": "향기 (香氣) + 에 (位置格)。" }
+      ]
+    },
+    {
+      "korean": "피어난 작은 보조개",
+      "translation": "綻放的小酒窩",
+      "analysis": [
+        { "point": "피어난", "explanation": "피어나다 (綻放、浮現) + 은 (過去定語)。" },
+        { "point": "작은", "explanation": "작다 (小的) 的定語形。" },
+        { "point": "보조개", "explanation": "名詞，酒窩。" }
+      ]
+    },
+    {
+      "korean": "(Oh It’s so bright)",
+      "translation": "（Oh 如此明亮）",
+      "analysis": [
+        { "point": "Oh It's so bright", "explanation": "英文，感嘆，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "책상 위에 그린 낙서",
+      "translation": "書桌上畫的塗鴉",
+      "analysis": [
+        { "point": "책상", "explanation": "名詞，書桌。" },
+        { "point": "위에", "explanation": "위 (上面) + 에 (位置)。" },
+        { "point": "그린", "explanation": "그리다 (畫) + 은 (過去定語)。" },
+        { "point": "낙서", "explanation": "名詞，塗鴉。" }
+      ]
+    },
+    {
+      "korean": "너와 나눈 그 비밀도",
+      "translation": "和你分享的那個秘密也",
+      "analysis": [
+        { "point": "너와", "explanation": "너 (你) + 와 (與)。" },
+        { "point": "나눈", "explanation": "나누다 (分享、分擔) + 은 (過去定語)。" },
+        { "point": "그 비밀도", "explanation": "그 (那) + 비밀 (秘密) + 도 (也)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "바람결에 실려 다시",
+      "translation": "乘著風 再次",
+      "analysis": [
+        { "point": "바람결에", "explanation": "바람결 (風) + 에 (位置格，表示乘著風)。" },
+        { "point": "실려", "explanation": "실리다 (被載、被乘) 的非格式體。" },
+        { "point": "다시", "explanation": "副詞，再次。" }
+      ]
+    },
+    {
+      "korean": "되돌아간 기분 after all",
+      "translation": "彷彿回到過去的感覺 after all",
+      "analysis": [
+        { "point": "되돌아간", "explanation": "되돌아가다 (回去、回到) + 은 (過去定語)。" },
+        { "point": "기분", "explanation": "名詞，感覺、心情。" },
+        { "point": "after all", "explanation": "英文，畢竟、終究，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "처음 스친 그때",
+      "translation": "初次掠過的那時",
+      "analysis": [
+        { "point": "처음", "explanation": "副詞，初次。" },
+        { "point": "스친", "explanation": "스치다 (掠過) + 은 (過去定語)。" },
+        { "point": "그때", "explanation": "名詞，那時。" }
+      ]
+    },
+    {
+      "korean": "이 향길 기억해 줘",
+      "translation": "請記住這香氣",
+      "analysis": [
+        { "point": "이", "explanation": "這。" },
+        { "point": "향길", "explanation": "향기 (香氣) + 을 (受格) 的縮略。" },
+        { "point": "기억해 줘", "explanation": "기억하다 (記住) + 아/어 주다 (為我) + 어 (請求/命令)。" }
+      ]
+    },
+    {
+      "korean": "닿은 그 순간",
+      "translation": "觸及的那瞬間",
+      "analysis": [
+        { "point": "닿은", "explanation": "닿다 (觸及、到達) + 은 (過去定語)。" },
+        { "point": "그 순간", "explanation": "그 (那) + 순간 (瞬間)。" }
+      ]
+    },
+    {
+      "korean": "펼쳐질 deja vu",
+      "translation": "將會展開的 deja vu",
+      "analysis": [
+        { "point": "펼쳐질", "explanation": "펼쳐지다 (展開) + ㄹ (未來定語)。" },
+        { "point": "deja vu", "explanation": "法文外來語，既視感，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "같은 꿈을 꾸듯",
+      "translation": "如同做著相同的夢",
+      "analysis": [
+        { "point": "같은", "explanation": "같다 (相同的) 的定語形。" },
+        { "point": "꿈을", "explanation": "꿈 (夢) + 을 (受格)。" },
+        { "point": "꾸듯", "explanation": "꾸다 (做夢) + 듯 (如同、好像)。" }
+      ]
+    },
+    {
+      "korean": "눈을 감아보면",
+      "translation": "若閉上眼睛",
+      "analysis": [
+        { "point": "눈을", "explanation": "눈 (眼睛) + 을 (受格)。" },
+        { "point": "감아보면", "explanation": "감다 (閉) + 아/어 보다 (嘗試) + 으면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "익숙한 deja vu",
+      "translation": "熟悉的 deja vu",
+      "analysis": [
+        { "point": "익숙한", "explanation": "익숙하다 (熟悉的) 的定語形。" },
+        { "point": "deja vu", "explanation": "法文外來語，不解析。" }
+      ]
+    },
+    {
+      "korean": "Oh oh oh ha",
+      "translation": "Oh oh oh ha",
+      "analysis": [
+        { "point": "Oh oh oh ha", "explanation": "感嘆詞，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "I I I I I",
+      "translation": "I I I I I",
+      "analysis": [
+        { "point": "I I I I I", "explanation": "英文，感嘆/和聲，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "Yeah it’s like a deja vu",
+      "translation": "Yeah 就像既視感",
+      "analysis": [
+        { "point": "Yeah it's like a deja vu", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "You and I",
+      "translation": "你和我",
+      "analysis": [
+        { "point": "You and I", "explanation": "英文，你和我，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "다시 닿을 수 없다 해도",
+      "translation": "即使說無法再次觸及",
+      "analysis": [
+        { "point": "다시", "explanation": "再次。" },
+        { "point": "닿을 수 없다 해도", "explanation": "닿다 (觸及) + ㄹ 수 없다 (無法) + 아/어도 (即使) + 하다 (說) 的連接。" }
+      ]
+    },
+    {
+      "korean": "같은 꿈을 꾸듯",
+      "translation": "如同做著相同的夢",
+      "analysis": [
+        { "point": "같은 꿈을 꾸듯", "explanation": "如同做著相同的夢。" }
+      ]
+    },
+    {
+      "korean": "눈을 감아보면",
+      "translation": "若閉上眼睛",
+      "analysis": [
+        { "point": "눈을 감아보면", "explanation": "若閉上眼睛。" }
+      ]
+    },
+    {
+      "korean": "익숙한 deja vu",
+      "translation": "熟悉的 deja vu",
+      "analysis": [
+        { "point": "익숙한 deja vu", "explanation": "熟悉的 deja vu。" }
+      ]
+    },
+    {
+      "korean": "Oh oh oh ha",
+      "translation": "Oh oh oh ha",
+      "analysis": [
+        { "point": "Oh oh oh ha", "explanation": "感嘆詞，不解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "빽빽한 책장 사이",
+      "translation": "密密麻麻的書架之間",
+      "analysis": [
+        { "point": "빽빽한", "explanation": "빽빽하다 (密密麻麻的) 的定語形。" },
+        { "point": "책장", "explanation": "名詞，書架。" },
+        { "point": "사이", "explanation": "名詞，之間。" }
+      ]
+    },
+    {
+      "korean": "손때 묻은 한 칸",
+      "translation": "沾上手指痕跡的一格",
+      "analysis": [
+        { "point": "손때", "explanation": "손때 (手垢、手指痕跡)。" },
+        { "point": "묻은", "explanation": "묻다 (沾上) + 은 (過去定語)。" },
+        { "point": "한 칸", "explanation": "한 (一) + 칸 (格、隔間)。" }
+      ]
+    },
+    {
+      "korean": "바랜 책 모퉁일",
+      "translation": "褪色的書角",
+      "analysis": [
+        { "point": "바랜", "explanation": "바래다 (褪色) + 은 (過去定語)。" },
+        { "point": "책", "explanation": "名詞，書。" },
+        { "point": "모퉁일", "explanation": "모퉁이 (角落、邊角) + ㄹ (受格，縮略為 일)。" }
+      ]
+    },
+    {
+      "korean": "넘기면 튀어나온",
+      "translation": "翻開的話 就會跳出的",
+      "analysis": [
+        { "point": "넘기면", "explanation": "넘기다 (翻頁) + 으면 (如果)。" },
+        { "point": "튀어나온", "explanation": "튀어나오다 (跳出、蹦出) + 은 (過去定語)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 4",
+      "korean": "자그만 이야길 들어",
+      "translation": "聽這個小小的故事",
+      "analysis": [
+        { "point": "자그만", "explanation": "자그맣다 (小小的) 的定語形 (縮略形式)。" },
+        { "point": "이야길", "explanation": "이야기 (故事) + 을 (受格) 的縮略。" },
+        { "point": "들어", "explanation": "듣다 (聽) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "(귀 기울여 봐)",
+      "translation": "（側耳傾聽看看）",
+      "analysis": [
+        { "point": "귀 기울여 봐", "explanation": "귀 (耳朵) + 기울이다 (傾斜) + 아/어 보다 (嘗試) + 아 (請求語氣)。" }
+      ]
+    },
+    {
+      "korean": "조금은 서툴렀던 날",
+      "translation": "曾經有點笨拙的我",
+      "analysis": [
+        { "point": "조금은", "explanation": "조금 (稍微) + 은 (強調)。" },
+        { "point": "서툴렀던", "explanation": "서투르다 (生疏、笨拙) + 었 (過去) + 던 (回想定語)。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略，此處可理解為 나。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "빛이 바랜 쪽지 속에",
+      "translation": "在褪色的便條紙裡",
+      "analysis": [
+        { "point": "빛이", "explanation": "빛 (光) + 이 (主格)。" },
+        { "point": "바랜", "explanation": "바래다 (褪色) + 은 (過去定語)。" },
+        { "point": "쪽지", "explanation": "名詞，便條紙。" },
+        { "point": "속에", "explanation": "속 (裡面) + 에 (位置)。" }
+      ]
+    },
+    {
+      "korean": "나를 어루만진 네 voice",
+      "translation": "撫慰我的你的聲音",
+      "analysis": [
+        { "point": "나를", "explanation": "我 (受格)。" },
+        { "point": "어루만진", "explanation": "어루만지다 (撫慰、輕撫) + 은 (過去定語)。" },
+        { "point": "네", "explanation": "你的。" },
+        { "point": "voice", "explanation": "英文，聲音，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "바람결에 실려 다시",
+      "translation": "乘著風 再次",
+      "analysis": [
+        { "point": "바람결에 실려", "explanation": "乘著風。" },
+        { "point": "다시", "explanation": "再次。" }
+      ]
+    },
+    {
+      "korean": "되돌아간 기분 after all",
+      "translation": "彷彿回到過去的感覺 after all",
+      "analysis": [
+        { "point": "되돌아간 기분", "explanation": "彷彿回到過去的感覺。" },
+        { "point": "after all", "explanation": "英文，不解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "처음 스친 그때",
+      "translation": "初次掠過的那時",
+      "analysis": [
+        { "point": "처음 스친 그때", "explanation": "初次掠過的那時。" }
+      ]
+    },
+    {
+      "korean": "이 향길 기억해 줘",
+      "translation": "請記住這香氣",
+      "analysis": [
+        { "point": "이 향길 기억해 줘", "explanation": "請記住這香氣。" }
+      ]
+    },
+    {
+      "korean": "닿은 그 순간",
+      "translation": "觸及的那瞬間",
+      "analysis": [
+        { "point": "닿은 그 순간", "explanation": "觸及的那瞬間。" }
+      ]
+    },
+    {
+      "korean": "펼쳐질 deja vu",
+      "translation": "將會展開的 deja vu",
+      "analysis": [
+        { "point": "펼쳐질 deja vu", "explanation": "將會展開的 deja vu。" }
+      ]
+    },
+    {
+      "korean": "같은 꿈을 꾸듯",
+      "translation": "如同做著相同的夢",
+      "analysis": [
+        { "point": "같은 꿈을 꾸듯", "explanation": "如同做著相同的夢。" }
+      ]
+    },
+    {
+      "korean": "눈을 감아보면",
+      "translation": "若閉上眼睛",
+      "analysis": [
+        { "point": "눈을 감아보면", "explanation": "若閉上眼睛。" }
+      ]
+    },
+    {
+      "korean": "익숙한 deja vu",
+      "translation": "熟悉的 deja vu",
+      "analysis": [
+        { "point": "익숙한 deja vu", "explanation": "熟悉的 deja vu。" }
+      ]
+    },
+    {
+      "korean": "Oh oh oh ha",
+      "translation": "Oh oh oh ha",
+      "analysis": [
+        { "point": "Oh oh oh ha", "explanation": "感嘆詞，不解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "(I’ve been thinking about you)",
+      "translation": "（我一直在想著你）",
+      "analysis": [
+        { "point": "I've been thinking about you", "explanation": "英文，我一直在想著你，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "그리워질 너와 나",
+      "translation": "會變得思念的你和我",
+      "analysis": [
+        { "point": "그리워질", "explanation": "그리워지다 (變得想念) + ㄹ (未來定語)。" },
+        { "point": "너와 나", "explanation": "你和我。" }
+      ]
+    },
+    {
+      "korean": "(I’ve been dreaming about you)",
+      "translation": "（我一直在夢見你）",
+      "analysis": [
+        { "point": "I've been dreaming about you", "explanation": "英文，我一直在夢見你，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "이 순간을 잊지 마",
+      "translation": "不要忘記這個瞬間",
+      "analysis": [
+        { "point": "이 순간을", "explanation": "這個瞬間 (受格)。" },
+        { "point": "잊지 마", "explanation": "잊다 (忘記) + 지 마 (不要，命令禁止)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "언젠가",
+      "translation": "總有一天",
+      "analysis": [
+        { "point": "언젠가", "explanation": "副詞，總有一天。" }
+      ]
+    },
+    {
+      "korean": "세상 끝에서",
+      "translation": "在世界的盡頭",
+      "analysis": [
+        { "point": "세상", "explanation": "名詞，世界。" },
+        { "point": "끝에서", "explanation": "끝 (盡頭) + 에서 (位置格)。" }
+      ]
+    },
+    {
+      "korean": "마주할 날",
+      "translation": "會相遇的日子",
+      "analysis": [
+        { "point": "마주할", "explanation": "마주하다 (面對、相遇) + ㄹ (未來定語)。" },
+        { "point": "날", "explanation": "名詞，日子。" }
+      ]
+    },
+    {
+      "korean": "오랜 deja vu",
+      "translation": "久遠的 deja vu",
+      "analysis": [
+        { "point": "오랜", "explanation": "오래되다 (長久) 的定語形。" },
+        { "point": "deja vu", "explanation": "法文外來語，不解析。" }
+      ]
+    },
+    {
+      "korean": "같은 꿈을 꾸듯",
+      "translation": "如同做著相同的夢",
+      "analysis": [
+        { "point": "같은 꿈을 꾸듯", "explanation": "如同做著相同的夢。" }
+      ]
+    },
+    {
+      "korean": "눈을 감아보면",
+      "translation": "若閉上眼睛",
+      "analysis": [
+        { "point": "눈을 감아보면", "explanation": "若閉上眼睛。" }
+      ]
+    },
+    {
+      "korean": "익숙한 deja vu",
+      "translation": "熟悉的 deja vu",
+      "analysis": [
+        { "point": "익숙한 deja vu", "explanation": "熟悉的 deja vu。" }
+      ]
+    },
+    {
+      "korean": "Oh oh oh ha",
+      "translation": "Oh oh oh ha",
+      "analysis": [
+        { "point": "Oh oh oh ha", "explanation": "感嘆詞，不解析。" }
+      ]
+    },
+    {
+      "korean": "I I I I I",
+      "translation": "I I I I I",
+      "analysis": [
+        { "point": "I I I I I", "explanation": "英文感嘆，不解析。" }
+      ]
+    },
+    {
+      "korean": "Yeah it’s like a deja vu",
+      "translation": "Yeah 就像既視感",
+      "analysis": [
+        { "point": "Yeah it's like a deja vu", "explanation": "英文，不解析。" }
+      ]
+    },
+    {
+      "korean": "You and I",
+      "translation": "你和我",
+      "analysis": [
+        { "point": "You and I", "explanation": "英文，不解析。" }
+      ]
+    },
+    {
+      "korean": "다시 닿을 수 없다 해도",
+      "translation": "即使說無法再次觸及",
+      "analysis": [
+        { "point": "다시 닿을 수 없다 해도", "explanation": "即使說無法再次觸及。" }
+      ]
+    },
+    {
+      "korean": "같은 꿈을 꾸듯",
+      "translation": "如同做著相同的夢",
+      "analysis": [
+        { "point": "같은 꿈을 꾸듯", "explanation": "如同做著相同的夢。" }
+      ]
+    },
+    {
+      "korean": "눈을 감아보면",
+      "translation": "若閉上眼睛",
+      "analysis": [
+        { "point": "눈을 감아보면", "explanation": "若閉上眼睛。" }
+      ]
+    },
+    {
+      "korean": "익숙한 deja vu",
+      "translation": "熟悉的 deja vu",
+      "analysis": [
+        { "point": "익숙한 deja vu", "explanation": "熟悉的 deja vu。" }
+      ]
+    },
+    {
+      "korean": "Oh oh oh ha",
+      "translation": "Oh oh oh ha",
+      "analysis": [
+        { "point": "Oh oh oh ha", "explanation": "感嘆詞，不解析。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "햇살", "chinese": "陽光", "pos": "名詞" },
+    { "korean": "젖다", "chinese": "浸濕", "pos": "動詞" },
+    { "korean": "바람", "chinese": "風", "pos": "名詞" },
+    { "korean": "잠", "chinese": "睡眠", "pos": "名詞" },
+    { "korean": "들다", "chinese": "進入", "pos": "動詞" },
+    { "korean": "물들다", "chinese": "染色", "pos": "動詞" },
+    { "korean": "창문", "chinese": "窗戶", "pos": "名詞" },
+    { "korean": "틈새", "chinese": "縫隙", "pos": "名詞" },
+    { "korean": "스며들다", "chinese": "滲透", "pos": "動詞" },
+    { "korean": "코끝", "chinese": "鼻尖", "pos": "名詞" },
+    { "korean": "스치다", "chinese": "掠過", "pos": "動詞" },
+    { "korean": "향기", "chinese": "香氣", "pos": "名詞" },
+    { "korean": "피어나다", "chinese": "綻放、浮現", "pos": "動詞" },
+    { "korean": "작다", "chinese": "小的", "pos": "形容詞" },
+    { "korean": "보조개", "chinese": "酒窩", "pos": "名詞" },
+    { "korean": "책상", "chinese": "書桌", "pos": "名詞" },
+    { "korean": "그리다", "chinese": "畫", "pos": "動詞" },
+    { "korean": "낙서", "chinese": "塗鴉", "pos": "名詞" },
+    { "korean": "나누다", "chinese": "分享", "pos": "動詞" },
+    { "korean": "비밀", "chinese": "秘密", "pos": "名詞" },
+    { "korean": "바람결", "chinese": "風", "pos": "名詞" },
+    { "korean": "실리다", "chinese": "被載、被乘", "pos": "動詞" },
+    { "korean": "되돌아가다", "chinese": "回去、回到", "pos": "動詞" },
+    { "korean": "기분", "chinese": "感覺", "pos": "名詞" },
+    { "korean": "처음", "chinese": "初次", "pos": "副詞" },
+    { "korean": "그때", "chinese": "那時", "pos": "名詞" },
+    { "korean": "기억하다", "chinese": "記住", "pos": "動詞" },
+    { "korean": "닿다", "chinese": "觸及", "pos": "動詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "펼쳐지다", "chinese": "展開", "pos": "動詞" },
+    { "korean": "같다", "chinese": "相同的", "pos": "形容詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "꾸다", "chinese": "做夢", "pos": "動詞" },
+    { "korean": "눈", "chinese": "眼睛", "pos": "名詞" },
+    { "korean": "감다", "chinese": "閉上", "pos": "動詞" },
+    { "korean": "익숙하다", "chinese": "熟悉的", "pos": "形容詞" },
+    { "korean": "빽빽하다", "chinese": "密密麻麻的", "pos": "形容詞" },
+    { "korean": "책장", "chinese": "書架", "pos": "名詞" },
+    { "korean": "사이", "chinese": "之間", "pos": "名詞" },
+    { "korean": "손때", "chinese": "手垢、手指痕跡", "pos": "名詞" },
+    { "korean": "묻다", "chinese": "沾上", "pos": "動詞" },
+    { "korean": "칸", "chinese": "格、隔間", "pos": "量詞/名詞" },
+    { "korean": "바래다", "chinese": "褪色", "pos": "動詞" },
+    { "korean": "책", "chinese": "書", "pos": "名詞" },
+    { "korean": "모퉁이", "chinese": "角落、邊角", "pos": "名詞" },
+    { "korean": "넘기다", "chinese": "翻頁", "pos": "動詞" },
+    { "korean": "튀어나오다", "chinese": "跳出", "pos": "動詞" },
+    { "korean": "자그맣다", "chinese": "小小的", "pos": "形容詞" },
+    { "korean": "이야기", "chinese": "故事", "pos": "名詞" },
+    { "korean": "듣다", "chinese": "聽", "pos": "動詞" },
+    { "korean": "귀", "chinese": "耳朵", "pos": "名詞" },
+    { "korean": "기울이다", "chinese": "傾斜", "pos": "動詞" },
+    { "korean": "서투르다", "chinese": "生疏的", "pos": "形容詞" },
+    { "korean": "쪽지", "chinese": "便條紙", "pos": "名詞" },
+    { "korean": "어루만지다", "chinese": "撫慰", "pos": "動詞" },
+    { "korean": "그리워지다", "chinese": "變得想念", "pos": "動詞" },
+    { "korean": "잊다", "chinese": "忘記", "pos": "動詞" },
+    { "korean": "언젠가", "chinese": "總有一天", "pos": "副詞" },
+    { "korean": "세상", "chinese": "世界", "pos": "名詞" },
+    { "korean": "끝", "chinese": "盡頭", "pos": "名詞" },
+    { "korean": "마주하다", "chinese": "面對、相遇", "pos": "動詞" },
+    { "korean": "날", "chinese": "日子", "pos": "名詞" },
+    { "korean": "오래되다", "chinese": "長久", "pos": "動詞" }
+  ]
+}

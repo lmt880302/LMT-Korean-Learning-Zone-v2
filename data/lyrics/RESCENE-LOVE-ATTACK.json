@@ -1,0 +1,752 @@
+{
+  "id": "RESCENE-LOVE-ATTACK",
+  "title": "LOVE ATTACK",
+  "artist": "RESCENE (리센느)",
+  "lines": [
+    {
+      "sectionTitle": "Intro",
+      "korean": "Feeling love attack!",
+      "translation": "感受愛的襲擊！",
+      "analysis": [
+        { "point": "Feeling love attack!", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "I am all you need",
+      "translation": "我是你所需的一切",
+      "analysis": [
+        { "point": "I am all you need", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "I am all you need",
+      "translation": "我是你所需的一切",
+      "analysis": [
+        { "point": "I am all you need", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "So come and get it now",
+      "translation": "所以現在來拿吧",
+      "analysis": [
+        { "point": "So come and get it now", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "I am all you need",
+      "translation": "我是你所需的一切",
+      "analysis": [
+        { "point": "I am all you need", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "I am all you need",
+      "translation": "我是你所需的一切",
+      "analysis": [
+        { "point": "I am all you need", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "Yeah get it",
+      "translation": "Yeah 得到它",
+      "analysis": [
+        { "point": "Yeah get it", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "걸음마다",
+      "translation": "每一步",
+      "analysis": [
+        { "point": "걸음마다", "explanation": "걸음 (腳步) + 마다 (每)。" }
+      ]
+    },
+    {
+      "korean": "눈부신 나",
+      "translation": "耀眼的我",
+      "analysis": [
+        { "point": "눈부신", "explanation": "눈부시다 (耀眼的) 的定語形。" },
+        { "point": "나", "explanation": "我。" }
+      ]
+    },
+    {
+      "korean": "Let's get it started",
+      "translation": "讓我們開始吧",
+      "analysis": [
+        { "point": "Let's get it started", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "모든 순간",
+      "translation": "所有的瞬間",
+      "analysis": [
+        { "point": "모든", "explanation": "所有的。" },
+        { "point": "순간", "explanation": "名詞，瞬間。" }
+      ]
+    },
+    {
+      "korean": "시선을 난",
+      "translation": "視線 我",
+      "analysis": [
+        { "point": "시선을", "explanation": "시선 (視線) + 을 (受格)。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "피하지 않지",
+      "translation": "不會躲避",
+      "analysis": [
+        { "point": "피하지 않지", "explanation": "피하다 (躲避) + 지 않다 (否定) + 지 (語尾)。" }
+      ]
+    },
+    {
+      "korean": "What you waiting for",
+      "translation": "你在等什麼",
+      "analysis": [
+        { "point": "What you waiting for", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "I'm just waiting for",
+      "translation": "我只是在等待",
+      "analysis": [
+        { "point": "I'm just waiting for", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "나를 스친",
+      "translation": "掠過我的",
+      "analysis": [
+        { "point": "나를", "explanation": "我 (受格)。" },
+        { "point": "스친", "explanation": "스치다 (掠過) + 은 (過去定語)。" }
+      ]
+    },
+    {
+      "korean": "깊은 끌림",
+      "translation": "深深的吸引",
+      "analysis": [
+        { "point": "깊은", "explanation": "깊다 (深的) 的定語形。" },
+        { "point": "끌림", "explanation": "끌리다 (被吸引) 的名詞形。" }
+      ]
+    },
+    {
+      "korean": "직감을 Chasing",
+      "translation": "追逐直覺",
+      "analysis": [
+        { "point": "직감을", "explanation": "직감 (直覺) + 을 (受格)。" },
+        { "point": "Chasing", "explanation": "英文，追逐，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "Oh so strong",
+      "translation": "Oh 如此強烈",
+      "analysis": [
+        { "point": "Oh so strong", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "너를 느껴 난",
+      "translation": "感受到你 我",
+      "analysis": [
+        { "point": "너를", "explanation": "你 (受格)。" },
+        { "point": "느껴", "explanation": "느끼다 (感受) 的非格式體。" },
+        { "point": "난", "explanation": "我。" }
+      ]
+    },
+    {
+      "korean": "Yeah so strong",
+      "translation": "Yeah 如此強烈",
+      "analysis": [
+        { "point": "Yeah so strong", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "다가가 이미 난",
+      "translation": "已經靠近 我",
+      "analysis": [
+        { "point": "다가가", "explanation": "다가가다 (靠近) 的非格式體。" },
+        { "point": "이미", "explanation": "副詞，已經。" },
+        { "point": "난", "explanation": "我。" }
+      ]
+    },
+    {
+      "korean": "On and on",
+      "translation": "不斷地",
+      "analysis": [
+        { "point": "On and on", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "너를 파헤쳐",
+      "translation": "挖掘你",
+      "analysis": [
+        { "point": "너를", "explanation": "你 (受格)。" },
+        { "point": "파헤쳐", "explanation": "파헤치다 (挖掘、探究) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "1234",
+      "translation": "1234",
+      "analysis": [
+        { "point": "1234", "explanation": "數字，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Like me, Like me",
+      "translation": "像我一樣 像我一樣",
+      "analysis": [
+        { "point": "Like me, Like me", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "아주 눈이 부신",
+      "translation": "非常耀眼的",
+      "analysis": [
+        { "point": "아주", "explanation": "副詞，非常。" },
+        { "point": "눈이 부신", "explanation": "눈 (眼睛) + 이 (主格) + 부시다 (耀眼) + ㄴ (定語形)。" }
+      ]
+    },
+    {
+      "korean": "너를 숨김없이 보여줘",
+      "translation": "毫無隱藏地展現你",
+      "analysis": [
+        { "point": "너를", "explanation": "你 (受格)。" },
+        { "point": "숨김없이", "explanation": "숨김 (隱藏) + 없이 (沒有，表示毫不隱藏地)。" },
+        { "point": "보여줘", "explanation": "보여주다 (展現) + 어 (請求/命令)。" }
+      ]
+    },
+    {
+      "korean": "한 번도 빛난 적 없었던",
+      "translation": "從未閃耀過的",
+      "analysis": [
+        { "point": "한 번도", "explanation": "한 (一) + 번 (次) + 도 (也，與否定連用表示「一次也(不)」)。" },
+        { "point": "빛난 적 없었던", "explanation": "빛나다 (閃耀) + ㄴ 적 (經驗) + 없다 (沒有) + 었 (過去) + 던 (回想定語)。" }
+      ]
+    },
+    {
+      "korean": "미지의 향으로",
+      "translation": "以未知的香氣",
+      "analysis": [
+        { "point": "미지의", "explanation": "미지 (未知) + 의 (所有格)。" },
+        { "point": "향으로", "explanation": "향 (香氣) + 으로 (以、用)。" }
+      ]
+    },
+    {
+      "korean": "온 세상을 물들여",
+      "translation": "染遍整個世界",
+      "analysis": [
+        { "point": "온", "explanation": "온 (全部的) 的定語形。" },
+        { "point": "세상을", "explanation": "세상 (世界) + 을 (受格)。" },
+        { "point": "물들여", "explanation": "물들이다 (染色) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "새로워진 장면에",
+      "translation": "煥然一新的場面中",
+      "analysis": [
+        { "point": "새로워진", "explanation": "새로워지다 (煥然一新) + ㄴ (過去定語)。" },
+        { "point": "장면에", "explanation": "장면 (場面) + 에 (位置)。" }
+      ]
+    },
+    {
+      "korean": "두 눈앞은 황홀해",
+      "translation": "兩眼之前是陶醉的",
+      "analysis": [
+        { "point": "두", "explanation": "兩。" },
+        { "point": "눈앞은", "explanation": "눈앞 (眼前) + 은 (主題)。" },
+        { "point": "황홀해", "explanation": "황홀하다 (陶醉、迷幻) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "너의 손을 잡을 땐",
+      "translation": "抓住你的手的時候",
+      "analysis": [
+        { "point": "너의", "explanation": "你的。" },
+        { "point": "손을", "explanation": "손 (手) + 을 (受格)。" },
+        { "point": "잡을 땐", "explanation": "잡다 (抓住) + 을 때 (時候) + 는 (主題) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "너와 어우러질 땐",
+      "translation": "與你融合的時候",
+      "analysis": [
+        { "point": "너와", "explanation": "너 (你) + 와 (與)。" },
+        { "point": "어우러질 땐", "explanation": "어우러지다 (融合、協調) + 을 때 (時候) + 는 (主題) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "빛을 이끌어 With me, With me",
+      "translation": "引領光芒 With me, With me",
+      "analysis": [
+        { "point": "빛을", "explanation": "빛 (光) + 을 (受格)。" },
+        { "point": "이끌어", "explanation": "이끌다 (引領) 的非格式體。" },
+        { "point": "With me, With me", "explanation": "英文，與我一起，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "마치 Chemically 우린",
+      "translation": "就像化學作用般 我們",
+      "analysis": [
+        { "point": "마치", "explanation": "副詞，就像、宛如。" },
+        { "point": "Chemically", "explanation": "英文，化學地，不進行文法解析。" },
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "완벽하게 어울려",
+      "translation": "完美地協調",
+      "analysis": [
+        { "point": "완벽하게", "explanation": "완벽하다 (完美) + 게 (副詞形)。" },
+        { "point": "어울려", "explanation": "어울리다 (協調、相配) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "Feeling love attack!",
+      "translation": "感受愛的襲擊！",
+      "analysis": [
+        { "point": "Feeling love attack!", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "너 역시 날 많이 기다려 왔겠지",
+      "translation": "你也一定等待了我很久吧",
+      "analysis": [
+        { "point": "너 역시", "explanation": "너 (你) + 역시 (也)。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "많이", "explanation": "副詞，很多。" },
+        { "point": "기다려 왔겠지", "explanation": "기다리다 (等待) + 아/어 오다 (持續到現在) + 었겠지 (推測，一定...了吧)。" }
+      ]
+    },
+    {
+      "korean": "자 오늘 이 순간 날 You can't deny it",
+      "translation": "來吧 今天這個瞬間 我 You can't deny it",
+      "analysis": [
+        { "point": "자", "explanation": "感嘆詞，來吧。" },
+        { "point": "오늘", "explanation": "名詞，今天。" },
+        { "point": "이 순간", "explanation": "這個瞬間。" },
+        { "point": "날", "explanation": "我 (受格)。" },
+        { "point": "You can't deny it", "explanation": "英文，你無法否認，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "I got you the feeling it's hotter than fire",
+      "translation": "我讓你感受 比火更熱",
+      "analysis": [
+        { "point": "I got you the feeling it's hotter than fire", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "U with it, I'm with it, Admit, No lying",
+      "translation": "你接受它 我接受它 承認吧 不說謊",
+      "analysis": [
+        { "point": "U with it, I'm with it, Admit, No lying", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 4",
+      "korean": "한순간에 난 발견해",
+      "translation": "一瞬間我發現",
+      "analysis": [
+        { "point": "한순간에", "explanation": "한순간 (一瞬間) + 에 (在)。" },
+        { "point": "난", "explanation": "我。" },
+        { "point": "발견해", "explanation": "발견하다 (發現) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "가려졌던 널 찾아내",
+      "translation": "找出曾被遮蓋的你",
+      "analysis": [
+        { "point": "가려졌던", "explanation": "가려지다 (被遮蓋) + 었 (過去) + 던 (回想定語)。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "찾아내", "explanation": "찾아내다 (找出) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "짙게 번지는 Ambergris",
+      "translation": "濃郁擴散的龍涎香",
+      "analysis": [
+        { "point": "짙게", "explanation": "짙다 (濃) + 게 (副詞形)。" },
+        { "point": "번지는", "explanation": "번지다 (擴散) + 는 (定語)。" },
+        { "point": "Ambergris", "explanation": "英文，龍涎香，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "어서 너의 모든 걸 드러내",
+      "translation": "快點將你的全部展現",
+      "analysis": [
+        { "point": "어서", "explanation": "副詞，快點。" },
+        { "point": "너의", "explanation": "你的。" },
+        { "point": "모든 걸", "explanation": "모든 (所有的) + 것 (東西) + 을 (受格) 的縮略。" },
+        { "point": "드러내", "explanation": "드러내다 (展現、暴露) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "Beautiful",
+      "translation": "美麗",
+      "analysis": [
+        { "point": "Beautiful", "explanation": "英文，美麗的，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "너를 느껴 난",
+      "translation": "感受到你 我",
+      "analysis": [
+        { "point": "너를 느껴 난", "explanation": "感受到你。" }
+      ]
+    },
+    {
+      "korean": "Fabulous",
+      "translation": "極好的",
+      "analysis": [
+        { "point": "Fabulous", "explanation": "英文，極好的，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "다가가 이미 난",
+      "translation": "已經靠近 我",
+      "analysis": [
+        { "point": "다가가 이미 난", "explanation": "已經靠近。" }
+      ]
+    },
+    {
+      "korean": "On and on",
+      "translation": "不斷地",
+      "analysis": [
+        { "point": "On and on", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "너를 파헤쳐",
+      "translation": "挖掘你",
+      "analysis": [
+        { "point": "너를 파헤쳐", "explanation": "挖掘你。" }
+      ]
+    },
+    {
+      "korean": "1234",
+      "translation": "1234",
+      "analysis": [
+        { "point": "1234", "explanation": "數字，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "(때를 기다려)",
+      "translation": "（等待時機）",
+      "analysis": [
+        { "point": "때를", "explanation": "때 (時機) + 를 (受格)。" },
+        { "point": "기다려", "explanation": "기다리다 (等待) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Like me, Like me",
+      "translation": "像我一樣 像我一樣",
+      "analysis": [
+        { "point": "Like me, Like me", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "아주 눈이 부신",
+      "translation": "非常耀眼的",
+      "analysis": [
+        { "point": "아주 눈이 부신", "explanation": "非常耀眼的。" }
+      ]
+    },
+    {
+      "korean": "너를 숨김없이 보여줘",
+      "translation": "毫無隱藏地展現你",
+      "analysis": [
+        { "point": "너를 숨김없이 보여줘", "explanation": "毫無隱藏地展現你。" }
+      ]
+    },
+    {
+      "korean": "한 번도 빛난 적 없었던",
+      "translation": "從未閃耀過的",
+      "analysis": [
+        { "point": "한 번도 빛난 적 없었던", "explanation": "從未閃耀過的。" }
+      ]
+    },
+    {
+      "korean": "미지의 향으로",
+      "translation": "以未知的香氣",
+      "analysis": [
+        { "point": "미지의 향으로", "explanation": "以未知的香氣。" }
+      ]
+    },
+    {
+      "korean": "온 세상을 물들여",
+      "translation": "染遍整個世界",
+      "analysis": [
+        { "point": "온 세상을 물들여", "explanation": "染遍整個世界。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "새로워진 장면에",
+      "translation": "煥然一新的場面中",
+      "analysis": [
+        { "point": "새로워진 장면에", "explanation": "煥然一新的場面中。" }
+      ]
+    },
+    {
+      "korean": "두 눈앞은 황홀해",
+      "translation": "兩眼之前是陶醉的",
+      "analysis": [
+        { "point": "두 눈앞은 황홀해", "explanation": "兩眼之前是陶醉的。" }
+      ]
+    },
+    {
+      "korean": "너의 손을 잡을 땐",
+      "translation": "抓住你的手的時候",
+      "analysis": [
+        { "point": "너의 손을 잡을 땐", "explanation": "抓住你的手的時候。" }
+      ]
+    },
+    {
+      "korean": "너와 어우러질 땐",
+      "translation": "與你融合的時候",
+      "analysis": [
+        { "point": "너와 어우러질 땐", "explanation": "與你融合的時候。" }
+      ]
+    },
+    {
+      "korean": "빛을 이끌어 With me, With me",
+      "translation": "引領光芒 With me, With me",
+      "analysis": [
+        { "point": "빛을 이끌어 With me, With me", "explanation": "引領光芒。" }
+      ]
+    },
+    {
+      "korean": "마치 Chemically 우린",
+      "translation": "就像化學作用般 我們",
+      "analysis": [
+        { "point": "마치 Chemically 우린", "explanation": "就像化學作用般 我們。" }
+      ]
+    },
+    {
+      "korean": "완벽하게 어울려",
+      "translation": "完美地協調",
+      "analysis": [
+        { "point": "완벽하게 어울려", "explanation": "完美地協調。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "Feeling love attack!",
+      "translation": "感受愛的襲擊！",
+      "analysis": [
+        { "point": "Feeling love attack!", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Interlude",
+      "korean": "I am all you need",
+      "translation": "我是你所需的一切",
+      "analysis": [
+        { "point": "I am all you need", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "I am all you need",
+      "translation": "我是你所需的一切",
+      "analysis": [
+        { "point": "I am all you need", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "So come and get it now",
+      "translation": "所以現在來拿吧",
+      "analysis": [
+        { "point": "So come and get it now", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "I am all you need",
+      "translation": "我是你所需的一切",
+      "analysis": [
+        { "point": "I am all you need", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "I am all you need",
+      "translation": "我是你所需的一切",
+      "analysis": [
+        { "point": "I am all you need", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "So come and get it now",
+      "translation": "所以現在來拿吧",
+      "analysis": [
+        { "point": "So come and get it now", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "1234",
+      "translation": "1234",
+      "analysis": [
+        { "point": "1234", "explanation": "數字，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Like me, Like me",
+      "translation": "像我一樣 像我一樣",
+      "analysis": [
+        { "point": "Like me, Like me", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "아주 눈이 부신",
+      "translation": "非常耀眼的",
+      "analysis": [
+        { "point": "아주 눈이 부신", "explanation": "非常耀眼的。" }
+      ]
+    },
+    {
+      "korean": "너를 숨김없이 보여줘",
+      "translation": "毫無隱藏地展現你",
+      "analysis": [
+        { "point": "너를 숨김없이 보여줘", "explanation": "毫無隱藏地展現你。" }
+      ]
+    },
+    {
+      "korean": "한 번도 빛난 적 없었던",
+      "translation": "從未閃耀過的",
+      "analysis": [
+        { "point": "한 번도 빛난 적 없었던", "explanation": "從未閃耀過的。" }
+      ]
+    },
+    {
+      "korean": "미지의 향으로",
+      "translation": "以未知的香氣",
+      "analysis": [
+        { "point": "미지의 향으로", "explanation": "以未知的香氣。" }
+      ]
+    },
+    {
+      "korean": "온 세상을 물들여",
+      "translation": "染遍整個世界",
+      "analysis": [
+        { "point": "온 세상을 물들여", "explanation": "染遍整個世界。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "새로워진 장면에 (그 장면에)",
+      "translation": "煥然一新的場面中（那場面中）",
+      "analysis": [
+        { "point": "새로워진 장면에", "explanation": "煥然一新的場面中。" },
+        { "point": "그 장면에", "explanation": "那場面中。" }
+      ]
+    },
+    {
+      "korean": "두 눈앞은 황홀해 (난 황홀해)",
+      "translation": "兩眼之前是陶醉的（我陶醉）",
+      "analysis": [
+        { "point": "두 눈앞은 황홀해", "explanation": "兩眼之前是陶醉的。" },
+        { "point": "난 황홀해", "explanation": "我陶醉。" }
+      ]
+    },
+    {
+      "korean": "너의 손을 잡을 땐",
+      "translation": "抓住你的手的時候",
+      "analysis": [
+        { "point": "너의 손을 잡을 땐", "explanation": "抓住你的手的時候。" }
+      ]
+    },
+    {
+      "korean": "너와 어우러질 땐",
+      "translation": "與你融合的時候",
+      "analysis": [
+        { "point": "너와 어우러질 땐", "explanation": "與你融合的時候。" }
+      ]
+    },
+    {
+      "korean": "빛을 이끌어 With me, With me",
+      "translation": "引領光芒 With me, With me",
+      "analysis": [
+        { "point": "빛을 이끌어 With me, With me", "explanation": "引領光芒。" }
+      ]
+    },
+    {
+      "korean": "마치 Chemically 우린",
+      "translation": "就像化學作用般 我們",
+      "analysis": [
+        { "point": "마치 Chemically 우린", "explanation": "就像化學作用般 我們。" }
+      ]
+    },
+    {
+      "korean": "완벽하게 어울려 (완벽하게 어울려)",
+      "translation": "完美地協調（完美地協調）",
+      "analysis": [
+        { "point": "완벽하게 어울려", "explanation": "完美地協調。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "Feeling love attack!",
+      "translation": "感受愛的襲擊！",
+      "analysis": [
+        { "point": "Feeling love attack!", "explanation": "英文，不進行文法解析。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "걸음", "chinese": "腳步", "pos": "名詞" },
+    { "korean": "눈부시다", "chinese": "耀眼的", "pos": "形容詞" },
+    { "korean": "나", "chinese": "我", "pos": "代名詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "시선", "chinese": "視線", "pos": "名詞" },
+    { "korean": "피하다", "chinese": "躲避", "pos": "動詞" },
+    { "korean": "스치다", "chinese": "掠過", "pos": "動詞" },
+    { "korean": "깊다", "chinese": "深的", "pos": "形容詞" },
+    { "korean": "끌림", "chinese": "吸引", "pos": "名詞" },
+    { "korean": "직감", "chinese": "直覺", "pos": "名詞" },
+    { "korean": "너", "chinese": "你", "pos": "代名詞" },
+    { "korean": "느끼다", "chinese": "感受", "pos": "動詞" },
+    { "korean": "다가가다", "chinese": "靠近", "pos": "動詞" },
+    { "korean": "이미", "chinese": "已經", "pos": "副詞" },
+    { "korean": "파헤치다", "chinese": "挖掘", "pos": "動詞" },
+    { "korean": "아주", "chinese": "非常", "pos": "副詞" },
+    { "korean": "눈", "chinese": "眼睛", "pos": "名詞" },
+    { "korean": "부시다", "chinese": "耀眼", "pos": "動詞" },
+    { "korean": "숨김없이", "chinese": "毫無隱藏地", "pos": "副詞" },
+    { "korean": "보여주다", "chinese": "展現", "pos": "動詞" },
+    { "korean": "한 번도", "chinese": "一次也（不）", "pos": "副詞" },
+    { "korean": "빛나다", "chinese": "閃耀", "pos": "動詞" },
+    { "korean": "미지", "chinese": "未知", "pos": "名詞" },
+    { "korean": "향", "chinese": "香氣", "pos": "名詞" },
+    { "korean": "온", "chinese": "全部的", "pos": "冠形詞" },
+    { "korean": "세상", "chinese": "世界", "pos": "名詞" },
+    { "korean": "물들이다", "chinese": "染色", "pos": "動詞" },
+    { "korean": "새로워지다", "chinese": "煥然一新", "pos": "動詞" },
+    { "korean": "장면", "chinese": "場面", "pos": "名詞" },
+    { "korean": "눈앞", "chinese": "眼前", "pos": "名詞" },
+    { "korean": "황홀하다", "chinese": "陶醉的", "pos": "形容詞" },
+    { "korean": "손", "chinese": "手", "pos": "名詞" },
+    { "korean": "잡다", "chinese": "抓住", "pos": "動詞" },
+    { "korean": "어우러지다", "chinese": "融合、協調", "pos": "動詞" },
+    { "korean": "빛", "chinese": "光", "pos": "名詞" },
+    { "korean": "이끌다", "chinese": "引領", "pos": "動詞" },
+    { "korean": "마치", "chinese": "就像", "pos": "副詞" },
+    { "korean": "완벽하다", "chinese": "完美的", "pos": "形容詞" },
+    { "korean": "어울리다", "chinese": "協調、相配", "pos": "動詞" },
+    { "korean": "역시", "chinese": "也", "pos": "副詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "오늘", "chinese": "今天", "pos": "名詞" },
+    { "korean": "한순간", "chinese": "一瞬間", "pos": "名詞" },
+    { "korean": "발견하다", "chinese": "發現", "pos": "動詞" },
+    { "korean": "가려지다", "chinese": "被遮蓋", "pos": "動詞" },
+    { "korean": "찾아내다", "chinese": "找出", "pos": "動詞" },
+    { "korean": "짙다", "chinese": "濃的", "pos": "形容詞" },
+    { "korean": "번지다", "chinese": "擴散", "pos": "動詞" },
+    { "korean": "드러내다", "chinese": "展現", "pos": "動詞" }
+  ]
+}

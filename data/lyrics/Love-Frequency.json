@@ -1,0 +1,375 @@
+{
+  "id": "RESCENE-Love-Frequency",
+  "title": "Love Frequency (고백주파수)",
+  "artist": "RESCENE (리센느)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "겨우 이름만 아는 우리",
+      "translation": "只知道名字的我們",
+      "analysis": [
+        { "point": "겨우", "explanation": "副詞，僅僅、好不容易（此處表示「只是」）。" },
+        { "point": "이름만", "explanation": "이름 (名字) + 만 (只)。" },
+        { "point": "아는", "explanation": "알다 (知道) + 는 (定語形)。" },
+        { "point": "우리", "explanation": "我們。" }
+      ]
+    },
+    {
+      "korean": "친구라긴 좀 그런 사이",
+      "translation": "說是朋友又有點奇怪的關係",
+      "analysis": [
+        { "point": "친구라긴", "explanation": "친구 (朋友) + 라고 (引用) + 하긴 (雖說是) 的縮略，表示「雖說是朋友」。" },
+        { "point": "좀", "explanation": "副詞，有點。" },
+        { "point": "그런 사이", "explanation": "그런 (那樣的) + 사이 (關係)。" }
+      ]
+    },
+    {
+      "korean": "쉽게 좁혀지지 않는 거리",
+      "translation": "不容易縮短的距離",
+      "analysis": [
+        { "point": "쉽게", "explanation": "쉽다 (容易) + 게 (副詞形)。" },
+        { "point": "좁혀지지 않는", "explanation": "좁혀지다 (被縮短) + 지 않다 (否定) + 는 (定語形)。" },
+        { "point": "거리", "explanation": "名詞，距離。" }
+      ]
+    },
+    {
+      "korean": "용기 내보려 해도 아직",
+      "translation": "即使想鼓起勇氣 但還是",
+      "analysis": [
+        { "point": "용기 내보려", "explanation": "용기 (勇氣) + 내다 (拿出) + 아/어 보다 (嘗試) + 려 (意圖)。" },
+        { "point": "해도", "explanation": "하다 (做) + 아/어도 (即使)。" },
+        { "point": "아직", "explanation": "副詞，還、仍然。" }
+      ]
+    },
+    {
+      "korean": "It is hard to get to know you, baby",
+      "translation": "很難了解你，寶貝",
+      "analysis": [
+        { "point": "It is hard to get to know you, baby", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "미뤄둔 마음을 꺼내어",
+      "translation": "取出一直延遲的心意",
+      "analysis": [
+        { "point": "미뤄둔", "explanation": "미루다 (推遲) + 아/어 두다 (保持狀態) + ㄴ (過去定語)。" },
+        { "point": "마음을", "explanation": "마음 (心) + 을 (受格)。" },
+        { "point": "꺼내어", "explanation": "꺼내다 (取出) + 아/어 (連接)。" }
+      ]
+    },
+    {
+      "korean": "(이 공기에 실어 보내면)",
+      "translation": "（如果乘著這空氣傳送出去）",
+      "analysis": [
+        { "point": "이 공기에", "explanation": "이 (這) + 공기 (空氣) + 에 (位置助詞)。" },
+        { "point": "실어 보내면", "explanation": "실어 보내다 (載著發送) + 으면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "이젠 좀 티가 나겠지?",
+      "translation": "現在會有點顯露出來了吧？",
+      "analysis": [
+        { "point": "이젠", "explanation": "이제는 (現在) 的縮略。" },
+        { "point": "좀", "explanation": "有點。" },
+        { "point": "티가 나겠지", "explanation": "티 (痕跡、破綻) + 가 (主格) + 나다 (顯現) + 겠 (推測) + 지 (疑問/確認語尾)。" }
+      ]
+    },
+    {
+      "korean": "(좀 알겠니?)",
+      "translation": "（稍微明白了嗎？）",
+      "analysis": [
+        { "point": "좀", "explanation": "稍微。" },
+        { "point": "알겠니", "explanation": "알다 (知道) + 겠 (推測) + 니 (疑問語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Wherever you are,",
+      "translation": "無論你在哪裡，",
+      "analysis": [
+        { "point": "Wherever you are,", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "Whenever you need me",
+      "translation": "無論何時你需要我",
+      "analysis": [
+        { "point": "Whenever you need me", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "네게로 향하는 주파수가 들리니",
+      "translation": "能聽到朝你而去的頻率嗎",
+      "analysis": [
+        { "point": "네게로", "explanation": "네 (你) + 에게 (向) + 로 (方向)。" },
+        { "point": "향하는", "explanation": "향하다 (朝向) + 는 (定語形)。" },
+        { "point": "주파수가", "explanation": "주파수 (頻率) + 가 (主格)。" },
+        { "point": "들리니", "explanation": "들리다 (聽得見) + 니 (疑問語尾)。" }
+      ]
+    },
+    {
+      "korean": "내 맘 한구석",
+      "translation": "我心中的一個角落",
+      "analysis": [
+        { "point": "내 맘", "explanation": "내 (我的) + 마음 (心) 的縮略。" },
+        { "point": "한구석", "explanation": "한 (一個) + 구석 (角落)。" }
+      ]
+    },
+    {
+      "korean": "쏘아보낸 frequency",
+      "translation": "發射出去的頻率",
+      "analysis": [
+        { "point": "쏘아보낸", "explanation": "쏘아보내다 (發射出去) + ㄴ (過去定語)。" },
+        { "point": "frequency", "explanation": "英文，頻率，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "이 떨림이 전해지길 너에게 닿길",
+      "translation": "願這顫動被傳達、願它能觸及你",
+      "analysis": [
+        { "point": "이 떨림이", "explanation": "이 (這) + 떨림 (顫動) + 이 (主格)。" },
+        { "point": "전해지길", "explanation": "전해지다 (被傳達) + 길 (希望，表示願望)。" },
+        { "point": "너에게", "explanation": "너 (你) + 에게 (向)。" },
+        { "point": "닿길", "explanation": "닿다 (觸及) + 길 (希望)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "Can you hear my frequency,",
+      "translation": "你能聽到我的頻率嗎，",
+      "analysis": [
+        { "point": "Can you hear my frequency,", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "Been kept my heart, secretly",
+      "translation": "一直秘密地藏著我的心",
+      "analysis": [
+        { "point": "Been kept my heart, secretly", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "Can you hear my frequency,",
+      "translation": "你能聽到我的頻率嗎，",
+      "analysis": [
+        { "point": "Can you hear my frequency,", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "If you feel me, answer me",
+      "translation": "如果你感受到我，請回答我",
+      "analysis": [
+        { "point": "If you feel me, answer me", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "어떡해야 날 알아줄지",
+      "translation": "該怎麼做你才會明白我",
+      "analysis": [
+        { "point": "어떡해야", "explanation": "어떻게 해야 (該怎麼做) 的縮略。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "알아줄지", "explanation": "알아주다 (理解、認可) + ㄹ지 (疑問，表示「會不會」)。" }
+      ]
+    },
+    {
+      "korean": "하루에도 수천번을 고민해 보지만",
+      "translation": "即使一天中思考數千次",
+      "analysis": [
+        { "point": "하루에도", "explanation": "하루 (一天) + 에도 (甚至在...也)。" },
+        { "point": "수천번을", "explanation": "수천 (數千) + 번 (次) + 을 (受格)。" },
+        { "point": "고민해 보지만", "explanation": "고민하다 (苦惱) + 아/어 보다 (嘗試) + 지만 (雖然)。" }
+      ]
+    },
+    {
+      "korean": "One 종일 너만을 생각하기",
+      "translation": "第一，整天只想著你",
+      "analysis": [
+        { "point": "One", "explanation": "英文，第一/一，不進行文法解析。" },
+        { "point": "종일", "explanation": "副詞，整天。" },
+        { "point": "너만을", "explanation": "너 (你) + 만 (只) + 을 (受格)。" },
+        { "point": "생각하기", "explanation": "생각하다 (想) + 기 (名詞化)。" }
+      ]
+    },
+    {
+      "korean": "And two 이뤄지기를 기도하기",
+      "translation": "第二，祈禱能夠實現",
+      "analysis": [
+        { "point": "And two", "explanation": "英文，第二/二，不進行文法解析。" },
+        { "point": "이뤄지기를", "explanation": "이뤄지다 (實現) + 기를 (名詞化 + 受格，表示願望)。" },
+        { "point": "기도하기", "explanation": "기도하다 (祈禱) + 기 (名詞化)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus (Reprise)",
+      "korean": "용기 내보려 해도 아직",
+      "translation": "即使想鼓起勇氣 但還是",
+      "analysis": [
+        { "point": "용기 내보려 해도 아직", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "It is hard to get to know you, baby",
+      "translation": "很難了解你，寶貝",
+      "analysis": [
+        { "point": "It is hard to get to know you, baby", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "미뤄둔 마음을 꺼내어",
+      "translation": "取出一直延遲的心意",
+      "analysis": [
+        { "point": "미뤄둔 마음을 꺼내어", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "(이 공기에 실어 보내면)",
+      "translation": "（如果乘著這空氣傳送出去）",
+      "analysis": [
+        { "point": "(이 공기에 실어 보내면)", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "이젠 좀 티가 나겠지?",
+      "translation": "現在會有點顯露出來了吧？",
+      "analysis": [
+        { "point": "이젠 좀 티가 나겠지?", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "(좀 알겠니?)",
+      "translation": "（稍微明白了嗎？）",
+      "analysis": [
+        { "point": "(좀 알겠니?)", "explanation": "同前。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Wherever you are,",
+      "translation": "無論你在哪裡，",
+      "analysis": [
+        { "point": "Wherever you are,", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "Whenever you need me",
+      "translation": "無論何時你需要我",
+      "analysis": [
+        { "point": "Whenever you need me", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "네게로 향하는 주파수가 들리니",
+      "translation": "能聽到朝你而去的頻率嗎",
+      "analysis": [
+        { "point": "네게로 향하는 주파수가 들리니", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "내 맘 한구석",
+      "translation": "我心中的一個角落",
+      "analysis": [
+        { "point": "내 맘 한구석", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "쏘아보낸 frequency",
+      "translation": "發射出去的頻率",
+      "analysis": [
+        { "point": "쏘아보낸 frequency", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "이 떨림이 전해지길",
+      "translation": "願這顫動被傳達",
+      "analysis": [
+        { "point": "이 떨림이 전해지길", "explanation": "同前。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "Wherever you are",
+      "translation": "無論你在哪裡",
+      "analysis": [
+        { "point": "Wherever you are", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "Whenever you need me",
+      "translation": "無論何時你需要我",
+      "analysis": [
+        { "point": "Whenever you need me", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "네게로 향하는 주파수가 들리니",
+      "translation": "能聽到朝你而去的頻率嗎",
+      "analysis": [
+        { "point": "네게로 향하는 주파수가 들리니", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "내 맘 한구석",
+      "translation": "我心中的一個角落",
+      "analysis": [
+        { "point": "내 맘 한구석", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "쏘아보낸 frequency",
+      "translation": "發射出去的頻率",
+      "analysis": [
+        { "point": "쏘아보낸 frequency", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "이 떨림이 전해지길, 너에게 닿길",
+      "translation": "願這顫動被傳達，願能觸及你",
+      "analysis": [
+        { "point": "이 떨림이 전해지길", "explanation": "願這顫動被傳達。" },
+        { "point": "너에게 닿길", "explanation": "願觸及你。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "겨우", "chinese": "僅僅", "pos": "副詞" },
+    { "korean": "이름", "chinese": "名字", "pos": "名詞" },
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "친구", "chinese": "朋友", "pos": "名詞" },
+    { "korean": "사이", "chinese": "關係", "pos": "名詞" },
+    { "korean": "쉽다", "chinese": "容易", "pos": "形容詞" },
+    { "korean": "좁혀지다", "chinese": "被縮短", "pos": "動詞" },
+    { "korean": "거리", "chinese": "距離", "pos": "名詞" },
+    { "korean": "용기", "chinese": "勇氣", "pos": "名詞" },
+    { "korean": "내다", "chinese": "拿出", "pos": "動詞" },
+    { "korean": "아직", "chinese": "還、仍然", "pos": "副詞" },
+    { "korean": "미루다", "chinese": "推遲", "pos": "動詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "꺼내다", "chinese": "取出", "pos": "動詞" },
+    { "korean": "공기", "chinese": "空氣", "pos": "名詞" },
+    { "korean": "실어 보내다", "chinese": "載著發送", "pos": "片語" },
+    { "korean": "티", "chinese": "痕跡、破綻", "pos": "名詞" },
+    { "korean": "나다", "chinese": "顯現", "pos": "動詞" },
+    { "korean": "네", "chinese": "你", "pos": "代名詞" },
+    { "korean": "향하다", "chinese": "朝向", "pos": "動詞" },
+    { "korean": "주파수", "chinese": "頻率", "pos": "名詞" },
+    { "korean": "들리다", "chinese": "聽得見", "pos": "動詞" },
+    { "korean": "맘", "chinese": "心", "pos": "名詞" },
+    { "korean": "구석", "chinese": "角落", "pos": "名詞" },
+    { "korean": "쏘아보내다", "chinese": "發射出去", "pos": "動詞" },
+    { "korean": "떨림", "chinese": "顫動", "pos": "名詞" },
+    { "korean": "전해지다", "chinese": "被傳達", "pos": "動詞" },
+    { "korean": "닿다", "chinese": "觸及", "pos": "動詞" },
+    { "korean": "어떡하다", "chinese": "怎麼辦", "pos": "動詞" },
+    { "korean": "알아주다", "chinese": "理解、認可", "pos": "動詞" },
+    { "korean": "하루", "chinese": "一天", "pos": "名詞" },
+    { "korean": "수천", "chinese": "數千", "pos": "數詞" },
+    { "korean": "번", "chinese": "次", "pos": "量詞" },
+    { "korean": "고민하다", "chinese": "苦惱", "pos": "動詞" },
+    { "korean": "종일", "chinese": "整天", "pos": "副詞" },
+    { "korean": "생각하다", "chinese": "想", "pos": "動詞" },
+    { "korean": "이뤄지다", "chinese": "實現", "pos": "動詞" },
+    { "korean": "기도하다", "chinese": "祈禱", "pos": "動詞" }
+  ]
+}

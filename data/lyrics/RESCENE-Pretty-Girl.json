@@ -1,0 +1,528 @@
+{
+  "id": "RESCENE-Pretty-Girl",
+  "title": "Pretty Girl",
+  "artist": "RESCENE (리센느)",
+  "lines": [
+    {
+      "sectionTitle": "Intro",
+      "korean": "Yeah yeah yeah yeah",
+      "translation": "Yeah yeah yeah yeah",
+      "analysis": [
+        { "point": "Yeah yeah yeah yeah", "explanation": "英文感嘆詞，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "Yeah yeah yeah yeah yeah",
+      "translation": "Yeah yeah yeah yeah yeah",
+      "analysis": [
+        { "point": "Yeah yeah yeah yeah yeah", "explanation": "英文感嘆詞，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "one two three yeah",
+      "translation": "one two three yeah",
+      "analysis": [
+        { "point": "one two three yeah", "explanation": "英文，數數和感嘆，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "If you wanna pretty",
+      "translation": "如果你想要漂亮",
+      "analysis": [
+        { "point": "If you wanna pretty", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "every wanna pretty",
+      "translation": "每個人都想要漂亮",
+      "analysis": [
+        { "point": "every wanna pretty", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "안된다는 맘은",
+      "translation": "覺得不行的想法",
+      "analysis": [
+        { "point": "안된다는", "explanation": "안 되다 (不行) + 는 (定語形) + 것 (東西) 的縮略，表示「認為不行的」。" },
+        { "point": "맘은", "explanation": "마음 (心) 的縮略 + 은 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "no no no no",
+      "translation": "不不不不",
+      "analysis": [
+        { "point": "no no no no", "explanation": "英文，否定，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "If you wanna pretty",
+      "translation": "如果你想要漂亮",
+      "analysis": [
+        { "point": "If you wanna pretty", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "every wanna pretty",
+      "translation": "每個人都想要漂亮",
+      "analysis": [
+        { "point": "every wanna pretty", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "어디서나 당당하게 걷기",
+      "translation": "到哪裡都自信地走路",
+      "analysis": [
+        { "point": "어디서나", "explanation": "어디 (哪裡) + 서 (位置) + 나 (無論，表示任何地方)。" },
+        { "point": "당당하게", "explanation": "당당하다 (自信的) + 게 (副詞形)。" },
+        { "point": "걷기", "explanation": "걷다 (走路) + 기 (名詞化)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "나와 맞는 옷에 또 받쳐주는 말투",
+      "translation": "適合我的衣服 以及配合我的語氣",
+      "analysis": [
+        { "point": "나와", "explanation": "나 (我) + 와 (與)。" },
+        { "point": "맞는", "explanation": "맞다 (合適) + 는 (定語形)。" },
+        { "point": "옷에", "explanation": "옷 (衣服) + 에 (位置助詞)。" },
+        { "point": "또", "explanation": "副詞，又、以及。" },
+        { "point": "받쳐주는", "explanation": "받쳐주다 (支撐、配合) + 는 (定語形)。" },
+        { "point": "말투", "explanation": "名詞，語氣、說話方式。" }
+      ]
+    },
+    {
+      "korean": "센스있는 포즈 그냥 되지는 않죠",
+      "translation": "有品味的姿勢 不是隨便就有的",
+      "analysis": [
+        { "point": "센스있는", "explanation": "센스 (品味) + 있다 (有) + 는 (定語形)。" },
+        { "point": "포즈", "explanation": "名詞，姿勢。" },
+        { "point": "그냥", "explanation": "副詞，隨便地、就那樣。" },
+        { "point": "되지는 않죠", "explanation": "되다 (成為) + 지는 않다 (並不) + 죠 (敬語口語尾)。" }
+      ]
+    },
+    {
+      "korean": "생활 상식은 기본 시사 상식은 선택",
+      "translation": "生活常識是基本 時事常識是選擇",
+      "analysis": [
+        { "point": "생활 상식은", "explanation": "생활 (生活) + 상식 (常識) + 은 (主題)。" },
+        { "point": "기본", "explanation": "名詞，基本。" },
+        { "point": "시사 상식은", "explanation": "시사 (時事) + 상식 (常識) + 은 (主題)。" },
+        { "point": "선택", "explanation": "名詞，選擇。" }
+      ]
+    },
+    {
+      "korean": "다 끊임없는 노력이죠",
+      "translation": "全都是不斷的努力",
+      "analysis": [
+        { "point": "다", "explanation": "副詞，全部。" },
+        { "point": "끊임없는", "explanation": "끊임없다 (不斷的) 的定語形。" },
+        { "point": "노력이죠", "explanation": "노력 (努力) + 이 (主格) + 죠 (敬語口語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus 1",
+      "korean": "Girl Pretty Girl Pretty Girl",
+      "translation": "女孩 漂亮女孩 漂亮女孩",
+      "analysis": [
+        { "point": "Girl Pretty Girl Pretty Girl", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "조금도 망설일 것 없죠 난",
+      "translation": "我一點都不會猶豫",
+      "analysis": [
+        { "point": "조금도", "explanation": "조금 (一點) + 도 (也，與否定連用表示「一點也(不)」)。" },
+        { "point": "망설일", "explanation": "망설이다 (猶豫) + ㄹ (未來定語)。" },
+        { "point": "것 없죠", "explanation": "것 (東西) + 없다 (沒有) + 죠 (敬語尾)，表示「沒有可猶豫的」。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "Beautiful Girl Beautiful Girl",
+      "translation": "美麗的女孩 美麗的女孩",
+      "analysis": [
+        { "point": "Beautiful Girl Beautiful Girl", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "Beautiful yeah yeah yeah yeah",
+      "translation": "Beautiful yeah yeah yeah yeah",
+      "analysis": [
+        { "point": "Beautiful yeah yeah yeah yeah", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "Girl Pretty Girl Pretty Girl",
+      "translation": "女孩 漂亮女孩 漂亮女孩",
+      "analysis": [
+        { "point": "Girl Pretty Girl Pretty Girl", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "그냥 되진 않는거죠 난",
+      "translation": "不是隨便就能成的 我",
+      "analysis": [
+        { "point": "그냥", "explanation": "隨便地。" },
+        { "point": "되진 않는거죠", "explanation": "되다 (成為) + 지는 않다 (並不) + 는 것 (事情) + 이야 (是) 的縮略 + 죠 (敬語尾)。" },
+        { "point": "난", "explanation": "我。" }
+      ]
+    },
+    {
+      "korean": "Beautiful Girl Beautiful",
+      "translation": "美麗的女孩 美麗",
+      "analysis": [
+        { "point": "Beautiful Girl Beautiful", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "Yeah yeah yeah yeah",
+      "translation": "Yeah yeah yeah yeah",
+      "analysis": [
+        { "point": "Yeah yeah yeah yeah", "explanation": "英文感嘆，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "Come on Beautiful Girl",
+      "translation": "來吧 美麗的女孩",
+      "analysis": [
+        { "point": "Come on Beautiful Girl", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "Yeah yeah (yeah!)",
+      "translation": "Yeah yeah (yeah!)",
+      "analysis": [
+        { "point": "Yeah yeah (yeah!)", "explanation": "英文感嘆，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1 (Reprise)",
+      "korean": "If you wanna pretty",
+      "translation": "如果你想要漂亮",
+      "analysis": [
+        { "point": "If you wanna pretty", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "every wanna pretty",
+      "translation": "每個人都想要漂亮",
+      "analysis": [
+        { "point": "every wanna pretty", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "안된다는 맘은",
+      "translation": "覺得不行的想法",
+      "analysis": [
+        { "point": "안된다는 맘은", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "no no no no",
+      "translation": "不不不不",
+      "analysis": [
+        { "point": "no no no no", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "If you wanna pretty",
+      "translation": "如果你想要漂亮",
+      "analysis": [
+        { "point": "If you wanna pretty", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "every wanna pretty",
+      "translation": "每個人都想要漂亮",
+      "analysis": [
+        { "point": "every wanna pretty", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "어디서나 당당하게 걷기",
+      "translation": "到哪裡都自信地走路",
+      "analysis": [
+        { "point": "어디서나 당당하게 걷기", "explanation": "同前。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus 2",
+      "korean": "Girl Pretty Girl Pretty Girl",
+      "translation": "女孩 漂亮女孩 漂亮女孩",
+      "analysis": [
+        { "point": "Girl Pretty Girl Pretty Girl", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "조금도 망설일 것 없죠 난",
+      "translation": "我一點都不會猶豫",
+      "analysis": [
+        { "point": "조금도 망설일 것 없죠 난", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "Beautiful Girl Beautiful Girl",
+      "translation": "美麗的女孩 美麗的女孩",
+      "analysis": [
+        { "point": "Beautiful Girl Beautiful Girl", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "Beautiful yeah yeah yeah yeah",
+      "translation": "Beautiful yeah yeah yeah yeah",
+      "analysis": [
+        { "point": "Beautiful yeah yeah yeah yeah", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "Girl Pretty Girl Pretty Girl",
+      "translation": "女孩 漂亮女孩 漂亮女孩",
+      "analysis": [
+        { "point": "Girl Pretty Girl Pretty Girl", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "그냥 되진 않는거죠 난",
+      "translation": "不是隨便就能成的 我",
+      "analysis": [
+        { "point": "그냥 되진 않는거죠 난", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "Beautiful Girl Beautiful",
+      "translation": "美麗的女孩 美麗",
+      "analysis": [
+        { "point": "Beautiful Girl Beautiful", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "Yeah yeah yeah yeah",
+      "translation": "Yeah yeah yeah yeah",
+      "analysis": [
+        { "point": "Yeah yeah yeah yeah", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "Come on Beautiful Girl",
+      "translation": "來吧 美麗的女孩",
+      "analysis": [
+        { "point": "Come on Beautiful Girl", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "마음은 예쁘게",
+      "translation": "把心變美",
+      "analysis": [
+        { "point": "마음은", "explanation": "마음 (心) + 은 (主題)。" },
+        { "point": "예쁘게", "explanation": "예쁘다 (美麗) + 게 (副詞形，表示「漂亮地」)。" }
+      ]
+    },
+    {
+      "korean": "표정은 산뜻하게",
+      "translation": "表情要清爽",
+      "analysis": [
+        { "point": "표정은", "explanation": "표정 (表情) + 은 (主題)。" },
+        { "point": "산뜻하게", "explanation": "산뜻하다 (清爽的) + 게 (副詞形)。" }
+      ]
+    },
+    {
+      "korean": "하루를 시작하면서 잊지 말아야 하죠",
+      "translation": "開始新的一天時 不能忘記",
+      "analysis": [
+        { "point": "하루를", "explanation": "하루 (一天) + 를 (受格)。" },
+        { "point": "시작하면서", "explanation": "시작하다 (開始) + 면서 (同時，表示「一邊...一邊」)。" },
+        { "point": "잊지 말아야 하죠", "explanation": "잊다 (忘記) + 지 말다 (不要) + 아야 하다 (必須) + 죠 (敬語尾)。" }
+      ]
+    },
+    {
+      "korean": "두 눈을 깜박이며 살짝 미소 지으면",
+      "translation": "眨眨雙眼 輕輕微笑的話",
+      "analysis": [
+        { "point": "두 눈을", "explanation": "두 (兩) + 눈 (眼睛) + 을 (受格)。" },
+        { "point": "깜박이며", "explanation": "깜박이다 (眨眼) + 며 (同時)。" },
+        { "point": "살짝", "explanation": "副詞，輕輕地。" },
+        { "point": "미소 지으면", "explanation": "미소 (微笑) + 짓다 (做) + 으면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "이젠 모든게 완벽하죠",
+      "translation": "現在一切都很完美",
+      "analysis": [
+        { "point": "이젠", "explanation": "이제는 (現在) 的縮略。" },
+        { "point": "모든게", "explanation": "모든 (所有的) + 것 (東西) + 이 (主格) 的縮略。" },
+        { "point": "완벽하죠", "explanation": "완벽하다 (完美) + 죠 (敬語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus 3",
+      "korean": "Girl Pretty Girl Pretty Girl",
+      "translation": "女孩 漂亮女孩 漂亮女孩",
+      "analysis": [
+        { "point": "Girl Pretty Girl Pretty Girl", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "누구라도 될 수 있죠 난",
+      "translation": "無論誰都能成為 我",
+      "analysis": [
+        { "point": "누구라도", "explanation": "누구 (誰) + 라도 (無論)。" },
+        { "point": "될 수 있죠", "explanation": "되다 (成為) + ㄹ 수 있다 (可以) + 죠 (敬語尾)。" },
+        { "point": "난", "explanation": "我。" }
+      ]
+    },
+    {
+      "korean": "Beautiful Girl Beautiful",
+      "translation": "美麗的女孩 美麗",
+      "analysis": [
+        { "point": "Beautiful Girl Beautiful", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "Yeah yeah yeah yeah",
+      "translation": "Yeah yeah yeah yeah",
+      "analysis": [
+        { "point": "Yeah yeah yeah yeah", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "Yeah yeah yeah yeah",
+      "translation": "Yeah yeah yeah yeah",
+      "analysis": [
+        { "point": "Yeah yeah yeah yeah", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus 4",
+      "korean": "Girl Pretty Girl Pretty Girl",
+      "translation": "女孩 漂亮女孩 漂亮女孩",
+      "analysis": [
+        { "point": "Girl Pretty Girl Pretty Girl", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "그냥 되진 않는거죠 난",
+      "translation": "不是隨便就能成的 我",
+      "analysis": [
+        { "point": "그냥 되진 않는거죠 난", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "Beautiful Girl Beautiful Girl",
+      "translation": "美麗的女孩 美麗的女孩",
+      "analysis": [
+        { "point": "Beautiful Girl Beautiful Girl", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "Yeah yeah",
+      "translation": "Yeah yeah",
+      "analysis": [
+        { "point": "Yeah yeah", "explanation": "英文感嘆，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "If you wanna pretty",
+      "translation": "如果你想要漂亮",
+      "analysis": [
+        { "point": "If you wanna pretty", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "every wanna pretty",
+      "translation": "每個人都想要漂亮",
+      "analysis": [
+        { "point": "every wanna pretty", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "안된다는 맘은",
+      "translation": "覺得不行的想法",
+      "analysis": [
+        { "point": "안된다는 맘은", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "no no no no",
+      "translation": "不不不不",
+      "analysis": [
+        { "point": "no no no no", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "If you wanna pretty",
+      "translation": "如果你想要漂亮",
+      "analysis": [
+        { "point": "If you wanna pretty", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "every wanna pretty",
+      "translation": "每個人都想要漂亮",
+      "analysis": [
+        { "point": "every wanna pretty", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "어디서나 당당하게 걷기",
+      "translation": "到哪裡都自信地走路",
+      "analysis": [
+        { "point": "어디서나 당당하게 걷기", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "Yeah yeah yeah yeah",
+      "translation": "Yeah yeah yeah yeah",
+      "analysis": [
+        { "point": "Yeah yeah yeah yeah", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "Yeah yeah yeah yeah yeah",
+      "translation": "Yeah yeah yeah yeah yeah",
+      "analysis": [
+        { "point": "Yeah yeah yeah yeah yeah", "explanation": "英文，不進行文法解析。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "안되다", "chinese": "不行", "pos": "動詞" },
+    { "korean": "맘", "chinese": "心", "pos": "名詞" },
+    { "korean": "어디서나", "chinese": "無論何處", "pos": "副詞" },
+    { "korean": "당당하다", "chinese": "自信的", "pos": "形容詞" },
+    { "korean": "걷다", "chinese": "走路", "pos": "動詞" },
+    { "korean": "맞다", "chinese": "合適", "pos": "動詞" },
+    { "korean": "옷", "chinese": "衣服", "pos": "名詞" },
+    { "korean": "받쳐주다", "chinese": "配合、支撐", "pos": "動詞" },
+    { "korean": "말투", "chinese": "語氣", "pos": "名詞" },
+    { "korean": "센스", "chinese": "品味", "pos": "名詞" },
+    { "korean": "포즈", "chinese": "姿勢", "pos": "名詞" },
+    { "korean": "그냥", "chinese": "隨便地", "pos": "副詞" },
+    { "korean": "되다", "chinese": "成為", "pos": "動詞" },
+    { "korean": "생활", "chinese": "生活", "pos": "名詞" },
+    { "korean": "상식", "chinese": "常識", "pos": "名詞" },
+    { "korean": "기본", "chinese": "基本", "pos": "名詞" },
+    { "korean": "시사", "chinese": "時事", "pos": "名詞" },
+    { "korean": "선택", "chinese": "選擇", "pos": "名詞" },
+    { "korean": "끊임없다", "chinese": "不斷的", "pos": "形容詞" },
+    { "korean": "노력", "chinese": "努力", "pos": "名詞" },
+    { "korean": "조금도", "chinese": "一點也（不）", "pos": "副詞" },
+    { "korean": "망설이다", "chinese": "猶豫", "pos": "動詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "예쁘다", "chinese": "美麗的", "pos": "形容詞" },
+    { "korean": "표정", "chinese": "表情", "pos": "名詞" },
+    { "korean": "산뜻하다", "chinese": "清爽的", "pos": "形容詞" },
+    { "korean": "하루", "chinese": "一天", "pos": "名詞" },
+    { "korean": "시작하다", "chinese": "開始", "pos": "動詞" },
+    { "korean": "잊다", "chinese": "忘記", "pos": "動詞" },
+    { "korean": "눈", "chinese": "眼睛", "pos": "名詞" },
+    { "korean": "깜박이다", "chinese": "眨眼", "pos": "動詞" },
+    { "korean": "살짝", "chinese": "輕輕地", "pos": "副詞" },
+    { "korean": "미소", "chinese": "微笑", "pos": "名詞" },
+    { "korean": "짓다", "chinese": "做（表情）", "pos": "動詞" },
+    { "korean": "완벽하다", "chinese": "完美的", "pos": "形容詞" },
+    { "korean": "누구", "chinese": "誰", "pos": "代名詞" }
+  ]
+}

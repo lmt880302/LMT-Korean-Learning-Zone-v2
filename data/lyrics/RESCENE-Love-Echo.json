@@ -1,0 +1,520 @@
+{
+  "id": "RESCENE-Love-Echo",
+  "title": "Love Echo",
+  "artist": "RESCENE (리센느)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "차가운 바람",
+      "translation": "冰冷的風",
+      "analysis": [
+        { "point": "차가운", "explanation": "차갑다 (冰冷的) 的定語形。" },
+        { "point": "바람", "explanation": "名詞，風。" }
+      ]
+    },
+    {
+      "korean": "소란스러운 Side",
+      "translation": "喧鬧的一側",
+      "analysis": [
+        { "point": "소란스러운", "explanation": "소란스럽다 (喧鬧的) 的定語形。" },
+        { "point": "Side", "explanation": "英文，側面、一邊，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "어느 틈엔가",
+      "translation": "不知不覺間",
+      "analysis": [
+        { "point": "어느", "explanation": "某個。" },
+        { "point": "틈엔가", "explanation": "틈 (間隙、時機) + 에는 (在) + 가 (不確定，表示「某時」) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "흐려진 Delight",
+      "translation": "變得模糊的喜悅",
+      "analysis": [
+        { "point": "흐려진", "explanation": "흐려지다 (變得模糊) + ㄴ (過去定語)。" },
+        { "point": "Delight", "explanation": "英文，喜悅，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "눈부시던 낮은 잠에 든 걸까",
+      "translation": "曾經耀眼的白天是否入睡了呢",
+      "analysis": [
+        { "point": "눈부시던", "explanation": "눈부시다 (耀眼的) + 던 (過去回想定語)。" },
+        { "point": "낮은", "explanation": "낮 (白天) + 은 (主題)。" },
+        { "point": "잠에 든 걸까", "explanation": "잠 (睡眠) + 에 (位置) + 들다 (進入) + 은 (過去定語) + 것 (事情) + 일까 (推測疑問) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "긴 어둠 끝을 맞잡고",
+      "translation": "握緊漫長黑暗的盡頭",
+      "analysis": [
+        { "point": "긴", "explanation": "길다 (長的) 的定語形。" },
+        { "point": "어둠", "explanation": "名詞，黑暗。" },
+        { "point": "끝을", "explanation": "끝 (盡頭) + 을 (受格)。" },
+        { "point": "맞잡고", "explanation": "맞잡다 (互相握緊) 的連接形。" }
+      ]
+    },
+    {
+      "korean": "노래하는 이 순간",
+      "translation": "歌唱的這一瞬間",
+      "analysis": [
+        { "point": "노래하는", "explanation": "노래하다 (唱歌) + 는 (定語)。" },
+        { "point": "이 순간", "explanation": "這個瞬間。" }
+      ]
+    },
+    {
+      "korean": "진동하는 우주가",
+      "translation": "振動的宇宙",
+      "analysis": [
+        { "point": "진동하는", "explanation": "진동하다 (振動) + 는 (定語)。" },
+        { "point": "우주가", "explanation": "우주 (宇宙) + 가 (主格)。" }
+      ]
+    },
+    {
+      "korean": "만들어낸 틈을 느껴봐",
+      "translation": "試著感受所創造出的間隙",
+      "analysis": [
+        { "point": "만들어낸", "explanation": "만들어내다 (創造出) + ㄴ (過去定語)。" },
+        { "point": "틈을", "explanation": "틈 (間隙) + 을 (受格)。" },
+        { "point": "느껴봐", "explanation": "느끼다 (感受) + 아/어 보다 (嘗試) + 아 (請求)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "날 선 눈빛 가득한 이곳에",
+      "translation": "在這充滿銳利眼神的地方",
+      "analysis": [
+        { "point": "날 선", "explanation": "날카롭다 (尖銳) 的縮略，表示「尖銳的」。" },
+        { "point": "눈빛", "explanation": "名詞，眼神。" },
+        { "point": "가득한", "explanation": "가득하다 (充滿) + ㄴ (定語)。" },
+        { "point": "이곳에", "explanation": "這個地方 + 에 (位置)。" }
+      ]
+    },
+    {
+      "korean": "하나둘씩 겹쳐오는 울림",
+      "translation": "一個一個重疊而來的迴響",
+      "analysis": [
+        { "point": "하나둘씩", "explanation": "하나둘 (一兩個) + 씩 (每、逐一)。" },
+        { "point": "겹쳐오는", "explanation": "겹쳐오다 (重疊而來) + 는 (定語)。" },
+        { "point": "울림", "explanation": "名詞，迴響、共鳴。" }
+      ]
+    },
+    {
+      "korean": "잔잔했던 세상을 다 깨워",
+      "translation": "喚醒曾平靜的世界",
+      "analysis": [
+        { "point": "잔잔했던", "explanation": "잔잔하다 (平靜) + 했 (過去) + 던 (回想定語)。" },
+        { "point": "세상을", "explanation": "세상 (世界) + 을 (受格)。" },
+        { "point": "다", "explanation": "副詞，全部。" },
+        { "point": "깨워", "explanation": "깨우다 (喚醒) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Baby your heart’s so cold",
+      "translation": "寶貝 你的心如此冰冷",
+      "analysis": [
+        { "point": "Baby your heart's so cold", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "온기를 굶주린 눈빛",
+      "translation": "渴望溫暖的眼神",
+      "analysis": [
+        { "point": "온기를", "explanation": "온기 (溫暖) + 를 (受格)。" },
+        { "point": "굶주린", "explanation": "굶주리다 (飢渴、渴望) + ㄴ (過去定語)。" },
+        { "point": "눈빛", "explanation": "眼神。" }
+      ]
+    },
+    {
+      "korean": "We’re gonna crash and burn",
+      "translation": "我們將會碰撞燃燒",
+      "analysis": [
+        { "point": "We're gonna crash and burn", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "따스히 녹아내려",
+      "translation": "溫暖地融化",
+      "analysis": [
+        { "point": "따스히", "explanation": "副詞，溫暖地。" },
+        { "point": "녹아내려", "explanation": "녹아내리다 (融化) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "하나 되어 퍼져가는 노래가",
+      "translation": "合而為一 擴散開去的歌曲",
+      "analysis": [
+        { "point": "하나 되어", "explanation": "하나 (一) + 되다 (成為) + 아/어 (連接)。" },
+        { "point": "퍼져가는", "explanation": "퍼져가다 (擴散開去) + 는 (定語)。" },
+        { "point": "노래가", "explanation": "노래 (歌曲) + 가 (主格)。" }
+      ]
+    },
+    {
+      "korean": "온 세상을 이어 꿈은 커져가",
+      "translation": "連接整個世界 夢想不斷壯大",
+      "analysis": [
+        { "point": "온 세상을", "explanation": "온 (全部的) + 세상 (世界) + 을 (受格)。" },
+        { "point": "이어", "explanation": "잇다 (連接) + 아/어 (連接)。" },
+        { "point": "꿈은", "explanation": "꿈 (夢) + 은 (主題)。" },
+        { "point": "커져가", "explanation": "커져가다 (變大、壯大) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Our heart’s so bold",
+      "translation": "我們的心如此大膽",
+      "analysis": [
+        { "point": "Our heart's so bold", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "Sing our love echo",
+      "translation": "唱出我們的愛之迴響",
+      "analysis": [
+        { "point": "Sing our love echo", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "만들어가 Love echo",
+      "translation": "創造吧 Love echo",
+      "analysis": [
+        { "point": "만들어가", "explanation": "만들어가다 (創造下去) 的非格式體。" },
+        { "point": "Love echo", "explanation": "英文，愛的迴響，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "Sing our love echo",
+      "translation": "唱出我們的愛之迴響",
+      "analysis": [
+        { "point": "Sing our love echo", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "바다보다 깊게",
+      "translation": "比大海更深",
+      "analysis": [
+        { "point": "바다보다", "explanation": "바다 (大海) + 보다 (比)。" },
+        { "point": "깊게", "explanation": "깊다 (深) + 게 (副詞形)。" }
+      ]
+    },
+    {
+      "korean": "하늘보다 높이 날아가 볼래",
+      "translation": "比天空更高 試著飛翔看看",
+      "analysis": [
+        { "point": "하늘보다", "explanation": "하늘 (天空) + 보다 (比)。" },
+        { "point": "높이", "explanation": "副詞，高。" },
+        { "point": "날아가 볼래", "explanation": "날아가다 (飛去) + 아/어 보다 (嘗試) + ㄹ래 (意志/勸誘)。" }
+      ]
+    },
+    {
+      "korean": "함께라면 가능해",
+      "translation": "如果在一起 就能做到",
+      "analysis": [
+        { "point": "함께라면", "explanation": "함께 (一起) + 이다 (是) + 라면 (如果)。" },
+        { "point": "가능해", "explanation": "가능하다 (可能) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "꼭 기적 같아 우리라는 말 Ya",
+      "translation": "就像奇蹟一樣 '我們' 這個詞 Ya",
+      "analysis": [
+        { "point": "꼭", "explanation": "副詞，一定、就像。" },
+        { "point": "기적 같아", "explanation": "기적 (奇蹟) + 같다 (像) 的非格式體。" },
+        { "point": "우리라는", "explanation": "우리 (我們) + 라는 (叫做、就是)。" },
+        { "point": "말", "explanation": "名詞，話語、詞。" },
+        { "point": "Ya", "explanation": "感嘆詞，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 4",
+      "korean": "거울같이 비춰오는 눈빛",
+      "translation": "如鏡子般映照過來的眼神",
+      "analysis": [
+        { "point": "거울같이", "explanation": "거울 (鏡子) + 같이 (像...一樣)。" },
+        { "point": "비춰오는", "explanation": "비추다 (映照) + 아/어 오다 (過來) + 는 (定語)。" },
+        { "point": "눈빛", "explanation": "眼神。" }
+      ]
+    },
+    {
+      "korean": "자유로이 춤을 추는 Motion",
+      "translation": "自由舞動的 Motion",
+      "analysis": [
+        { "point": "자유로이", "explanation": "副詞，自由地。" },
+        { "point": "춤을 추는", "explanation": "춤 (舞蹈) + 을 (受格) + 추다 (跳) + 는 (定語)。" },
+        { "point": "Motion", "explanation": "英文，動作、律動，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "세상이 다 우릴 위한",
+      "translation": "世界全都是為了我們",
+      "analysis": [
+        { "point": "세상이", "explanation": "세상 (世界) + 이 (主格)。" },
+        { "point": "다", "explanation": "全部。" },
+        { "point": "우릴", "explanation": "우리를 (我們) 的縮略。" },
+        { "point": "위한", "explanation": "위하다 (為了) 的定語形。" }
+      ]
+    },
+    {
+      "korean": "커다란 무댄걸",
+      "translation": "是巨大的舞台",
+      "analysis": [
+        { "point": "커다란", "explanation": "커다랗다 (巨大的) 的定語形。" },
+        { "point": "무댄걸", "explanation": "무대 (舞台) + 인 (是) + 것 (事情) + 을 (受格) 的縮略，表示「是舞台的」。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Baby your heart’s so cold",
+      "translation": "寶貝 你的心如此冰冷",
+      "analysis": [
+        { "point": "Baby your heart's so cold", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "온기를 굶주린 눈빛",
+      "translation": "渴望溫暖的眼神",
+      "analysis": [
+        { "point": "온기를 굶주린 눈빛", "explanation": "同前。" }
+      ]
+    },
+    {
+      "korean": "We’re gonna crash and burn",
+      "translation": "我們將會碰撞燃燒",
+      "analysis": [
+        { "point": "We're gonna crash and burn", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "따스히 녹아내려",
+      "translation": "溫暖地融化",
+      "analysis": [
+        { "point": "따스히 녹아내려", "explanation": "溫暖地融化。" }
+      ]
+    },
+    {
+      "korean": "하나 되어 퍼져가는 노래가",
+      "translation": "合而為一 擴散開去的歌曲",
+      "analysis": [
+        { "point": "하나 되어 퍼져가는 노래가", "explanation": "合而為一 擴散開去的歌曲。" }
+      ]
+    },
+    {
+      "korean": "온 세상을 이어 꿈은 커져가",
+      "translation": "連接整個世界 夢想不斷壯大",
+      "analysis": [
+        { "point": "온 세상을 이어 꿈은 커져가", "explanation": "連接整個世界 夢想不斷壯大。" }
+      ]
+    },
+    {
+      "korean": "Our heart’s so bold",
+      "translation": "我們的心如此大膽",
+      "analysis": [
+        { "point": "Our heart's so bold", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "Sing our love echo",
+      "translation": "唱出我們的愛之迴響",
+      "analysis": [
+        { "point": "Sing our love echo", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "만들어가 Love echo",
+      "translation": "創造吧 Love echo",
+      "analysis": [
+        { "point": "만들어가 Love echo", "explanation": "創造吧。" }
+      ]
+    },
+    {
+      "korean": "Sing our love echo",
+      "translation": "唱出我們的愛之迴響",
+      "analysis": [
+        { "point": "Sing our love echo", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "시작되는 조그만 Resonance",
+      "translation": "開始的微小共鳴",
+      "analysis": [
+        { "point": "시작되는", "explanation": "시작되다 (開始) + 는 (定語)。" },
+        { "point": "조그만", "explanation": "조그맣다 (微小的) 的定語形。" },
+        { "point": "Resonance", "explanation": "英文，共鳴，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "다른 시선을 열어 Yuh",
+      "translation": "打開不同的視線 Yuh",
+      "analysis": [
+        { "point": "다른", "explanation": "不同的。" },
+        { "point": "시선을", "explanation": "시선 (視線) + 을 (受格)。" },
+        { "point": "열어", "explanation": "열다 (打開) 的非格式體。" },
+        { "point": "Yuh", "explanation": "感嘆詞，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "So we gotta sing loud, love echo",
+      "translation": "所以我們要大聲唱 love echo",
+      "analysis": [
+        { "point": "So we gotta sing loud, love echo", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Baby your heart’s so cold",
+      "translation": "寶貝 你的心如此冰冷",
+      "analysis": [
+        { "point": "Baby your heart's so cold", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "수평선 저 끝까지",
+      "translation": "直到地平線的那一端",
+      "analysis": [
+        { "point": "수평선", "explanation": "名詞，地平線。" },
+        { "point": "저", "explanation": "那。" },
+        { "point": "끝까지", "explanation": "끝 (盡頭) + 까지 (到)。" }
+      ]
+    },
+    {
+      "korean": "We’re gonna crash and burn",
+      "translation": "我們將會碰撞燃燒",
+      "analysis": [
+        { "point": "We're gonna crash and burn", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "펼쳐진 다른 세상",
+      "translation": "展開的另一個世界",
+      "analysis": [
+        { "point": "펼쳐진", "explanation": "펼쳐지다 (展開) + ㄴ (過去定語)。" },
+        { "point": "다른", "explanation": "不同的。" },
+        { "point": "세상", "explanation": "世界。" }
+      ]
+    },
+    {
+      "korean": "하나 되어 퍼져가는 노래가",
+      "translation": "合而為一 擴散開去的歌曲",
+      "analysis": [
+        { "point": "하나 되어 퍼져가는 노래가", "explanation": "合而為一 擴散開去的歌曲。" }
+      ]
+    },
+    {
+      "korean": "온 세상을 이어 꿈은 커져가",
+      "translation": "連接整個世界 夢想不斷壯大",
+      "analysis": [
+        { "point": "온 세상을 이어 꿈은 커져가", "explanation": "連接整個世界 夢想不斷壯大。" }
+      ]
+    },
+    {
+      "korean": "Our heart’s so bold",
+      "translation": "我們的心如此大膽",
+      "analysis": [
+        { "point": "Our heart's so bold", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "Sing our love echo",
+      "translation": "唱出我們的愛之迴響",
+      "analysis": [
+        { "point": "Sing our love echo", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "만들어가 Love echo",
+      "translation": "創造吧 Love echo",
+      "analysis": [
+        { "point": "만들어가 Love echo", "explanation": "創造吧。" }
+      ]
+    },
+    {
+      "korean": "Sing our love echo",
+      "translation": "唱出我們的愛之迴響",
+      "analysis": [
+        { "point": "Sing our love echo", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "우리만의 Love echo",
+      "translation": "只屬於我們的 Love echo",
+      "analysis": [
+        { "point": "우리만의", "explanation": "우리 (我們) + 만 (只) + 의 (所有格)。" },
+        { "point": "Love echo", "explanation": "英文，愛的迴響，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "Sing our love echo",
+      "translation": "唱出我們的愛之迴響",
+      "analysis": [
+        { "point": "Sing our love echo", "explanation": "英文，不進行文法解析。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "차갑다", "chinese": "冰冷的", "pos": "形容詞" },
+    { "korean": "바람", "chinese": "風", "pos": "名詞" },
+    { "korean": "소란스럽다", "chinese": "喧鬧的", "pos": "形容詞" },
+    { "korean": "틈", "chinese": "間隙", "pos": "名詞" },
+    { "korean": "흐려지다", "chinese": "變得模糊", "pos": "動詞" },
+    { "korean": "눈부시다", "chinese": "耀眼的", "pos": "形容詞" },
+    { "korean": "낮", "chinese": "白天", "pos": "名詞" },
+    { "korean": "잠", "chinese": "睡眠", "pos": "名詞" },
+    { "korean": "들다", "chinese": "進入", "pos": "動詞" },
+    { "korean": "어둠", "chinese": "黑暗", "pos": "名詞" },
+    { "korean": "끝", "chinese": "盡頭", "pos": "名詞" },
+    { "korean": "맞잡다", "chinese": "互相握緊", "pos": "動詞" },
+    { "korean": "노래하다", "chinese": "唱歌", "pos": "動詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "진동하다", "chinese": "振動", "pos": "動詞" },
+    { "korean": "우주", "chinese": "宇宙", "pos": "名詞" },
+    { "korean": "만들어내다", "chinese": "創造出", "pos": "動詞" },
+    { "korean": "느끼다", "chinese": "感受", "pos": "動詞" },
+    { "korean": "날카롭다", "chinese": "尖銳的", "pos": "形容詞" },
+    { "korean": "눈빛", "chinese": "眼神", "pos": "名詞" },
+    { "korean": "가득하다", "chinese": "充滿", "pos": "動詞" },
+    { "korean": "겹쳐오다", "chinese": "重疊而來", "pos": "動詞" },
+    { "korean": "울림", "chinese": "迴響", "pos": "名詞" },
+    { "korean": "잔잔하다", "chinese": "平靜的", "pos": "形容詞" },
+    { "korean": "세상", "chinese": "世界", "pos": "名詞" },
+    { "korean": "깨우다", "chinese": "喚醒", "pos": "動詞" },
+    { "korean": "온기", "chinese": "溫暖", "pos": "名詞" },
+    { "korean": "굶주리다", "chinese": "渴望、飢渴", "pos": "動詞" },
+    { "korean": "따스히", "chinese": "溫暖地", "pos": "副詞" },
+    { "korean": "녹아내리다", "chinese": "融化", "pos": "動詞" },
+    { "korean": "퍼져가다", "chinese": "擴散開去", "pos": "動詞" },
+    { "korean": "잇다", "chinese": "連接", "pos": "動詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "커져가다", "chinese": "變大、壯大", "pos": "動詞" },
+    { "korean": "만들어가다", "chinese": "創造下去", "pos": "動詞" },
+    { "korean": "바다", "chinese": "大海", "pos": "名詞" },
+    { "korean": "깊다", "chinese": "深的", "pos": "形容詞" },
+    { "korean": "하늘", "chinese": "天空", "pos": "名詞" },
+    { "korean": "높이", "chinese": "高", "pos": "副詞" },
+    { "korean": "날아가다", "chinese": "飛去", "pos": "動詞" },
+    { "korean": "함께", "chinese": "一起", "pos": "副詞" },
+    { "korean": "가능하다", "chinese": "可能的", "pos": "形容詞" },
+    { "korean": "기적", "chinese": "奇蹟", "pos": "名詞" },
+    { "korean": "같다", "chinese": "像", "pos": "形容詞" },
+    { "korean": "우리", "chinese": "我們", "pos": "代名詞" },
+    { "korean": "거울", "chinese": "鏡子", "pos": "名詞" },
+    { "korean": "비추다", "chinese": "映照", "pos": "動詞" },
+    { "korean": "자유로이", "chinese": "自由地", "pos": "副詞" },
+    { "korean": "춤", "chinese": "舞蹈", "pos": "名詞" },
+    { "korean": "추다", "chinese": "跳舞", "pos": "動詞" },
+    { "korean": "위하다", "chinese": "為了", "pos": "動詞" },
+    { "korean": "커다랗다", "chinese": "巨大的", "pos": "形容詞" },
+    { "korean": "무대", "chinese": "舞台", "pos": "名詞" },
+    { "korean": "시작되다", "chinese": "開始", "pos": "動詞" },
+    { "korean": "조그맣다", "chinese": "微小的", "pos": "形容詞" },
+    { "korean": "다른", "chinese": "不同的", "pos": "冠形詞" },
+    { "korean": "시선", "chinese": "視線", "pos": "名詞" },
+    { "korean": "열다", "chinese": "打開", "pos": "動詞" },
+    { "korean": "수평선", "chinese": "地平線", "pos": "名詞" },
+    { "korean": "펼쳐지다", "chinese": "展開", "pos": "動詞" }
+  ]
+}
