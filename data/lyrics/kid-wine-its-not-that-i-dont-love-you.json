@@ -41,8 +41,7 @@
       "korean": "참 좋을 것 같아",
       "translation": "會很好",
       "analysis": [
-        { "point": "참", "explanation": "真。" },
-        { "point": "좋을 것 같아", "explanation": "좋다 (好) + -(으)ㄹ 것 같다 (好像會) 的非格式體。" }
+        { "point": "참 좋을 것 같아", "explanation": "좋다 (好) + -(으)ㄹ 것 같다 (好像會) 的非格式體。" }
       ]
     },
     {
@@ -165,7 +164,8 @@
       "korean": "참 웃긴 것 같아",
       "translation": "真的很可笑",
       "analysis": [
-        { "point": "참 웃긴 것 같아", "explanation": "同上。" }
+        { "point": "참", "explanation": "副詞，真、非常。" },
+        { "point": "웃긴 것 같아", "explanation": "웃기다 (可笑的) + -ㄴ 것 같다 (好像) 的非格式體。" }
       ]
     },
     {
@@ -197,7 +197,7 @@
       "korean": "참 좋을 것 같아",
       "translation": "會很好",
       "analysis": [
-        { "point": "참 좋을 것 같아", "explanation": "同上。" }
+        { "point": "참 좋을 것 같아", "explanation": "좋다 (好) + -(으)ㄹ 것 같다 (好像會) 的非格式體。" }
       ]
     },
     {
@@ -239,70 +239,80 @@
       "korean": "너를 사랑하지 않는 맘이 아냐",
       "translation": "不是不愛你的心",
       "analysis": [
-        { "point": "너를 사랑하지 않는 맘이 아냐", "explanation": "同上。" }
+        { "point": "너를", "explanation": "너 (你) + -를 (受格)。" },
+        { "point": "사랑하지 않는", "explanation": "사랑하다 (愛) + -지 않다 (不) 的定語形。" },
+        { "point": "맘이 아냐", "explanation": "마음 (心) 的縮略 + -이 (主格) + 아니다 (不是) 的口語形。" }
       ]
     },
     {
       "korean": "널 사랑해서 보내주는 거야",
       "translation": "是因為愛你才放手的",
       "analysis": [
-        { "point": "널 사랑해서 보내주는 거야", "explanation": "同上。" }
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "사랑해서", "explanation": "사랑하다 (愛) + -아/어서 (因為)。" },
+        { "point": "보내주는 거야", "explanation": "보내다 (送、放開) + -아/어 주다 (為你) + -는 것이야 (是) 的口語縮略。" }
       ]
     },
     {
       "korean": "돌아보지 말고",
       "translation": "不要回頭看",
       "analysis": [
-        { "point": "돌아보지 말고", "explanation": "同上。" }
+        { "point": "돌아보지 말고", "explanation": "돌아보다 (回頭看) + -지 말다 (不要) + -고 (連接)。" }
       ]
     },
     {
       "korean": "붙잡지도 말고",
       "translation": "也不要挽留",
       "analysis": [
-        { "point": "붙잡지도 말고", "explanation": "同上。" }
+        { "point": "붙잡지도 말고", "explanation": "붙잡다 (挽留、抓住) + -지도 (也) + 말다 (不要) + -고 (連接)。" }
       ]
     },
     {
       "korean": "반대로 살아 보는 거야",
       "translation": "試著反向地生活",
       "analysis": [
-        { "point": "반대로 살아 보는 거야", "explanation": "同上。" }
+        { "point": "반대로", "explanation": "副詞，反向地。" },
+        { "point": "살아 보는 거야", "explanation": "살다 (活) + -아/어 보다 (嘗試) + -는 것이야 (是) 的口語縮略。" }
       ]
     },
     {
       "korean": "이건 우리가 원한 모습이 아냐",
       "translation": "這不是我們想要的樣子",
       "analysis": [
-        { "point": "이건 우리가 원한 모습이 아냐", "explanation": "同上。" }
+        { "point": "이건", "explanation": "이것은 (這個) 的縮略。" },
+        { "point": "우리가 원한", "explanation": "우리 (我們) + -가 (主格) + 원하다 (想要) 的過去定語形。" },
+        { "point": "모습이 아냐", "explanation": "모습 (模樣) + -이 (主格) + 아니다 (不是) 的口語形。" }
       ]
     },
     {
       "korean": "돌아서면 다시 넌 보고 싶겠지만",
       "translation": "轉身之後 雖然又會想你",
       "analysis": [
-        { "point": "돌아서면 다시 넌 보고 싶겠지만", "explanation": "同上。" }
+        { "point": "돌아서면", "explanation": "돌아서다 (轉身) + -(으)면 (如果)。" },
+        { "point": "다시", "explanation": "再次。" },
+        { "point": "넌 보고 싶겠지만", "explanation": "너는 (你) 的縮略 + 보고 싶다 (想念) + -겠- (推測) + -지만 (雖然)。" }
       ]
     },
     {
       "korean": "사랑했단 말도",
       "translation": "愛過的話",
       "analysis": [
-        { "point": "사랑했단 말도", "explanation": "同上。" }
+        { "point": "사랑했단 말도", "explanation": "사랑하다 (愛) 的過去形 + -단 (引用) + 말 (話) + -도 (也)。" }
       ]
     },
     {
       "korean": "소중했단 말도",
       "translation": "珍貴過的話",
       "analysis": [
-        { "point": "소중했단 말도", "explanation": "同上。" }
+        { "point": "소중했단 말도", "explanation": "소중하다 (珍貴的) 的過去形 + -단 (引用) + 말 (話) + -도 (也)。" }
       ]
     },
     {
       "korean": "이젠 추억에 남는 거야",
       "translation": "現在只留在回憶中",
       "analysis": [
-        { "point": "이젠 추억에 남는 거야", "explanation": "同上。" }
+        { "point": "이젠", "explanation": "이제는 (現在) 的縮略。" },
+        { "point": "추억에 남는 거야", "explanation": "추억 (回憶) + -에 (場所) + 남다 (留下) + -는 것이야 (是) 的口語縮略。" }
       ]
     },
     {

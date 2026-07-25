@@ -202,36 +202,6 @@
             gap: 0.6rem;
         }
 
-        /* ——— 結構區塊 ——— */
-        .structure-panel {
-            background: var(--bg-secondary);
-            border: 1px solid var(--border-subtle);
-            border-radius: 16px;
-            padding: 1.75rem 2rem;
-            overflow-x: auto;
-        }
-        .structure-panel pre {
-            font-family: 'Inter', 'SF Mono', monospace;
-            font-size: 0.78rem;
-            line-height: 1.9;
-            color: var(--text-secondary);
-            white-space: pre-wrap;
-            word-break: break-all;
-        }
-        .structure-panel .folder {
-            color: var(--text-muted);
-        }
-        .structure-panel .file {
-            color: #7a7570;
-        }
-        .structure-panel .highlight {
-            color: var(--accent-gold);
-        }
-        .structure-panel .root {
-            color: var(--text-primary);
-            font-weight: 500;
-        }
-
         /* ——— 裝飾 ——— */
         .gold-line {
             width: 40px;
@@ -311,13 +281,6 @@
             .card-module {
                 padding: 1.5rem 1.25rem;
             }
-            .structure-panel {
-                padding: 1.25rem;
-            }
-            .structure-panel pre {
-                font-size: 0.7rem;
-                line-height: 1.8;
-            }
         }
     </style>
 </head>
@@ -385,11 +348,17 @@
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3" />
                             </svg>
                         </a>
-                        <a href="#structure" class="btn-secondary">
-                            Structure
-                            <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z" />
+                        <a href="./vocabulary/flashcards.html" class="btn-secondary">
+                            <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
                             </svg>
+                            Flashcards
+                        </a>
+                        <a href="./songs/index.html" class="btn-secondary">
+                            <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M9 9l10.5-3m0 6.553v3.75a2.25 2.25 0 01-1.632 2.163l-1.32.377a1.803 1.803 0 01-.99-3.467l2.31-.66a2.25 2.25 0 001.632-2.163zm0 0V2.25L9 5.25v10.303m0 0v3.75a2.25 2.25 0 01-1.632 2.163l-1.32.377a1.803 1.803 0 01-.99-3.467l2.31-.66A2.25 2.25 0 009 15.553z" />
+                            </svg>
+                            Lyrics
                         </a>
                     </div>
 
@@ -491,52 +460,6 @@
         </div>
     </section>
 
-    <!-- ===== PROJECT STRUCTURE ===== -->
-    <section id="structure" class="py-16 bg-[#0b0b10] border-t border-[#1a1a24]">
-        <div class="max-w-6xl mx-auto px-6 lg:px-8">
-            <div class="flex flex-col md:flex-row md:items-end justify-between gap-5 mb-8">
-                <div>
-                    <span class="section-label">Project architecture</span>
-                    <div class="gold-line mt-1.5 mb-2"></div>
-                    <h2 class="text-xl sm:text-2xl font-light text-[#e4dfd8] tracking-tight">Structure</h2>
-                    <p class="text-[#6b6660] text-sm font-light mt-0.5">Modular · data-driven · extensible</p>
-                </div>
-                <span class="text-[0.6rem] font-medium tracking-wider text-[#6b6660] bg-[#111118] px-4 py-1.5 rounded-full border border-[#1a1a24]">
-                    LMT-KOREAN-LEARNING-ZONE
-                </span>
-            </div>
-
-            <div class="structure-panel">
-                <pre><span class="root">📁 /LMT-KOREAN-LEARNING-ZONE</span>
-├── <span class="folder">📁 css/</span>
-│   └── <span class="file">style.css</span>
-├── <span class="folder">📁 data/</span>
-│   ├── <span class="folder">📁 lyrics/</span>
-│   │   ├── <span class="highlight">____.json</span>
-│   │   └── <span class="highlight">____.json</span>
-│   ├── <span class="file">grammar.json</span>
-│   ├── <span class="file">songs_list.json</span>
-│   └── <span class="file">vocabulary.json</span>
-├── <span class="folder">📁 grammar/</span>
-│   ├── <span class="file">grammar.html</span>
-│   └── <span class="file">index.html</span>
-├── <span class="folder">📁 img/</span>
-├── <span class="folder">📁 js/</span>
-│   └── <span class="file">main.js</span>
-├── <span class="folder">📁 songs/</span>
-│   ├── <span class="file">index.html</span>
-│   └── <span class="file">lyrics-template.html</span>
-├── <span class="folder">📁 vocabulary/</span>
-│   ├── <span class="file">flashcards.html</span>
-│   └── <span class="file">index.html</span>
-├── <span class="file">.gitmodules</span>
-├── <span class="highlight">index.html</span>  <span class="file">← entry</span>
-├── <span class="file">README.md</span>
-└── <span class="folder">📁 test/</span></pre>
-            </div>
-        </div>
-    </section>
-
     <!-- ===== CTA ===== -->
     <section class="py-14 bg-[#0d0d14] border-t border-[#1a1a24]">
         <div class="max-w-2xl mx-auto px-6 text-center">
@@ -557,9 +480,9 @@
                 &copy; <span id="year"></span> LMT · Korean Learning
             </p>
             <div class="flex items-center gap-5 text-[0.65rem] text-[#6b6660]">
-                <a href="#" class="hover:text-[#a09a94] transition">GitHub</a>
-                <a href="#" class="hover:text-[#a09a94] transition">Figma</a>
-                <a href="#" class="hover:text-[#a09a94] transition">About</a>
+                <a href="#" class="hover:text-[#a09a94] transition">L</a>
+                <a href="#" class="hover:text-[#a09a94] transition">M</a>
+                <a href="#" class="hover:text-[#a09a94] transition">T</a>
             </div>
         </div>
     </footer>

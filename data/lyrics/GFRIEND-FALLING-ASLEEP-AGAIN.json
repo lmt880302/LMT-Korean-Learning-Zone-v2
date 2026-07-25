@@ -1,0 +1,484 @@
+{
+  "id": "GFRIEND-FALLING-ASLEEP-AGAIN",
+  "title": "FALLING ASLEEP AGAIN (그루잠)",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "가로등 조차",
+      "translation": "連路燈也",
+      "analysis": [
+        { "point": "가로등", "explanation": "名詞，路燈。" },
+        { "point": "조차", "explanation": "助詞，甚至、連。" }
+      ]
+    },
+    {
+      "korean": "스르르 잠이 드는 밤",
+      "translation": "悄然入睡的夜晚",
+      "analysis": [
+        { "point": "스르르", "explanation": "擬態副詞，靜靜地、悄然地。" },
+        { "point": "잠이 드는", "explanation": "잠 (睡眠) + 이 (主格) + 들다 (進入) + 는 (定語形)，表示「入睡的」。" },
+        { "point": "밤", "explanation": "名詞，夜晚。" }
+      ]
+    },
+    {
+      "korean": "어디도 기댈 곳이 없죠",
+      "translation": "哪裡都沒有可依靠的地方",
+      "analysis": [
+        { "point": "어디도", "explanation": "어디 (哪裡) + 도 (也，此處表示「無論哪裡都」)。" },
+        { "point": "기댈", "explanation": "기대다 (依靠) 的未來定語形。" },
+        { "point": "곳이", "explanation": "곳 (地方) + 이 (主格)。" },
+        { "point": "없죠", "explanation": "없다 (沒有) + 죠 (敬語口語尾，即 지요 的縮略)。" }
+      ]
+    },
+    {
+      "korean": "그림자 조차",
+      "translation": "連影子也",
+      "analysis": [
+        { "point": "그림자", "explanation": "名詞，影子。" },
+        { "point": "조차", "explanation": "甚至、連。" }
+      ]
+    },
+    {
+      "korean": "희미한 하루 끝에서",
+      "translation": "在模糊的一天盡頭",
+      "analysis": [
+        { "point": "희미한", "explanation": "희미하다 (模糊的) 的定語形。" },
+        { "point": "하루", "explanation": "名詞，一天。" },
+        { "point": "끝에서", "explanation": "끝 (結束、盡頭) + 에서 (位置格，在...)。" }
+      ]
+    },
+    {
+      "korean": "그대를 만나게 된 거죠",
+      "translation": "就遇見了你",
+      "analysis": [
+        { "point": "그대를", "explanation": "그대 (你) + 를 (受格)。" },
+        { "point": "만나게 된", "explanation": "만나다 (遇見) + 게 되다 (變得、得以) + 은 (過去定語形)。" },
+        { "point": "거죠", "explanation": "것 (事情) + 이야 (是) 的縮略 + 죠 (敬語口語尾)，表示「是...的」。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "힘들고 지쳤던 나의 투정",
+      "translation": "我疲憊又辛苦的抱怨",
+      "analysis": [
+        { "point": "힘들고", "explanation": "힘들다 (累、辛苦) + 고 (連接)。" },
+        { "point": "지쳤던", "explanation": "지치다 (疲憊) + 었 (過去) + 던 (回想定語形)。" },
+        { "point": "나의", "explanation": "我的。" },
+        { "point": "투정", "explanation": "名詞，抱怨、牢騷。" }
+      ]
+    },
+    {
+      "korean": "이런 기분 전부 받아준",
+      "translation": "全部接納了這種心情的",
+      "analysis": [
+        { "point": "이런", "explanation": "這樣的。" },
+        { "point": "기분", "explanation": "名詞，心情、感覺。" },
+        { "point": "전부", "explanation": "副詞/名詞，全部。" },
+        { "point": "받아준", "explanation": "받다 (接受) + 아/어 주다 (為...) + 은 (過去定語形)。" }
+      ]
+    },
+    {
+      "korean": "그대의 모습에 난",
+      "translation": "在你的模樣面前我",
+      "analysis": [
+        { "point": "그대의", "explanation": "你的。" },
+        { "point": "모습에", "explanation": "모습 (模樣) + 에 (位置格，在...面前)。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "긴장했던 모든 게 풀려요",
+      "translation": "所有曾緊繃的都鬆開了",
+      "analysis": [
+        { "point": "긴장했던", "explanation": "긴장하다 (緊張) + 했 (過去) + 던 (回想定語)。" },
+        { "point": "모든 게", "explanation": "모든 (所有的) + 것 (東西) + 이 (主格) 的縮略。" },
+        { "point": "풀려요", "explanation": "풀리다 (鬆開、解開) 的敬語非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "눈을 잠시 감았다 떠도",
+      "translation": "即使暫時閉上眼又睜開",
+      "analysis": [
+        { "point": "눈을", "explanation": "눈 (眼睛) + 을 (受格)。" },
+        { "point": "잠시", "explanation": "副詞，暫時。" },
+        { "point": "감았다 떠도", "explanation": "감다 (閉) + 았 (過去) + 떠다 (睜開) + 아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "여전히 옆에 있어요",
+      "translation": "依然在我身邊",
+      "analysis": [
+        { "point": "여전히", "explanation": "副詞，依然。" },
+        { "point": "옆에", "explanation": "옆 (旁邊) + 에 (位置)。" },
+        { "point": "있어요", "explanation": "있다 (有、在) 的敬語非格式體。" }
+      ]
+    },
+    {
+      "korean": "다정히 내어준 어깨가 좋아서",
+      "translation": "因為溫柔遞出的肩膀很美好",
+      "analysis": [
+        { "point": "다정히", "explanation": "副詞，溫柔地、親切地。" },
+        { "point": "내어준", "explanation": "내어주다 (遞出、給予) + 은 (過去定語)。" },
+        { "point": "어깨가", "explanation": "어깨 (肩膀) + 가 (主格)。" },
+        { "point": "좋아서", "explanation": "좋다 (好) + 아/어서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "[소/예] You’re my everything",
+      "translation": "[소/예] You're my everything",
+      "analysis": [
+        { "point": "[소/예]", "explanation": "歌詞標記或和聲提示，保留原文。" },
+        { "point": "You're my everything", "explanation": "英文，你是我的全部，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "나를 믿게 하죠 Baby",
+      "translation": "讓我信任 Baby",
+      "analysis": [
+        { "point": "나를", "explanation": "我 (受格)。" },
+        { "point": "믿게 하죠", "explanation": "믿다 (信任) + 게 하다 (使...) + 죠 (敬語口語尾)。" },
+        { "point": "Baby", "explanation": "英文，寶貝，不解析。" }
+      ]
+    },
+    {
+      "korean": "작은 내 등을 다독여 주는",
+      "translation": "輕輕拍撫我背的",
+      "analysis": [
+        { "point": "작은", "explanation": "形容詞，小的。" },
+        { "point": "내 등을", "explanation": "내 (我的) + 등 (背) + 을 (受格)。" },
+        { "point": "다독여 주는", "explanation": "다독이다 (輕輕拍撫) + 아/어 주다 (為...) + 는 (定語)。" }
+      ]
+    },
+    {
+      "korean": "그대 손길에 다시",
+      "translation": "在你的觸碰下再次",
+      "analysis": [
+        { "point": "그대", "explanation": "你。" },
+        { "point": "손길에", "explanation": "손길 (手、觸碰) + 에 (位置格)。" },
+        { "point": "다시", "explanation": "副詞，再次。" }
+      ]
+    },
+    {
+      "korean": "맘을 내려 놓고서 잠이 들죠",
+      "translation": "放下心然後入睡",
+      "analysis": [
+        { "point": "맘을", "explanation": "마음 (心) 的縮略 + 을 (受格)。" },
+        { "point": "내려 놓고서", "explanation": "내려놓다 (放下) + 고서 (連接，強調順序)。" },
+        { "point": "잠이 들죠", "explanation": "잠 (睡眠) + 이 (主格) + 들다 (進入) + 죠 (敬語口語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "혹시나 곤히 잠이 든 내가 깰까 봐",
+      "translation": "擔心沉睡的我會醒來",
+      "analysis": [
+        { "point": "혹시나", "explanation": "副詞，或許、擔心。" },
+        { "point": "곤히", "explanation": "副詞，沉睡地、熟睡地。" },
+        { "point": "잠이 든", "explanation": "잠이 들다 (入睡) + 은 (過去定語)。" },
+        { "point": "내가", "explanation": "我 (主格)。" },
+        { "point": "깰까 봐", "explanation": "깨다 (醒) + ㄹ까 봐 (擔心...會)。" }
+      ]
+    },
+    {
+      "korean": "숨을 꾹 참는 그댈 봤죠",
+      "translation": "看見了屏住呼吸的你",
+      "analysis": [
+        { "point": "숨을", "explanation": "숨 (呼吸) + 을 (受格)。" },
+        { "point": "꾹", "explanation": "副詞，用力地、緊緊地。" },
+        { "point": "참는", "explanation": "참다 (忍耐、憋住) + 는 (定語)。" },
+        { "point": "그댈", "explanation": "그대를 (你) 的縮略。" },
+        { "point": "봤죠", "explanation": "보다 (看) + 았 (過去) + 죠 (敬語口語尾)。" }
+      ]
+    },
+    {
+      "korean": "살며시 스치는 그대 손길",
+      "translation": "輕輕掠過的你的手",
+      "analysis": [
+        { "point": "살며시", "explanation": "副詞，輕輕地。" },
+        { "point": "스치는", "explanation": "스치다 (掠過) + 는 (定語)。" },
+        { "point": "그대 손길", "explanation": "你的手（觸碰）。" }
+      ]
+    },
+    {
+      "korean": "이런 느낌 슬쩍 모른 척",
+      "translation": "這種感覺 裝作若無其事",
+      "analysis": [
+        { "point": "이런 느낌", "explanation": "這種感覺。" },
+        { "point": "슬쩍", "explanation": "副詞，悄悄地、若無其事地。" },
+        { "point": "모른 척", "explanation": "모르다 (不知道) + 은/는 척 (假裝...的樣子)。" }
+      ]
+    },
+    {
+      "korean": "눈을 떴다 감죠 더 그대 곁에",
+      "translation": "睜開眼又閉上 更靠近你身邊",
+      "analysis": [
+        { "point": "눈을", "explanation": "眼睛。" },
+        { "point": "떴다 감죠", "explanation": "뜨다 (睜開) + 았 (過去) + 감다 (閉上) + 죠 (敬語口語尾)。" },
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "그대 곁에", "explanation": "그대 (你) + 곁 (身邊) + 에 (位置)。" }
+      ]
+    },
+    {
+      "korean": "있고 싶은 걸요",
+      "translation": "想待著",
+      "analysis": [
+        { "point": "있고 싶은", "explanation": "있다 (在) + 고 싶다 (想要) + 은 (定語形)。" },
+        { "point": "걸요", "explanation": "것 (事情) + 이에요 (是) 的縮略 + 요 (敬語)，表示「是想要的事情」。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "눈을 잠시 감았다 떠도",
+      "translation": "即使暫時閉上眼又睜開",
+      "analysis": [
+        { "point": "눈을 잠시 감았다 떠도", "explanation": "閉眼又睜開即使。" }
+      ]
+    },
+    {
+      "korean": "여전히 옆에 있어요",
+      "translation": "依然在我身邊",
+      "analysis": [
+        { "point": "여전히 옆에 있어요", "explanation": "依然在身邊。" }
+      ]
+    },
+    {
+      "korean": "다정히 내어준 어깨가 좋아서",
+      "translation": "因為溫柔遞出的肩膀很美好",
+      "analysis": [
+        { "point": "다정히 내어준 어깨가 좋아서", "explanation": "溫柔遞出的肩膀因為很好。" }
+      ]
+    },
+    {
+      "korean": "[소/예] You’re my everything",
+      "translation": "[소/예] You're my everything",
+      "analysis": [
+        { "point": "[소/예]", "explanation": "歌詞標記。" },
+        { "point": "You're my everything", "explanation": "英文，你是我的全部。" }
+      ]
+    },
+    {
+      "korean": "나를 믿게 하죠 Baby",
+      "translation": "讓我信任 Baby",
+      "analysis": [
+        { "point": "나를 믿게 하죠", "explanation": "讓我信任。" },
+        { "point": "Baby", "explanation": "英文，寶貝。" }
+      ]
+    },
+    {
+      "korean": "작은 내 등을 다독여 주는",
+      "translation": "輕輕拍撫我背的",
+      "analysis": [
+        { "point": "작은 내 등을 다독여 주는", "explanation": "輕輕拍撫我背的。" }
+      ]
+    },
+    {
+      "korean": "그대 손길에 다시",
+      "translation": "在你的觸碰下再次",
+      "analysis": [
+        { "point": "그대 손길에 다시", "explanation": "在你的觸碰下再次。" }
+      ]
+    },
+    {
+      "korean": "맘을 내려 놓고서 잠이 들죠",
+      "translation": "放下心然後入睡",
+      "analysis": [
+        { "point": "맘을 내려 놓고서 잠이 들죠", "explanation": "放下心然後入睡。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "왠지 모르게",
+      "translation": "不知為何",
+      "analysis": [
+        { "point": "왠지", "explanation": "副詞，不知為何。" },
+        { "point": "모르게", "explanation": "모르다 (不知道) + 게 (副詞形，表示「不知不覺」)。" }
+      ]
+    },
+    {
+      "korean": "불안한 맘이 자꾸 생겨요",
+      "translation": "不安的心總是不斷產生",
+      "analysis": [
+        { "point": "불안한", "explanation": "불안하다 (不安的) 的定語形。" },
+        { "point": "맘이", "explanation": "마음 (心) 的縮略 + 이 (主格)。" },
+        { "point": "자꾸", "explanation": "副詞，總是、不斷地。" },
+        { "point": "생겨요", "explanation": "생기다 (產生、出現) 的敬語非格式體。" }
+      ]
+    },
+    {
+      "korean": "한 여름 밤의 꿈으로",
+      "translation": "像仲夏夜之夢般",
+      "analysis": [
+        { "point": "한", "explanation": "一個。" },
+        { "point": "여름 밤", "explanation": "여름 (夏天) + 밤 (夜晚)。" },
+        { "point": "의", "explanation": "所有格。" },
+        { "point": "꿈으로", "explanation": "꿈 (夢) + 으로 (作為、以...)。" }
+      ]
+    },
+    {
+      "korean": "사라지지 않기를 기도해요",
+      "translation": "祈禱不會消失",
+      "analysis": [
+        { "point": "사라지지 않기를", "explanation": "사라지다 (消失) + 지 않다 (否定) + 기를 (名詞化 + 受格，表示願望)。" },
+        { "point": "기도해요", "explanation": "祈禱。" }
+      ]
+    },
+    {
+      "korean": "기도해요 오늘처럼만",
+      "translation": "祈禱 就像今天這樣",
+      "analysis": [
+        { "point": "기도해요", "explanation": "祈禱。" },
+        { "point": "오늘처럼만", "explanation": "오늘 (今天) + 처럼 (像) + 만 (只、就)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "내가 깊게 잠이 들어도",
+      "translation": "即使我沉睡",
+      "analysis": [
+        { "point": "내가", "explanation": "我 + 主格。" },
+        { "point": "깊게", "explanation": "깊다 (深) + 게 (副詞形，深深地)。" },
+        { "point": "잠이 들어도", "explanation": "잠이 들다 (入睡) + 아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "영원히 옆에 있어요",
+      "translation": "永遠在我身邊",
+      "analysis": [
+        { "point": "영원히", "explanation": "副詞，永遠。" },
+        { "point": "옆에 있어요", "explanation": "在身邊。" }
+      ]
+    },
+    {
+      "korean": "포근한 이 품이 너무나 좋아서",
+      "translation": "因為這溫暖的懷抱實在太好了",
+      "analysis": [
+        { "point": "포근한", "explanation": "포근하다 (溫暖的) 的定語形。" },
+        { "point": "이 품이", "explanation": "이 (這) + 품 (懷抱) + 이 (主格)。" },
+        { "point": "너무나", "explanation": "副詞，非常。" },
+        { "point": "좋아서", "explanation": "좋다 (好) + 아/어서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "[소/예] You’re my everything",
+      "translation": "[소/예] You're my everything",
+      "analysis": [
+        { "point": "[소/예]", "explanation": "歌詞標記。" },
+        { "point": "You're my everything", "explanation": "英文，你是我的全部。" }
+      ]
+    },
+    {
+      "korean": "세상을 다 가진 거죠",
+      "translation": "就是擁有了全世界",
+      "analysis": [
+        { "point": "세상을", "explanation": "세상 (世界) + 을 (受格)。" },
+        { "point": "다", "explanation": "副詞，全部。" },
+        { "point": "가진 거죠", "explanation": "가지다 (擁有) + 은 (過去定語) + 것 (事情) + 이야 (是) 的縮略 + 죠 (敬語尾)。" }
+      ]
+    },
+    {
+      "korean": "어쩜 따스한 숨결로",
+      "translation": "用溫暖的氣息",
+      "analysis": [
+        { "point": "어쩜", "explanation": "副詞，或許、怎樣地（口語）。" },
+        { "point": "따스한", "explanation": "따스하다 (溫暖的) 的定語形。" },
+        { "point": "숨결로", "explanation": "숨결 (氣息) + 로 (以、用)。" }
+      ]
+    },
+    {
+      "korean": "뒤에서 한결같이 나를",
+      "translation": "在身後一貫地對我",
+      "analysis": [
+        { "point": "뒤에서", "explanation": "뒤 (後面) + 에서 (位置格)。" },
+        { "point": "한결같이", "explanation": "副詞，一貫地、始終如一地。" },
+        { "point": "나를", "explanation": "我 (受格)。" }
+      ]
+    },
+    {
+      "korean": "달래주던 그대를 사랑해요",
+      "translation": "愛著曾安撫我的你",
+      "analysis": [
+        { "point": "달래주던", "explanation": "달래다 (安撫) + 아/어 주다 (為...) + 었 (過去) + 던 (回想定語)。" },
+        { "point": "그대를", "explanation": "你 (受格)。" },
+        { "point": "사랑해요", "explanation": "사랑하다 (愛) 的敬語非格式體。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "가로등", "chinese": "路燈", "pos": "名詞" },
+    { "korean": "스르르", "chinese": "靜靜地", "pos": "副詞" },
+    { "korean": "잠", "chinese": "睡眠", "pos": "名詞" },
+    { "korean": "들다", "chinese": "進入", "pos": "動詞" },
+    { "korean": "밤", "chinese": "夜晚", "pos": "名詞" },
+    { "korean": "기대다", "chinese": "依靠", "pos": "動詞" },
+    { "korean": "곳", "chinese": "地方", "pos": "名詞" },
+    { "korean": "없다", "chinese": "沒有", "pos": "形容詞" },
+    { "korean": "그림자", "chinese": "影子", "pos": "名詞" },
+    { "korean": "희미하다", "chinese": "模糊的", "pos": "形容詞" },
+    { "korean": "하루", "chinese": "一天", "pos": "名詞" },
+    { "korean": "끝", "chinese": "結束、盡頭", "pos": "名詞" },
+    { "korean": "그대", "chinese": "你", "pos": "代名詞" },
+    { "korean": "만나다", "chinese": "遇見", "pos": "動詞" },
+    { "korean": "힘들다", "chinese": "累、辛苦", "pos": "形容詞" },
+    { "korean": "지치다", "chinese": "疲憊", "pos": "動詞" },
+    { "korean": "투정", "chinese": "抱怨", "pos": "名詞" },
+    { "korean": "기분", "chinese": "心情", "pos": "名詞" },
+    { "korean": "전부", "chinese": "全部", "pos": "名詞/副詞" },
+    { "korean": "받다", "chinese": "接受", "pos": "動詞" },
+    { "korean": "모습", "chinese": "模樣", "pos": "名詞" },
+    { "korean": "긴장하다", "chinese": "緊張", "pos": "動詞" },
+    { "korean": "풀리다", "chinese": "鬆開、解開", "pos": "動詞" },
+    { "korean": "눈", "chinese": "眼睛", "pos": "名詞" },
+    { "korean": "감다", "chinese": "閉上", "pos": "動詞" },
+    { "korean": "떠다", "chinese": "睜開", "pos": "動詞" },
+    { "korean": "여전히", "chinese": "依然", "pos": "副詞" },
+    { "korean": "옆", "chinese": "旁邊", "pos": "名詞" },
+    { "korean": "다정히", "chinese": "溫柔地", "pos": "副詞" },
+    { "korean": "내어주다", "chinese": "遞出、給予", "pos": "動詞" },
+    { "korean": "어깨", "chinese": "肩膀", "pos": "名詞" },
+    { "korean": "좋다", "chinese": "好", "pos": "形容詞" },
+    { "korean": "믿다", "chinese": "信任", "pos": "動詞" },
+    { "korean": "작은", "chinese": "小的", "pos": "形容詞" },
+    { "korean": "등", "chinese": "背", "pos": "名詞" },
+    { "korean": "다독이다", "chinese": "輕輕拍撫", "pos": "動詞" },
+    { "korean": "손길", "chinese": "手、觸碰", "pos": "名詞" },
+    { "korean": "맘", "chinese": "心", "pos": "名詞" },
+    { "korean": "내려놓다", "chinese": "放下", "pos": "動詞" },
+    { "korean": "혹시나", "chinese": "或許", "pos": "副詞" },
+    { "korean": "곤히", "chinese": "沉睡地", "pos": "副詞" },
+    { "korean": "깨다", "chinese": "醒", "pos": "動詞" },
+    { "korean": "숨", "chinese": "呼吸", "pos": "名詞" },
+    { "korean": "참다", "chinese": "忍耐、憋住", "pos": "動詞" },
+    { "korean": "살며시", "chinese": "輕輕地", "pos": "副詞" },
+    { "korean": "스치다", "chinese": "掠過", "pos": "動詞" },
+    { "korean": "느낌", "chinese": "感覺", "pos": "名詞" },
+    { "korean": "슬쩍", "chinese": "悄悄地", "pos": "副詞" },
+    { "korean": "모르다", "chinese": "不知道", "pos": "動詞" },
+    { "korean": "척", "chinese": "假裝", "pos": "依存名詞" },
+    { "korean": "뜨다", "chinese": "睜開", "pos": "動詞" },
+    { "korean": "곁", "chinese": "身邊", "pos": "名詞" },
+    { "korean": "왠지", "chinese": "不知為何", "pos": "副詞" },
+    { "korean": "불안하다", "chinese": "不安的", "pos": "形容詞" },
+    { "korean": "자꾸", "chinese": "總是不斷", "pos": "副詞" },
+    { "korean": "생기다", "chinese": "產生", "pos": "動詞" },
+    { "korean": "여름", "chinese": "夏天", "pos": "名詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "사라지다", "chinese": "消失", "pos": "動詞" },
+    { "korean": "기도하다", "chinese": "祈禱", "pos": "動詞" },
+    { "korean": "오늘", "chinese": "今天", "pos": "名詞" },
+    { "korean": "깊게", "chinese": "深深地", "pos": "副詞" },
+    { "korean": "영원히", "chinese": "永遠", "pos": "副詞" },
+    { "korean": "포근하다", "chinese": "溫暖的", "pos": "形容詞" },
+    { "korean": "품", "chinese": "懷抱", "pos": "名詞" },
+    { "korean": "너무나", "chinese": "非常", "pos": "副詞" },
+    { "korean": "세상", "chinese": "世界", "pos": "名詞" },
+    { "korean": "가지다", "chinese": "擁有", "pos": "動詞" },
+    { "korean": "따스하다", "chinese": "溫暖的", "pos": "形容詞" },
+    { "korean": "숨결", "chinese": "氣息", "pos": "名詞" },
+    { "korean": "뒤", "chinese": "後面", "pos": "名詞" },
+    { "korean": "한결같이", "chinese": "一貫地", "pos": "副詞" },
+    { "korean": "달래다", "chinese": "安撫", "pos": "動詞" },
+    { "korean": "사랑하다", "chinese": "愛", "pos": "動詞" }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "id": "GFRIEND-Room-Of-Mirrors",
+  "title": "Room Of Mirrors (거울의 방)",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "눈앞에 너의 모습을 도망치려 애써 봐도",
+      "translation": "即使試圖逃離眼前的你的模樣",
+      "analysis": [
+        { "point": "눈앞에", "explanation": "눈앞 (眼前) + 에 (位置助詞)。" },
+        { "point": "너의 모습을", "explanation": "너 (你) + 의 (所有格) + 모습 (模樣) + 을 (受格)。" },
+        { "point": "도망치려", "explanation": "도망치다 (逃跑) + 려 (表示意圖，想)。" },
+        { "point": "애써 봐도", "explanation": "애쓰다 (努力) + 아/어 보다 (嘗試) + 아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "또다시 마주쳐 우린",
+      "translation": "又再次相遇 我們",
+      "analysis": [
+        { "point": "또다시", "explanation": "副詞，再次。" },
+        { "point": "마주쳐", "explanation": "마주치다 (相遇、撞見) 的非格式體。" },
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "네 눈을 피해서 자꾸 움츠려 있어",
+      "translation": "躲避你的眼神 總是蜷縮著",
+      "analysis": [
+        { "point": "네 눈을", "explanation": "네 (你的) + 눈 (眼睛) + 을 (受格)。" },
+        { "point": "피해서", "explanation": "피하다 (躲避) + 아/어서 (連接，表示方式)。" },
+        { "point": "자꾸", "explanation": "副詞，總是、不斷。" },
+        { "point": "움츠려 있어", "explanation": "움츠리다 (蜷縮、退縮) + 아/어 있다 (狀態持續)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "모든 걸 함께 하고선",
+      "translation": "所有一切都一起做過之後",
+      "analysis": [
+        { "point": "모든 걸", "explanation": "모든 (所有的) + 것 (東西) + 을 (受格) 的縮略。" },
+        { "point": "함께", "explanation": "副詞，一起。" },
+        { "point": "하고선", "explanation": "하다 (做) + 고 (連接) + 서 (強調先後，然後)。" }
+      ]
+    },
+    {
+      "korean": "초라한 모습만 물고 뜯겨",
+      "translation": "只被咬住撕裂的是我寒磣的模樣",
+      "analysis": [
+        { "point": "초라한", "explanation": "초라하다 (寒磣、簡陋) 的定語形。" },
+        { "point": "모습만", "explanation": "모습 (模樣) + 만 (只)。" },
+        { "point": "물고 뜯겨", "explanation": "물다 (咬住) + 고 (連接) + 뜯기다 (被撕扯) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "지친 눈물들이 지겹게 나를 적셔",
+      "translation": "疲憊的眼淚厭煩地浸濕我",
+      "analysis": [
+        { "point": "지친", "explanation": "지치다 (疲憊) 的過去定語。" },
+        { "point": "눈물들이", "explanation": "눈물 (眼淚) + 들 (複數) + 이 (主格)。" },
+        { "point": "지겹게", "explanation": "지겹다 (厭煩、膩) + 게 (副詞形)。" },
+        { "point": "나를", "explanation": "我 (受格)。" },
+        { "point": "적셔", "explanation": "적시다 (浸濕) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "더는 보기 싫어",
+      "translation": "再也不想了（看）",
+      "analysis": [
+        { "point": "더는", "explanation": "더 (更) + 는 (強調，與否定連用表示「再也不」)。" },
+        { "point": "보기 싫어", "explanation": "보다 (看) + 기 (名詞化) + 싫다 (討厭) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "차마 미처 감춰지지 않아 억지로 외면해 난",
+      "translation": "無法完全隱藏 我勉強轉過頭",
+      "analysis": [
+        { "point": "차마", "explanation": "副詞，忍心、狠心（常用於否定）。" },
+        { "point": "미처", "explanation": "副詞，來不及、完全地。" },
+        { "point": "감춰지지 않아", "explanation": "감춰지다 (被隱藏) + 지 않다 (否定) 的非格式體。" },
+        { "point": "억지로", "explanation": "副詞，勉強地、硬要。" },
+        { "point": "외면해 난", "explanation": "외면하다 (轉過臉、迴避) + 아 (連接) + 나는 (我) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "내가 원한 건 이게 아니야",
+      "translation": "我想要的不是這個",
+      "analysis": [
+        { "point": "내가", "explanation": "我 (主格)。" },
+        { "point": "원한", "explanation": "원하다 (想要) 的過去定語。" },
+        { "point": "건", "explanation": "것은 (事情) 的縮略。" },
+        { "point": "이게", "explanation": "이것이 (這個) 的縮略。" },
+        { "point": "아니야", "explanation": "아니다 (不是) 的口語非格式體。" }
+      ]
+    },
+    {
+      "korean": "휘청이고 흔들리는 마음",
+      "translation": "搖晃著、動搖的心",
+      "analysis": [
+        { "point": "휘청이고", "explanation": "휘청이다 (搖晃、趔趄) + 고 (連接)。" },
+        { "point": "흔들리는", "explanation": "흔들리다 (動搖) + 는 (定語)。" },
+        { "point": "마음", "explanation": "名詞，心。" }
+      ]
+    },
+    {
+      "korean": "다시 또 나를 만나",
+      "translation": "再次遇見我",
+      "analysis": [
+        { "point": "다시", "explanation": "再次。" },
+        { "point": "또", "explanation": "又。" },
+        { "point": "나를", "explanation": "我 (受格)。" },
+        { "point": "만나", "explanation": "만나다 (遇見) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "텅 빈 저 거울 속 너에게 달리고 또 달려가",
+      "translation": "向著那空虛的鏡子中的你 奔跑又奔跑",
+      "analysis": [
+        { "point": "텅 빈", "explanation": "텅 (空蕩蕩地) + 비다 (空) 的過去定語，合為 텅 빈 (空虛的)。" },
+        { "point": "저 거울 속", "explanation": "저 (那) + 거울 (鏡子) + 속 (裡面)。" },
+        { "point": "너에게", "explanation": "너 (你) + 에게 (向、對)。" },
+        { "point": "달리고 또 달려가", "explanation": "달리다 (跑) + 고 (連接) + 또 (又) + 달려가다 (跑去) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "홀린 듯 뒤돌아 날 탓해",
+      "translation": "像被迷惑般回頭怪我",
+      "analysis": [
+        { "point": "홀린 듯", "explanation": "홀리다 (被迷惑) + 은 (過去) + 듯 (好像)。" },
+        { "point": "뒤돌아", "explanation": "뒤돌다 (轉身、回頭) + 아 (連接)。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "탓해", "explanation": "탓하다 (歸咎、怪罪) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "너는 왜 갖질 못하는 거니 똑같은 표정인데",
+      "translation": "你為什麼無法擁有呢 明明是相同的表情",
+      "analysis": [
+        { "point": "너는", "explanation": "你 + 主題。" },
+        { "point": "왜", "explanation": "為什麼。" },
+        { "point": "갖질 못하는", "explanation": "가지다 (擁有) + ㄹ (冠形詞) + 지 (補充) + 못하다 (無法) + 는 (定語)。" },
+        { "point": "거니", "explanation": "것이니 (是...嗎) 的縮略，疑問語氣。" },
+        { "point": "똑같은", "explanation": "똑같다 (完全相同) 的定語。" },
+        { "point": "표정인데", "explanation": "표정 (表情) + 인데 (是...但是/然而)。" }
+      ]
+    },
+    {
+      "korean": "Run away for me",
+      "translation": "為我逃跑吧",
+      "analysis": [
+        { "point": "Run away for me", "explanation": "英文，為我逃跑/離開，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "더는 내게 다가오지 마",
+      "translation": "不要再靠近我",
+      "analysis": [
+        { "point": "더는", "explanation": "再也不。" },
+        { "point": "내게", "explanation": "나에게 (對我)。" },
+        { "point": "다가오지 마", "explanation": "다가오다 (靠近) + 지 마 (不要，命令禁止)。" }
+      ]
+    },
+    {
+      "korean": "불안으로 가득 채우지 나",
+      "translation": "我用不安填滿",
+      "analysis": [
+        { "point": "불안으로", "explanation": "불안 (不安) + 으로 (用、以)。" },
+        { "point": "가득", "explanation": "副詞，滿滿地。" },
+        { "point": "채우지 나", "explanation": "채우다 (填滿) + 지 (連接) + 나 (我，主格，放句末強調)。" }
+      ]
+    },
+    {
+      "korean": "네 개의 눈동자 그 속의 너와 나",
+      "translation": "四個瞳孔 那其中的你和我",
+      "analysis": [
+        { "point": "네 개의", "explanation": "네 (四) + 개 (個) + 의 (所有格)。" },
+        { "point": "눈동자", "explanation": "名詞，瞳孔。" },
+        { "point": "그 속의", "explanation": "그 (那) + 속 (裡面) + 의 (的)。" },
+        { "point": "너와 나", "explanation": "너 (你) + 와 (與) + 나 (我)。" }
+      ]
+    },
+    {
+      "korean": "그만 미워해도 돼",
+      "translation": "可以停止討厭了",
+      "analysis": [
+        { "point": "그만", "explanation": "副詞，停止、到此為止。" },
+        { "point": "미워해도 돼", "explanation": "미워하다 (討厭) + 아/어도 되다 (可以) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 4",
+      "korean": "모든 게 지긋지긋해",
+      "translation": "一切都厭煩至極",
+      "analysis": [
+        { "point": "모든 게", "explanation": "모든 것 (所有東西) + 이 (主格) 的縮略。" },
+        { "point": "지긋지긋해", "explanation": "지긋지긋하다 (極度厭煩) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "사라져 가는 날 찾고 찾아",
+      "translation": "尋找著正在消失的我 找啊找",
+      "analysis": [
+        { "point": "사라져 가는", "explanation": "사라지다 (消失) + 아/어 가다 (漸漸) + 는 (定語)。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "찾고 찾아", "explanation": "찾다 (找) + 고 (連接) + 찾아 (找) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "아픈 시간들이 끝없이 나를 가둬",
+      "translation": "痛苦的時光無盡地囚禁我",
+      "analysis": [
+        { "point": "아픈", "explanation": "아프다 (痛、痛苦) 的定語。" },
+        { "point": "시간들이", "explanation": "시간 (時間) + 들 (複數) + 이 (主格)。" },
+        { "point": "끝없이", "explanation": "副詞，無盡地。" },
+        { "point": "나를", "explanation": "我 (受格)。" },
+        { "point": "가둬", "explanation": "가두다 (囚禁) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "더는 보기 싫어",
+      "translation": "再也不想了（看）",
+      "analysis": [
+        { "point": "더는 보기 싫어", "explanation": "同前，表示再也不看了。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "차마 미처 감춰지지 않아 억지로 외면해 난",
+      "translation": "無法完全隱藏 我勉強轉過頭",
+      "analysis": [
+        { "point": "차마 미처 감춰지지 않아", "explanation": "無法完全隱藏。" },
+        { "point": "억지로 외면해 난", "explanation": "我勉強轉過頭。" }
+      ]
+    },
+    {
+      "korean": "내가 원한 건 이게 아니야",
+      "translation": "我想要的不是這個",
+      "analysis": [
+        { "point": "내가 원한 건 이게 아니야", "explanation": "我想要的不是這個。" }
+      ]
+    },
+    {
+      "korean": "휘청이고 흔들리는 마음",
+      "translation": "搖晃著、動搖的心",
+      "analysis": [
+        { "point": "휘청이고 흔들리는 마음", "explanation": "搖晃動搖的心。" }
+      ]
+    },
+    {
+      "korean": "다시 또 나를 만나",
+      "translation": "再次遇見我",
+      "analysis": [
+        { "point": "다시 또 나를 만나", "explanation": "再次遇見我。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "텅 빈 저 거울 속 너에게 달리고 또 달려가",
+      "translation": "向著那空虛的鏡子中的你 奔跑又奔跑",
+      "analysis": [
+        { "point": "텅 빈 저 거울 속 너에게", "explanation": "向那空虛鏡中的你。" },
+        { "point": "달리고 또 달려가", "explanation": "奔跑又奔跑。" }
+      ]
+    },
+    {
+      "korean": "홀린 듯 뒤돌아 날 탓해",
+      "translation": "像被迷惑般回頭怪我",
+      "analysis": [
+        { "point": "홀린 듯 뒤돌아", "explanation": "像被迷惑般回頭。" },
+        { "point": "날 탓해", "explanation": "怪我。" }
+      ]
+    },
+    {
+      "korean": "너는 왜 갖질 못하는 거니 똑같은 표정인데",
+      "translation": "你為什麼無法擁有呢 明明是相同的表情",
+      "analysis": [
+        { "point": "너는 왜 갖질 못하는 거니", "explanation": "你為什麼無法擁有呢。" },
+        { "point": "똑같은 표정인데", "explanation": "明明是相同的表情。" }
+      ]
+    },
+    {
+      "korean": "Run away for me",
+      "translation": "為我逃跑吧",
+      "analysis": [
+        { "point": "Run away for me", "explanation": "英文，不解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "아무도 없어 여긴 사방이 막혀",
+      "translation": "這裡空無一人 四面被封堵",
+      "analysis": [
+        { "point": "아무도 없어", "explanation": "아무도 (誰也) + 없다 (沒有) 的非格式體。" },
+        { "point": "여긴", "explanation": "여기는 (這裡) 的縮略。" },
+        { "point": "사방이", "explanation": "사방 (四方) + 이 (主格)。" },
+        { "point": "막혀", "explanation": "막히다 (被堵) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "돌고 돌아 오직 나만이 널 사랑할 수 있어",
+      "translation": "兜兜轉轉 只有我才能愛你",
+      "analysis": [
+        { "point": "돌고 돌아", "explanation": "돌다 (轉) + 고 (連接) + 돌아 (轉) 的重複，表示「兜兜轉轉」。" },
+        { "point": "오직", "explanation": "副詞，只。" },
+        { "point": "나만이", "explanation": "나 (我) + 만 (只) + 이 (主格)。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "사랑할 수 있어", "explanation": "사랑하다 (愛) + ㄹ 수 있다 (可以) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "텅 빈 저 거울 속 너에게 달리고 또 달려가",
+      "translation": "向著那空虛的鏡子中的你 奔跑又奔跑",
+      "analysis": [
+        { "point": "텅 빈 저 거울 속 너에게", "explanation": "向那空虛鏡中的你。" },
+        { "point": "달리고 또 달려가", "explanation": "奔跑又奔跑。" }
+      ]
+    },
+    {
+      "korean": "홀린 듯 뒤돌아 날 탓해",
+      "translation": "像被迷惑般回頭怪我",
+      "analysis": [
+        { "point": "홀린 듯 뒤돌아", "explanation": "像被迷惑般回頭。" },
+        { "point": "날 탓해", "explanation": "怪我。" }
+      ]
+    },
+    {
+      "korean": "너는 왜 갖질 못하는 거니 똑같은 표정인데",
+      "translation": "你為什麼無法擁有呢 明明是相同的表情",
+      "analysis": [
+        { "point": "너는 왜 갖질 못하는 거니", "explanation": "你為什麼無法擁有呢。" },
+        { "point": "똑같은 표정인데", "explanation": "明明是相同的表情。" }
+      ]
+    },
+    {
+      "korean": "Run away for me",
+      "translation": "為我逃跑吧",
+      "analysis": [
+        { "point": "Run away for me", "explanation": "英文，不解析。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "눈앞", "chinese": "眼前", "pos": "名詞" },
+    { "korean": "모습", "chinese": "模樣", "pos": "名詞" },
+    { "korean": "도망치다", "chinese": "逃跑", "pos": "動詞" },
+    { "korean": "애쓰다", "chinese": "努力", "pos": "動詞" },
+    { "korean": "마주치다", "chinese": "相遇", "pos": "動詞" },
+    { "korean": "눈", "chinese": "眼睛", "pos": "名詞" },
+    { "korean": "피하다", "chinese": "躲避", "pos": "動詞" },
+    { "korean": "움츠리다", "chinese": "蜷縮", "pos": "動詞" },
+    { "korean": "모든", "chinese": "所有的", "pos": "冠形詞" },
+    { "korean": "함께", "chinese": "一起", "pos": "副詞" },
+    { "korean": "초라하다", "chinese": "寒磣的", "pos": "形容詞" },
+    { "korean": "물다", "chinese": "咬住", "pos": "動詞" },
+    { "korean": "뜯기다", "chinese": "被撕扯", "pos": "動詞" },
+    { "korean": "지치다", "chinese": "疲憊", "pos": "動詞" },
+    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" },
+    { "korean": "지겹다", "chinese": "厭煩的", "pos": "形容詞" },
+    { "korean": "적시다", "chinese": "浸濕", "pos": "動詞" },
+    { "korean": "보다", "chinese": "看", "pos": "動詞" },
+    { "korean": "싫다", "chinese": "討厭", "pos": "形容詞" },
+    { "korean": "차마", "chinese": "忍心", "pos": "副詞" },
+    { "korean": "미처", "chinese": "來不及", "pos": "副詞" },
+    { "korean": "감춰지다", "chinese": "被隱藏", "pos": "動詞" },
+    { "korean": "억지로", "chinese": "勉強地", "pos": "副詞" },
+    { "korean": "외면하다", "chinese": "轉過臉、迴避", "pos": "動詞" },
+    { "korean": "원하다", "chinese": "想要", "pos": "動詞" },
+    { "korean": "휘청이다", "chinese": "搖晃", "pos": "動詞" },
+    { "korean": "흔들리다", "chinese": "動搖", "pos": "動詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "만나다", "chinese": "遇見", "pos": "動詞" },
+    { "korean": "텅", "chinese": "空蕩蕩地", "pos": "副詞" },
+    { "korean": "비다", "chinese": "空", "pos": "動詞" },
+    { "korean": "거울", "chinese": "鏡子", "pos": "名詞" },
+    { "korean": "속", "chinese": "裡面", "pos": "名詞" },
+    { "korean": "달리다", "chinese": "跑", "pos": "動詞" },
+    { "korean": "달려가다", "chinese": "跑去", "pos": "動詞" },
+    { "korean": "홀리다", "chinese": "被迷惑", "pos": "動詞" },
+    { "korean": "뒤돌다", "chinese": "回頭、轉身", "pos": "動詞" },
+    { "korean": "탓하다", "chinese": "歸咎", "pos": "動詞" },
+    { "korean": "가지다", "chinese": "擁有", "pos": "動詞" },
+    { "korean": "똑같다", "chinese": "完全相同", "pos": "形容詞" },
+    { "korean": "표정", "chinese": "表情", "pos": "名詞" },
+    { "korean": "다가오다", "chinese": "靠近", "pos": "動詞" },
+    { "korean": "불안", "chinese": "不安", "pos": "名詞" },
+    { "korean": "채우다", "chinese": "填滿", "pos": "動詞" },
+    { "korean": "눈동자", "chinese": "瞳孔", "pos": "名詞" },
+    { "korean": "미워하다", "chinese": "討厭", "pos": "動詞" },
+    { "korean": "지긋지긋하다", "chinese": "極度厭煩", "pos": "形容詞" },
+    { "korean": "사라지다", "chinese": "消失", "pos": "動詞" },
+    { "korean": "찾다", "chinese": "尋找", "pos": "動詞" },
+    { "korean": "아프다", "chinese": "痛苦的", "pos": "形容詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "끝없이", "chinese": "無盡地", "pos": "副詞" },
+    { "korean": "가두다", "chinese": "囚禁", "pos": "動詞" },
+    { "korean": "아무도", "chinese": "誰也（不）", "pos": "代名詞" },
+    { "korean": "사방", "chinese": "四方", "pos": "名詞" },
+    { "korean": "막히다", "chinese": "被堵", "pos": "動詞" },
+    { "korean": "돌다", "chinese": "轉", "pos": "動詞" },
+    { "korean": "오직", "chinese": "只", "pos": "副詞" },
+    { "korean": "사랑하다", "chinese": "愛", "pos": "動詞" }
+  ]
+}

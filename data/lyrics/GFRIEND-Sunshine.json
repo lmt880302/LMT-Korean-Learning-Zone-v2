@@ -1,0 +1,487 @@
+{
+  "id": "GFRIEND-Sunshine",
+  "title": "Sunshine (나의 일기장)",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Intro",
+      "korean": "너는 나의 star oh oh",
+      "translation": "你是我的星星 oh oh",
+      "analysis": [
+        { "point": "너는", "explanation": "너 (你) + 는 (主題助詞)。" },
+        { "point": "나의", "explanation": "나 (我) + 의 (所有格助詞)。" },
+        { "point": "star", "explanation": "英文，星星，不進行文法解析。" },
+        { "point": "oh oh", "explanation": "感嘆詞，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "하루가 (A day) 지나가 (Away)",
+      "translation": "一天 (A day) 過去 (Away)",
+      "analysis": [
+        { "point": "하루가", "explanation": "하루 (一天) + 가 (主格助詞)。" },
+        { "point": "지나가", "explanation": "지나가다 (過去) 的非格式體。" },
+        { "point": "A day", "explanation": "英文，一天，不進行文法解析。" },
+        { "point": "Away", "explanation": "英文，離開/過去，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "같은 꿈을 꾼 거야 (All of my dream)",
+      "translation": "做著同樣的夢 (All of my dream)",
+      "analysis": [
+        { "point": "같은", "explanation": "같다 (相同的) 的定語形。" },
+        { "point": "꿈을", "explanation": "꿈 (夢) + 을 (受格助詞)。" },
+        { "point": "꾼 거야", "explanation": "꾸다 (做夢) 的過去時 + 것 (東西) + 이야 (是) 的口語縮略。" },
+        { "point": "All of my dream", "explanation": "英文，我所有的夢，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "별빛에 비친 너의 모습 (보며)",
+      "translation": "在星光中映照的你的模樣 (看著)",
+      "analysis": [
+        { "point": "별빛에", "explanation": "별빛 (星光) + 에 (位置助詞)。" },
+        { "point": "비친", "explanation": "비치다 (映照) 的過去定語形。" },
+        { "point": "너의", "explanation": "너 (你) + 의 (所有格)。" },
+        { "point": "모습", "explanation": "名詞，模樣。" },
+        { "point": "보며", "explanation": "보다 (看) + 며 (同時，連接語尾)。" }
+      ]
+    },
+    {
+      "korean": "너를 기억해",
+      "translation": "記住你",
+      "analysis": [
+        { "point": "너를", "explanation": "너 (你) + 를 (受格)。" },
+        { "point": "기억해", "explanation": "기억하다 (記住) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "있잖아 (u know) 나 말야",
+      "translation": "你知道嗎 (u know) 我啊",
+      "analysis": [
+        { "point": "있잖아", "explanation": "있다 (有) + 잖아 (口語強調，表示「你知道嗎」)。" },
+        { "point": "나 말야", "explanation": "나 (我) + 말야 (口語，表示「我說啊」)。" },
+        { "point": "u know", "explanation": "英文，你知道，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "(I do) 하고픈 말이 있어",
+      "translation": "(I do) 有想說的話",
+      "analysis": [
+        { "point": "하고픈", "explanation": "하다 (做) + 고 싶다 (想要) 的定語形，此處指「想說的」。但實際常用於「말하고픈」即想說的話，此處為 하고픈 말 (想說的話)。" },
+        { "point": "말이", "explanation": "말 (話) + 이 (主格)。" },
+        { "point": "있어", "explanation": "있다 (有) 的非格式體。" },
+        { "point": "I do", "explanation": "英文，我願意/是的，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "(something to say)",
+      "translation": "（有話要說）",
+      "analysis": [
+        { "point": "something to say", "explanation": "英文，有話要說，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "우리만의 얘길 들려줄게",
+      "translation": "我會講只屬於我們的故事",
+      "analysis": [
+        { "point": "우리만의", "explanation": "우리 (我們) + 만 (只) + 의 (所有格)。" },
+        { "point": "얘길", "explanation": "이야기 (故事) 的縮略 + 을 (受格)。" },
+        { "point": "들려줄게", "explanation": "들려주다 (講給聽) + ㄹ게 (未來意志，非格式體)。" }
+      ]
+    },
+    {
+      "korean": "(처음 나를 보며) 밝게 웃어줬던 (기억들이)",
+      "translation": "(初次看著我) 曾燦爛地微笑的 (記憶們)",
+      "analysis": [
+        { "point": "처음", "explanation": "副詞，初次。" },
+        { "point": "나를", "explanation": "나 (我) + 를 (受格)。" },
+        { "point": "보며", "explanation": "보다 (看) + 며 (同時)。" },
+        { "point": "밝게", "explanation": "밝다 (明亮) + 게 (副詞形，燦爛地)。" },
+        { "point": "웃어줬던", "explanation": "웃다 (笑) + 아/어 주다 (為...) + 었 (過去) + 던 (回想定語)。" },
+        { "point": "기억들이", "explanation": "기억 (記憶) + 들 (複數) + 이 (主格)。" }
+      ]
+    },
+    {
+      "korean": "날 지금도 미소 짓게 해",
+      "translation": "讓我至今仍會微笑",
+      "analysis": [
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "지금도", "explanation": "지금 (現在) + 도 (也，甚至)。" },
+        { "point": "미소 짓게 해", "explanation": "미소 (微笑) + 짓다 (做) + 게 하다 (使...，讓...) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "우릴 아프게 했던 (시간들은)",
+      "translation": "曾讓我們痛苦的 (時間們)",
+      "analysis": [
+        { "point": "우릴", "explanation": "우리를 (我們) 的縮略。" },
+        { "point": "아프게 했던", "explanation": "아프다 (痛) + 게 하다 (使...) + 었 (過去) + 던 (回想定語)。" },
+        { "point": "시간들은", "explanation": "시간 (時間) + 들 (複數) + 은 (主題)。" }
+      ]
+    },
+    {
+      "korean": "다시는 없을 거야",
+      "translation": "不會再有了",
+      "analysis": [
+        { "point": "다시는", "explanation": "다시 (再次) + 는 (強調，表示「再也不」)。" },
+        { "point": "없을 거야", "explanation": "없다 (沒有) + 을 것 (將要) + 이야 (是) 的口語縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "(오직 너 하나) 매일 너만 생각해",
+      "translation": "(只有你一個) 每天只想你",
+      "analysis": [
+        { "point": "오직", "explanation": "副詞，只。" },
+        { "point": "너 하나", "explanation": "너 (你) + 하나 (一個，強調單一)。" },
+        { "point": "매일", "explanation": "副詞，每天。" },
+        { "point": "너만", "explanation": "너 (你) + 만 (只)。" },
+        { "point": "생각해", "explanation": "생각하다 (想) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "I Believe 매일 너를 기다려 love for you",
+      "translation": "I Believe 每天等你 love for you",
+      "analysis": [
+        { "point": "I Believe", "explanation": "英文，我相信，不進行文法解析。" },
+        { "point": "매일", "explanation": "每天。" },
+        { "point": "너를", "explanation": "너 (你) + 를 (受格)。" },
+        { "point": "기다려", "explanation": "기다리다 (等待) 的非格式體。" },
+        { "point": "love for you", "explanation": "英文，對你的愛，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "참 고마워 내게 와줘서",
+      "translation": "真的很感謝你來到我身邊",
+      "analysis": [
+        { "point": "참", "explanation": "副詞，真、非常。" },
+        { "point": "고마워", "explanation": "고맙다 (感謝) 的非格式體。" },
+        { "point": "내게", "explanation": "나 (我) + 에게 (給予對象，對...)。" },
+        { "point": "와줘서", "explanation": "오다 (來) + 아/어 주다 (為...) + 서 (原因，因為)。" }
+      ]
+    },
+    {
+      "korean": "널 위한 melody 날 위한 sunshine",
+      "translation": "為你的旋律 為我的陽光",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "위한", "explanation": "위하다 (為了) 的定語形。" },
+        { "point": "melody", "explanation": "英文，旋律，不進行文法解析。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "위한", "explanation": "同上，為了。" },
+        { "point": "sunshine", "explanation": "英文，陽光，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "just one 나에겐 오직",
+      "translation": "just one 對我而言只有",
+      "analysis": [
+        { "point": "just one", "explanation": "英文，只有一個，不進行文法解析。" },
+        { "point": "나에겐", "explanation": "나 (我) + 에게 (對...) + ㄴ (口語縮略，實際上 나에게는 的縮略)。" },
+        { "point": "오직", "explanation": "只。" }
+      ]
+    },
+    {
+      "korean": "you 하나만 기억해줄래",
+      "translation": "you 只記著我一個嗎",
+      "analysis": [
+        { "point": "you", "explanation": "英文，你，不進行文法解析。" },
+        { "point": "하나만", "explanation": "하나 (一個) + 만 (只)。" },
+        { "point": "기억해줄래", "explanation": "기억하다 (記住) + 아/어 주다 (為我) + ㄹ래 (提議/疑問，表示「要...嗎」)。" }
+      ]
+    },
+    {
+      "korean": "날 비춰 주는 건 너란 걸",
+      "translation": "照耀我的是你",
+      "analysis": [
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "비춰 주는", "explanation": "비추다 (照耀) + 아/어 주다 (為...) + 는 (定語形)。" },
+        { "point": "건", "explanation": "것은 (東西/事情) 的縮略。" },
+        { "point": "너란 걸", "explanation": "너 (你) + 이란 (就是) + 것 (事情) + 을 (受格) 的縮略，表示「就是你」。" }
+      ]
+    },
+    {
+      "korean": "널 위한 melody 날 위한 sunshine",
+      "translation": "為你的旋律 為我的陽光",
+      "analysis": [
+        { "point": "널 위한", "explanation": "너를 위한 (為了你)。" },
+        { "point": "melody", "explanation": "英文，旋律。" },
+        { "point": "날 위한", "explanation": "나를 위한 (為了我)。" },
+        { "point": "sunshine", "explanation": "英文，陽光。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "oh 나만의 sunshine",
+      "translation": "oh 我的陽光",
+      "analysis": [
+        { "point": "oh", "explanation": "感嘆詞。" },
+        { "point": "나만의", "explanation": "나 (我) + 만 (只) + 의 (所有格)。" },
+        { "point": "sunshine", "explanation": "英文，陽光。" }
+      ]
+    },
+    {
+      "korean": "oh I promise u for my love",
+      "translation": "oh I promise u for my love",
+      "analysis": [
+        { "point": "oh I promise u for my love", "explanation": "英文，我向你承諾我的愛，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "oh 오직 너 하나야 나만의 sunshine",
+      "translation": "oh 只有你一個 我的陽光",
+      "analysis": [
+        { "point": "oh", "explanation": "感嘆詞。" },
+        { "point": "오직", "explanation": "只。" },
+        { "point": "너 하나야", "explanation": "너 (你) + 하나 (一個) + 이야 (是)。" },
+        { "point": "나만의", "explanation": "我的。" },
+        { "point": "sunshine", "explanation": "英文，陽光。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "가끔은 (u know) 나 말야",
+      "translation": "偶爾 (u know) 我啊",
+      "analysis": [
+        { "point": "가끔은", "explanation": "가끔 (偶爾) + 은 (主題助詞)。" },
+        { "point": "나 말야", "explanation": "나 (我) + 말야 (口語強調)。" },
+        { "point": "u know", "explanation": "英文，你知道。" }
+      ]
+    },
+    {
+      "korean": "(I do) 힘들어 지쳐가도 (너를 보며)",
+      "translation": "(I do) 即使疲憊倒下 (看著你)",
+      "analysis": [
+        { "point": "힘들어", "explanation": "힘들다 (吃力、疲憊) 的非格式體。" },
+        { "point": "지쳐가도", "explanation": "지쳐가다 (漸漸疲憊) + 아/어도 (即使)。" },
+        { "point": "너를 보며", "explanation": "너를 보다 (看著你) + 며 (同時)。" },
+        { "point": "I do", "explanation": "英文，我願意/是的，不解析。" }
+      ]
+    },
+    {
+      "korean": "기대 쉴 수 있게 날 안아줘",
+      "translation": "讓我可以依靠休息 請擁抱我",
+      "analysis": [
+        { "point": "기대", "explanation": "기대다 (依靠) 的名詞形，或動詞詞幹。" },
+        { "point": "쉴 수 있게", "explanation": "쉬다 (休息) + 수 있다 (可以) + 게 (使...，為了)。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "안아줘", "explanation": "안다 (擁抱) + 아/어 주다 (為我) + 어 (非格式體命令)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "(너는 기억하니) 함께 울고 웃던 (시간들이)",
+      "translation": "(你還記得嗎) 一起哭過笑過的 (時間們)",
+      "analysis": [
+        { "point": "너는", "explanation": "너 (你) + 는 (主題)。" },
+        { "point": "기억하니", "explanation": "기억하다 (記得) + 니 (疑問語尾)。" },
+        { "point": "함께", "explanation": "副詞，一起。" },
+        { "point": "울고 웃던", "explanation": "울다 (哭) + 고 (連接) + 웃다 (笑) + 었 (過去) + 던 (回想定語)。" },
+        { "point": "시간들이", "explanation": "시간 (時間) + 들 (複數) + 이 (主格)。" }
+      ]
+    },
+    {
+      "korean": "어느새 우릴 빛나게 해",
+      "translation": "不知不覺讓我們閃耀",
+      "analysis": [
+        { "point": "어느새", "explanation": "副詞，不知不覺。" },
+        { "point": "우릴", "explanation": "우리를 (我們) 的縮略。" },
+        { "point": "빛나게 해", "explanation": "빛나다 (發光) + 게 하다 (使...) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "항상 지금처럼만",
+      "translation": "總是像現在一樣",
+      "analysis": [
+        { "point": "항상", "explanation": "副詞，總是。" },
+        { "point": "지금처럼만", "explanation": "지금 (現在) + 처럼 (像) + 만 (只，強調)。" }
+      ]
+    },
+    {
+      "korean": "(같이 있길) 매일 기도할게",
+      "translation": "(希望在一起) 每天會祈禱",
+      "analysis": [
+        { "point": "같이 있길", "explanation": "같이 (一起) + 있다 (在) + 길 (希望，表示願望)。" },
+        { "point": "매일", "explanation": "每天。" },
+        { "point": "기도할게", "explanation": "기도하다 (祈禱) + ㄹ게 (未來意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "널 비추는 나의 맘속 너라는 이유만으로",
+      "translation": "照耀你的我心中 僅憑你是理由",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "비추는", "explanation": "비추다 (照耀) + 는 (定語)。" },
+        { "point": "나의", "explanation": "我的。" },
+        { "point": "맘속", "explanation": "마음 (心) + 속 (內部) 的縮略。" },
+        { "point": "너라는", "explanation": "너 (你) + 라는 (叫做、就是)。" },
+        { "point": "이유만으로", "explanation": "이유 (理由) + 만 (只) + 으로 (憑藉、因為)。" }
+      ]
+    },
+    {
+      "korean": "(for u) 언제나 내 곁에 있는 널 비춰줄게",
+      "translation": "(for u) 我會一直照耀在我身邊的你",
+      "analysis": [
+        { "point": "언제나", "explanation": "副詞，無論何時。" },
+        { "point": "내 곁에", "explanation": "내 (我的) + 곁 (身邊) + 에 (位置)。" },
+        { "point": "있는", "explanation": "있다 (有、在) 的定語形。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "비춰줄게", "explanation": "비추다 (照耀) + 아/어 주다 (為你) + ㄹ게 (未來意志)。" },
+        { "point": "for u", "explanation": "英文，為了你，不解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "(오직 너 하나) 매일 너만 생각해",
+      "translation": "(只有你一個) 每天只想你",
+      "analysis": [
+        { "point": "오직 너 하나", "explanation": "只你一個。" },
+        { "point": "매일 너만 생각해", "explanation": "每天只想你。" }
+      ]
+    },
+    {
+      "korean": "I Believe 매일 너를 기다려 [은/유] Love for you",
+      "translation": "I Believe 每天等你 Love for you",
+      "analysis": [
+        { "point": "I Believe", "explanation": "英文，我相信，不解析。" },
+        { "point": "매일", "explanation": "每天。" },
+        { "point": "너를", "explanation": "你 + 受格。" },
+        { "point": "기다려", "explanation": "기다리다 (等待) 的非格式體。" },
+        { "point": "[은/유]", "explanation": "疑似歌詞標記或語氣詞，不影響文法。" },
+        { "point": "Love for you", "explanation": "英文，對你的愛，不解析。" }
+      ]
+    },
+    {
+      "korean": "참 고마워 [은/유]내게 와줘서",
+      "translation": "真的很感謝你來到我身邊",
+      "analysis": [
+        { "point": "참 고마워", "explanation": "真的很感謝。" },
+        { "point": "[은/유]", "explanation": "語氣詞或標記。" },
+        { "point": "내게", "explanation": "對我。" },
+        { "point": "와줘서", "explanation": "오다 (來) + 아/어 주다 (為...) + 서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "널 위한 melody 날 위한 sunshine(Sunshine)",
+      "translation": "為你的旋律 為我的陽光 (Sunshine)",
+      "analysis": [
+        { "point": "널 위한", "explanation": "為了你。" },
+        { "point": "melody", "explanation": "英文，旋律。" },
+        { "point": "날 위한", "explanation": "為了我。" },
+        { "point": "sunshine", "explanation": "英文，陽光。" }
+      ]
+    },
+    {
+      "korean": "just one 나에겐 오직",
+      "translation": "just one 對我而言只有",
+      "analysis": [
+        { "point": "just one", "explanation": "英文，只有一個。" },
+        { "point": "나에겐", "explanation": "對我（來說）。" },
+        { "point": "오직", "explanation": "只。" }
+      ]
+    },
+    {
+      "korean": "you 하나만 기억해줄래",
+      "translation": "you 只記著我一個嗎",
+      "analysis": [
+        { "point": "you", "explanation": "英文，你。" },
+        { "point": "하나만", "explanation": "只一個。" },
+        { "point": "기억해줄래", "explanation": "記住（為我）+ 要...嗎。" }
+      ]
+    },
+    {
+      "korean": "날 비춰 주는 건 너란 걸",
+      "translation": "照耀我的是你",
+      "analysis": [
+        { "point": "날 비춰 주는 건", "explanation": "照耀我的（事）。" },
+        { "point": "너란 걸", "explanation": "就是你。" }
+      ]
+    },
+    {
+      "korean": "널 위한 melody 날 위한 sunshine",
+      "translation": "為你的旋律 為我的陽光",
+      "analysis": [
+        { "point": "널 위한", "explanation": "為了你。" },
+        { "point": "melody", "explanation": "英文，旋律。" },
+        { "point": "날 위한", "explanation": "為了我。" },
+        { "point": "sunshine", "explanation": "英文，陽光。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "oh 나만의 sunshine",
+      "translation": "oh 我的陽光",
+      "analysis": [
+        { "point": "oh", "explanation": "感嘆詞。" },
+        { "point": "나만의", "explanation": "我的。" },
+        { "point": "sunshine", "explanation": "英文，陽光。" }
+      ]
+    },
+    {
+      "korean": "oh I promise u for my love",
+      "translation": "oh I promise u for my love",
+      "analysis": [
+        { "point": "oh I promise u for my love", "explanation": "英文，我向你承諾我的愛，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "oh 오직 너 하나야 나만의 sunshine",
+      "translation": "oh 只有你一個 我的陽光",
+      "analysis": [
+        { "point": "oh", "explanation": "感嘆詞。" },
+        { "point": "오직 너 하나야", "explanation": "只有你一個。" },
+        { "point": "나만의 sunshine", "explanation": "我的陽光。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "너", "chinese": "你", "pos": "代名詞" },
+    { "korean": "나", "chinese": "我", "pos": "代名詞" },
+    { "korean": "하루", "chinese": "一天", "pos": "名詞" },
+    { "korean": "지나가다", "chinese": "過去", "pos": "動詞" },
+    { "korean": "같다", "chinese": "相同的", "pos": "形容詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "꾸다", "chinese": "做夢", "pos": "動詞" },
+    { "korean": "별빛", "chinese": "星光", "pos": "名詞" },
+    { "korean": "비치다", "chinese": "映照", "pos": "動詞" },
+    { "korean": "모습", "chinese": "模樣", "pos": "名詞" },
+    { "korean": "보다", "chinese": "看", "pos": "動詞" },
+    { "korean": "기억하다", "chinese": "記住", "pos": "動詞" },
+    { "korean": "말", "chinese": "話", "pos": "名詞" },
+    { "korean": "이야기", "chinese": "故事", "pos": "名詞" },
+    { "korean": "들려주다", "chinese": "講給聽", "pos": "動詞" },
+    { "korean": "처음", "chinese": "初次", "pos": "副詞" },
+    { "korean": "밝다", "chinese": "明亮", "pos": "形容詞" },
+    { "korean": "웃다", "chinese": "笑", "pos": "動詞" },
+    { "korean": "미소", "chinese": "微笑", "pos": "名詞" },
+    { "korean": "짓다", "chinese": "做（表情）", "pos": "動詞" },
+    { "korean": "아프다", "chinese": "痛", "pos": "形容詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "없다", "chinese": "沒有", "pos": "形容詞" },
+    { "korean": "오직", "chinese": "只", "pos": "副詞" },
+    { "korean": "매일", "chinese": "每天", "pos": "副詞" },
+    { "korean": "생각하다", "chinese": "想", "pos": "動詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "고맙다", "chinese": "感謝", "pos": "形容詞" },
+    { "korean": "오다", "chinese": "來", "pos": "動詞" },
+    { "korean": "위하다", "chinese": "為了", "pos": "動詞" },
+    { "korean": "비추다", "chinese": "照耀", "pos": "動詞" },
+    { "korean": "가끔", "chinese": "偶爾", "pos": "副詞" },
+    { "korean": "힘들다", "chinese": "疲憊", "pos": "形容詞" },
+    { "korean": "지쳐가다", "chinese": "漸漸疲憊", "pos": "動詞" },
+    { "korean": "쉬다", "chinese": "休息", "pos": "動詞" },
+    { "korean": "안다", "chinese": "擁抱", "pos": "動詞" },
+    { "korean": "함께", "chinese": "一起", "pos": "副詞" },
+    { "korean": "울다", "chinese": "哭", "pos": "動詞" },
+    { "korean": "어느새", "chinese": "不知不覺", "pos": "副詞" },
+    { "korean": "빛나다", "chinese": "發光", "pos": "動詞" },
+    { "korean": "항상", "chinese": "總是", "pos": "副詞" },
+    { "korean": "지금", "chinese": "現在", "pos": "名詞" },
+    { "korean": "기도하다", "chinese": "祈禱", "pos": "動詞" },
+    { "korean": "맘속", "chinese": "心中", "pos": "名詞" },
+    { "korean": "이유", "chinese": "理由", "pos": "名詞" },
+    { "korean": "언제나", "chinese": "無論何時", "pos": "副詞" },
+    { "korean": "곁", "chinese": "身邊", "pos": "名詞" }
+  ]
+}

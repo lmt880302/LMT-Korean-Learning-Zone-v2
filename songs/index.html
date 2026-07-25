@@ -1,338 +1,683 @@
 <!DOCTYPE html>
-<html lang="zh-TW">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>歌詞教學 - LMT-Korean-Learning-Zone</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lyrics · LMT Korean</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&family=Poppins:wght@700&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,500;14..32,600;14..32,700&family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet" />
     <style>
+        /* ——— 全域變數 ——— */
+        :root {
+            --bg-primary: #0b0b10;
+            --bg-secondary: #111118;
+            --bg-card: #181822;
+            --border-subtle: rgba(255, 255, 255, 0.04);
+            --border-card: rgba(255, 255, 255, 0.05);
+            --text-primary: #e4dfd8;
+            --text-secondary: #a09a94;
+            --text-muted: #6b6660;
+            --accent-gold: #c9a96e;
+            --accent-gold-dim: rgba(201, 169, 110, 0.12);
+            --shadow-card: 0 8px 32px rgba(0, 0, 0, 0.45);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
         body {
-            font-family: 'Roboto', 'Noto Sans KR', sans-serif;
-            background-color: #0F172A; 
-            color: #E2E8F0; 
+            font-family: 'Inter', 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            -webkit-font-smoothing: antialiased;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
         }
-        .artist-group {
-            break-inside: avoid-column;
-            margin-bottom: 2.5rem; 
+
+        main {
+            flex: 1;
         }
-        .artist-title {
-            font-size: 1.5rem;
-            font-weight: 700;
-            color: #818CF8; /* indigo-400 */
-            padding-bottom: 0.75rem;
-            margin-bottom: 1.25rem;
-            border-bottom: 2px solid #334155;
+
+        /* ——— 導航 ——— */
+        .nav-bar {
+            background: rgba(11, 11, 16, 0.75);
+            backdrop-filter: blur(18px) saturate(160%);
+            -webkit-backdrop-filter: blur(18px) saturate(160%);
+            border-bottom: 1px solid var(--border-subtle);
+            position: fixed;
+            top: 0;
+            width: 100%;
+            z-index: 50;
+        }
+
+        .nav-link {
+            color: var(--text-secondary);
+            font-weight: 450;
+            font-size: 0.8rem;
+            letter-spacing: 0.02em;
+            padding: 0.4rem 1rem;
+            border-radius: 6px;
+            transition: color 0.2s, background 0.2s;
+            text-decoration: none;
+        }
+        .nav-link:hover {
+            color: var(--text-primary);
+            background: rgba(255, 255, 255, 0.03);
+        }
+        .nav-link.active {
+            color: var(--text-primary);
+            background: rgba(201, 169, 110, 0.07);
+        }
+
+        .mobile-nav-link {
+            color: var(--text-secondary);
+            font-weight: 450;
+            font-size: 0.9rem;
+            padding: 0.6rem 1rem;
+            border-radius: 6px;
+            transition: color 0.2s, background 0.2s;
+            display: block;
+            text-align: center;
+            text-decoration: none;
+        }
+        .mobile-nav-link:hover {
+            color: var(--text-primary);
+            background: rgba(255, 255, 255, 0.03);
+        }
+        .mobile-nav-link.active {
+            color: var(--text-primary);
+            background: rgba(201, 169, 110, 0.07);
+        }
+
+        /* ——— 標籤與裝飾 ——— */
+        .gold-line {
+            width: 40px;
+            height: 2px;
+            background: var(--accent-gold);
+            opacity: 0.4;
+            border-radius: 2px;
+        }
+
+        .section-label {
+            font-size: 0.6rem;
+            font-weight: 500;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: var(--text-muted);
+        }
+
+        /* ——— 搜尋列 ——— */
+        .search-wrapper {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-card);
+            border-radius: 100px;
+            padding: 0.1rem 0.1rem 0.1rem 1.2rem;
             display: flex;
             align-items: center;
+            transition: border-color 0.2s ease;
+            max-width: 480px;
+            margin: 0 auto;
         }
-        .artist-title svg {
-            width: 1.5rem;
-            height: 1.5rem;
-            margin-right: 0.75rem;
-            color: #A5B4FC; /* indigo-300 */
+        .search-wrapper:focus-within {
+            border-color: rgba(201, 169, 110, 0.2);
         }
-        .song-item-link {
+        .search-wrapper input {
+            background: transparent;
+            border: none;
+            padding: 0.6rem 0.6rem 0.6rem 0;
+            font-size: 0.85rem;
+            color: var(--text-primary);
+            width: 100%;
+            outline: none;
+            font-weight: 400;
+        }
+        .search-wrapper input::placeholder {
+            color: var(--text-muted);
+        }
+        .search-wrapper button {
+            background: var(--accent-gold);
+            border: none;
+            border-radius: 100px;
+            padding: 0.5rem 1.2rem;
+            font-size: 0.75rem;
+            font-weight: 500;
+            color: #0b0b10;
+            cursor: pointer;
+            transition: background 0.2s ease;
+            white-space: nowrap;
+        }
+        .search-wrapper button:hover {
+            background: #dbb87a;
+        }
+
+        /* ——— 工具列 (展開/折疊 + 計數) ——— */
+        .toolbar {
             display: flex;
+            align-items: center;
             justify-content: space-between;
-            align-items: center;
-            padding: 1rem 1.25rem;
-            background-color: #1E293B;
-            border-radius: 0.5rem;
-            transition: all 0.2s ease-in-out;
-            border-left: 3px solid transparent;
+            flex-wrap: wrap;
+            gap: 0.75rem 1.5rem;
+            max-width: 480px;
+            margin: 0.5rem auto 1.5rem auto;
+            padding: 0 0.25rem;
         }
-        .song-item-link:hover {
-            transform: translateX(8px);
-            background-color: #2b3a52;
-            border-left-color: #38BDF8; /* sky-400 */
-            box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+        .toolbar .count {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            font-weight: 400;
+        }
+        .toggle-all-btn {
+            background: transparent;
+            border: 1px solid var(--border-card);
+            color: var(--text-secondary);
+            padding: 0.35rem 1.2rem;
+            border-radius: 100px;
+            font-size: 0.7rem;
+            font-weight: 450;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        .toggle-all-btn:hover {
+            border-color: rgba(255, 255, 255, 0.12);
+            color: var(--text-primary);
+            background: rgba(255, 255, 255, 0.03);
+        }
+
+        /* ——— 歌手群組 (單行塊狀，無排擠) ——— */
+        .artist-group {
+            margin-bottom: 1.75rem;
+            width: 100%;
+        }
+
+        .artist-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            width: 100%;
+            background: transparent;
+            border: none;
+            border-bottom: 1px solid var(--border-subtle);
+            padding: 0.4rem 0 0.6rem 0;
+            margin-bottom: 0.75rem;
+            cursor: pointer;
+            transition: border-color 0.2s;
+            text-align: left;
+        }
+        .artist-header:hover {
+            border-color: rgba(255, 255, 255, 0.08);
+        }
+        .artist-header .left {
+            display: flex;
+            align-items: center;
+            gap: 0.6rem;
+        }
+        .artist-header .left svg {
+            width: 1.2rem;
+            height: 1.2rem;
+            color: var(--accent-gold);
+            opacity: 0.6;
+        }
+        .artist-name {
+            font-weight: 500;
+            font-size: 1.05rem;
+            color: var(--text-primary);
+            letter-spacing: -0.01em;
+        }
+        .artist-badge {
+            font-size: 0.6rem;
+            font-weight: 450;
+            color: var(--text-muted);
+            background: var(--bg-card);
+            padding: 0.1rem 0.6rem;
+            border-radius: 100px;
+            border: 1px solid var(--border-card);
+            margin-left: 0.3rem;
+        }
+        .artist-arrow {
+            transition: transform 0.3s ease;
+            color: var(--text-muted);
+            width: 1.2rem;
+            height: 1.2rem;
+            flex-shrink: 0;
+        }
+        .artist-arrow.open {
+            transform: rotate(180deg);
+        }
+
+        /* ——— 歌曲列表 (使用 flex-wrap 避免排擠) ——— */
+        .songs-list {
+            display: flex;
+            flex-direction: column;
+            gap: 0.4rem;
+            padding-left: 0.25rem;
+            overflow: hidden;
+            transition: max-height 0.35s ease;
+        }
+        .songs-list.collapsed {
+            max-height: 0 !important;
+            opacity: 0;
+            pointer-events: none;
+        }
+        .songs-list.expanded {
+            max-height: 2000px; /* 足夠容納所有歌曲 */
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        /* ——— 歌曲項目 ——— */
+        .song-item {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0.55rem 0.9rem;
+            background: var(--bg-card);
+            border: 1px solid var(--border-card);
+            border-radius: 8px;
+            transition: all 0.2s ease;
+            text-decoration: none;
+            box-shadow: var(--shadow-card);
+        }
+        .song-item:hover {
+            transform: translateX(4px);
+            border-color: rgba(201, 169, 110, 0.12);
+            background: rgba(201, 169, 110, 0.03);
         }
         .song-title {
-            font-size: 1.125rem;
-            font-weight: 500;
-            color: #E0E7FF; /* slate-200 */
-            transition: color 0.2s ease;
+            font-weight: 450;
+            font-size: 0.9rem;
+            color: var(--text-primary);
         }
-         .song-item-link:hover .song-title {
-            color: #7DD3FC;
+        .song-meta {
+            display: flex;
+            align-items: center;
+            gap: 0.4rem;
+            color: var(--text-muted);
+            font-size: 0.65rem;
+            font-weight: 450;
         }
-        .view-lyrics-text {
-            color: #94A3B8;
-            font-size: 0.8rem;
-            font-weight: 500;
-            transition: color 0.2s ease;
+        .song-meta svg {
+            width: 0.9rem;
+            height: 0.9rem;
+            transition: transform 0.2s ease;
         }
-        .song-item-link:hover .view-lyrics-text {
-            color: #38BDF8;
+        .song-item:hover .song-meta svg {
+            transform: translateX(2px);
+            color: var(--accent-gold);
         }
-        .view-lyrics-icon {
-            color: #53647f;
-            transition: transform 0.3s ease, color 0.2s ease;
-        }
-        .song-item-link:hover .view-lyrics-icon {
-            transform: translateX(4px);
-            color: #38BDF8;
-        }
-        
-        ::-webkit-scrollbar { width: 8px; height: 8px; }
-        ::-webkit-scrollbar-track { background: #1E293B; }
-        ::-webkit-scrollbar-thumb { background: #475569; border-radius: 4px; }
-        ::-webkit-scrollbar-thumb:hover { background: #64748B; }
 
-        /* === UNIFIED SITE HEADER & NAV STYLES === */
-        .site-header { transition: background-color 0.3s ease-in-out; }
-        .site-title { font-size: 1.5rem; font-weight: 700; color: #F1F5F9; letter-spacing: 0.5px; }
-        .nav-link { 
-            color: #CBD5E1; 
-            font-weight: 500; 
-            padding: 0.5rem 1rem; 
-            border-radius: 0.375rem; 
-            transition: color 0.2s, background-color 0.2s; 
-            position: relative;
-        }
-        .nav-link:hover { color: #FFFFFF; background-color: #334155; }
-        .nav-link.active { color: #FFFFFF; font-weight: 700; background-color: #4F46E5; }
-        .mobile-nav-link {
-            padding-top: 0.75rem;
-            padding-bottom: 0.75rem;
-            font-size: 1.125rem;
+        /* ——— 空狀態 ——— */
+        .empty-state {
+            color: var(--text-muted);
             text-align: center;
-            display: block;
-            color: #CBD5E1;
-            border-radius: 0.375rem;
+            padding: 3rem 0;
+            font-size: 0.9rem;
         }
-        .mobile-nav-link:hover { color: #FFFFFF; background-color: #334155; }
-        .mobile-nav-link.active { color: #FFFFFF; font-weight: 600; background-color: #4F46E5; }
-        /* === END OF UNIFIED STYLES === */
+
+        /* ——— 滾動條 ——— */
+        ::-webkit-scrollbar {
+            width: 5px;
+            height: 5px;
+        }
+        ::-webkit-scrollbar-track {
+            background: var(--bg-primary);
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #2a2a3a;
+            border-radius: 4px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #3d3d4a;
+        }
+
+        /* ——— 響應式 ——— */
+        @media (max-width: 640px) {
+            .search-wrapper {
+                border-radius: 12px;
+                padding: 0.1rem 0.1rem 0.1rem 1rem;
+            }
+            .search-wrapper button {
+                padding: 0.4rem 1rem;
+                font-size: 0.7rem;
+            }
+            .song-item {
+                padding: 0.4rem 0.6rem;
+            }
+            .song-title {
+                font-size: 0.8rem;
+            }
+            .artist-name {
+                font-size: 0.95rem;
+            }
+            .toolbar {
+                flex-direction: column;
+                align-items: stretch;
+                gap: 0.5rem;
+            }
+            .toolbar .count {
+                text-align: center;
+            }
+            .toggle-all-btn {
+                text-align: center;
+                padding: 0.4rem;
+            }
+        }
     </style>
 </head>
-<body class="antialiased">
-    <header class="site-header bg-slate-900/70 backdrop-blur-md text-white shadow-lg sticky top-0 z-50">
-        <nav class="container mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="flex items-center justify-between h-16">
-                <div class="flex items-center">
-                    <a href="../index.html" class="site-title">LMT Korean Learning Zone</a>
+<body>
+
+    <!-- ===== NAVIGATION ===== -->
+    <header class="nav-bar">
+        <nav class="max-w-6xl mx-auto px-6 lg:px-8">
+            <div class="flex items-center justify-between h-14">
+                <a href="../index.html" class="flex items-center gap-2 text-white font-medium text-sm tracking-tight">
+                    <span class="text-[#c9a96e]">◆</span>
+                    <span>LMT</span>
+                    <span class="text-[#6b6660] font-light text-xs hidden sm:inline">· korean</span>
+                </a>
+
+                <div class="hidden md:flex items-center gap-0.5">
+                    <a href="../index.html" class="nav-link">Home</a>
+                    <a href="../grammar/index.html" class="nav-link">Grammar</a>
+                    <a href="../vocabulary/index.html" class="nav-link">Vocabulary</a>
+                    <a href="./index.html" class="nav-link active">Lyrics</a>
                 </div>
-                <div class="hidden md:flex space-x-4">
-                    <a href="../index.html" class="nav-link">首頁</a>
-                    <a href="../grammar/index.html" class="nav-link">文法教學</a>
-                    <a href="../vocabulary/index.html" class="nav-link">單字學習</a>
-                    <a href="./index.html" class="nav-link active">歌詞教學</a>
-                </div>
-                <div class="md:hidden">
-                    <button id="mobile-menu-button" aria-label="開啟選單" class="text-gray-300 hover:text-white focus:outline-none focus:text-white p-2 rounded-md">
-                        <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
-                        </svg>
-                    </button>
-                </div>
+
+                <button id="menu-toggle" aria-label="Menu" class="md:hidden text-[#a09a94] hover:text-[#e4dfd8] p-1.5 transition">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 6h16M4 12h16m-7 6h7" />
+                    </svg>
+                </button>
             </div>
+
             <div id="mobile-menu" class="md:hidden hidden pb-3 space-y-1">
-                <a href="../index.html" class="mobile-nav-link">首頁</a>
-                <a href="../grammar/index.html" class="mobile-nav-link">文法教學</a>
-                <a href="../vocabulary/index.html" class="mobile-nav-link">單字學習</a>
-                <a href="./index.html" class="mobile-nav-link active">歌詞教學</a>
+                <a href="../index.html" class="mobile-nav-link">Home</a>
+                <a href="../grammar/index.html" class="mobile-nav-link">Grammar</a>
+                <a href="../vocabulary/index.html" class="mobile-nav-link">Vocabulary</a>
+                <a href="./index.html" class="mobile-nav-link active">Lyrics</a>
             </div>
         </nav>
     </header>
 
-    <main class="container mx-auto px-4 sm:px-6 lg:px-8 py-8 pt-24">
-        <h1 class="text-4xl font-bold text-center mb-8 text-slate-100">歌詞教學</h1>
-        
-        <!-- === MODIFIED: Sticky Search Bar === -->
-        <div class="sticky top-16 z-40 bg-slate-900/90 backdrop-blur-md py-4 mb-8 -mx-4 sm:-mx-6 px-4 sm:px-6 border-b border-slate-700">
-            <div class="max-w-xl mx-auto">
-                <label for="song-search" class="sr-only">搜尋歌曲</label>
-                <div class="relative">
-                    <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
-                        <svg class="h-5 w-5 text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                            <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clip-rule="evenodd" />
-                        </svg>
-                    </div>
-                    <input type="text" id="song-search" class="block w-full pl-12 pr-3 py-3 border border-slate-600 rounded-full leading-5 bg-slate-700 text-slate-200 placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-sky-500 focus:border-sky-500 sm:text-base" placeholder="搜尋歌曲名稱或歌手...">
-                </div>
-            </div>
+    <!-- ===== MAIN ===== -->
+    <main class="max-w-4xl mx-auto px-6 lg:px-8 pt-20 pb-10 w-full">
+
+        <!-- page header -->
+        <div class="text-center mb-6">
+            <span class="section-label">Explore</span>
+            <div class="gold-line mx-auto mt-1.5 mb-2"></div>
+            <h1 class="text-2xl sm:text-3xl font-light text-[#e4dfd8] tracking-tight">Lyrics Library</h1>
+            <p class="text-[#6b6660] text-sm font-light mt-0.5">Learn Korean through music</p>
         </div>
-        
-        <div id="songs-list-container" class="md:columns-2 lg:columns-3 md:gap-x-8">
-            <p class="text-center text-gray-400">正在載入歌曲列表...</p>
+
+        <!-- search bar -->
+        <div class="search-wrapper mb-4">
+            <input type="text" id="song-search" placeholder="Search songs or artists..." autocomplete="off" />
+            <button id="search-btn" aria-label="Search">Search</button>
         </div>
+
+        <!-- toolbar: toggle all + count -->
+        <div class="toolbar">
+            <span class="count" id="song-count">0 songs</span>
+            <button class="toggle-all-btn" id="toggle-all-btn">Expand all</button>
+        </div>
+
+        <!-- songs list (flex column, no multi-column) -->
+        <div id="songs-list-container" class="flex flex-col gap-0">
+            <p class="text-center text-[#6b6660] text-sm py-8">Loading songs...</p>
+        </div>
+
     </main>
 
-    <footer class="bg-slate-900 text-gray-400 text-center py-8 mt-12 border-t border-slate-700">
-        <p>© <span id="current-year"></span> Created by LMT. All rights reserved.</p>
-        <p class="text-sm">LMT-Korean-Learning-Zone</p>
+    <!-- ===== FOOTER ===== -->
+    <footer class="border-t border-[#1a1a24] bg-[#0b0b10] py-7 mt-8">
+        <div class="max-w-6xl mx-auto px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-3">
+            <p class="text-[#6b6660] text-[0.65rem] font-light tracking-wide">
+                &copy; <span id="year"></span> LMT · Korean Learning
+            </p>
+            <div class="flex items-center gap-5 text-[0.65rem] text-[#6b6660]">
+                <a href="#" class="hover:text-[#a09a94] transition">L</a>
+                <a href="#" class="hover:text-[#a09a94] transition">M</a>
+                <a href="#" class="hover:text-[#a09a94] transition">T</a>
+            </div>
+        </div>
     </footer>
 
     <script>
-    var allSongsData = [];
+        // ——— 核心邏輯 ———
+        var allSongs = [];
+        var allGroups = {}; // 暫存分組結果，用於計數與重繪
 
-    function sanitizeHTML(str) {
-        if (typeof str !== 'string') return '';
-        var temp = document.createElement('div');
-        temp.textContent = str;
-        return temp.innerHTML;
-    }
-        
-    function getCleanArtistName(artist) {
-        if (!artist) return 'Unknown Artist';
-        return artist.replace(/\s*\(.*\)\s*/g, '').trim();
-    }
-
-    function renderSongsList(songs, expandAll = false) {
-        var container = document.getElementById('songs-list-container');
-        if (!container) return;
-
-        container.innerHTML = '';
-
-        if (!songs || songs.length === 0) {
-            container.innerHTML = '<p class="text-center text-gray-400">找不到符合條件的歌曲。</p>';
-            return;
+        function sanitize(str) {
+            if (typeof str !== 'string') return '';
+            var d = document.createElement('div');
+            d.textContent = str;
+            return d.innerHTML;
         }
 
-        const groupedByArtist = songs.reduce((acc, song) => {
-            const cleanArtist = getCleanArtistName(song.artist);
-            if (!acc[cleanArtist]) acc[cleanArtist] = [];
-            acc[cleanArtist].push(song);
-            return acc;
-        }, {});
+        function getCleanArtist(artist) {
+            if (!artist) return 'Unknown Artist';
+            return artist.replace(/\s*\(.*\)\s*/g, '').trim();
+        }
 
-        const sortedArtists = Object.keys(groupedByArtist)
-            .sort((a, b) => a.localeCompare(b, 'en', { sensitivity: 'base' }));
+        // 渲染：使用 flex column，每個藝人獨立行，無排擠
+        function renderSongs(songs, expandAll) {
+            var container = document.getElementById('songs-list-container');
+            var countEl = document.getElementById('song-count');
+            if (!container) return;
+            container.innerHTML = '';
 
-        sortedArtists.forEach(artist => {
+            if (!songs || songs.length === 0) {
+                container.innerHTML = '<div class="empty-state">No songs match your search.</div>';
+                if (countEl) countEl.textContent = '0 songs';
+                return;
+            }
 
-            const artistId = `artist-${artist.replace(/\s+/g, '-')}`;
+            // group by artist
+            var groups = {};
+            songs.forEach(function(song) {
+                var key = getCleanArtist(song.artist);
+                if (!groups[key]) groups[key] = [];
+                groups[key].push(song);
+            });
 
-            const artistGroupDiv = document.createElement('div');
-            artistGroupDiv.className = 'artist-group';
+            allGroups = groups; // 儲存供 toggle-all 使用
 
-            /* ====== 可點擊標題 ====== */
-            const artistTitle = document.createElement('button');
-            artistTitle.className = 'artist-title w-full text-left justify-between';
-            artistTitle.type = 'button';
+            var artistNames = Object.keys(groups).sort(function(a, b) {
+                return a.localeCompare(b, 'en', { sensitivity: 'base' });
+            });
 
-            artistTitle.innerHTML = `
-                <div class="flex items-center">
-                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 mr-3 text-indigo-300" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
-                        <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 6a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0zM4.501 20.118a7.5 7.5 0 0114.998 0A17.933 17.933 0 0112 21.75c-2.676 0-5.216-.584-7.499-1.632z" />
-                    </svg>
-                    ${sanitizeHTML(artist)}
-                </div>
+            var totalSongs = songs.length;
+            if (countEl) countEl.textContent = totalSongs + ' song' + (totalSongs > 1 ? 's' : '');
 
-                <svg id="arrow-${artistId}" 
-                    class="w-5 h-5 transition-transform duration-300 text-indigo-300 ${expandAll ? 'rotate-180' : ''}" 
-                    xmlns="http://www.w3.org/2000/svg" 
-                    fill="none" viewBox="0 0 24 24" 
-                    stroke-width="2" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
-                </svg>
-            `;
+            artistNames.forEach(function(artist) {
+                var groupDiv = document.createElement('div');
+                groupDiv.className = 'artist-group';
 
-            artistGroupDiv.appendChild(artistTitle);
+                var sortedSongs = groups[artist].sort(function(a, b) {
+                    return a.title.localeCompare(b.title, 'en', { sensitivity: 'base' });
+                });
 
-            /* ====== 歌曲清單 ====== */
-            const songsListDiv = document.createElement('div');
-            songsListDiv.className = `songs-list space-y-3 transition-all duration-300 ${expandAll ? '' : 'hidden'}`;
-            songsListDiv.id = artistId;
+                // header
+                var header = document.createElement('button');
+                header.className = 'artist-header';
+                header.type = 'button';
+                var artistId = 'artist-' + artist.replace(/\s+/g, '-');
 
-            const sortedSongs = groupedByArtist[artist]
-                .sort((a, b) => a.title.localeCompare(b.title, 'en', { sensitivity: 'base' }));
-
-            sortedSongs.forEach(song => {
-
-                const songLink = document.createElement('a');
-                songLink.href = `./lyrics-template.html?songId=${sanitizeHTML(song.id)}`;
-                songLink.className = 'song-item-link';
-
-                songLink.innerHTML = `
-                    <div class="song-info">
-                        <h3 class="song-title">${sanitizeHTML(song.title)}</h3>
-                    </div>
-                    <div class="flex items-center space-x-2">
-                        <span class="view-lyrics-text">歌詞</span>
-                        <svg class="w-5 h-5 view-lyrics-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
+                header.innerHTML = `
+                    <div class="left">
+                        <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 6a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0zM4.501 20.118a7.5 7.5 0 0114.998 0A17.933 17.933 0 0112 21.75c-2.676 0-5.216-.584-7.499-1.632z" />
                         </svg>
+                        <span class="artist-name">${sanitize(artist)}</span>
+                        <span class="artist-badge">${sortedSongs.length}</span>
                     </div>
+                    <svg class="artist-arrow ${expandAll ? 'open' : ''}" id="arrow-${artistId}" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+                    </svg>
                 `;
+                groupDiv.appendChild(header);
 
-                songsListDiv.appendChild(songLink);
+                // song list
+                var listDiv = document.createElement('div');
+                listDiv.className = 'songs-list ' + (expandAll ? 'expanded' : 'collapsed');
+                listDiv.id = 'list-' + artistId;
+
+                sortedSongs.forEach(function(song) {
+                    var link = document.createElement('a');
+                    link.href = './lyrics-template.html?songId=' + encodeURIComponent(song.id);
+                    link.className = 'song-item';
+
+                    link.innerHTML = `
+                        <span class="song-title">${sanitize(song.title)}</span>
+                        <span class="song-meta">
+                            <span>lyrics</span>
+                            <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="1.5">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
+                            </svg>
+                        </span>
+                    `;
+                    listDiv.appendChild(link);
+                });
+
+                groupDiv.appendChild(listDiv);
+                container.appendChild(groupDiv);
+
+                // toggle event: 只影響該藝人
+                header.addEventListener('click', function() {
+                    var list = this.nextElementSibling;
+                    var arrow = this.querySelector('.artist-arrow');
+                    var isCollapsed = list.classList.contains('collapsed');
+                    if (isCollapsed) {
+                        list.classList.remove('collapsed');
+                        list.classList.add('expanded');
+                        arrow.classList.add('open');
+                    } else {
+                        list.classList.add('collapsed');
+                        list.classList.remove('expanded');
+                        arrow.classList.remove('open');
+                    }
+                    // 更新「全部展開」按鈕文字
+                    updateToggleAllButton();
+                });
             });
 
-            /* ====== 點擊展開/收合 ====== */
-            artistTitle.addEventListener('click', function () {
-                const songList = document.getElementById(artistId);
-                const arrow = document.getElementById(`arrow-${artistId}`);
+            // 更新 toggle-all 按鈕狀態
+            updateToggleAllButton();
+        }
 
-                songList.classList.toggle('hidden');
-                arrow.classList.toggle('rotate-180');
-            });
+        // 檢查是否所有藝人都已展開
+        function isAllExpanded() {
+            var lists = document.querySelectorAll('.songs-list');
+            if (lists.length === 0) return false;
+            for (var i = 0; i < lists.length; i++) {
+                if (lists[i].classList.contains('collapsed')) return false;
+            }
+            return true;
+        }
 
-            artistGroupDiv.appendChild(songsListDiv);
-            container.appendChild(artistGroupDiv);
-        });
-    }
+        function updateToggleAllButton() {
+            var btn = document.getElementById('toggle-all-btn');
+            if (!btn) return;
+            var allExpanded = isAllExpanded();
+            btn.textContent = allExpanded ? 'Collapse all' : 'Expand all';
+        }
 
-    function setupSearch(songs) {
-        var searchInput = document.getElementById('song-search');
-        if (!searchInput) return;
-
-        searchInput.addEventListener('input', function() {
-            var searchTerm = this.value.toLowerCase().trim();
-
-            var filteredSongs = songs.filter(function(song) {
-                var title = song.title ? song.title.toLowerCase() : '';
-                var artist = song.artist ? song.artist.toLowerCase() : '';
-                return title.includes(searchTerm) || artist.includes(searchTerm);
-            });
-
-            /* 🔥 搜尋時全部展開 */
-            renderSongsList(filteredSongs, true);
-        });
-    }
-
-    document.addEventListener('DOMContentLoaded', function() {
-
-        var songsContainer = document.getElementById('songs-list-container');
-        var jsonFileUrl = new URL('../data/songs_list.json', window.location.href).href;
-
-        fetch(jsonFileUrl)
-            .then(response => {
-                if (!response.ok) throw new Error('HTTP error ' + response.status);
-                return response.json();
-            })
-            .then(songsData => {
-                allSongsData = songsData.filter(song => 
-                    song.id && song.id !== "_____" && song.title !== "_____"
-                );
-
-                /* 🔹 初始預設全部收合 */
-                renderSongsList(allSongsData, false);
-                setupSearch(allSongsData);
-            })
-            .catch(error => {
-                console.error('無法載入歌曲列表:', error);
-                if(songsContainer) {
-                    songsContainer.innerHTML = 
-                        '<p class="text-xl text-red-400 text-center">歌曲列表載入失敗。</p>';
+        // 全部展開 / 全部折疊
+        function toggleAll(expand) {
+            var lists = document.querySelectorAll('.songs-list');
+            var arrows = document.querySelectorAll('.artist-arrow');
+            lists.forEach(function(list, idx) {
+                if (expand) {
+                    list.classList.remove('collapsed');
+                    list.classList.add('expanded');
+                } else {
+                    list.classList.add('collapsed');
+                    list.classList.remove('expanded');
+                }
+                if (arrows[idx]) {
+                    if (expand) arrows[idx].classList.add('open');
+                    else arrows[idx].classList.remove('open');
                 }
             });
-
-        var yearSpan = document.getElementById('current-year');
-        if (yearSpan) yearSpan.textContent = new Date().getFullYear();
-
-        var menuButton = document.getElementById('mobile-menu-button');
-        var mobileMenu = document.getElementById('mobile-menu');
-        if(menuButton && mobileMenu) {
-            menuButton.addEventListener('click', () => 
-                mobileMenu.classList.toggle('hidden')
-            );
+            updateToggleAllButton();
         }
-    });
+
+        function filterAndRender(searchTerm) {
+            if (!searchTerm || searchTerm.trim() === '') {
+                renderSongs(allSongs, false);
+                return;
+            }
+            var term = searchTerm.toLowerCase().trim();
+            var filtered = allSongs.filter(function(song) {
+                var title = (song.title || '').toLowerCase();
+                var artist = (song.artist || '').toLowerCase();
+                return title.includes(term) || artist.includes(term);
+            });
+            renderSongs(filtered, true); // 搜尋時全部展開
+        }
+
+        // ——— 初始化 ———
+        document.addEventListener('DOMContentLoaded', function() {
+            // year
+            document.getElementById('year').textContent = new Date().getFullYear();
+
+            // mobile menu
+            var toggle = document.getElementById('menu-toggle');
+            var menu = document.getElementById('mobile-menu');
+            if (toggle && menu) {
+                toggle.addEventListener('click', function() {
+                    menu.classList.toggle('hidden');
+                });
+            }
+
+            // toggle-all button
+            var toggleAllBtn = document.getElementById('toggle-all-btn');
+            if (toggleAllBtn) {
+                toggleAllBtn.addEventListener('click', function() {
+                    var expand = !isAllExpanded();
+                    toggleAll(expand);
+                });
+            }
+
+            // load data
+            var container = document.getElementById('songs-list-container');
+            var url = new URL('../data/songs_list.json', window.location.href).href;
+            fetch(url)
+                .then(function(res) {
+                    if (!res.ok) throw new Error('HTTP ' + res.status);
+                    return res.json();
+                })
+                .then(function(data) {
+                    allSongs = data.filter(function(s) {
+                        return s.id && s.id !== '_____' && s.title !== '_____';
+                    });
+                    renderSongs(allSongs, false);
+                    setupSearch();
+                })
+                .catch(function(err) {
+                    console.error(err);
+                    container.innerHTML = '<p class="empty-state">Failed to load song list.</p>';
+                });
+
+            function setupSearch() {
+                var input = document.getElementById('song-search');
+                var btn = document.getElementById('search-btn');
+                if (!input) return;
+
+                function doSearch() {
+                    filterAndRender(input.value);
+                }
+
+                input.addEventListener('input', doSearch);
+                if (btn) btn.addEventListener('click', doSearch);
+            }
+        });
     </script>
 </body>
 </html>

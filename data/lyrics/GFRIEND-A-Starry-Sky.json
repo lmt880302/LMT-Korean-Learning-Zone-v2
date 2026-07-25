@@ -1,0 +1,346 @@
+{
+  "id": "GFRIEND-A-Starry-Sky",
+  "title": "A Starry Sky",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "아른아른거리는 너와의 기억 속에",
+      "translation": "在與你朦朧模糊的記憶中",
+      "analysis": [
+        { "point": "아른아른거리는", "explanation": "아른아른거리다 (朦朧地浮現) 的定語形，表示持續的狀態。" },
+        { "point": "너와의", "explanation": "너 (你) + 와 (與) + 의 (所有格)。" },
+        { "point": "기억 속에", "explanation": "기억 (記憶) + 속 (裡面) + 에 (位置助詞)。" }
+      ]
+    },
+    {
+      "korean": "난 언제나 웃고 있어요",
+      "translation": "我總是在笑著",
+      "analysis": [
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "언제나", "explanation": "副詞，無論何時、總是。" },
+        { "point": "웃고 있어요", "explanation": "웃다 (笑) + 고 있다 (正在，進行式) 的敬語體。" }
+      ]
+    },
+    {
+      "korean": "추억이 될지 몰라 불안한 마음 많아도",
+      "translation": "即使擔心也許會成為回憶而不安的心很多",
+      "analysis": [
+        { "point": "추억이 될지 몰라", "explanation": "추억 (回憶) + 이 (主格) + 되다 (成為) + ㄹ지 모르다 (也許會) 的非格式體。" },
+        { "point": "불안한", "explanation": "불안하다 (不安的) 的定語形。" },
+        { "point": "마음 많아도", "explanation": "마음 (心) + 많다 (多) + 아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "늘 잡아주는 너야",
+      "translation": "總是抓住我（手）的你",
+      "analysis": [
+        { "point": "늘", "explanation": "副詞，總是。" },
+        { "point": "잡아주는", "explanation": "잡다 (抓住) + 아/어 주다 (為...) + 는 (定語形)。" },
+        { "point": "너야", "explanation": "너 (你) + 이야 (是) 的口語縮略。" }
+      ]
+    },
+    {
+      "korean": "계절이 바뀌고 다른 곳에 있어도",
+      "translation": "即使季節變換、身處不同的地方",
+      "analysis": [
+        { "point": "계절이", "explanation": "계절 (季節) + 이 (主格)。" },
+        { "point": "바뀌고", "explanation": "바뀌다 (改變) + 고 (連接)。" },
+        { "point": "다른 곳에", "explanation": "다른 (不同的) + 곳 (地方) + 에 (位置)。" },
+        { "point": "있어도", "explanation": "있다 (有、在) + 아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "우리 둘 마음만은 달라지지 않아",
+      "translation": "我們兩人的心卻不會改變",
+      "analysis": [
+        { "point": "우리 둘", "explanation": "우리 (我們) + 둘 (兩人)。" },
+        { "point": "마음만은", "explanation": "마음 (心) + 만 (只) + 은 (主題，表示強調對比)。" },
+        { "point": "달라지지 않아", "explanation": "달라지다 (改變) + 지 않다 (否定) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "늘 이렇게 내 옆에",
+      "translation": "總是這樣在我身旁",
+      "analysis": [
+        { "point": "늘", "explanation": "總是。" },
+        { "point": "이렇게", "explanation": "副詞，這樣地。" },
+        { "point": "내 옆에", "explanation": "내 (我的) + 옆 (旁邊) + 에 (位置)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "두 눈을 감으면 펼쳐지는 그 세상엔",
+      "translation": "若閉上雙眼 在那展開的世界裡",
+      "analysis": [
+        { "point": "두 눈을", "explanation": "두 (兩) + 눈 (眼睛) + 을 (受格)。" },
+        { "point": "감으면", "explanation": "감다 (閉) + 으면 (如果)。" },
+        { "point": "펼쳐지는", "explanation": "펼쳐지다 (展開) + 는 (定語形)。" },
+        { "point": "그 세상엔", "explanation": "그 (那) + 세상 (世界) + 은 (主題助詞，縮略為 엔)。" }
+      ]
+    },
+    {
+      "korean": "우리가 만들어놓은 Starry sky",
+      "translation": "我們所創造的 Starry sky",
+      "analysis": [
+        { "point": "우리가", "explanation": "우리 (我們) + 가 (主格)。" },
+        { "point": "만들어놓은", "explanation": "만들다 (製作) + 아/어 놓다 (完成、做好) + 은 (過去定語形)。" },
+        { "point": "Starry sky", "explanation": "英文，星空，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "너와 내 믿음 사이 가득 차오른 기쁨",
+      "translation": "你我信任之間滿溢的喜悅",
+      "analysis": [
+        { "point": "너와 내", "explanation": "너 (你) + 와 (與) + 내 (我的)。" },
+        { "point": "믿음 사이", "explanation": "믿음 (信任) + 사이 (之間)。" },
+        { "point": "가득 차오른", "explanation": "가득 (滿滿地) + 차오르다 (湧上) + 은 (過去定語形)。" },
+        { "point": "기쁨", "explanation": "名詞，喜悅。" }
+      ]
+    },
+    {
+      "korean": "난 느껴 우린 영원할 거란 걸",
+      "translation": "我感受到我們會是永遠",
+      "analysis": [
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "느껴", "explanation": "느끼다 (感受) 的非格式體。" },
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" },
+        { "point": "영원할 거란 걸", "explanation": "영원하다 (永遠) + ㄹ 것 (將要) + 이란 (就是) + 것 (事情) + 을 (受格) 的縮略，表示「是永遠的事」。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "매일매일 새로워 너와의 시간은 늘",
+      "translation": "每天每天都是新的 與你在一起的時光總是",
+      "analysis": [
+        { "point": "매일매일", "explanation": "副詞，每天每天。" },
+        { "point": "새로워", "explanation": "새롭다 (新的) 的非格式體。" },
+        { "point": "너와의", "explanation": "與你的。" },
+        { "point": "시간은", "explanation": "시간 (時間) + 은 (主題)。" },
+        { "point": "늘", "explanation": "總是。" }
+      ]
+    },
+    {
+      "korean": "날 항상 웃게 만드는 너",
+      "translation": "總是讓我笑的你",
+      "analysis": [
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "항상", "explanation": "副詞，總是。" },
+        { "point": "웃게 만드는", "explanation": "웃다 (笑) + 게 만들다 (讓...) + 는 (定語形)。" },
+        { "point": "너", "explanation": "你。" }
+      ]
+    },
+    {
+      "korean": "완벽하지 않아도 내겐 제일 특별해",
+      "translation": "即使不完美 對我而言也是最特別的",
+      "analysis": [
+        { "point": "완벽하지 않아도", "explanation": "완벽하다 (完美) + 지 않다 (否定) + 아/어도 (即使)。" },
+        { "point": "내겐", "explanation": "내게 (對我) + ㄴ (口語縮略，實際上 나에게는)。" },
+        { "point": "제일", "explanation": "副詞，最。" },
+        { "point": "특별해", "explanation": "특별하다 (特別) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "가장 소중한 사람",
+      "translation": "最珍貴的人",
+      "analysis": [
+        { "point": "가장", "explanation": "副詞，最。" },
+        { "point": "소중한", "explanation": "소중하다 (珍貴的) 的定語形。" },
+        { "point": "사람", "explanation": "名詞，人。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "아직 모를 미래에 두려움이 올 때도",
+      "translation": "即使對尚不知曉的未來 恐懼來臨時",
+      "analysis": [
+        { "point": "아직", "explanation": "副詞，還、尚。" },
+        { "point": "모를", "explanation": "모르다 (不知道) 的未來定語形。" },
+        { "point": "미래에", "explanation": "미래 (未來) + 에 (時間/位置)。" },
+        { "point": "두려움이", "explanation": "두려움 (恐懼) + 이 (主格)。" },
+        { "point": "올 때도", "explanation": "오다 (來) + ㄹ 때 (時候) + 도 (也)。" }
+      ]
+    },
+    {
+      "korean": "항상 내 손 잡고서 웃어주는 너",
+      "translation": "總是抓住我的手對我笑的你",
+      "analysis": [
+        { "point": "항상", "explanation": "總是。" },
+        { "point": "내 손", "explanation": "내 (我的) + 손 (手)。" },
+        { "point": "잡고서", "explanation": "잡다 (抓住) + 고서 (連接，強調先後)。" },
+        { "point": "웃어주는", "explanation": "웃다 (笑) + 아/어 주다 (為...) + 는 (定語形)。" },
+        { "point": "너", "explanation": "你。" }
+      ]
+    },
+    {
+      "korean": "늘 이렇게 내 편에",
+      "translation": "總是這樣在我這一邊",
+      "analysis": [
+        { "point": "늘", "explanation": "總是。" },
+        { "point": "이렇게", "explanation": "這樣。" },
+        { "point": "내 편에", "explanation": "내 (我的) + 편 (邊、一方) + 에 (位置)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "두 눈을 감으면 펼쳐지는 그 세상엔",
+      "translation": "若閉上雙眼 在那展開的世界裡",
+      "analysis": [
+        { "point": "두 눈을 감으면", "explanation": "閉上雙眼的話。" },
+        { "point": "펼쳐지는 그 세상엔", "explanation": "在那展開的世界裡。" }
+      ]
+    },
+    {
+      "korean": "우리가 만들어놓은 Starry sky",
+      "translation": "我們所創造的 Starry sky",
+      "analysis": [
+        { "point": "우리가 만들어놓은", "explanation": "我們所創造的。" },
+        { "point": "Starry sky", "explanation": "英文，星空。" }
+      ]
+    },
+    {
+      "korean": "너와 내 믿음 사이 가득 차오른 기쁨",
+      "translation": "你我信任之間滿溢的喜悅",
+      "analysis": [
+        { "point": "너와 내 믿음 사이", "explanation": "你我信任之間。" },
+        { "point": "가득 차오른 기쁨", "explanation": "滿溢的喜悅。" }
+      ]
+    },
+    {
+      "korean": "난 느껴 우린 영원할 거란 걸",
+      "translation": "我感受到我們會是永遠",
+      "analysis": [
+        { "point": "난 느껴", "explanation": "我感受到。" },
+        { "point": "우린 영원할 거란 걸", "explanation": "我們會是永遠。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "사랑에 서툴던 우린",
+      "translation": "在愛情中曾生疏的我們",
+      "analysis": [
+        { "point": "사랑에", "explanation": "사랑 (愛情) + 에 (對、在)。" },
+        { "point": "서툴던", "explanation": "서투르다 (生疏、笨拙) 的過去回想定語形。" },
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "어느새 많이 닮아 있어",
+      "translation": "不知不覺中變得相似",
+      "analysis": [
+        { "point": "어느새", "explanation": "副詞，不知不覺。" },
+        { "point": "많이", "explanation": "副詞，很、多。" },
+        { "point": "닮아 있어", "explanation": "닮다 (相似) + 아 있어 (狀態持續，表示“變得相似並維持”)。" }
+      ]
+    },
+    {
+      "korean": "너의 어떤 모습이라도",
+      "translation": "無論你什麼樣的模樣",
+      "analysis": [
+        { "point": "너의", "explanation": "你的。" },
+        { "point": "어떤 모습이라도", "explanation": "어떤 (什麼樣的) + 모습 (模樣) + 이라도 (無論、即使)。" }
+      ]
+    },
+    {
+      "korean": "난 지금처럼 사랑할게 널",
+      "translation": "我會像現在這樣愛你",
+      "analysis": [
+        { "point": "난", "explanation": "我。" },
+        { "point": "지금처럼", "explanation": "지금 (現在) + 처럼 (像)。" },
+        { "point": "사랑할게", "explanation": "사랑하다 (愛) + ㄹ게 (未來意志)。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "두 눈을 감으면 펼쳐지는 먼 미래엔",
+      "translation": "若閉上雙眼 在展開的遙遠未來裡",
+      "analysis": [
+        { "point": "두 눈을 감으면", "explanation": "閉上雙眼的話。" },
+        { "point": "펼쳐지는", "explanation": "展開的。" },
+        { "point": "먼 미래엔", "explanation": "먼 (遙遠的) + 미래 (未來) + 에는 (在...裡，主題)。" }
+      ]
+    },
+    {
+      "korean": "여전히 함께인 우리가 보여",
+      "translation": "看見依然在一起的我們",
+      "analysis": [
+        { "point": "여전히", "explanation": "副詞，依然。" },
+        { "point": "함께인", "explanation": "함께 (一起) + 이다 (是) 的定語形，表示「在一起的」。此處為 함께인 (在一起的)。" },
+        { "point": "우리가", "explanation": "我們 + 主格。" },
+        { "point": "보여", "explanation": "보이다 (看見、顯現) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "너와 내 믿음 사이 가득 차오른 기쁨",
+      "translation": "你我信任之間滿溢的喜悅",
+      "analysis": [
+        { "point": "너와 내 믿음 사이", "explanation": "你我信任之間。" },
+        { "point": "가득 차오른 기쁨", "explanation": "滿溢的喜悅。" }
+      ]
+    },
+    {
+      "korean": "난 느껴 우린 영원할 거란 걸",
+      "translation": "我感受到我們會是永遠",
+      "analysis": [
+        { "point": "난 느껴", "explanation": "我感受到。" },
+        { "point": "우린 영원할 거란 걸", "explanation": "我們會是永遠。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "아른아른거리다", "chinese": "朦朧浮現", "pos": "動詞" },
+    { "korean": "기억", "chinese": "記憶", "pos": "名詞" },
+    { "korean": "언제나", "chinese": "總是", "pos": "副詞" },
+    { "korean": "웃다", "chinese": "笑", "pos": "動詞" },
+    { "korean": "추억", "chinese": "回憶", "pos": "名詞" },
+    { "korean": "되다", "chinese": "成為", "pos": "動詞" },
+    { "korean": "불안하다", "chinese": "不安的", "pos": "形容詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "많다", "chinese": "多", "pos": "形容詞" },
+    { "korean": "잡다", "chinese": "抓住", "pos": "動詞" },
+    { "korean": "계절", "chinese": "季節", "pos": "名詞" },
+    { "korean": "바뀌다", "chinese": "改變", "pos": "動詞" },
+    { "korean": "곳", "chinese": "地方", "pos": "名詞" },
+    { "korean": "달라지다", "chinese": "變得不同", "pos": "動詞" },
+    { "korean": "옆", "chinese": "旁邊", "pos": "名詞" },
+    { "korean": "눈", "chinese": "眼睛", "pos": "名詞" },
+    { "korean": "감다", "chinese": "閉上", "pos": "動詞" },
+    { "korean": "펼쳐지다", "chinese": "展開", "pos": "動詞" },
+    { "korean": "세상", "chinese": "世界", "pos": "名詞" },
+    { "korean": "만들다", "chinese": "製作、創造", "pos": "動詞" },
+    { "korean": "믿음", "chinese": "信任", "pos": "名詞" },
+    { "korean": "사이", "chinese": "之間", "pos": "名詞" },
+    { "korean": "가득", "chinese": "滿滿地", "pos": "副詞" },
+    { "korean": "차오르다", "chinese": "湧上", "pos": "動詞" },
+    { "korean": "기쁨", "chinese": "喜悅", "pos": "名詞" },
+    { "korean": "느끼다", "chinese": "感受", "pos": "動詞" },
+    { "korean": "영원하다", "chinese": "永遠的", "pos": "形容詞" },
+    { "korean": "매일", "chinese": "每天", "pos": "副詞" },
+    { "korean": "새롭다", "chinese": "新的", "pos": "形容詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "항상", "chinese": "總是", "pos": "副詞" },
+    { "korean": "완벽하다", "chinese": "完美的", "pos": "形容詞" },
+    { "korean": "특별하다", "chinese": "特別的", "pos": "形容詞" },
+    { "korean": "가장", "chinese": "最", "pos": "副詞" },
+    { "korean": "소중하다", "chinese": "珍貴的", "pos": "形容詞" },
+    { "korean": "사람", "chinese": "人", "pos": "名詞" },
+    { "korean": "아직", "chinese": "還", "pos": "副詞" },
+    { "korean": "모르다", "chinese": "不知道", "pos": "動詞" },
+    { "korean": "미래", "chinese": "未來", "pos": "名詞" },
+    { "korean": "두려움", "chinese": "恐懼", "pos": "名詞" },
+    { "korean": "오다", "chinese": "來", "pos": "動詞" },
+    { "korean": "손", "chinese": "手", "pos": "名詞" },
+    { "korean": "편", "chinese": "邊、一方", "pos": "名詞" },
+    { "korean": "사랑", "chinese": "愛", "pos": "名詞" },
+    { "korean": "서투르다", "chinese": "生疏的", "pos": "形容詞" },
+    { "korean": "닮다", "chinese": "相似", "pos": "動詞" },
+    { "korean": "모습", "chinese": "模樣", "pos": "名詞" },
+    { "korean": "지금", "chinese": "現在", "pos": "名詞" },
+    { "korean": "사랑하다", "chinese": "愛", "pos": "動詞" },
+    { "korean": "먼", "chinese": "遙遠的", "pos": "形容詞" },
+    { "korean": "여전히", "chinese": "依然", "pos": "副詞" },
+    { "korean": "함께", "chinese": "一起", "pos": "副詞" },
+    { "korean": "보이다", "chinese": "看見", "pos": "動詞" }
+  ]
+}

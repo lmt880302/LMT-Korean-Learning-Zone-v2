@@ -1,329 +1,505 @@
 <!DOCTYPE html>
-<html lang="zh-TW">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>韓語文法教學 - LMT-Korean-Learning-Zone</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Grammar · LMT Korean</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,500;14..32,600;14..32,700&family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet" />
     <style>
-        body {
-            font-family: 'Roboto', 'Noto Sans KR', sans-serif;
-            background-color: #0F172A; /* Changed to match vocabulary page for consistency */
-            color: #E2E8F0;
+        /* ——— 全域變數 (與首頁一致) ——— */
+        :root {
+            --bg-primary: #0b0b10;
+            --bg-secondary: #111118;
+            --bg-card: #181822;
+            --border-subtle: rgba(255, 255, 255, 0.04);
+            --border-card: rgba(255, 255, 255, 0.05);
+            --text-primary: #e4dfd8;
+            --text-secondary: #a09a94;
+            --text-muted: #6b6660;
+            --accent-gold: #c9a96e;
+            --accent-gold-dim: rgba(201, 169, 110, 0.12);
+            --shadow-card: 0 8px 32px rgba(0, 0, 0, 0.45);
         }
-        .grammar-card {
-            background-color: #1E293B; /* Changed to match vocabulary page */
-            border: 1px solid #334155; /* Changed to match vocabulary page */
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-        }
-        .grammar-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 20px rgba(59, 130, 246, 0.25); /* Adjusted shadow to match vocabulary */
-        }
-        .grammar-rule-title {
-            color: #67E8F9; /* Changed to match vocabulary page */
-            font-weight: 700;
-        }
-        .category-heading {
-            color: #93C5FD; /* Changed to match vocabulary page */
-            border-bottom: 2px solid #3B82F6; /* Changed to match vocabulary page */
-            padding-bottom: 0.75rem;
-            margin-bottom: 2rem;
-            scroll-margin-top: 140px; /* Adjusted for sticky header + selector */
-        }
-        .subcategory-heading {
-            color: #86EFAC; /* Changed to match vocabulary page greeting-ko for sub-headers */
-            margin-top: 2rem;
-            margin-bottom: 1.5rem;
-            font-size: 1.5em;
-            font-weight: 600;
-            padding-bottom: 0.5rem;
-            border-bottom: 1px dashed #334155; /* Changed to match vocabulary page */
-            scroll-margin-top: 140px; 
-        }
-        ::-webkit-scrollbar { width: 8px; height: 8px; }
-        ::-webkit-scrollbar-track { background: #1E293B; } /* Changed to match vocabulary page */
-        ::-webkit-scrollbar-thumb { background: #475569; border-radius: 4px; } /* Changed to match vocabulary page */
-        ::-webkit-scrollbar-thumb:hover { background: #64748B; } /* Changed to match vocabulary page */
-        [lang="ko"] { font-family: 'Noto Sans KR', sans-serif; }
-        .detail-label { font-weight: 500; color: #818CF8; } /* Changed to match vocabulary page */
-        .example-text, .vocab-text, .memory-text { line-height: 1.65; color: #CBD5E1; } /* Changed to match vocabulary page */
 
-        .unit-selector-container {
-            background-color: rgba(30, 41, 59, 0.9); 
-            padding: 1rem 1.5rem;
-            border-radius: 0.75rem; 
-            margin-bottom: 2.5rem; 
-            box-shadow: 0 6px 20px rgba(0,0,0,0.3);
-            position: sticky; 
-            top: 70px; 
-            z-index: 40; 
-            backdrop-filter: blur(10px); 
-            -webkit-backdrop-filter: blur(10px); 
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
         }
-        .unit-selector-label {
-            color: #A5B4FC; 
-            /* margin-right: 0.75rem; -- This is now handled by Tailwind classes for responsiveness -- */
+
+        body {
+            font-family: 'Inter', 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            -webkit-font-smoothing: antialiased;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        main {
+            flex: 1;
+        }
+
+        /* ——— 導航 (與首頁一致) ——— */
+        .nav-bar {
+            background: rgba(11, 11, 16, 0.75);
+            backdrop-filter: blur(18px) saturate(160%);
+            -webkit-backdrop-filter: blur(18px) saturate(160%);
+            border-bottom: 1px solid var(--border-subtle);
+            position: fixed;
+            top: 0;
+            width: 100%;
+            z-index: 50;
+        }
+
+        .nav-link {
+            color: var(--text-secondary);
+            font-weight: 450;
+            font-size: 0.8rem;
+            letter-spacing: 0.02em;
+            padding: 0.4rem 1rem;
+            border-radius: 6px;
+            transition: color 0.2s, background 0.2s;
+            text-decoration: none;
+        }
+        .nav-link:hover {
+            color: var(--text-primary);
+            background: rgba(255, 255, 255, 0.03);
+        }
+        .nav-link.active {
+            color: var(--text-primary);
+            background: rgba(201, 169, 110, 0.07);
+        }
+
+        .mobile-nav-link {
+            color: var(--text-secondary);
+            font-weight: 450;
+            font-size: 0.9rem;
+            padding: 0.6rem 1rem;
+            border-radius: 6px;
+            transition: color 0.2s, background 0.2s;
+            display: block;
+            text-align: center;
+            text-decoration: none;
+        }
+        .mobile-nav-link:hover {
+            color: var(--text-primary);
+            background: rgba(255, 255, 255, 0.03);
+        }
+        .mobile-nav-link.active {
+            color: var(--text-primary);
+            background: rgba(201, 169, 110, 0.07);
+        }
+
+        /* ——— 標籤與裝飾 ——— */
+        .gold-line {
+            width: 40px;
+            height: 2px;
+            background: var(--accent-gold);
+            opacity: 0.4;
+            border-radius: 2px;
+        }
+
+        .section-label {
+            font-size: 0.6rem;
             font-weight: 500;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: var(--text-muted);
         }
-        .unit-selector {
-            background-color: #334155; 
-            color: #E0E7FF; 
-            border: 1px solid #475569; 
-            border-radius: 0.5rem; 
-            padding: 0.6rem 2.5rem 0.6rem 0.75rem; 
-            appearance: none; 
-            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3E%3Cpath stroke='%239CA3AF' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='M6 8l4 4 4-4'/%3E%3C/svg%3E");
+
+        /* ——— 分類選擇器 ——— */
+        .selector-wrap {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-card);
+            border-radius: 12px;
+            padding: 1rem 1.5rem;
+            max-width: 480px;
+            margin: 0 auto 2.5rem auto;
+            box-shadow: var(--shadow-card);
+            backdrop-filter: blur(8px);
+        }
+
+        .select-custom {
+            background: var(--bg-card);
+            color: var(--text-secondary);
+            border: 1px solid var(--border-card);
+            border-radius: 8px;
+            padding: 0.6rem 2rem 0.6rem 0.75rem;
+            font-size: 0.85rem;
+            font-weight: 450;
+            appearance: none;
+            background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3e%3cpath stroke='%236b6660' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='M6 8l4 4 4-4'/%3e%3c/svg%3e");
             background-repeat: no-repeat;
             background-position: right 0.5rem center;
-            background-size: 1.5em 1.5em;
-            width: 100%; 
+            background-size: 1.2em 1.2em;
+            transition: border-color 0.2s;
+            width: 100%;
+            cursor: pointer;
         }
-        @media (min-width: 640px) { 
-            .unit-selector {
-                width: auto; 
-                min-width: 280px; 
-            }
-        }
-        .unit-selector:focus {
+        .select-custom:focus {
             outline: none;
-            border-color: #6366F1; 
-            box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.4);
+            border-color: var(--accent-gold);
         }
 
-        /* === Site Header & Nav Styles (assuming from style.css for completeness) === */
-        .site-header { transition: background-color 0.3s ease-in-out; }
-        .site-title { font-size: 1.5rem; font-weight: 700; color: #F1F5F9; letter-spacing: 0.5px; }
-        .nav-link { 
-            color: #CBD5E1; 
-            font-weight: 500; 
-            padding: 0.5rem 1rem; 
-            border-radius: 0.375rem; 
-            transition: color 0.2s, background-color 0.2s; 
-            position: relative;
+        /* ——— 分類標題 ——— */
+        .category-heading {
+            font-weight: 500;
+            font-size: 1.6rem;
+            color: var(--text-primary);
+            letter-spacing: -0.02em;
+            border-bottom: 1px solid var(--border-subtle);
+            padding-bottom: 0.6rem;
+            margin-bottom: 1.5rem;
+            scroll-margin-top: 100px;
         }
-        .nav-link:hover { color: #FFFFFF; background-color: #334155; }
-        .nav-link.active { color: #FFFFFF; font-weight: 700; background-color: #4F46E5; }
-        .mobile-nav-link {
-            padding-top: 0.75rem;
-            padding-bottom: 0.75rem;
-            font-size: 1.125rem;
+
+        .subcategory-heading {
+            font-weight: 450;
+            font-size: 1.2rem;
+            color: #d4c5a0;
+            border-bottom: 1px dashed var(--border-subtle);
+            padding-bottom: 0.4rem;
+            margin: 2rem 0 1.25rem 0;
+            scroll-margin-top: 100px;
+        }
+
+        /* ——— 文法卡片 ——— */
+        .grammar-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-card);
+            border-radius: 14px;
+            padding: 1.5rem 1.5rem 1.25rem;
+            transition: all 0.25s ease;
+            box-shadow: var(--shadow-card);
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+        }
+        .grammar-card:hover {
+            transform: translateY(-3px);
+            border-color: rgba(201, 169, 110, 0.08);
+            box-shadow: 0 12px 40px rgba(0, 0, 0, 0.55);
+        }
+
+        .rule-title {
+            font-weight: 600;
+            font-size: 1.05rem;
+            color: #d4c5a0;
+            border-bottom: 1px solid var(--border-subtle);
+            padding-bottom: 0.5rem;
+            margin-bottom: 0.75rem;
+            letter-spacing: -0.01em;
+        }
+
+        .rule-detail {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            line-height: 1.7;
+            flex: 1;
+        }
+        .rule-detail strong {
+            color: var(--text-muted);
+            font-weight: 500;
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+            display: inline-block;
+            min-width: 48px;
+        }
+        .rule-detail .ko {
+            font-family: 'Noto Sans KR', sans-serif;
+            color: #d4c5a0;
+            font-weight: 450;
+        }
+        .rule-detail .highlight {
+            color: var(--accent-gold);
+        }
+
+        /* ——— 空狀態 ——— */
+        .empty-state {
+            color: var(--text-muted);
             text-align: center;
-            display: block;
-            color: #CBD5E1;
-            border-radius: 0.375rem;
+            padding: 3rem 0;
+            font-size: 0.9rem;
         }
-        .mobile-nav-link:hover { color: #FFFFFF; background-color: #334155; }
-        .mobile-nav-link.active { color: #FFFFFF; font-weight: 600; background-color: #4F46E5; }
+
+        /* ——— 滾動條 ——— */
+        ::-webkit-scrollbar {
+            width: 5px;
+            height: 5px;
+        }
+        ::-webkit-scrollbar-track {
+            background: var(--bg-primary);
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #2a2a3a;
+            border-radius: 4px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #3d3d4a;
+        }
+
+        /* ——— 響應式 ——— */
+        @media (max-width: 640px) {
+            .selector-wrap {
+                padding: 0.75rem 1rem;
+                margin-bottom: 1.5rem;
+            }
+            .grammar-card {
+                padding: 1.25rem 1rem;
+            }
+            .category-heading {
+                font-size: 1.3rem;
+            }
+            .rule-title {
+                font-size: 0.95rem;
+            }
+            .rule-detail {
+                font-size: 0.8rem;
+            }
+        }
     </style>
 </head>
-<body class="antialiased">
-    <header class="site-header bg-slate-900/70 backdrop-blur-md text-white shadow-lg sticky top-0 z-50">
-        <nav class="container mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="flex items-center justify-between h-16">
-                <div class="flex items-center">
-                    <a href="../index.html" class="site-title">LMT Korean Learning Zone</a>
+<body>
+
+    <!-- ===== NAVIGATION ===== -->
+    <header class="nav-bar">
+        <nav class="max-w-6xl mx-auto px-6 lg:px-8">
+            <div class="flex items-center justify-between h-14">
+                <a href="../index.html" class="flex items-center gap-2 text-white font-medium text-sm tracking-tight">
+                    <span class="text-[#c9a96e]">◆</span>
+                    <span>LMT</span>
+                    <span class="text-[#6b6660] font-light text-xs hidden sm:inline">· korean</span>
+                </a>
+
+                <div class="hidden md:flex items-center gap-0.5">
+                    <a href="../index.html" class="nav-link">Home</a>
+                    <a href="./index.html" class="nav-link active">Grammar</a>
+                    <a href="../vocabulary/index.html" class="nav-link">Vocabulary</a>
+                    <a href="../songs/index.html" class="nav-link">Lyrics</a>
                 </div>
-                <div class="hidden md:flex space-x-4">
-                    <a href="../index.html" class="nav-link">首頁</a>
-                    <a href="./index.html" class="nav-link active">文法教學</a>
-                    <a href="../vocabulary/index.html" class="nav-link">單字學習</a>
-                    <a href="../songs/index.html" class="nav-link">歌詞教學</a>
-                </div>
-                <div class="md:hidden">
-                    <button id="mobile-menu-button" aria-label="開啟選單" class="text-gray-300 hover:text-white focus:outline-none focus:text-white p-2 rounded-md">
-                        <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
-                        </svg>
-                    </button>
-                </div>
+
+                <button id="menu-toggle" aria-label="Menu" class="md:hidden text-[#a09a94] hover:text-[#e4dfd8] p-1.5 transition">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 6h16M4 12h16m-7 6h7" />
+                    </svg>
+                </button>
             </div>
+
             <div id="mobile-menu" class="md:hidden hidden pb-3 space-y-1">
-                <a href="../index.html" class="mobile-nav-link">首頁</a>
-                <a href="./index.html" class="mobile-nav-link active">文法教學</a>
-                <a href="../vocabulary/index.html" class="mobile-nav-link">單字學習</a>
-                <a href="../songs/index.html" class="mobile-nav-link">歌詞教學</a>
+                <a href="../index.html" class="mobile-nav-link">Home</a>
+                <a href="./index.html" class="mobile-nav-link active">Grammar</a>
+                <a href="../vocabulary/index.html" class="mobile-nav-link">Vocabulary</a>
+                <a href="../songs/index.html" class="mobile-nav-link">Lyrics</a>
             </div>
         </nav>
     </header>
 
-    <main class="container mx-auto px-4 sm:px-6 lg:px-8 py-8 pt-24">
-        <h1 class="text-4xl font-bold text-center mb-8 text-slate-100">文法總覽</h1>
-        
-        <!-- === MODIFIED SECTION === -->
-        <div id="unit-selector-container" class="unit-selector-container flex flex-col sm:flex-row items-center sm:justify-start">
-            <select id="grammar-unit-select" class="unit-selector text-base">
-                <option value="">— 請選擇文法分類 —</option>
+    <!-- ===== MAIN ===== -->
+    <main class="max-w-6xl mx-auto px-6 lg:px-8 pt-20 pb-10 w-full">
+
+        <!-- page header -->
+        <div class="text-center mb-8">
+            <span class="section-label">Reference</span>
+            <div class="gold-line mx-auto mt-1.5 mb-2"></div>
+            <h1 class="text-2xl sm:text-3xl font-light text-[#e4dfd8] tracking-tight">Grammar Overview</h1>
+            <p class="text-[#6b6660] text-sm font-light mt-0.5">Structured rules with examples and memory aids</p>
+        </div>
+
+        <!-- category selector -->
+        <div class="selector-wrap">
+            <select id="grammar-unit-select" class="select-custom">
+                <option value="">— Jump to category —</option>
             </select>
         </div>
-        <!-- === END OF MODIFIED SECTION === -->
 
-        <div id="grammar-container" class="space-y-12 mt-6">
-            <p class="text-center text-gray-400">正在載入文法資料...</p>
+        <!-- grammar content -->
+        <div id="grammar-container" class="space-y-12">
+            <p class="text-center text-[#6b6660] text-sm">Loading grammar data...</p>
         </div>
+
     </main>
 
-    <footer class="bg-slate-900 text-gray-400 text-center py-8 mt-12 border-t border-slate-800">
-        <p>&copy; <span id="current-year"></span> Created by LMT. All rights reserved.</p>
-        <p class="text-sm">LMT-Korean-Learning-Zone</p>
+    <!-- ===== FOOTER ===== -->
+    <footer class="border-t border-[#1a1a24] bg-[#0b0b10] py-7 mt-8">
+        <div class="max-w-6xl mx-auto px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-3">
+            <p class="text-[#6b6660] text-[0.65rem] font-light tracking-wide">
+                &copy; <span id="year"></span> LMT · Korean Learning
+            </p>
+            <div class="flex items-center gap-5 text-[0.65rem] text-[#6b6660]">
+                <a href="#" class="hover:text-[#a09a94] transition">L</a>
+                <a href="#" class="hover:text-[#a09a94] transition">M</a>
+                <a href="#" class="hover:text-[#a09a94] transition">T</a>
+            </div>
+        </div>
     </footer>
 
     <script>
-        // Global variable to hold grammar data loaded from JSON
-        var grammarDataGlobal = [];
+        // ——— 核心邏輯 (功能保留，樣式全新) ———
+        var grammarData = [];
 
-        function sanitizeHTML(str) {
+        function sanitize(str) {
             if (typeof str !== 'string') return '';
-            const temp = document.createElement('div');
-            temp.textContent = str;
-            return temp.innerHTML;
-        }
-        
-        function formatKoreanTextForGrammar(text) { 
-            if (typeof text !== 'string') return '';
-            // This regex wraps Korean characters/phrases in a span for correct font rendering
-            return text.replace(/([\u3131-\uD79D]+(?:[\s\(\)、，。：]\s*[\u3131-\uD79D]+)*|[（(][\u3131-\uD79D\s（）、，。：]+[）)])/g, '<span lang="ko">$1</span>');
+            var d = document.createElement('div');
+            d.textContent = str;
+            return d.innerHTML;
         }
 
-        function createGrammarRuleCard(rule) { 
-            const card = document.createElement('div');
-            card.className = 'grammar-card rounded-xl shadow-lg p-6 flex flex-col';
+        function formatKorean(text) {
+            if (typeof text !== 'string') return sanitize(text);
+            return text.replace(
+                /([\u3131-\uD79D]+(?:[\s\(\)、，。：]\s*[\u3131-\uD79D]+)*|[（(][\u3131-\uD79D\s（）、，。：]+[）)])/g,
+                '<span class="ko">$1</span>'
+            );
+        }
 
-            card.innerHTML = `
-                <h4 class="text-xl grammar-rule-title mb-3 pb-2 border-b border-slate-700">${sanitizeHTML(rule.rule)}</h4>
-                <div class="space-y-3 text-slate-300 flex-grow text-sm sm:text-base">
-                    <p><strong class="detail-label">說明：</strong>${sanitizeHTML(rule.description)}</p>
-                    <p class="example-text"><strong class="detail-label">例句：</strong>${formatKoreanTextForGrammar(sanitizeHTML(rule.example))}</p>
-                    <p class="vocab-text"><strong class="detail-label">常用單字：</strong>${formatKoreanTextForGrammar(sanitizeHTML(rule.words))}</p>
-                    <p class="memory-text"><strong class="detail-label">記憶法：</strong>${sanitizeHTML(rule.memory)}</p>
-                </div>
-            `;
+        function createRuleCard(rule) {
+            var card = document.createElement('div');
+            card.className = 'grammar-card';
+
+            var title = document.createElement('div');
+            title.className = 'rule-title';
+            title.innerHTML = sanitize(rule.rule);
+            card.appendChild(title);
+
+            var detail = document.createElement('div');
+            detail.className = 'rule-detail';
+
+            var fields = [
+                { key: 'description', label: 'Meaning' },
+                { key: 'example', label: 'Example' },
+                { key: 'words', label: 'Vocab' },
+                { key: 'memory', label: 'Memo' }
+            ];
+
+            fields.forEach(function(f) {
+                if (rule[f.key]) {
+                    var p = document.createElement('p');
+                    var formatted = f.key === 'example' || f.key === 'words' ?
+                        formatKorean(sanitize(rule[f.key])) :
+                        sanitize(rule[f.key]);
+                    p.innerHTML = '<strong>' + f.label + '</strong> ' + formatted;
+                    detail.appendChild(p);
+                }
+            });
+
+            card.appendChild(detail);
             return card;
         }
 
-        function renderGrammar(dataToRender) {
-            const grammarContainer = document.getElementById('grammar-container');
-            const unitSelect = document.getElementById('grammar-unit-select');
+        function renderGrammar(data) {
+            var container = document.getElementById('grammar-container');
+            var select = document.getElementById('grammar-unit-select');
+            if (!container || !select) return;
 
-            if (!grammarContainer || !unitSelect) {
-                console.error('Grammar container or unit selector not found!');
-                if(grammarContainer) grammarContainer.innerHTML = '<p class="text-red-400 text-center">Page element loading error.</p>';
-                return;
-            }
-            
-            grammarContainer.innerHTML = ''; 
+            container.innerHTML = '';
+            // keep only placeholder
+            while (select.options.length > 1) select.remove(1);
 
-            // Clear previous options except the placeholder
-            while (unitSelect.options.length > 1) { 
-                unitSelect.remove(1);
-            }
+            data.forEach(function(category) {
+                // add to select
+                var opt = document.createElement('option');
+                opt.value = category.id;
+                opt.textContent = category.category;
+                select.appendChild(opt);
 
-            dataToRender.forEach(function(categoryItem) {
-                const option = document.createElement('option');
-                option.value = categoryItem.id; 
-                option.textContent = categoryItem.category;
-                unitSelect.appendChild(option);
+                // section
+                var section = document.createElement('section');
+                section.id = category.id;
+                section.className = 'mb-14';
 
-                const categorySection = document.createElement('section');
-                categorySection.id = categoryItem.id; 
-                categorySection.className = 'mb-16';
+                var heading = document.createElement('h2');
+                heading.className = 'category-heading';
+                heading.textContent = category.category;
+                section.appendChild(heading);
 
-                const categoryTitle = document.createElement('h2');
-                categoryTitle.className = 'text-3xl font-bold mb-8 category-heading';
-                categoryTitle.textContent = categoryItem.category;
-                categorySection.appendChild(categoryTitle);
+                var grid = document.createElement('div');
+                grid.className = 'grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4';
 
-                const rulesGrid = document.createElement('div');
-                rulesGrid.className = 'grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-x-6 gap-y-8';
-
-                if (categoryItem.rules) {
-                    categoryItem.rules.forEach(rule => rulesGrid.appendChild(createGrammarRuleCard(rule)));
+                // rules
+                if (category.rules) {
+                    category.rules.forEach(function(rule) {
+                        grid.appendChild(createRuleCard(rule));
+                    });
                 }
 
-                if (categoryItem.subcategories) {
-                    categoryItem.subcategories.forEach(subcategory => {
-                        if (subcategory.name) {
-                            const subCategoryTitleElement = document.createElement('h3');
-                            if(subcategory.id) subCategoryTitleElement.id = subcategory.id; 
-                            subCategoryTitleElement.className = 'subcategory-heading col-span-full';
-                            subCategoryTitleElement.textContent = subcategory.name;
-                            rulesGrid.appendChild(subCategoryTitleElement);
-                        }
-                        if (subcategory.rules) { 
-                            subcategory.rules.forEach(rule => rulesGrid.appendChild(createGrammarRuleCard(rule)));
+                // subcategories
+                if (category.subcategories) {
+                    category.subcategories.forEach(function(sub) {
+                        var subHeading = document.createElement('h3');
+                        subHeading.className = 'subcategory-heading col-span-full';
+                        subHeading.textContent = sub.name || 'Subcategory';
+                        if (sub.id) subHeading.id = sub.id;
+                        grid.appendChild(subHeading);
+
+                        if (sub.rules) {
+                            sub.rules.forEach(function(rule) {
+                                grid.appendChild(createRuleCard(rule));
+                            });
                         }
                     });
                 }
-                categorySection.appendChild(rulesGrid);
-                grammarContainer.appendChild(categorySection);
+
+                section.appendChild(grid);
+                container.appendChild(section);
             });
         }
-        
-        // This function handles the smooth scroll when a unit is selected
-        function setupUnitSelectorScroll() {
-            const unitSelect = document.getElementById('grammar-unit-select');
-            unitSelect.addEventListener('change', function() {
-                const selectedUnitId = this.value;
-                if (selectedUnitId) {
-                    const targetElement = document.getElementById(selectedUnitId);
-                    if (targetElement) {
-                        // Calculate the offset based on the height of sticky elements
-                        const headerHeight = document.querySelector('header')?.offsetHeight || 0;
-                        const selectorHeight = document.querySelector('.unit-selector-container')?.offsetHeight || 0;
-                        const offset = headerHeight + selectorHeight + 20; // 20px extra space
 
-                        const elementPosition = targetElement.getBoundingClientRect().top;
-                        const offsetPosition = elementPosition + window.pageYOffset - offset;
-                        
-                        window.scrollTo({
-                            top: offsetPosition,
-                            behavior: 'smooth'
-                        });
-                    }
+        function setupSelector() {
+            var select = document.getElementById('grammar-unit-select');
+            if (!select) return;
+
+            select.addEventListener('change', function() {
+                var val = this.value;
+                if (!val) return;
+                var target = document.getElementById(val);
+                if (target) {
+                    var headerH = document.querySelector('.nav-bar')?.offsetHeight || 0;
+                    var selectorH = document.querySelector('.selector-wrap')?.offsetHeight || 0;
+                    var offset = headerH + selectorH + 24;
+                    var pos = target.getBoundingClientRect().top + window.pageYOffset - offset;
+                    window.scrollTo({ top: pos, behavior: 'smooth' });
+                    this.value = '';
                 }
             });
         }
 
+        // ——— 初始化 ———
         document.addEventListener('DOMContentLoaded', function() {
-            const grammarContainer = document.getElementById('grammar-container');
-            const jsonFileUrl = '../data/grammar.json'; // Use a relative path
+            // year
+            document.getElementById('year').textContent = new Date().getFullYear();
 
-            fetch(jsonFileUrl) 
-                .then(response => {
-                    if (!response.ok) {
-                        throw new Error(`HTTP error ${response.status} while fetching ${jsonFileUrl}`);
-                    }
-                    return response.json();
-                })
-                .then(loadedData => {
-                    grammarDataGlobal = loadedData; 
-                    renderGrammar(grammarDataGlobal);
-                    setupUnitSelectorScroll(); // Setup scroll listener after rendering
-                })
-                .catch(error => {
-                    console.error('Failed to load grammar data:', error);
-                    if(grammarContainer) {
-                        grammarContainer.innerHTML = '<p class="text-xl text-red-400 text-center">文法資料載入失敗，請檢查路徑或檔案。</p>';
-                    }
-                });
-            
-            // Set current year in footer
-            const yearSpan = document.getElementById('current-year');
-            if (yearSpan) {
-                yearSpan.textContent = new Date().getFullYear();
-            }
-
-            // Mobile menu toggle
-            const menuButton = document.getElementById('mobile-menu-button');
-            const mobileMenu = document.getElementById('mobile-menu');
-            if(menuButton && mobileMenu) {
-                menuButton.addEventListener('click', () => {
-                    mobileMenu.classList.toggle('hidden');
+            // mobile menu
+            var toggle = document.getElementById('menu-toggle');
+            var menu = document.getElementById('mobile-menu');
+            if (toggle && menu) {
+                toggle.addEventListener('click', function() {
+                    menu.classList.toggle('hidden');
                 });
             }
+
+            // load data
+            var container = document.getElementById('grammar-container');
+            var url = new URL('../data/grammar.json', window.location.href).href;
+            fetch(url)
+                .then(function(res) {
+                    if (!res.ok) throw new Error('HTTP ' + res.status);
+                    return res.json();
+                })
+                .then(function(data) {
+                    grammarData = data;
+                    renderGrammar(data);
+                    setupSelector();
+                })
+                .catch(function(err) {
+                    console.error(err);
+                    container.innerHTML = '<p class="empty-state">Failed to load grammar data.</p>';
+                });
         });
     </script>
 </body>
