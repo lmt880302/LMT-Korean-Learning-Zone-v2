@@ -10,7 +10,8 @@ The project uses a structured JSON-based data system to manage learning content 
 
 👉 [Visit LMT Korean Learning Zone](https://lmt880302.github.io/LMT-Korean-Learning-Zone-v2/)
 
-https://github.com/user-attachments/assets/b9aac7d6-d301-4b2f-8c3e-e1323b686628
+https://github.com/user-attachments/assets/3b236c6d-fc03-4a68-8f0d-ca08b5f719ad
+
 
 ---
 
