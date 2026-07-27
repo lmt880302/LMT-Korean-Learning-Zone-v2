@@ -1,33 +1,82 @@
-# Korean Learning Website
+# LMT Korean Learning Zone 🇰🇷
 
-## 📁 專案結構
+> An interactive Korean learning platform for vocabulary, grammar, and song-based learning.
 
+LMT Korean Learning Zone is a frontend web application designed to make Korean learning more engaging through interactive vocabulary flashcards, grammar lessons, and Korean song lyrics analysis.
+
+The project uses a structured JSON-based data system to manage learning content and dynamically render pages with JavaScript.
+
+## 🌐 Live Demo
+
+👉 [Visit LMT Korean Learning Zone](https://lmt880302.github.io/LMT-Korean-Learning-Zone-v2/)
+---
+
+## ✨ Features
+
+- 📚 Vocabulary flashcards
+- 📖 Korean grammar lessons
+- 🎵 Song lyrics learning system
+- 🔄 Dynamic content rendering with JSON data
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- JSON
+- Git / GitHub
+
+---
+
+## 📂 Project Structure
 ```
-/LMT-KOREAN-LEARNING-ZONE
+LMT-KOREAN-LEARNING-ZONE
+
 ├── css/
-│   └── style.css                  # CSS 樣式
+│ └── style.css
+
 ├── data/
-│   ├── lyrics/                    # 歌詞 JSON 檔案
-│   │   ├── __________________.json
-│   │   ├── __________________.json
-│   ├── grammar.json               # 文法資料
-│   ├── songs_list.json            # 歌曲列表
-│   └── vocabulary.json            # 單字資料
+│ ├── lyrics/
+│ ├── grammar.json
+│ ├── songs_list.json
+│ └── vocabulary.json
+
 ├── grammar/
-│   ├── grammar.html               # 文法頁面
-│   └── index.html                 # 文法主頁
-├── img/                           # 圖片資源
-├── js/
-│   └── main.js                    # JavaScript
 ├── songs/
-│   ├── index.html                 # 歌曲主頁
-│   └── lyrics-template.html       # 歌詞模板頁
 ├── vocabulary/
-│   ├── flashcards.html            # 單字閃卡頁
-│   └── index.html                 # 單字主頁
-├── .gitmodules                    # Git 子模組設定
-├── index.html                     # 首頁
-├── README.md                      # 專案說明
-└── test/                          # 測試資料夾
+
+├── js/
+│ └── main.js
+
+└── index.html
 ```
+---
+
+## 🚀 Getting Started
+
+Clone the repository and open:
+
+index.html
+
+or run with VS Code Live Server.
+
+---
+
+## 🎯 Project Highlights
+
+- Frontend website development
+- JavaScript DOM manipulation
+- JSON-based content management
+- Responsive learning interface
+
+---
+
+## 👤 Author
+
+M.T Lo
+
+Frontend Development | Korean Learning | Digital Content Creation
+
 
