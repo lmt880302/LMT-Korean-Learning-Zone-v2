@@ -794,6 +794,120 @@
 "lyricsFile": "../data/lyrics/RESCENE-Love-Frequency.json"
 },
 {
+"id": "RESCENE-Runaway",
+"title": "Runaway",
+"artist": "RESCENE (리센느)",
+"lyricsFile": "../data/lyrics/RESCENE-Runaway.json"
+},  
+{
+"id": "redoor-what-can-i-do",
+"title": "어쩌겠어요 내 맘이 그렇다는데 (What can i do? that's what my heart says)",
+"artist": "Redoor (리도어)",
+"lyricsFile": "../data/lyrics/redoor-what-can-i-do.json"
+},
+{
+"id": "redoor-fairy-tale",
+"title": "흑백동화 (Fairy tale)",
+"artist": "Redoor (리도어)",
+"lyricsFile": "../data/lyrics/redoor-fairy-tale.json"
+},
+{
+"id": "redoor-blue-rain",
+"title": "청우 (靑雨) blue rain",
+"artist": "Redoor (리도어)",
+"lyricsFile": "../data/lyrics/redoor-blue-rain.json"
+},
+{
+"id": "redoor-my-blue-wavy-room",
+"title": "내 방안은 푸른 바다 (My blue wavy room)",
+"artist": "Redoor (리도어)",
+"lyricsFile": "../data/lyrics/redoor-my-blue-wavy-room.json"
+},
+{
+"id": "redoor-crying-in-silence-is-miserable",
+"title": "Crying in silence is miserable",
+"artist": "Redoor (리도어)",
+"lyricsFile": "../data/lyrics/redoor-crying-in-silence-is-miserable.json"
+},
+{
+"id": "redoor-love-scales",
+"title": "Love Scales",
+"artist": "Redoor (리도어)",
+"lyricsFile": "../data/lyrics/redoor-love-scales.json"
+},
+{
+"id": "redoor-baby-cactus",
+"title": "Baby Cactus",
+"artist": "Redoor (리도어)",
+"lyricsFile": "../data/lyrics/redoor-baby-cactus.json"
+},  
+{
+"id": "redoor-under-the-black-sky",
+"title": "Under the Black Sky",
+"artist": "Redoor (리도어)",
+"lyricsFile": "../data/lyrics/redoor-under-the-black-sky.json"
+},
+{
+"id": "redoor-still-in-love-with-you",
+"title": "Still in Love with You",
+"artist": "Redoor (리도어)",
+"lyricsFile": "../data/lyrics/redoor-still-in-love-with-you.json"
+},
+{
+"id": "redoor-ron",
+"title": "Ron",
+"artist": "Redoor (리도어)",
+"lyricsFile": "../data/lyrics/redoor-ron.json"
+},
+{
+"id": "redoor-syringe",
+"title": "Syringe (욕망주사기)",
+"artist": "Redoor (리도어)",
+"lyricsFile": "../data/lyrics/redoor-syringe.json"
+},
+{
+"id": "redoor-dear-freddy",
+"title": "Dear Freddy",
+"artist": "Redoor (리도어)",
+"lyricsFile": "../data/lyrics/redoor-dear-freddy.json"
+},
+{
+"id": "redoor-shadow-of-you",
+"title": "Shadow of You",
+"artist": "Redoor (리도어)",
+"lyricsFile": "../data/lyrics/redoor-shadow-of-you.json"
+},
+{
+"id": "redoor-forever-has-always-been",
+"title": "Forever Has Always Been (영원은 그렇듯)",
+"artist": "Redoor (리도어)",
+"lyricsFile": "../data/lyrics/redoor-forever-has-always-been.json"
+},
+{
+"id": "redoor-exaggerated-love",
+"title": "Exaggerated Love (사랑의 미학)",
+"artist": "Redoor (리도어)",
+"lyricsFile": "../data/lyrics/redoor-exaggerated-love.json"
+},
+{
+"id": "redoor-world-noise",
+"title": "World:Noise (세상:소음)",
+"artist": "Redoor (리도어)",
+"lyricsFile": "../data/lyrics/redoor-world-noise.json"
+},
+{
+"id": "redoor-snow8",
+"title": "snow8",
+"artist": "Redoor (리도어)",
+"lyricsFile": "../data/lyrics/redoor-snow8.json"
+},
+{
+"id": "redoor-feathers",
+"title": "Feathers",
+"artist": "Redoor (리도어)",
+"lyricsFile": "../data/lyrics/redoor-feathers.json"
+},
+{
 "id": "mind-u-a-night-full-of-longing",
 "title": "A night full of longing",
 "artist": "MIND U (마인드유)",

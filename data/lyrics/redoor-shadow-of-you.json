@@ -1,0 +1,262 @@
+{
+  "id": "redoor-shadow-of-you",
+  "title": "Shadow of You (우리아픈이야기)",
+  "artist": "Redoor (리도어)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "어색했던 우리는 어느새 사랑에 빠져",
+      "translation": "曾經尷尬的我們，不知不覺陷入了愛情。",
+      "analysis": [
+        { "point": "어색했던", "explanation": "어색하다（尷尬） + -았-（過去時） + -던（回想冠形詞尾），修飾 우리는。" },
+        { "point": "우리는", "explanation": "우리（我們） + -는（主題助詞）。" },
+        { "point": "어느새", "explanation": "副詞「不知不覺間」。 " },
+        { "point": "사랑에", "explanation": "사랑（愛情） + -에（對象／方向助詞）。" },
+        { "point": "빠져", "explanation": "빠지다（陷入）的連接形，此處作終結語尾（口語）。" }
+      ]
+    },
+    {
+      "korean": "하나둘 추억을 쌓아 행복을 갉아먹었고",
+      "translation": "一個一個累積回憶，啃食了幸福。",
+      "analysis": [
+        { "point": "하나둘", "explanation": "副詞「一個一個地」。 " },
+        { "point": "추억을", "explanation": "추억（回憶） + -을（賓格助詞）。" },
+        { "point": "쌓아", "explanation": "쌓다（堆積）的連接形。" },
+        { "point": "행복을", "explanation": "행복（幸福） + -을（賓格）。" },
+        { "point": "갉아먹었고", "explanation": "갉아먹다（啃食／蠶食） + -었-（過去） + -고（並列連接詞尾）。" }
+      ]
+    },
+    {
+      "korean": "따뜻했던 네 손은 그렇게 익숙해졌고",
+      "translation": "曾經溫暖的你的手，就這樣變得熟悉了。",
+      "analysis": [
+        { "point": "따뜻했던", "explanation": "따뜻하다（溫暖） + -았-（過去） + -던（回想冠形），修飾 네 손。" },
+        { "point": "네 손은", "explanation": "네（你的） + 손（手） + -은（主題助詞）。" },
+        { "point": "그렇게", "explanation": "副詞「那樣地」。 " },
+        { "point": "익숙해졌고", "explanation": "익숙해지다（變得熟悉） + -았-（過去） + -고（並列）。" }
+      ]
+    },
+    {
+      "korean": "차가워진 내 눈빛은 너를 얼어붙게 했었지",
+      "translation": "變冷的我的眼神，曾讓你凍結。",
+      "analysis": [
+        { "point": "차가워진", "explanation": "차갑다（冷） + -아/어지다（變得）的冠形詞形（-ㄴ），修飾 내 눈빛。" },
+        { "point": "내 눈빛은", "explanation": "내（我的） + 눈빛（眼神） + -은（主題）。" },
+        { "point": "너를", "explanation": "너（你） + -를（賓格）。" },
+        { "point": "얼어붙게", "explanation": "얼어붙다（凍結） + -게（副詞化，表使動）。" },
+        { "point": "했었지", "explanation": "하다（使） + -았었-（過去回憶時制） + -지（陳述語氣）。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "너를 잃고 나서야 나는 깨달았었지",
+      "translation": "失去你之後，我才明白。",
+      "analysis": [
+        { "point": "너를", "explanation": "너（你） + -를（賓格）。" },
+        { "point": "잃고", "explanation": "잃다（失去） + -고（連接詞尾）。" },
+        { "point": "나서야", "explanation": "나다（發生／出來） + -아/어서야（強調時間條件「……之後才」）。" },
+        { "point": "나는", "explanation": "나（我） + -는（主題）。" },
+        { "point": "깨달았었지", "explanation": "깨닫다（領悟） + -았었-（過去回憶時制） + -지（陳述語氣）。" }
+      ]
+    },
+    {
+      "korean": "나의 그림자는 너였다는 걸",
+      "translation": "我的影子就是你這件事。",
+      "analysis": [
+        { "point": "나의", "explanation": "나（我） + -의（屬格助詞）。" },
+        { "point": "그림자는", "explanation": "그림자（影子） + -는（主題助詞）。" },
+        { "point": "너였다는", "explanation": "너（你） + 이었다（是，過去時） + -다는（引用冠形詞形），修飾 걸。" },
+        { "point": "걸", "explanation": "것을 的縮略（賓格助詞），意為「這件事」。 " }
+      ]
+    },
+    {
+      "korean": "그땐 몰랐어 이기적인 내 모습",
+      "translation": "那時不知道，我那自私的樣子。",
+      "analysis": [
+        { "point": "그땐", "explanation": "그때는 的縮略（那時＋主題助詞）。" },
+        { "point": "몰랐어", "explanation": "모르다（不知道） + -았-（過去） + -어（平語終結）。" },
+        { "point": "이기적인", "explanation": "이기적（自私） + -인（冠形詞尾），修飾 내 모습。" },
+        { "point": "내 모습", "explanation": "내（我的） + 모습（模樣）。" }
+      ]
+    },
+    {
+      "korean": "너를 그렇게 아프게 할 줄은",
+      "translation": "會那樣讓你痛苦這件事。",
+      "analysis": [
+        { "point": "너를", "explanation": "賓格。" },
+        { "point": "그렇게", "explanation": "那樣地（副詞）。" },
+        { "point": "아프게", "explanation": "아프다（痛） + -게（副詞化，表使動）。" },
+        { "point": "할", "explanation": "하다（使）的冠形詞形（-ㄹ），修飾 줄。" },
+        { "point": "줄은", "explanation": "줄（事情／方法） + -은（主題助詞），意為「會……這件事」。 " }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "널 외롭게도 했었고 눈물도 많이 주었지",
+      "translation": "也曾讓你孤獨，也給了你很多眼淚。",
+      "analysis": [
+        { "point": "널", "explanation": "너를 的縮略（賓格）。" },
+        { "point": "외롭게도", "explanation": "외롭다（孤獨） + -게（副詞化） + -도（也）。" },
+        { "point": "했었고", "explanation": "하다（使） + -았었-（過去回憶） + -고（並列）。" },
+        { "point": "눈물도", "explanation": "눈물（眼淚） + -도（也）。" },
+        { "point": "많이", "explanation": "副詞「很多地」。 " },
+        { "point": "주었지", "explanation": "주다（給予） + -었-（過去） + -지（陳述語氣）。" }
+      ]
+    },
+    {
+      "korean": "나로 인해 네 모습은 사라지게 되었네",
+      "translation": "因為我，你的模樣消失不見了。",
+      "analysis": [
+        { "point": "나로 인해", "explanation": "나（我） + -로 인해（由於……，表原因）。" },
+        { "point": "네 모습은", "explanation": "네（你的） + 모습（模樣） + -은（主題）。" },
+        { "point": "사라지게", "explanation": "사라지다（消失） + -게（副詞化，表結果狀態）。" },
+        { "point": "되었네", "explanation": "되다（成為） + -었-（過去） + -네（感嘆／陳述）。" }
+      ]
+    },
+    {
+      "korean": "그대 나를 미워한다 해도 괜찮아요",
+      "translation": "即使你恨我也沒關係。",
+      "analysis": [
+        { "point": "그대", "explanation": "你（敬稱）。" },
+        { "point": "나를", "explanation": "我（賓格）。" },
+        { "point": "미워한다 해도", "explanation": "미워하다（恨） + -ㄴ다（陳述型） + -고 해도（引用＋讓步「即使說……也」）。" },
+        { "point": "괜찮아요", "explanation": "괜찮다（沒關係） + -아요（敬語）。" }
+      ]
+    },
+    {
+      "korean": "그대 받은 상처 내가 간직하며 아파할게요",
+      "translation": "我會珍藏你受到的傷口，並為此痛苦。",
+      "analysis": [
+        { "point": "그대", "explanation": "你（敬稱）。" },
+        { "point": "받은", "explanation": "받다（接受）的冠形詞形（-은），修飾 상처。" },
+        { "point": "상처", "explanation": "傷口（名詞）。" },
+        { "point": "내가", "explanation": "我（主格）。" },
+        { "point": "간직하며", "explanation": "간직하다（珍藏） + -며（並列連接「同時」）。" },
+        { "point": "아파할게요", "explanation": "아파하다（痛苦） + -ㄹ게요（約定／意志終結詞尾，敬語）。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "너를 잃고 나서야 나는 깨달았었지",
+      "translation": "失去你之後，我才明白。",
+      "analysis": [
+        { "point": "너를", "explanation": "賓格。" },
+        { "point": "잃고", "explanation": "失去。" },
+        { "point": "나서야", "explanation": "……之後才。" },
+        { "point": "나는", "explanation": "我（主題）。" },
+        { "point": "깨달았었지", "explanation": "領悟了（過去回憶）。" }
+      ]
+    },
+    {
+      "korean": "나의 그림자는 너였다는 걸",
+      "translation": "我的影子就是你這件事。",
+      "analysis": [
+        { "point": "나의", "explanation": "我的（屬格）。" },
+        { "point": "그림자는", "explanation": "影子（主題）。" },
+        { "point": "너였다는", "explanation": "是你（過去引用冠形）。" },
+        { "point": "걸", "explanation": "這件事（賓格）。" }
+      ]
+    },
+    {
+      "korean": "그땐 몰랐어 이기적인 내 모습",
+      "translation": "那時不知道，我那自私的樣子。",
+      "analysis": [
+        { "point": "그땐", "explanation": "那時（主題）。" },
+        { "point": "몰랐어", "explanation": "不知道（過去）。" },
+        { "point": "이기적인", "explanation": "自私的（冠形）。" },
+        { "point": "내 모습", "explanation": "我的樣子。" }
+      ]
+    },
+    {
+      "korean": "너를 그렇게 아프게 할 줄은",
+      "translation": "會那樣讓你痛苦這件事。",
+      "analysis": [
+        { "point": "너를", "explanation": "賓格。" },
+        { "point": "그렇게", "explanation": "那樣地。" },
+        { "point": "아프게", "explanation": "使痛。" },
+        { "point": "할 줄은", "explanation": "會……這件事（主題）。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "네가 너무 밉지만 미워할 수 없지",
+      "translation": "雖然非常恨你，但無法去恨。",
+      "analysis": [
+        { "point": "네가", "explanation": "너（你） + -가（主格助詞）。" },
+        { "point": "너무", "explanation": "副詞「非常」。 " },
+        { "point": "밉지만", "explanation": "밉다（可恨） + -지만（轉折連接「雖然……」）。" },
+        { "point": "미워할", "explanation": "미워하다（恨）的冠形詞形（-ㄹ），修飾 수。" },
+        { "point": "수 없지", "explanation": "수（方法） + 없다（沒有） + -지（陳述語氣），意為「無法」。 " }
+      ]
+    },
+    {
+      "korean": "너는 내게 모두 줬으니",
+      "translation": "因為你給了我一切。",
+      "analysis": [
+        { "point": "너는", "explanation": "你（主題）。" },
+        { "point": "내게", "explanation": "내게（對我）+ -는 省略，意為「對我」。 " },
+        { "point": "모두", "explanation": "全部（副詞）。" },
+        { "point": "줬으니", "explanation": "주다（給予） + -었-（過去） + -으니（因果連接詞尾「因為……」）。" }
+      ]
+    },
+    {
+      "korean": "그래도 괜찮아 다 받아들일게",
+      "translation": "即便如此也沒關係，我會全部接受。",
+      "analysis": [
+        { "point": "그래도", "explanation": "即便如此（讓步）。" },
+        { "point": "괜찮아", "explanation": "괜찮다（沒關係）的平語形。" },
+        { "point": "다", "explanation": "全部（副詞）。" },
+        { "point": "받아들일게", "explanation": "받아들이다（接受） + -ㄹ게（約定／意志終結詞尾）。" }
+      ]
+    },
+    {
+      "korean": "너는 그보다 더 아팠을 테니",
+      "translation": "因為你應該比我更痛。",
+      "analysis": [
+        { "point": "너는", "explanation": "你（主題）。" },
+        { "point": "그보다", "explanation": "그（那） + -보다（比較助詞「比……」），意為「比我」。 " },
+        { "point": "더", "explanation": "副詞「更加」。 " },
+        { "point": "아팠을", "explanation": "아프다（痛） + -았-（過去） + -을（冠形推測），修飾 테니。" },
+        { "point": "테니", "explanation": "터이니（推測＋因果）的縮略，意為「因為會……」。 " }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "어색하다", "chinese": "尷尬", "pos": "形容詞" },
+    { "korean": "어느새", "chinese": "不知不覺間", "pos": "副詞" },
+    { "korean": "빠지다", "chinese": "陷入", "pos": "動詞" },
+    { "korean": "추억", "chinese": "回憶", "pos": "名詞" },
+    { "korean": "쌓다", "chinese": "堆積", "pos": "動詞" },
+    { "korean": "행복", "chinese": "幸福", "pos": "名詞" },
+    { "korean": "갉아먹다", "chinese": "啃食／蠶食", "pos": "動詞" },
+    { "korean": "따뜻하다", "chinese": "溫暖", "pos": "形容詞" },
+    { "korean": "손", "chinese": "手", "pos": "名詞" },
+    { "korean": "익숙해지다", "chinese": "變得熟悉", "pos": "動詞" },
+    { "korean": "차갑다", "chinese": "冷", "pos": "形容詞" },
+    { "korean": "눈빛", "chinese": "眼神", "pos": "名詞" },
+    { "korean": "얼어붙다", "chinese": "凍結", "pos": "動詞" },
+    { "korean": "잃다", "chinese": "失去", "pos": "動詞" },
+    { "korean": "깨닫다", "chinese": "領悟", "pos": "動詞" },
+    { "korean": "그림자", "chinese": "影子", "pos": "名詞" },
+    { "korean": "이기적", "chinese": "自私", "pos": "名詞" },
+    { "korean": "모습", "chinese": "模樣", "pos": "名詞" },
+    { "korean": "아프다", "chinese": "痛", "pos": "形容詞" },
+    { "korean": "외롭다", "chinese": "孤獨", "pos": "形容詞" },
+    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" },
+    { "korean": "주다", "chinese": "給予", "pos": "動詞" },
+    { "korean": "사라지다", "chinese": "消失", "pos": "動詞" },
+    { "korean": "미워하다", "chinese": "恨", "pos": "動詞" },
+    { "korean": "괜찮다", "chinese": "沒關係", "pos": "形容詞" },
+    { "korean": "받다", "chinese": "接受", "pos": "動詞" },
+    { "korean": "상처", "chinese": "傷口", "pos": "名詞" },
+    { "korean": "간직하다", "chinese": "珍藏", "pos": "動詞" },
+    { "korean": "아파하다", "chinese": "痛苦", "pos": "動詞" },
+    { "korean": "밉다", "chinese": "可恨", "pos": "形容詞" },
+    { "korean": "받아들이다", "chinese": "接受", "pos": "動詞" },
+    { "korean": "그대", "chinese": "你（敬稱）", "pos": "代名詞" },
+    { "korean": "나", "chinese": "我", "pos": "代名詞" },
+    { "korean": "너", "chinese": "你", "pos": "代名詞" },
+    { "korean": "우리", "chinese": "我們", "pos": "代名詞" },
+    { "korean": "모두", "chinese": "全部", "pos": "副詞" }
+  ]
+}

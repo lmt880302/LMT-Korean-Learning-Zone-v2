@@ -1,0 +1,330 @@
+{
+  "id": "redoor-what-can-i-do",
+  "title": "어쩌겠어요 내 맘이 그렇다는데 (What can i do? that's what my heart says)",
+  "artist": "Redoor (리도어)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "우린 작은 말로도 웃을 수 있었죠",
+      "translation": "我們即使因為很小的話也能笑出來。",
+      "analysis": [
+        { "point": "우린", "explanation": "우리는 的縮略，意為「我們」（主題助詞 -은）。" },
+        { "point": "작은 말로도", "explanation": "작다（小）的冠形詞形 + 말（話/言語） + -로도（助詞 -로 表手段/原因，加上 -도 表「也／即使」）。" },
+        { "point": "웃을 수 있었죠", "explanation": "웃다（笑） + -을 수 있다（表能力／可能性） + -었-（過去時制） + -죠（-지요 的縮略，表陳述或共知語氣）。" }
+      ]
+    },
+    {
+      "korean": "내일이 두려웠지만 함께여서 좋았죠",
+      "translation": "雖然害怕明天，但因為在一起所以很好。",
+      "analysis": [
+        { "point": "내일이", "explanation": "내일（明天） + -이（主格助詞）。" },
+        { "point": "두려웠지만", "explanation": "두렵다（害怕）的詞幹 + -었-（過去時） + -지만（轉折連接詞尾「雖然」）。" },
+        { "point": "함께여서", "explanation": "함께（一起） + 이다（是） + -여서/-어서（因果連接詞尾「因為」），함께여서 = 함께 + 이어서。" },
+        { "point": "좋았죠", "explanation": "좋다（好） + -았-（過去時） + -죠（-지요 的縮略，陳述語氣）。" }
+      ]
+    },
+    {
+      "korean": "소원했던 배웅에 한숨만 커져가고",
+      "translation": "在曾期盼的送別中，嘆息聲只是越來越大。",
+      "analysis": [
+        { "point": "소원했던", "explanation": "소원하다（盼望／祈求） + -였-（過去時） + -던（回想的冠形詞形，修飾名詞）。" },
+        { "point": "배웅에", "explanation": "배웅（送別） + -에（位置助詞「在……中／時」）。" },
+        { "point": "한숨만", "explanation": "한숨（嘆息） + -만（限定助詞「只是／只」）。" },
+        { "point": "커져가고", "explanation": "크다（大） + -어지다（被動／變化「變得」） + -아가다（表示趨勢「越來越……」） + -고（連接詞尾）。" }
+      ]
+    },
+    {
+      "korean": "기약 없는 기다림은 그리움이 고이지",
+      "translation": "沒有承諾的等待，思念滿溢。",
+      "analysis": [
+        { "point": "기약 없는", "explanation": "기약（約定／諾言） + 없다（沒有）的冠形詞形，意為「沒有約定的」。 " },
+        { "point": "기다림은", "explanation": "기다리다（等待）的名詞化（기다림） + -은（主題助詞）。" },
+        { "point": "그리움이", "explanation": "그리움（思念／懷戀） + -이（主格助詞）。" },
+        { "point": "고이지", "explanation": "고이다（盈滿／堆積） + -지（陳述型終結詞尾，帶柔和語氣）。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "다 알고 있어요",
+      "translation": "我都知道。",
+      "analysis": [
+        { "point": "다", "explanation": "全部／都（副詞）。" },
+        { "point": "알고 있어요", "explanation": "알다（知道） + -고 있다（現在進行或持續狀態「正……著」） + -어요（敬語終結詞尾）。" }
+      ]
+    },
+    {
+      "korean": "내 곁을 떠났다는 건",
+      "translation": "你離開了我身邊這件事。",
+      "analysis": [
+        { "point": "내 곁을", "explanation": "내（我的） + 곁（身邊） + -을（賓格助詞）。" },
+        { "point": "떠났다는", "explanation": "떠나다（離開） + -았-（過去時） + -다는（-다고 하는 的縮略，引用結構「說是……」，修飾名詞 건）。" },
+        { "point": "건", "explanation": "것은 的縮略，意為「這件事／那個事實」，作為主題。" }
+      ]
+    },
+    {
+      "korean": "그래도 어쩌겠어요",
+      "translation": "即便如此，又能怎麼辦呢。",
+      "analysis": [
+        { "point": "그래도", "explanation": "그렇다（那樣） + -아도/-어도（讓步連接「即使……也」），意為「即使那樣」。" },
+        { "point": "어쩌겠어요", "explanation": "어쩌다（怎麼辦） + -겠-（推測／意志） + -어요（敬語疑問／陳述）。" }
+      ]
+    },
+    {
+      "korean": "내 맘이 그렇다는데",
+      "translation": "因為我的心就是那樣。",
+      "analysis": [
+        { "point": "내 맘이", "explanation": "내（我的） + 마음（心） + -이（主格助詞，맘이 為縮略）。" },
+        { "point": "그렇다는데", "explanation": "그렇다（那樣） + -는데（背景說明連接詞尾，此處意為「說是……」，即 -다고 하는데 的縮略，提供背景）。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "석양에 그림자는 미련만큼 늘어지고",
+      "translation": "夕陽下的影子如同迷戀般拉長。",
+      "analysis": [
+        { "point": "석양에", "explanation": "석양（夕陽） + -에（時間／場所助詞「在黃昏時」）。" },
+        { "point": "그림자는", "explanation": "그림자（影子） + -는（主題助詞）。" },
+        { "point": "미련만큼", "explanation": "미련（迷戀／留戀） + -만큼（助詞，表比較程度「如同……那般」）。" },
+        { "point": "늘어지고", "explanation": "늘어지다（拉長／延伸） + -고（連接詞尾）。" }
+      ]
+    },
+    {
+      "korean": "아꼈던 사랑들이 눈물 되어 흐르네",
+      "translation": "曾珍惜的愛化成眼淚流淌。",
+      "analysis": [
+        { "point": "아꼈던", "explanation": "아끼다（珍惜） + -였-（過去時） + -던（回想冠形詞形）。" },
+        { "point": "사랑들이", "explanation": "사랑（愛） + -들（複數助詞） + -이（主格助詞）。" },
+        { "point": "눈물 되어", "explanation": "눈물（眼淚） + 이/가 되다（成為）的連接形 -어（되어 → 돼），意為「成為眼淚」。 " },
+        { "point": "흐르네", "explanation": "흐르다（流） + -네（感嘆／陳述終結詞尾，表發現或感嘆）。" }
+      ]
+    },
+    {
+      "korean": "소원했던 배웅에 한숨만 커져가고",
+      "translation": "在曾期盼的送別中，嘆息聲只是越來越大。",
+      "analysis": [
+        { "point": "소원했던", "explanation": "소원하다（盼望／祈求） + -였-（過去時） + -던（回想的冠形詞形）。" },
+        { "point": "배웅에", "explanation": "배웅（送別） + -에（位置助詞）。" },
+        { "point": "한숨만", "explanation": "한숨（嘆息） + -만（限定助詞「只是」）。" },
+        { "point": "커져가고", "explanation": "크다（大） + -어지다（變得） + -아가다（趨勢） + -고（連接詞尾）。" }
+      ]
+    },
+    {
+      "korean": "기약 없는 기다림은 그리움이 고이지",
+      "translation": "沒有承諾的等待，思念滿溢。",
+      "analysis": [
+        { "point": "기약 없는", "explanation": "기약（約定） + 없다（沒有）的冠形詞形。" },
+        { "point": "기다림은", "explanation": "기다리다（等待）的名詞化 + -은（主題助詞）。" },
+        { "point": "그리움이", "explanation": "그리움（思念） + -이（主格助詞）。" },
+        { "point": "고이지", "explanation": "고이다（盈滿） + -지（陳述終結詞尾）。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus 2",
+      "korean": "다 알고 있어요",
+      "translation": "我都知道。",
+      "analysis": [
+        { "point": "다", "explanation": "全部／都（副詞）。" },
+        { "point": "알고 있어요", "explanation": "알다（知道） + -고 있다（持續狀態） + -어요（敬語終結詞尾）。" }
+      ]
+    },
+    {
+      "korean": "내 곁을 떠났다는 건",
+      "translation": "你離開了我身邊這件事。",
+      "analysis": [
+        { "point": "내 곁을", "explanation": "내（我的） + 곁（身邊） + -을（賓格助詞）。" },
+        { "point": "떠났다는", "explanation": "떠나다（離開） + -았-（過去時） + -다는（引用結構）。" },
+        { "point": "건", "explanation": "것은 的縮略，意為「這件事」。 " }
+      ]
+    },
+    {
+      "korean": "그래도 어쩌겠어요",
+      "translation": "即便如此，又能怎麼辦呢。",
+      "analysis": [
+        { "point": "그래도", "explanation": "그렇다（那樣） + -아도（讓步），意為「即使那樣」。 " },
+        { "point": "어쩌겠어요", "explanation": "어쩌다（怎麼辦） + -겠-（推測） + -어요（敬語疑問）。" }
+      ]
+    },
+    {
+      "korean": "내 맘이 그렇다는데",
+      "translation": "因為我的心就是那樣。",
+      "analysis": [
+        { "point": "내 맘이", "explanation": "내（我的） + 마음（心） + -이（主格助詞，맘이 縮略）。" },
+        { "point": "그렇다는데", "explanation": "그렇다（那樣） + -는데（背景說明，意為「說是……」）。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus 2",
+      "korean": "난 울고 있어요",
+      "translation": "我在哭。",
+      "analysis": [
+        { "point": "난", "explanation": "나는 的縮略，意為「我」（主題助詞 -는）。" },
+        { "point": "울고 있어요", "explanation": "울다（哭） + -고 있다（進行時） + -어요（敬語終結詞尾）。" }
+      ]
+    },
+    {
+      "korean": "그녀는 모를 거예요",
+      "translation": "她不會知道的。",
+      "analysis": [
+        { "point": "그녀는", "explanation": "그녀（她） + -는（主題助詞）。" },
+        { "point": "모를 거예요", "explanation": "모르다（不知道）的詞幹 + -을 것이다（推測「將會／可能」）的縮略形 거예요。" }
+      ]
+    },
+    {
+      "korean": "그래도 어쩌겠어요",
+      "translation": "即便如此，又能怎麼辦呢。",
+      "analysis": [
+        { "point": "그래도", "explanation": "그렇다（那樣） + -아도（讓步），意為「即使那樣」。 " },
+        { "point": "어쩌겠어요", "explanation": "어쩌다（怎麼辦） + -겠-（推測） + -어요（敬語疑問）。" }
+      ]
+    },
+    {
+      "korean": "주위엔 아무도 없는데",
+      "translation": "但周圍沒有人啊。",
+      "analysis": [
+        { "point": "주위엔", "explanation": "주위（周圍） + -에（位置助詞） + -는（主題助詞，強調對比／話題）。" },
+        { "point": "아무도", "explanation": "아무（任何人） + -도（助詞，與否定連用表「誰都不……」）。" },
+        { "point": "없는데", "explanation": "없다（沒有） + -는데（背景／轉折連接詞尾，表「……而／但……」）。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "늦은 밤이 다가오면",
+      "translation": "當深夜來臨時。",
+      "analysis": [
+        { "point": "늦은 밤이", "explanation": "늦다（晚）的冠形詞形 + 밤（夜晚） + -이（主格助詞）。" },
+        { "point": "다가오면", "explanation": "다가오다（靠近／來臨） + -면（條件連接詞尾「如果／當……時」）。" }
+      ]
+    },
+    {
+      "korean": "너의 생각에 잠겨서",
+      "translation": "沉浸在有你的思緒中。",
+      "analysis": [
+        { "point": "너의 생각에", "explanation": "너（你） + -의（屬格助詞） + 생각（想法／思緒） + -에（位置／方向助詞，表「在……中」）。" },
+        { "point": "잠겨서", "explanation": "잠기다（沉浸／被淹沒） + -여서/-어서（因果／連續連接詞尾）。" }
+      ]
+    },
+    {
+      "korean": "밤을 지워 버리곤 했었어",
+      "translation": "曾經總是把夜晚徹底抹去。",
+      "analysis": [
+        { "point": "밤을", "explanation": "밤（夜晚） + -을（賓格助詞）。" },
+        { "point": "지워", "explanation": "지우다（抹去／消除）的詞幹。" },
+        { "point": "버리곤 했었어", "explanation": "버리다（徹底／完畢） + -곤 하다（表過去習慣「總是會……」） + -었-（過去時） + -었-（回憶／過去完成時） + -어（終結詞尾），整體意為「曾經總是徹底地抹去」。 " }
+      ]
+    },
+    {
+      "korean": "언젠간 사라질 텐데",
+      "translation": "雖然總有一天會消失吧。",
+      "analysis": [
+        { "point": "언젠간", "explanation": "언젠가（總有一天） + -는（主題助詞，強調時間，縮略為 언젠간）。" },
+        { "point": "사라질 텐데", "explanation": "사라지다（消失） + -을 터이다（推測／意志「會……吧」） + -는데（轉折／背景連接詞尾，此處表「雖然……但……」）。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "돌이켜 보면 너와 난",
+      "translation": "如果回頭看看，你和我。",
+      "analysis": [
+        { "point": "돌이켜 보면", "explanation": "돌이키다（回看／反思） + -아/어 보다（嘗試／看看） + -면（條件「如果」）。" },
+        { "point": "너와 난", "explanation": "너（你） + 와（和） + 나（我） + 는（主題助詞，縮略為 난）。" }
+      ]
+    },
+    {
+      "korean": "그저 추억의 조각뿐인데",
+      "translation": "僅僅只是回憶的碎片而已。",
+      "analysis": [
+        { "point": "그저", "explanation": "只是／僅僅（副詞）。" },
+        { "point": "추억의 조각뿐인데", "explanation": "추억（回憶） + -의（屬格） + 조각（碎片） + -뿐（只／僅） + -이다（是）的冠形詞形 -인 + -데（背景連接詞尾）。" }
+      ]
+    },
+    {
+      "korean": "수많은 밤을 지새도",
+      "translation": "即使熬過無數個夜晚。",
+      "analysis": [
+        { "point": "수많은", "explanation": "수많다（無數的）的冠形詞形。" },
+        { "point": "밤을", "explanation": "밤（夜晚） + -을（賓格助詞）。" },
+        { "point": "지새도", "explanation": "지새다（熬夜度過） + -아/어도（讓步「即使……」）。" }
+      ]
+    },
+    {
+      "korean": "항상 넌 반짝 빛나서",
+      "translation": "因為你總是在閃耀著光芒。",
+      "analysis": [
+        { "point": "항상", "explanation": "總是／一直（副詞）。" },
+        { "point": "넌", "explanation": "너는 的縮略，意為「你」（主題助詞）。" },
+        { "point": "반짝", "explanation": "閃爍／耀眼（副詞／擬態詞）。" },
+        { "point": "빛나서", "explanation": "빛나다（閃耀） + -아/어서（因果連接「因為……所以……」）。" }
+      ]
+    },
+    {
+      "korean": "지나칠 수 없던 별인 거야",
+      "translation": "是曾經無法錯過的星星啊。",
+      "analysis": [
+        { "point": "지나칠 수 없던", "explanation": "지나치다（錯過／走過） + -을 수 없다（不可能） + -던（回想冠形詞形「曾經無法……」）。" },
+        { "point": "별인 거야", "explanation": "별（星星） + -인（이다 的冠形詞形，表「是……的」） + 것（東西／事物） + -이야（이다 的平語終結詞尾，縮略為 거야），意為「是星星啊」。 " }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "우리", "chinese": "我們", "pos": "代名詞" },
+    { "korean": "작다", "chinese": "小", "pos": "形容詞" },
+    { "korean": "말", "chinese": "話／言語", "pos": "名詞" },
+    { "korean": "웃다", "chinese": "笑", "pos": "動詞" },
+    { "korean": "내일", "chinese": "明天", "pos": "名詞" },
+    { "korean": "두렵다", "chinese": "害怕", "pos": "形容詞" },
+    { "korean": "함께", "chinese": "一起", "pos": "副詞" },
+    { "korean": "좋다", "chinese": "好", "pos": "形容詞" },
+    { "korean": "소원하다", "chinese": "盼望／祈求", "pos": "動詞" },
+    { "korean": "배웅", "chinese": "送別", "pos": "名詞" },
+    { "korean": "한숨", "chinese": "嘆息", "pos": "名詞" },
+    { "korean": "크다", "chinese": "大", "pos": "形容詞" },
+    { "korean": "기약", "chinese": "約定／諾言", "pos": "名詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "그립다", "chinese": "思念", "pos": "形容詞" },
+    { "korean": "고이다", "chinese": "盈滿／堆積", "pos": "動詞" },
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "곁", "chinese": "身邊", "pos": "名詞" },
+    { "korean": "떠나다", "chinese": "離開", "pos": "動詞" },
+    { "korean": "어쩌다", "chinese": "怎麼辦", "pos": "動詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "그렇다", "chinese": "那樣", "pos": "形容詞" },
+    { "korean": "석양", "chinese": "夕陽", "pos": "名詞" },
+    { "korean": "그림자", "chinese": "影子", "pos": "名詞" },
+    { "korean": "미련", "chinese": "迷戀／留戀", "pos": "名詞" },
+    { "korean": "늘어지다", "chinese": "拉長／延伸", "pos": "動詞" },
+    { "korean": "아끼다", "chinese": "珍惜", "pos": "動詞" },
+    { "korean": "사랑", "chinese": "愛", "pos": "名詞" },
+    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" },
+    { "korean": "되다", "chinese": "成為", "pos": "動詞" },
+    { "korean": "흐르다", "chinese": "流", "pos": "動詞" },
+    { "korean": "울다", "chinese": "哭", "pos": "動詞" },
+    { "korean": "그녀", "chinese": "她", "pos": "代名詞" },
+    { "korean": "모르다", "chinese": "不知道", "pos": "動詞" },
+    { "korean": "주위", "chinese": "周圍", "pos": "名詞" },
+    { "korean": "없다", "chinese": "沒有", "pos": "形容詞" },
+    { "korean": "늦다", "chinese": "晚", "pos": "形容詞" },
+    { "korean": "밤", "chinese": "夜晚", "pos": "名詞" },
+    { "korean": "다가오다", "chinese": "來臨／靠近", "pos": "動詞" },
+    { "korean": "너", "chinese": "你", "pos": "代名詞" },
+    { "korean": "생각", "chinese": "想法／思緒", "pos": "名詞" },
+    { "korean": "잠기다", "chinese": "沉浸／被淹沒", "pos": "動詞" },
+    { "korean": "지우다", "chinese": "抹去／消除", "pos": "動詞" },
+    { "korean": "버리다", "chinese": "徹底（補助動詞）", "pos": "動詞" },
+    { "korean": "언젠가", "chinese": "總有一天", "pos": "副詞" },
+    { "korean": "사라지다", "chinese": "消失", "pos": "動詞" },
+    { "korean": "돌이키다", "chinese": "回看／反思", "pos": "動詞" },
+    { "korean": "보다", "chinese": "嘗試／看（補助動詞）", "pos": "動詞" },
+    { "korean": "그저", "chinese": "只是／僅僅", "pos": "副詞" },
+    { "korean": "추억", "chinese": "回憶", "pos": "名詞" },
+    { "korean": "조각", "chinese": "碎片", "pos": "名詞" },
+    { "korean": "뿐", "chinese": "僅僅（依存名詞）", "pos": "名詞" },
+    { "korean": "수많다", "chinese": "無數的", "pos": "形容詞" },
+    { "korean": "지새다", "chinese": "熬夜度過", "pos": "動詞" },
+    { "korean": "항상", "chinese": "總是", "pos": "副詞" },
+    { "korean": "반짝", "chinese": "閃爍／耀眼", "pos": "副詞／擬態詞" },
+    { "korean": "빛나다", "chinese": "閃耀", "pos": "動詞" },
+    { "korean": "지나치다", "chinese": "錯過", "pos": "動詞" },
+    { "korean": "별", "chinese": "星星", "pos": "名詞" },
+    { "korean": "것", "chinese": "東西／事物（依存名詞）", "pos": "名詞" }
+  ]
+}

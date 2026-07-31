@@ -1,22 +1,25 @@
 // js/main.js
-// 韓語學習網 全域 JavaScript - 高級版
+// 韓語學習網 全域 JavaScript - 高級優化版
 
 /**
  * @file 全域 JavaScript 檔案，負責網站的通用互動功能。
- * @author Bard (重構者)
- * @version 2.2.0
+ * @version 2.3.0
  */
 
-/**
- * 應用程式設定與常數
- * @namespace AppConfig
- */
-const AppConfig = {
+// ============================================================================
+// 1. 應用程式設定 (凍結以防止意外修改)
+// ============================================================================
+const AppConfig = Object.freeze({
+    // 導航高亮
     HIGHLIGHT_ACTIVE_NAV: true,
+
+    // 平滑捲動
     ENABLE_SMOOTH_SCROLL: true,
+
+    // 回到頂部按鈕
     ENABLE_BACK_TO_TOP: true,
     BACK_TO_TOP_DEFAULTS: {
-        thresholdPx: 300, // 捲動超過多少 px 時顯示按鈕
+        thresholdPx: 300,
         buttonClasses: 'fixed bottom-8 right-8 bg-teal-500 hover:bg-teal-600 text-white p-3 rounded-full shadow-lg transition-opacity duration-300 opacity-0 focus:outline-none focus:ring-2 focus:ring-teal-400 focus:ring-opacity-75 print:hidden',
         svgIcon: `
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-6 h-6" aria-hidden="true">
@@ -25,72 +28,130 @@ const AppConfig = {
             <span class="sr-only">回到頂部</span>
         `,
         ariaLabel: '回到頂部',
-        scrollThrottleLimit: 150, // for scroll listener fallback
+        scrollThrottleLimit: 150,
     },
-    ACTIVE_NAV_CLASSES: ['text-white', 'bg-gray-700'],
-    INACTIVE_NAV_CLASSES: ['text-gray-300', 'hover:text-white', 'hover:bg-gray-700'],
-};
+
+    // 閱讀進度條
+    ENABLE_READING_PROGRESS: true,
+    READING_PROGRESS_COLOR: 'linear-gradient(90deg, #c9a96e, #dbb87a)',
+
+    // 鍵盤快捷鍵
+    ENABLE_KEYBOARD_SHORTCUTS: true,
+    KEYBOARD_SHORTCUTS: {
+        FLASHCARDS: 'k',      // Ctrl+K 跳轉閃卡
+        HELP: '?',            // 顯示幫助提示
+    },
+
+    // 版本
+    version: '2.3.0',
+});
+
+// ============================================================================
+// 2. 工具函數
+// ============================================================================
 
 /**
  * 函數節流 (Throttle)
- * 在指定的時間間隔內，最多只會執行一次回呼函式。
  * @param {Function} func - 要節流的函式。
  * @param {number} limit - 時間間隔 (毫秒)。
  * @returns {Function} - 經過節流處理的函式。
  */
 function throttle(func, limit) {
-    let inThrottle;
-    let lastFunc;
-    let lastRan;
-    return function(...args) {
-        const context = this;
-        if (!inThrottle) {
-            func.apply(context, args);
-            lastRan = Date.now();
-            inThrottle = true;
-            setTimeout(() => {
-                inThrottle = false;
-                if (lastFunc) {
-                    lastFunc.apply(context, args);
-                    lastFunc = null; // Clear lastFunc after executing
-                }
-            }, limit);
-        } else {
-            // Store the latest arguments and update lastFunc
-            lastFunc = () => {
-                // Check if enough time has passed since lastRan if we want to run immediately after throttle period ends
-                if (Date.now() - lastRan >= limit) {
-                     func.apply(context, args);
-                     lastRan = Date.now();
-                } else {
-                    // Re-queue if not enough time passed (e.g., for trailing edge)
-                    // This part can be complex depending on desired throttle behavior (leading/trailing edge)
-                    // For simplicity, this version primarily focuses on not overcrowding calls.
-                }
-            };
+    let inThrottle = false;
+    let lastArgs = null;
+    let lastThis = null;
+    let timerId = null;
+
+    return function (...args) {
+        if (inThrottle) {
+            // 儲存最近的調用，以便在 throttle 結束後執行 trailing edge
+            lastArgs = args;
+            lastThis = this;
+            return;
         }
+
+        // 首次執行 (leading edge)
+        func.apply(this, args);
+        inThrottle = true;
+
+        const reset = () => {
+            inThrottle = false;
+            if (lastArgs !== null) {
+                // 執行 trailing edge 調用
+                const tempArgs = lastArgs;
+                const tempThis = lastThis;
+                lastArgs = null;
+                lastThis = null;
+                func.apply(tempThis, tempArgs);
+                // 重新設定計時器以繼續節流 (實務上這樣做可能導致連續執行，此處簡化)
+                // 更嚴謹的做法：在此處重新設定 reset 計時器，但我們簡單使用 trailing 只執行一次
+                // 因此清空後不重新啟動計時器，下一次觸發會重新開始 leading edge
+            }
+        };
+
+        clearTimeout(timerId);
+        timerId = setTimeout(reset, limit);
     };
 }
 
-
-/**
- * 回到頂部按鈕類別
- */
-class BackToTopButton {
+// ============================================================================
+// 3. 閱讀進度條 (新增)
+// ============================================================================
+class ReadingProgress {
     /**
-     * @param {object} [options={}] - 按鈕的設定選項。
-     * @param {number} [options.thresholdPx] - 顯示按鈕的捲動閾值。
-     * @param {string} [options.buttonClasses] - 按鈕的 CSS 類別。
-     * @param {string} [options.svgIcon] - 按鈕的 SVG 圖示 HTML。
-     * @param {string} [options.ariaLabel] - 按鈕的 aria-label。
-     * @param {number} [options.scrollThrottleLimit] - 捲動監聽節流的間隔。
+     * @param {string} [color] - 進度條的漸層顏色
      */
+    constructor(color = AppConfig.READING_PROGRESS_COLOR) {
+        this.color = color;
+        this.bar = null;
+        this._init();
+    }
+
+    _init() {
+        this.bar = document.createElement('div');
+        this.bar.style.cssText = `
+            position: fixed;
+            top: 56px; /* 導航列高度，請依實際調整 */
+            left: 0;
+            height: 2px;
+            background: ${this.color};
+            width: 0%;
+            z-index: 49;
+            transition: width 0.1s ease;
+            box-shadow: 0 0 12px rgba(201, 169, 110, 0.2);
+        `;
+        document.body.prepend(this.bar);
+
+        // 節流更新
+        const updateProgress = throttle(() => {
+            const scrollTop = window.scrollY;
+            const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+            const progress = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+            this.bar.style.width = Math.min(progress, 100) + '%';
+        }, 50);
+
+        window.addEventListener('scroll', updateProgress, { passive: true });
+        // 初次計算
+        updateProgress();
+    }
+
+    /** 手動更新進度（例如頁面內容動態載入後） */
+    update() {
+        const scrollTop = window.scrollY;
+        const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+        const progress = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+        this.bar.style.width = Math.min(progress, 100) + '%';
+    }
+}
+
+// ============================================================================
+// 4. 回到頂部按鈕 (優化 IntersectionObserver 邏輯)
+// ============================================================================
+class BackToTopButton {
     constructor(options = {}) {
         this.config = { ...AppConfig.BACK_TO_TOP_DEFAULTS, ...options };
         this.element = null;
-        this.scrollTriggerElement = null; // 用於 IntersectionObserver 的觸發元素
-        this.isIntersecting = true; // 初始狀態，假設觸發元素在視窗內 (頁面頂部)
-
+        this.scrollTriggerElement = null;
         this._init();
     }
 
@@ -98,11 +159,11 @@ class BackToTopButton {
         const button = document.createElement('button');
         button.innerHTML = this.config.svgIcon;
         button.className = this.config.buttonClasses;
-        button.style.zIndex = "1000";
+        button.style.zIndex = '1000';
         button.setAttribute('aria-label', this.config.ariaLabel);
         button.setAttribute('type', 'button');
-        button.setAttribute('aria-hidden', 'true'); // 初始隱藏
-        button.style.visibility = 'hidden'; // 初始隱藏
+        button.setAttribute('aria-hidden', 'true');
+        button.style.visibility = 'hidden';
         return button;
     }
 
@@ -114,7 +175,7 @@ class BackToTopButton {
         this.scrollTriggerElement.style.top = `${this.config.thresholdPx}px`;
         this.scrollTriggerElement.style.left = '0';
         this.scrollTriggerElement.style.pointerEvents = 'none';
-        document.body.insertBefore(this.scrollTriggerElement, document.body.firstChild); // 插入到 body 開頭
+        document.body.prepend(this.scrollTriggerElement);
     }
 
     _updateVisibility(isVisible) {
@@ -126,7 +187,7 @@ class BackToTopButton {
 
     _setupVisibilityObserver() {
         if (!('IntersectionObserver' in window)) {
-            console.warn("BackToTopButton: IntersectionObserver not supported. Falling back to scroll listener.");
+            console.warn('BackToTopButton: IntersectionObserver not supported. Fallback to scroll listener.');
             this._setupLegacyScrollListener();
             return;
         }
@@ -134,66 +195,160 @@ class BackToTopButton {
         const observer = new IntersectionObserver(
             (entries) => {
                 const entry = entries[0];
-                // isIntersecting is true if the trigger element is in view.
-                // We want to show the button when the trigger IS NOT in view AND we've scrolled past it.
-                this.isIntersecting = entry.isIntersecting;
-                const scrolledPastThreshold = window.pageYOffset > this.config.thresholdPx;
-
-                // Show if trigger is not visible (scrolled past) OR if it's visible but we are below its initial position (edge case for refresh)
-                // A simpler logic: show button if `window.pageYOffset` is greater than threshold.
-                // IntersectionObserver tells us *when the trigger's visibility changes*.
-                // If trigger element is at 300px, and it's NOT intersecting, means we scrolled below 300px.
-                this._updateVisibility(!entry.isIntersecting && entry.boundingClientRect.top < 0);
-
+                // 當觸發元素完全離開視窗頂部時顯示按鈕
+                const shouldShow = !entry.isIntersecting && entry.boundingClientRect.top < 0;
+                this._updateVisibility(shouldShow);
             },
-            {
-                root: null, // viewport
-                rootMargin: '0px',
-                threshold: 0, // Trigger as soon as it (partially) enters/leaves viewport
-            }
+            { root: null, rootMargin: '0px', threshold: 0 }
         );
         observer.observe(this.scrollTriggerElement);
     }
 
     _setupLegacyScrollListener() {
-        const throttledScrollHandler = throttle(() => {
-            const isVisible = window.pageYOffset > this.config.thresholdPx;
+        const throttled = throttle(() => {
+            const isVisible = window.scrollY > this.config.thresholdPx;
             this._updateVisibility(isVisible);
         }, this.config.scrollThrottleLimit);
-
-        window.addEventListener('scroll', throttledScrollHandler, { passive: true });
+        window.addEventListener('scroll', throttled, { passive: true });
     }
 
     _scrollToTop() {
-        window.scrollTo({
-            top: 0,
-            behavior: 'smooth'
-        });
-        this.element.blur(); // Remove focus after click
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+        this.element.blur();
     }
 
     _init() {
         this.element = this._createButton();
         document.body.appendChild(this.element);
 
-        // Only create trigger and observe if threshold is positive
         if (this.config.thresholdPx > 0) {
             this._createScrollTrigger();
             this._setupVisibilityObserver();
-        } else { // If threshold is 0 or less, always show (or handle as per requirement)
-            this._updateVisibility(true); // Or never show if that's the intent for threshold <= 0
+        } else {
+            // threshold 為 0 或負數時，始終顯示
+            this._updateVisibility(true);
         }
-
 
         this.element.addEventListener('click', () => this._scrollToTop());
     }
 }
 
+// ============================================================================
+// 5. 導航高亮 (改用 data-page 屬性)
+// ============================================================================
+function highlightActiveNavLink() {
+    // 從 body 的 data-page 屬性讀取當前頁面識別碼
+    const currentPage = document.body.dataset.page;
+    if (!currentPage) {
+        // 若未設置，則回退到舊的 URL 比對方式
+        fallbackHighlightByURL();
+        return;
+    }
+
+    const navLinks = document.querySelectorAll('header nav a[data-page]');
+    navLinks.forEach(link => {
+        const isActive = link.dataset.page === currentPage;
+        link.classList.toggle('active', isActive);
+        if (isActive) {
+            link.setAttribute('aria-current', 'page');
+        } else {
+            link.removeAttribute('aria-current');
+        }
+    });
+}
+
 /**
- * DOMContentLoaded 事件觸發後執行的主函數
+ * 舊版 URL 比對的備援方案 (保留原邏輯)
  */
+function fallbackHighlightByURL() {
+    const navLinks = document.querySelectorAll('header nav a[href]');
+    if (!navLinks.length) return;
+
+    const currentLocation = new URL(window.location.href);
+    const currentPathname = normalizePathForComparison(currentLocation.pathname);
+
+    navLinks.forEach(link => {
+        const linkUrl = new URL(link.href);
+        const linkPathname = normalizePathForComparison(linkUrl.pathname);
+        const isActive = linkPathname === currentPathname;
+
+        link.classList.toggle('active', isActive);
+        if (isActive) {
+            link.setAttribute('aria-current', 'page');
+        } else {
+            link.removeAttribute('aria-current');
+        }
+    });
+}
+
+/**
+ * 標準化路徑，將資料夾結尾補上 index.html (與原邏輯相同)
+ */
+function normalizePathForComparison(path) {
+    if (path.endsWith('/')) {
+        return path + 'index.html';
+    }
+    return path;
+}
+
+// ============================================================================
+// 6. 平滑捲動 (保留原功能)
+// ============================================================================
+function setupSmoothScrolling() {
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener('click', function (e) {
+            const href = this.getAttribute('href');
+            if (href && href.length > 1 && href.startsWith('#')) {
+                try {
+                    const target = document.querySelector(href);
+                    if (target) {
+                        e.preventDefault();
+                        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    }
+                } catch (_) {
+                    // ignore invalid selector
+                }
+            }
+        });
+    });
+}
+
+// ============================================================================
+// 7. 鍵盤快捷鍵 (新增)
+// ============================================================================
+function setupKeyboardShortcuts() {
+    document.addEventListener('keydown', (e) => {
+        // 忽略輸入框、文字區域中的快捷鍵
+        const tag = e.target.tagName.toLowerCase();
+        if (tag === 'input' || tag === 'textarea' || tag === 'select') {
+            return;
+        }
+
+        const ctrl = e.ctrlKey || e.metaKey;
+
+        // Ctrl+K → 跳轉到閃卡頁
+        if (ctrl && e.key === AppConfig.KEYBOARD_SHORTCUTS.FLASHCARDS) {
+            e.preventDefault();
+            window.location.href = '/vocabulary/flashcards.html';
+            return;
+        }
+
+        // 按 ? 顯示幫助提示
+        if (e.key === AppConfig.KEYBOARD_SHORTCUTS.HELP) {
+            e.preventDefault();
+            const msg = '⌨️ 快捷鍵幫助:\n' +
+                'Ctrl+K  → 前往閃卡練習\n' +
+                '?       → 顯示此幫助';
+            alert(msg);
+        }
+    });
+}
+
+// ============================================================================
+// 8. 主初始化函數
+// ============================================================================
 function initializeGlobalScripts() {
-    console.log(`main.js v${AppConfig.version || '2.2.0'} loaded - 韓語學習網初始化開始`); // Added version to log
+    console.log(`main.js v${AppConfig.version} loaded — 韓語學習網初始化`);
 
     if (AppConfig.HIGHLIGHT_ACTIVE_NAV) {
         highlightActiveNavLink();
@@ -207,81 +362,20 @@ function initializeGlobalScripts() {
         new BackToTopButton({ thresholdPx: AppConfig.BACK_TO_TOP_DEFAULTS.thresholdPx });
     }
 
-    console.log("韓語學習網 main.js 功能初始化完畢。");
-}
-AppConfig.version = '2.2.0'; // Define version for logging
-
-/**
- * @function normalizePathForComparison
- * (與前版相同)
- */
-function normalizePathForComparison(path) {
-    if (path.endsWith('/')) {
-        return path + 'index.html';
-    }
-    return path;
-}
-
-/**
- * @function highlightActiveNavLink
- * 高亮目前頁面對應的導覽列連結。
- */
-function highlightActiveNavLink() {
-    const navLinks = document.querySelectorAll('header nav a[href]');
-    if (!navLinks.length) {
-        console.warn("導覽列高亮：未找到任何帶 href 的導覽列連結。");
-        return;
+    if (AppConfig.ENABLE_READING_PROGRESS) {
+        new ReadingProgress();
     }
 
-    const currentLocation = new URL(window.location.href);
-    const currentPathname = normalizePathForComparison(currentLocation.pathname);
+    if (AppConfig.ENABLE_KEYBOARD_SHORTCUTS) {
+        setupKeyboardShortcuts();
+    }
 
-    navLinks.forEach(link => {
-        const linkUrl = new URL(link.href); // link.href is absolute
-        const linkPathname = normalizePathForComparison(linkUrl.pathname);
-        const isActive = linkPathname === currentPathname;
-
-        if (isActive) {
-            link.classList.remove(...AppConfig.INACTIVE_NAV_CLASSES);
-            link.classList.add(...AppConfig.ACTIVE_NAV_CLASSES);
-            link.setAttribute('aria-current', 'page');
-        } else {
-            link.classList.remove(...AppConfig.ACTIVE_NAV_CLASSES);
-            link.classList.add(...AppConfig.INACTIVE_NAV_CLASSES);
-            link.removeAttribute('aria-current');
-        }
-    });
+    console.log('main.js 初始化完成。');
 }
 
-/**
- * @function setupSmoothScrolling
- * (與前版相同)
- */
-function setupSmoothScrolling() {
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener('click', function (e) {
-            const hrefAttribute = this.getAttribute('href');
-            if (hrefAttribute && hrefAttribute.length > 1 && hrefAttribute.startsWith('#')) {
-                try {
-                    const targetElement = document.querySelector(hrefAttribute);
-                    if (targetElement) {
-                        e.preventDefault();
-                        targetElement.scrollIntoView({
-                            behavior: 'smooth',
-                            block: 'start'
-                        });
-                    } else {
-                        console.warn(`平滑捲動警告：找不到目標元素 ${hrefAttribute}`);
-                    }
-                } catch (error) {
-                    console.warn(`平滑捲動警告：無效的選擇器 ${hrefAttribute}`, error);
-                }
-            }
-        });
-    });
-}
-
-// --- 初始化 ---
+// ============================================================================
+// 9. 啟動
+// ============================================================================
 if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', initializeGlobalScripts);
 } else {

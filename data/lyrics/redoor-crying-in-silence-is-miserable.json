@@ -1,0 +1,118 @@
+{
+  "id": "redoor-crying-in-silence-is-miserable",
+  "title": "Crying in silence is miserable",
+  "artist": "Redoor (리도어)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "잊을 수는 있어요",
+      "translation": "可以忘記，",
+      "analysis": [
+        { "point": "잊을", "explanation": "잊다（忘記）的冠形詞形（-을），修飾後面的依存名詞 수。" },
+        { "point": "수는", "explanation": "수（依存名詞，表方法／可能） + -는（主題助詞，帶對比強調語氣）。" },
+        { "point": "있어요", "explanation": "있다（有／存在） + -어요（敬語終結詞尾），與 -을 수 있다 構成「可以……」。 " }
+      ]
+    },
+    {
+      "korean": "지울 수는 없고요",
+      "translation": "但無法抹去。",
+      "analysis": [
+        { "point": "지울", "explanation": "지우다（抹去／消除）的冠形詞形（-을），修飾 수。" },
+        { "point": "수는", "explanation": "수（依存名詞） + -는（主題助詞，強調對比）。" },
+        { "point": "없고요", "explanation": "없다（沒有） + -고（並列連接詞尾） + -요（敬語語氣詞），意為「沒有（辦法），而且……」。 " }
+      ]
+    },
+    {
+      "korean": "후회할 순 있어요",
+      "translation": "可以後悔，",
+      "analysis": [
+        { "point": "후회할", "explanation": "후회하다（後悔）的冠形詞形（-을），修飾 순。" },
+        { "point": "순", "explanation": "수는 的縮略（것은 的縮略亦可，此處為依存名詞 수 + 主題助詞 는 的縮合）。" },
+        { "point": "있어요", "explanation": "있다 + -어요，表「可以」。 " }
+      ]
+    },
+    {
+      "korean": "돌이킬 순 없나요",
+      "translation": "難道無法挽回嗎？",
+      "analysis": [
+        { "point": "돌이킬", "explanation": "돌이키다（挽回／回轉）的冠形詞形（-을），修飾 순。" },
+        { "point": "순", "explanation": "수는 的縮略。" },
+        { "point": "없나요", "explanation": "없다（沒有） + -나요（疑問終結詞尾，敬語），與 -을 수 없다 構成「無法……嗎？」。 " }
+      ]
+    },
+    {
+      "korean": "사랑은 정말 나약한 나를 택하셨나요",
+      "translation": "愛情真的選擇了如此脆弱的我嗎？",
+      "analysis": [
+        { "point": "사랑은", "explanation": "사랑（愛情） + -은（主題助詞）。" },
+        { "point": "정말", "explanation": "副詞「真的」。" },
+        { "point": "나약한", "explanation": "나약하다（脆弱）的冠形詞形（-ㄴ），修飾 나。" },
+        { "point": "나를", "explanation": "나（我） + -를（賓格助詞）。" },
+        { "point": "택하셨나요", "explanation": "택하다（選擇） + -시-（敬稱詞尾） + -었-（過去時） + -나요（疑問終結詞尾，敬語）。" }
+      ]
+    },
+    {
+      "korean": "고요함 속에 울음은 날 더 비참하게 해",
+      "translation": "寂靜中的哭聲讓我更加悲慘。",
+      "analysis": [
+        { "point": "고요함", "explanation": "고요하다（寂靜）的名詞化（-ㅁ）。" },
+        { "point": "속에", "explanation": "속（裡面） + -에（位置助詞），意為「在……之中」。 " },
+        { "point": "울음은", "explanation": "울음（哭聲） + -은（主題助詞）。" },
+        { "point": "날", "explanation": "나를（我）的縮略（賓格助詞 -를 省略）。" },
+        { "point": "더", "explanation": "副詞「更加」。 " },
+        { "point": "비참하게", "explanation": "비참하다（悲慘） + -게（副詞化詞尾），修飾後面的 하다。" },
+        { "point": "해", "explanation": "하다（使／做）的連接形（-여 → 해），整體意為「使我變得更加悲慘」。 " }
+      ]
+    },
+    {
+      "korean": "우리가 담긴 사랑의 저울은 나를 향해서 기울어 가네요",
+      "translation": "盛裝著我們的愛情的天秤，正朝著我傾斜。",
+      "analysis": [
+        { "point": "우리가", "explanation": "우리（我們） + -가（主格助詞）。" },
+        { "point": "담긴", "explanation": "담기다（被裝／盛裝）的冠形詞形（-ㄴ），修飾 사랑。" },
+        { "point": "사랑의", "explanation": "사랑（愛情） + -의（屬格助詞），修飾 저울。" },
+        { "point": "저울은", "explanation": "저울（天秤） + -은（主題助詞）。" },
+        { "point": "나를", "explanation": "나（我） + -를（賓格助詞）。" },
+        { "point": "향해서", "explanation": "향하다（朝向） + -여서（連接詞尾，表方向），意為「朝著」。 " },
+        { "point": "기울어 가네요", "explanation": "기울다（傾斜） + -아/어 가다（表趨勢「漸漸……」） + -네요（感嘆／陳述終結詞尾，敬語）。" }
+      ]
+    },
+    {
+      "korean": "오직 너만을 사랑한다 해도 잔혹하게도 그녀는 몰라요",
+      "translation": "即使說只愛你一個人，殘酷的是她並不知道。",
+      "analysis": [
+        { "point": "오직", "explanation": "副詞「只／僅」。" },
+        { "point": "너만을", "explanation": "너（你） + -만（限定助詞「只」） + -을（賓格助詞）。" },
+        { "point": "사랑한다 해도", "explanation": "사랑하다（愛） + -ㄴ다（陳述型冠形詞尾） + -고 해도（引用 + 讓步「即使說……也」）。" },
+        { "point": "잔혹하게도", "explanation": "잔혹하다（殘酷） + -게（副詞化） + -도（助詞「也」），意為「殘酷地也……／殘酷的是」。 " },
+        { "point": "그녀는", "explanation": "그녀（她） + -는（主題助詞）。" },
+        { "point": "몰라요", "explanation": "모르다（不知道） + -아요（敬語終結詞尾）。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "잊다", "chinese": "忘記", "pos": "動詞" },
+    { "korean": "지우다", "chinese": "抹去／消除", "pos": "動詞" },
+    { "korean": "후회하다", "chinese": "後悔", "pos": "動詞" },
+    { "korean": "돌이키다", "chinese": "挽回／回轉", "pos": "動詞" },
+    { "korean": "사랑", "chinese": "愛情", "pos": "名詞" },
+    { "korean": "정말", "chinese": "真的", "pos": "副詞" },
+    { "korean": "나약하다", "chinese": "脆弱", "pos": "形容詞" },
+    { "korean": "택하다", "chinese": "選擇", "pos": "動詞" },
+    { "korean": "고요하다", "chinese": "寂靜", "pos": "形容詞" },
+    { "korean": "울음", "chinese": "哭聲", "pos": "名詞" },
+    { "korean": "비참하다", "chinese": "悲慘", "pos": "形容詞" },
+    { "korean": "하다", "chinese": "使／做", "pos": "動詞" },
+    { "korean": "담기다", "chinese": "被裝／盛裝", "pos": "動詞" },
+    { "korean": "저울", "chinese": "天秤", "pos": "名詞" },
+    { "korean": "향하다", "chinese": "朝向", "pos": "動詞" },
+    { "korean": "기울다", "chinese": "傾斜", "pos": "動詞" },
+    { "korean": "오직", "chinese": "只／僅", "pos": "副詞" },
+    { "korean": "잔혹하다", "chinese": "殘酷", "pos": "形容詞" },
+    { "korean": "그녀", "chinese": "她", "pos": "代名詞" },
+    { "korean": "모르다", "chinese": "不知道", "pos": "動詞" },
+    { "korean": "나", "chinese": "我", "pos": "代名詞" },
+    { "korean": "너", "chinese": "你", "pos": "代名詞" },
+    { "korean": "우리", "chinese": "我們", "pos": "代名詞" }
+  ]
+}

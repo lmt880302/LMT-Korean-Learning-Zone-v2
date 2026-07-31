@@ -4,7 +4,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Lyrics · LMT Korean</title>
-    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.tailwindcss.com">
+    </script>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,500;14..32,600;14..32,700&family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet" />
@@ -332,6 +333,22 @@
                 height: auto;
             }
         }
+
+        /* ——— 標題換行輔助 ——— */
+        .song-title-wrap {
+            display: block;
+            line-height: 1.3;
+        }
+        .song-title-wrap .title-main {
+            display: block;
+        }
+        .song-title-wrap .title-paren {
+            display: block;
+            font-size: 0.75em;
+            opacity: 0.7;
+            font-weight: 300;
+            margin-top: 0.1rem;
+        }
     </style>
 </head>
 <body>
@@ -434,7 +451,7 @@
     </footer>
 
     <script>
-        // ——— 核心邏輯 (功能保留，樣式統一) ———
+        // ——— 核心邏輯 ———
         var currentSong = null;
 
         function sanitize(str) {
@@ -442,6 +459,24 @@
             var d = document.createElement('div');
             d.textContent = str;
             return d.innerHTML;
+        }
+
+        // 處理標題：在括號前強制換行
+        function formatTitleWithWrap(title) {
+            var clean = sanitize(title);
+            // 尋找第一個 ( 或 （
+            var idx = clean.search(/[\(（]/);
+            if (idx > 0) {
+                var before = clean.substring(0, idx).trim();
+                var after = clean.substring(idx).trim();
+                // 如果括號前有空格，把空格移到括號前
+                if (before.endsWith(' ')) {
+                    before = before.slice(0, -1);
+                }
+                return '<span class="song-title-wrap"><span class="title-main">' + before + '</span><span class="title-paren">' + after + '</span></span>';
+            }
+            // 沒有括號，直接返回
+            return '<span class="song-title-wrap">' + clean + '</span>';
         }
 
         function showNotification() {
@@ -506,11 +541,14 @@
 
             document.title = sanitize(data.title) + ' · LMT Korean';
 
-            // header
+            // header — 使用 formatTitleWithWrap 處理標題換行
             var header = document.createElement('div');
             header.className = 'text-center mb-8 pb-6 border-b border-[#1a1a24]';
+
+            var titleHtml = formatTitleWithWrap(data.title);
+
             header.innerHTML = `
-                <h1 class="text-3xl sm:text-4xl font-light text-[#e4dfd8] tracking-tight">${sanitize(data.title)}</h1>
+                <h1 class="text-3xl sm:text-4xl font-light text-[#e4dfd8] tracking-tight leading-tight">${titleHtml}</h1>
                 <p class="text-[#a09a94] text-base font-light mt-1">${sanitize(data.artist)}</p>
                 <div class="mt-4">
                     <button id="copy-btn" class="btn-copy">

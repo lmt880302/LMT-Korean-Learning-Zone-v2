@@ -1,0 +1,182 @@
+{
+  "id": "redoor-dear-freddy",
+  "title": "Dear Freddy",
+  "artist": "Redoor (리도어)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "사랑한단 말은 어차피 가라앉을 말이었잖아",
+      "translation": "「我愛你」這句話，反正是要沉沒的話語啊。",
+      "analysis": [
+        { "point": "사랑한단", "explanation": "사랑하다（愛） + -ㄴ단（-ㄴ다는 的縮略，引用冠形詞形），修飾 말，意為「『我愛你』這句話」。 " },
+        { "point": "말은", "explanation": "말（話） + -은（主題助詞）。" },
+        { "point": "어차피", "explanation": "副詞「反正／無論如何」。 " },
+        { "point": "가라앉을", "explanation": "가라앉다（沉沒／沉澱）的冠形詞形（-을），修飾 말。" },
+        { "point": "말이었잖아", "explanation": "말（話） + 이었（이다 的過去形） + -잖아（表提醒／共知語氣），意為「不是（已經是）那樣的話嘛」。 " }
+      ]
+    },
+    {
+      "korean": "조용한 침묵은 생각 속에 가둬 괴롭히잖아",
+      "translation": "寂靜的沉默，關在思緒裡折磨著人。",
+      "analysis": [
+        { "point": "조용한", "explanation": "조용하다（安靜／寂靜）的冠形詞形（-ㄴ），修飾 침묵。" },
+        { "point": "침묵은", "explanation": "침묵（沉默） + -은（主題助詞）。" },
+        { "point": "생각 속에", "explanation": "생각（想法／思緒） + 속（裡面） + -에（位置助詞）。" },
+        { "point": "가둬", "explanation": "가두다（關住）的連接形。" },
+        { "point": "괴롭히잖아", "explanation": "괴롭히다（折磨） + -잖아（表提醒語氣），意為「不是（正在）折磨著嘛」。 " }
+      ]
+    },
+    {
+      "korean": "나를 왜 이렇게 사랑하게 두었니?",
+      "translation": "為什麼讓我如此去愛呢？",
+      "analysis": [
+        { "point": "나를", "explanation": "나（我） + -를（賓格助詞）。" },
+        { "point": "왜", "explanation": "疑問副詞「為什麼」。 " },
+        { "point": "이렇게", "explanation": "副詞「這樣地／如此」。 " },
+        { "point": "사랑하게", "explanation": "사랑하다（愛） + -게（副詞化／使動連接），與 두다 構成使動結構。" },
+        { "point": "두었니?", "explanation": "두다（放置／讓） + -었-（過去時） + -니（疑問終結詞尾），意為「讓……（做）了嗎？」。" }
+      ]
+    },
+    {
+      "korean": "꿈속엔 너는 왜 항상 웃고만 있니?",
+      "translation": "在夢裡，你為什麼總只是笑著呢？",
+      "analysis": [
+        { "point": "꿈속엔", "explanation": "꿈속（夢中） + -에（位置助詞） + -는（主題助詞），縮略為 -엔。" },
+        { "point": "너는", "explanation": "너（你） + -는（主題助詞）。" },
+        { "point": "왜", "explanation": "為什麼（疑問副詞）。" },
+        { "point": "항상", "explanation": "副詞「總是／一直」。 " },
+        { "point": "웃고만", "explanation": "웃다（笑） + -고만 있다（只做……的狀態），意為「只是在笑著」。 " },
+        { "point": "있니?", "explanation": "있다（存在／持續） + -니（疑問終結詞尾），構成「只是在……嗎？」。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Tell me what to do, let me know",
+      "translation": "告訴我該怎麼做，讓我知道。",
+      "analysis": []
+    },
+    {
+      "korean": "Show me how to erase you",
+      "translation": "告訴我該如何抹去你。",
+      "analysis": []
+    },
+    {
+      "korean": "Still think of you",
+      "translation": "依然想著你。",
+      "analysis": []
+    },
+    {
+      "korean": "Take me back to you, I can’t breathe",
+      "translation": "帶我回到你身邊，我無法呼吸。",
+      "analysis": []
+    },
+    {
+      "korean": "Tell me how to get to you",
+      "translation": "告訴我該如何到你身邊。",
+      "analysis": []
+    },
+    {
+      "korean": "Still think of you",
+      "translation": "依然想著你。",
+      "analysis": []
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "밤이 내겐 더 익숙한데",
+      "translation": "夜晚對我來說更加熟悉，",
+      "analysis": [
+        { "point": "밤이", "explanation": "밤（夜晚） + -이（主格助詞）。" },
+        { "point": "내겐", "explanation": "내게는 的縮略（나 + 에게（對象助詞） + 는（主題助詞）），意為「對我來說」。 " },
+        { "point": "더", "explanation": "副詞「更加」。 " },
+        { "point": "익숙한데", "explanation": "익숙하다（熟悉） + -ㄴ데（背景／轉折連接詞尾）。" }
+      ]
+    },
+    {
+      "korean": "어루만질 달은 빛이 없네",
+      "translation": "撫慰我的月亮沒有光芒。",
+      "analysis": [
+        { "point": "어루만질", "explanation": "어루만지다（撫慰／撫摸）的冠形詞形（-을），修飾 달。" },
+        { "point": "달은", "explanation": "달（月亮） + -은（主題助詞）。" },
+        { "point": "빛이", "explanation": "빛（光芒） + -이（主格助詞）。" },
+        { "point": "없네", "explanation": "없다（沒有） + -네（感嘆／陳述終結詞尾）。" }
+      ]
+    },
+    {
+      "korean": "나를 왜 이렇게 사랑하게 두었니?",
+      "translation": "為什麼讓我如此去愛呢？",
+      "analysis": [
+        { "point": "나를", "explanation": "賓格。" },
+        { "point": "왜", "explanation": "疑問副詞。" },
+        { "point": "이렇게", "explanation": "副詞「這樣地」。 " },
+        { "point": "사랑하게", "explanation": "使動連接。" },
+        { "point": "두었니?", "explanation": "過去疑問。" }
+      ]
+    },
+    {
+      "korean": "꿈속엔 너는 왜 항상 웃고만 있니?",
+      "translation": "在夢裡，你為什麼總只是笑著呢？",
+      "analysis": [
+        { "point": "꿈속엔", "explanation": "位置＋主題。" },
+        { "point": "너는", "explanation": "主題。" },
+        { "point": "왜", "explanation": "疑問副詞。" },
+        { "point": "항상", "explanation": "總是。" },
+        { "point": "웃고만", "explanation": "只在笑。" },
+        { "point": "있니?", "explanation": "疑問。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Tell me what to do, let me know",
+      "translation": "告訴我該怎麼做，讓我知道。",
+      "analysis": []
+    },
+    {
+      "korean": "Show me how to erase you",
+      "translation": "告訴我該如何抹去你。",
+      "analysis": []
+    },
+    {
+      "korean": "Still think of you",
+      "translation": "依然想著你。",
+      "analysis": []
+    },
+    {
+      "korean": "Take me back to you, I can’t breathe",
+      "translation": "帶我回到你身邊，我無法呼吸。",
+      "analysis": []
+    },
+    {
+      "korean": "Tell me how to get to you",
+      "translation": "告訴我該如何到你身邊。",
+      "analysis": []
+    },
+    {
+      "korean": "Still think of you",
+      "translation": "依然想著你。",
+      "analysis": []
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "사랑하다", "chinese": "愛", "pos": "動詞" },
+    { "korean": "말", "chinese": "話", "pos": "名詞" },
+    { "korean": "어차피", "chinese": "反正", "pos": "副詞" },
+    { "korean": "가라앉다", "chinese": "沉沒", "pos": "動詞" },
+    { "korean": "조용하다", "chinese": "安靜", "pos": "形容詞" },
+    { "korean": "침묵", "chinese": "沉默", "pos": "名詞" },
+    { "korean": "생각", "chinese": "想法", "pos": "名詞" },
+    { "korean": "가두다", "chinese": "關住", "pos": "動詞" },
+    { "korean": "괴롭히다", "chinese": "折磨", "pos": "動詞" },
+    { "korean": "두다", "chinese": "放置／讓", "pos": "動詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "항상", "chinese": "總是", "pos": "副詞" },
+    { "korean": "웃다", "chinese": "笑", "pos": "動詞" },
+    { "korean": "밤", "chinese": "夜晚", "pos": "名詞" },
+    { "korean": "익숙하다", "chinese": "熟悉", "pos": "形容詞" },
+    { "korean": "어루만지다", "chinese": "撫慰", "pos": "動詞" },
+    { "korean": "달", "chinese": "月亮", "pos": "名詞" },
+    { "korean": "빛", "chinese": "光芒", "pos": "名詞" },
+    { "korean": "없다", "chinese": "沒有", "pos": "形容詞" },
+    { "korean": "나", "chinese": "我", "pos": "代名詞" },
+    { "korean": "너", "chinese": "你", "pos": "代名詞" }
+  ]
+}

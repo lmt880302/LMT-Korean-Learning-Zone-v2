@@ -1,0 +1,524 @@
+{
+  "id": "RESCENE-Runaway",
+  "title": "Runaway",
+  "artist": "RESCENE (리센느)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "회색빛에 갇혀버린 Neverland",
+      "translation": "被困在灰色光芒中的夢幻島",
+      "analysis": [
+        { "point": "회색빛에", "explanation": "회색빛 (灰色光) + 에 (位置助詞)。" },
+        { "point": "갇혀버린", "explanation": "갇히다 (被困) + 아/어 버리다 (完成，強調狀態) + ㄴ (過去定語形)。" },
+        { "point": "Neverland", "explanation": "英文，夢幻島，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "We know how it ends",
+      "translation": "我們知道結局如何",
+      "analysis": [
+        { "point": "We know how it ends", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "또 의미 없이 돌고도는 Everyday",
+      "translation": "又毫無意義地反覆旋轉的每一天",
+      "analysis": [
+        { "point": "또", "explanation": "副詞，又。" },
+        { "point": "의미 없이", "explanation": "의미 (意義) + 없이 (沒有，副詞形)。" },
+        { "point": "돌고도는", "explanation": "돌다 (轉) + 고 (連接) + 돌다 的重複，表示「不斷旋轉」+ 는 (定語)。" },
+        { "point": "Everyday", "explanation": "英文，每一天，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "더는 갈 수 없게",
+      "translation": "無法再前進",
+      "analysis": [
+        { "point": "더는", "explanation": "더 (更) + 는 (強調，與否定連用表示「再也(不)」)。" },
+        { "point": "갈 수 없게", "explanation": "가다 (去) + ㄹ 수 없다 (無法) + 게 (使...，導致)。" }
+      ]
+    },
+    {
+      "korean": "여기 맴돌게 해",
+      "translation": "讓我在此徘徊",
+      "analysis": [
+        { "point": "여기", "explanation": "副詞，這裡。" },
+        { "point": "맴돌게 해", "explanation": "맴돌다 (徘徊、打轉) + 게 하다 (使...) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "내가 사라진 꿈속에",
+      "translation": "在我消失的夢境中",
+      "analysis": [
+        { "point": "내가", "explanation": "我 + 主格。" },
+        { "point": "사라진", "explanation": "사라지다 (消失) + ㄴ (過去定語)。" },
+        { "point": "꿈속에", "explanation": "꿈 (夢) + 속 (裡面) + 에 (位置)。" }
+      ]
+    },
+    {
+      "korean": "끝없는 쳇바퀴",
+      "translation": "無盡的旋轉木馬（反覆循環）",
+      "analysis": [
+        { "point": "끝없는", "explanation": "끝없다 (無盡的) 的定語形。" },
+        { "point": "쳇바퀴", "explanation": "名詞，原意為「水車」，比喻反覆循環。" }
+      ]
+    },
+    {
+      "korean": "울리는 메아리",
+      "translation": "迴響的迴音",
+      "analysis": [
+        { "point": "울리는", "explanation": "울리다 (響起) + 는 (定語)。" },
+        { "point": "메아리", "explanation": "名詞，迴音。" }
+      ]
+    },
+    {
+      "korean": "벽을 넘어 Let's break this fate",
+      "translation": "越過牆壁 讓我們打破這命運",
+      "analysis": [
+        { "point": "벽을", "explanation": "벽 (牆壁) + 을 (受格)。" },
+        { "point": "넘어", "explanation": "넘다 (越過) + 아/어 (連接)。" },
+        { "point": "Let's break this fate", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "날 뒤흔드는 Heart, now I run away",
+      "translation": "撼動我的心 現在我逃跑",
+      "analysis": [
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "뒤흔드는", "explanation": "뒤흔들다 (撼動、搖晃) + 는 (定語)。" },
+        { "point": "Heart", "explanation": "英文，心，不進行文法解析。" },
+        { "point": "now I run away", "explanation": "英文，現在我逃跑，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "돌아서 난 이미 어서 Hold my hand",
+      "translation": "轉身 我已經 快點 握住我的手",
+      "analysis": [
+        { "point": "돌아서", "explanation": "돌아서다 (轉身) + 아/어 (連接)。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "이미", "explanation": "副詞，已經。" },
+        { "point": "어서", "explanation": "副詞，快點。" },
+        { "point": "Hold my hand", "explanation": "英文，握住我的手，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "한걸음 Move",
+      "translation": "一步 Move",
+      "analysis": [
+        { "point": "한걸음", "explanation": "한 걸음 (一步)。" },
+        { "point": "Move", "explanation": "英文，移動，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "멀리 저 희미한 View",
+      "translation": "遠處那模糊的視野",
+      "analysis": [
+        { "point": "멀리", "explanation": "副詞，遠處。" },
+        { "point": "저", "explanation": "那。" },
+        { "point": "희미한", "explanation": "희미하다 (模糊的) 的定語形。" },
+        { "point": "View", "explanation": "英文，視野、景色，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "푸른 빛을 따라 날",
+      "translation": "跟隨藍光 我",
+      "analysis": [
+        { "point": "푸른", "explanation": "푸르다 (藍色/綠色的) 的定語形。" },
+        { "point": "빛을", "explanation": "빛 (光) + 을 (受格)。" },
+        { "point": "따라", "explanation": "따르다 (跟隨) + 아/어 (連接)。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略（此處為受格，與後句相連）。" }
+      ]
+    },
+    {
+      "korean": "끌어당겨 넌 Now I run away",
+      "translation": "你將我拉近 現在我逃跑",
+      "analysis": [
+        { "point": "끌어당겨", "explanation": "끌어당기다 (拉近、吸引) 的非格式體。" },
+        { "point": "넌", "explanation": "너는 (你) 的縮略。" },
+        { "point": "Now I run away", "explanation": "英文，現在我逃跑，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "I run away",
+      "translation": "我逃跑",
+      "analysis": [
+        { "point": "I run away", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "멈춰버린 시간 속",
+      "translation": "在停滯的時間裡",
+      "analysis": [
+        { "point": "멈춰버린", "explanation": "멈추다 (停止) + 아/어 버리다 (完成強調) + ㄴ (過去定語)。" },
+        { "point": "시간", "explanation": "名詞，時間。" },
+        { "point": "속", "explanation": "名詞，裡面。" }
+      ]
+    },
+    {
+      "korean": "한 치 앞도 알 수 없는 내일은",
+      "translation": "連一寸前方都無法知曉的明天",
+      "analysis": [
+        { "point": "한 치", "explanation": "한 (一) + 치 (寸，長度單位)。" },
+        { "point": "앞도", "explanation": "앞 (前面) + 도 (也)。" },
+        { "point": "알 수 없는", "explanation": "알다 (知道) + ㄹ 수 없다 (無法) + 는 (定語)。" },
+        { "point": "내일은", "explanation": "내일 (明天) + 은 (主題)。" }
+      ]
+    },
+    {
+      "korean": "날 두렵게 해",
+      "translation": "讓我害怕",
+      "analysis": [
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "두렵게 해", "explanation": "두렵다 (害怕) + 게 하다 (使...) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "아무것도 할 수 없던 Me and you",
+      "translation": "什麼都做不了的我和你",
+      "analysis": [
+        { "point": "아무것도", "explanation": "아무것 (任何東西) + 도 (也，與否定連用)。" },
+        { "point": "할 수 없던", "explanation": "하다 (做) + ㄹ 수 없다 (無法) + 던 (過去回想定語)。" },
+        { "point": "Me and you", "explanation": "英文，我和你，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "Oh, I try",
+      "translation": "Oh，我嘗試",
+      "analysis": [
+        { "point": "Oh, I try", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "All night",
+      "translation": "整夜",
+      "analysis": [
+        { "point": "All night", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "심장의 떨림을 쫓아",
+      "translation": "追隨心臟的顫動",
+      "analysis": [
+        { "point": "심장의", "explanation": "심장 (心臟) + 의 (所有格)。" },
+        { "point": "떨림을", "explanation": "떨림 (顫動) + 을 (受格)。" },
+        { "point": "쫓아", "explanation": "쫓다 (追趕、追隨) + 아/어 (連接)。" }
+      ]
+    },
+    {
+      "korean": "우리만의 다른 여정을 찾아 떠나",
+      "translation": "去尋找只屬於我們的另一個旅程",
+      "analysis": [
+        { "point": "우리만의", "explanation": "우리 (我們) + 만 (只) + 의 (所有格)。" },
+        { "point": "다른", "explanation": "不同的。" },
+        { "point": "여정을", "explanation": "여정 (旅程) + 을 (受格)。" },
+        { "point": "찾아 떠나", "explanation": "찾다 (尋找) + 아/어 (連接) + 떠나다 (出發、離開) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "날 뒤흔드는 Heart, now I run away",
+      "translation": "撼動我的心 現在我逃跑",
+      "analysis": [
+        { "point": "날 뒤흔드는 Heart", "explanation": "撼動我的心。" },
+        { "point": "now I run away", "explanation": "英文，現在我逃跑。" }
+      ]
+    },
+    {
+      "korean": "돌아서 난 이미 어서 Hold my hand",
+      "translation": "轉身 我已經 快點 握住我的手",
+      "analysis": [
+        { "point": "돌아서 난 이미 어서", "explanation": "轉身 我已經 快點。" },
+        { "point": "Hold my hand", "explanation": "英文，握住我的手。" }
+      ]
+    },
+    {
+      "korean": "한걸음 Move",
+      "translation": "一步 Move",
+      "analysis": [
+        { "point": "한걸음 Move", "explanation": "一步移動。" }
+      ]
+    },
+    {
+      "korean": "멀리 저 희미한 View",
+      "translation": "遠處那模糊的視野",
+      "analysis": [
+        { "point": "멀리 저 희미한 View", "explanation": "遠處那模糊的視野。" }
+      ]
+    },
+    {
+      "korean": "푸른 빛을 따라 날",
+      "translation": "跟隨藍光 我",
+      "analysis": [
+        { "point": "푸른 빛을 따라", "explanation": "跟隨藍光。" },
+        { "point": "날", "explanation": "我 (受格)。" }
+      ]
+    },
+    {
+      "korean": "끌어당겨 넌 Now I run away",
+      "translation": "你將我拉近 現在我逃跑",
+      "analysis": [
+        { "point": "끌어당겨 넌", "explanation": "你將我拉近。" },
+        { "point": "Now I run away", "explanation": "英文，現在我逃跑。" }
+      ]
+    },
+    {
+      "korean": "I run away",
+      "translation": "我逃跑",
+      "analysis": [
+        { "point": "I run away", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "I run, I run away",
+      "translation": "我跑，我逃跑",
+      "analysis": [
+        { "point": "I run, I run away", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "난 발을 떼 더 멀리 Now I run away",
+      "translation": "我邁開腳步 到更遠的地方 現在我逃跑",
+      "analysis": [
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "발을", "explanation": "발 (腳) + 을 (受格)。" },
+        { "point": "떼", "explanation": "떼다 (移開、抬起) 的非格式體。" },
+        { "point": "더", "explanation": "更。" },
+        { "point": "멀리", "explanation": "遠處。" },
+        { "point": "Now I run away", "explanation": "英文，現在我逃跑。" }
+      ]
+    },
+    {
+      "korean": "I run, I run away",
+      "translation": "我跑，我逃跑",
+      "analysis": [
+        { "point": "I run, I run away", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "korean": "끝을 넘어서 Now I run away",
+      "translation": "越過盡頭 現在我逃跑",
+      "analysis": [
+        { "point": "끝을", "explanation": "끝 (盡頭) + 을 (受格)。" },
+        { "point": "넘어서", "explanation": "넘다 (越過) + 아/어서 (連接)。" },
+        { "point": "Now I run away", "explanation": "英文，現在我逃跑。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 4",
+      "korean": "맘을 외면한 채",
+      "translation": "背對內心的狀態下",
+      "analysis": [
+        { "point": "맘을", "explanation": "마음 (心) 的縮略 + 을 (受格)。" },
+        { "point": "외면한 채", "explanation": "외면하다 (迴避、背對) + ㄴ (過去定語) + 채 (保持...的狀態)。" }
+      ]
+    },
+    {
+      "korean": "진심을 삼켜내",
+      "translation": "吞下真心",
+      "analysis": [
+        { "point": "진심을", "explanation": "진심 (真心) + 을 (受格)。" },
+        { "point": "삼켜내", "explanation": "삼켜내다 (吞下、壓抑) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "매일 공허한 꿈속에",
+      "translation": "每天在空虛的夢境中",
+      "analysis": [
+        { "point": "매일", "explanation": "副詞，每天。" },
+        { "point": "공허한", "explanation": "공허하다 (空虛的) 的定語形。" },
+        { "point": "꿈속에", "explanation": "꿈 (夢) + 속 (裡面) + 에 (位置)。" }
+      ]
+    },
+    {
+      "korean": "끝없는 미로 속",
+      "translation": "無盡的迷宮之中",
+      "analysis": [
+        { "point": "끝없는", "explanation": "無盡的。" },
+        { "point": "미로", "explanation": "名詞，迷宮。" },
+        { "point": "속", "explanation": "裡面。" }
+      ]
+    },
+    {
+      "korean": "손을 잡아주길",
+      "translation": "希望能抓住我的手",
+      "analysis": [
+        { "point": "손을", "explanation": "손 (手) + 을 (受格)。" },
+        { "point": "잡아주길", "explanation": "잡다 (抓住) + 아/어 주다 (為...) + 길 (希望，表示願望)。" }
+      ]
+    },
+    {
+      "korean": "끝을 넘어 Let's break this fate",
+      "translation": "越過盡頭 讓我們打破這命運",
+      "analysis": [
+        { "point": "끝을 넘어", "explanation": "越過盡頭。" },
+        { "point": "Let's break this fate", "explanation": "英文，讓我們打破這命運。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "날 뒤흔드는 Heart, now I run away",
+      "translation": "撼動我的心 現在我逃跑",
+      "analysis": [
+        { "point": "날 뒤흔드는 Heart", "explanation": "撼動我的心。" },
+        { "point": "now I run away", "explanation": "英文，現在我逃跑。" }
+      ]
+    },
+    {
+      "korean": "돌아서 난 이미 어서 Hold my hand",
+      "translation": "轉身 我已經 快點 握住我的手",
+      "analysis": [
+        { "point": "돌아서 난 이미 어서", "explanation": "轉身 我已經 快點。" },
+        { "point": "Hold my hand", "explanation": "英文，握住我的手。" }
+      ]
+    },
+    {
+      "korean": "한걸음 Move",
+      "translation": "一步 Move",
+      "analysis": [
+        { "point": "한걸음 Move", "explanation": "一步移動。" }
+      ]
+    },
+    {
+      "korean": "멀리 저 희미한 View",
+      "translation": "遠處那模糊的視野",
+      "analysis": [
+        { "point": "멀리 저 희미한 View", "explanation": "遠處那模糊的視野。" }
+      ]
+    },
+    {
+      "korean": "푸른 빛을 따라 날",
+      "translation": "跟隨藍光 我",
+      "analysis": [
+        { "point": "푸른 빛을 따라", "explanation": "跟隨藍光。" },
+        { "point": "날", "explanation": "我 (受格)。" }
+      ]
+    },
+    {
+      "korean": "끌어당겨 넌 Now I run away",
+      "translation": "你將我拉近 現在我逃跑",
+      "analysis": [
+        { "point": "끌어당겨 넌", "explanation": "你將我拉近。" },
+        { "point": "Now I run away", "explanation": "英文，現在我逃跑。" }
+      ]
+    },
+    {
+      "korean": "I run away",
+      "translation": "我逃跑",
+      "analysis": [
+        { "point": "I run away", "explanation": "英文，不進行文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "날 뒤흔드는 Heart, now I run away",
+      "translation": "撼動我的心 現在我逃跑",
+      "analysis": [
+        { "point": "날 뒤흔드는 Heart", "explanation": "撼動我的心。" },
+        { "point": "now I run away", "explanation": "英文，現在我逃跑。" }
+      ]
+    },
+    {
+      "korean": "돌아서 난 이미 어서 Hold my hand",
+      "translation": "轉身 我已經 快點 握住我的手",
+      "analysis": [
+        { "point": "돌아서 난 이미 어서", "explanation": "轉身 我已經 快點。" },
+        { "point": "Hold my hand", "explanation": "英文，握住我的手。" }
+      ]
+    },
+    {
+      "korean": "한걸음 Move",
+      "translation": "一步 Move",
+      "analysis": [
+        { "point": "한걸음 Move", "explanation": "一步移動。" }
+      ]
+    },
+    {
+      "korean": "멀리 저 희미한 View",
+      "translation": "遠處那模糊的視野",
+      "analysis": [
+        { "point": "멀리 저 희미한 View", "explanation": "遠處那模糊的視野。" }
+      ]
+    },
+    {
+      "korean": "푸른 빛을 따라 날",
+      "translation": "跟隨藍光 我",
+      "analysis": [
+        { "point": "푸른 빛을 따라", "explanation": "跟隨藍光。" },
+        { "point": "날", "explanation": "我 (受格)。" }
+      ]
+    },
+    {
+      "korean": "끌어당겨 넌 Now I run away",
+      "translation": "你將我拉近 現在我逃跑",
+      "analysis": [
+        { "point": "끌어당겨 넌", "explanation": "你將我拉近。" },
+        { "point": "Now I run away", "explanation": "英文，現在我逃跑。" }
+      ]
+    },
+    {
+      "korean": "I run away",
+      "translation": "我逃跑",
+      "analysis": [
+        { "point": "I run away", "explanation": "英文，不進行文法解析。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "회색빛", "chinese": "灰色光", "pos": "名詞" },
+    { "korean": "갇히다", "chinese": "被困", "pos": "動詞" },
+    { "korean": "의미", "chinese": "意義", "pos": "名詞" },
+    { "korean": "돌다", "chinese": "旋轉", "pos": "動詞" },
+    { "korean": "가다", "chinese": "去", "pos": "動詞" },
+    { "korean": "맴돌다", "chinese": "徘徊", "pos": "動詞" },
+    { "korean": "사라지다", "chinese": "消失", "pos": "動詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "속", "chinese": "裡面", "pos": "名詞" },
+    { "korean": "끝없다", "chinese": "無盡的", "pos": "形容詞" },
+    { "korean": "쳇바퀴", "chinese": "反覆循環", "pos": "名詞" },
+    { "korean": "울리다", "chinese": "響起", "pos": "動詞" },
+    { "korean": "메아리", "chinese": "迴音", "pos": "名詞" },
+    { "korean": "벽", "chinese": "牆壁", "pos": "名詞" },
+    { "korean": "넘다", "chinese": "越過", "pos": "動詞" },
+    { "korean": "뒤흔들다", "chinese": "撼動", "pos": "動詞" },
+    { "korean": "돌아서다", "chinese": "轉身", "pos": "動詞" },
+    { "korean": "이미", "chinese": "已經", "pos": "副詞" },
+    { "korean": "어서", "chinese": "快點", "pos": "副詞" },
+    { "korean": "한걸음", "chinese": "一步", "pos": "名詞" },
+    { "korean": "멀리", "chinese": "遠處", "pos": "副詞" },
+    { "korean": "희미하다", "chinese": "模糊的", "pos": "形容詞" },
+    { "korean": "푸르다", "chinese": "藍色的", "pos": "形容詞" },
+    { "korean": "빛", "chinese": "光", "pos": "名詞" },
+    { "korean": "따르다", "chinese": "跟隨", "pos": "動詞" },
+    { "korean": "끌어당기다", "chinese": "拉近、吸引", "pos": "動詞" },
+    { "korean": "멈추다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "치", "chinese": "寸", "pos": "量詞" },
+    { "korean": "앞", "chinese": "前面", "pos": "名詞" },
+    { "korean": "내일", "chinese": "明天", "pos": "名詞" },
+    { "korean": "두렵다", "chinese": "害怕", "pos": "形容詞" },
+    { "korean": "아무것도", "chinese": "任何東西（不）", "pos": "代名詞" },
+    { "korean": "심장", "chinese": "心臟", "pos": "名詞" },
+    { "korean": "떨림", "chinese": "顫動", "pos": "名詞" },
+    { "korean": "쫓다", "chinese": "追趕", "pos": "動詞" },
+    { "korean": "여정", "chinese": "旅程", "pos": "名詞" },
+    { "korean": "찾다", "chinese": "尋找", "pos": "動詞" },
+    { "korean": "떠나다", "chinese": "出發", "pos": "動詞" },
+    { "korean": "발", "chinese": "腳", "pos": "名詞" },
+    { "korean": "떼다", "chinese": "移開、抬起", "pos": "動詞" },
+    { "korean": "끝", "chinese": "盡頭", "pos": "名詞" },
+    { "korean": "맘", "chinese": "心", "pos": "名詞" },
+    { "korean": "외면하다", "chinese": "迴避、背對", "pos": "動詞" },
+    { "korean": "진심", "chinese": "真心", "pos": "名詞" },
+    { "korean": "삼켜내다", "chinese": "吞下、壓抑", "pos": "動詞" },
+    { "korean": "매일", "chinese": "每天", "pos": "副詞" },
+    { "korean": "공허하다", "chinese": "空虛的", "pos": "形容詞" },
+    { "korean": "미로", "chinese": "迷宮", "pos": "名詞" },
+    { "korean": "손", "chinese": "手", "pos": "名詞" },
+    { "korean": "잡다", "chinese": "抓住", "pos": "動詞" }
+  ]
+}

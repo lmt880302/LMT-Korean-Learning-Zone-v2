@@ -1,0 +1,492 @@
+{
+  "id": "redoor-world-noise",
+  "title": "World:Noise (세상:소음)",
+  "artist": "Redoor (리도어)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "멈출 수 없는 욕심은",
+      "translation": "無法停止的貪欲",
+      "analysis": [
+        { "point": "멈출", "explanation": "멈추다（停止）的冠形詞形（-ㄹ），修飾 수。" },
+        { "point": "수 없는", "explanation": "수（方法） + 없다（沒有）的冠形詞形，構成「無法……」。 " },
+        { "point": "욕심은", "explanation": "욕심（貪欲） + -은（主題助詞）。" }
+      ]
+    },
+    {
+      "korean": "끝도 없이 부풀려져",
+      "translation": "無止境地被膨脹。",
+      "analysis": [
+        { "point": "끝도 없이", "explanation": "끝（盡頭） + -도（也） + 없다（沒有） + -이（副詞化），意為「無止境地」。 " },
+        { "point": "부풀려져", "explanation": "부풀리다（膨脹） + -어지다（被動）的連接形，意為「被膨脹」。 " }
+      ]
+    },
+    {
+      "korean": "하나둘씩 불어넣다 보면",
+      "translation": "如果一個一個地吹入（膨脹），",
+      "analysis": [
+        { "point": "하나둘씩", "explanation": "하나둘（一個兩個） + -씩（每／各），意為「一個一個地」。 " },
+        { "point": "불어넣다", "explanation": "불어넣다（吹入／注入）的基本形。" },
+        { "point": "보면", "explanation": "보다（試／看） + -면（條件「如果……」），與 -다 보면 構成「如果持續做……的話」。 " }
+      ]
+    },
+    {
+      "korean": "모든 것이 터져버려",
+      "translation": "一切都爆裂了。",
+      "analysis": [
+        { "point": "모든 것이", "explanation": "모든（所有的） + 것（東西） + -이（主格助詞）。" },
+        { "point": "터져버려", "explanation": "터지다（爆裂） + -아/어 버리다（徹底完成）的連接形。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "뭐가 그렇게 두려웠나요",
+      "translation": "到底在害怕什麼呢？",
+      "analysis": [
+        { "point": "뭐가", "explanation": "뭐（什麼） + -가（主格助詞）。" },
+        { "point": "그렇게", "explanation": "副詞「那樣地／那麼」。 " },
+        { "point": "두려웠나요", "explanation": "두렵다（害怕） + -았-（過去） + -나요（疑問終結詞尾，敬語）。" }
+      ]
+    },
+    {
+      "korean": "잃을 것이 많았나 보네요",
+      "translation": "看來是會失去的東西很多吧。",
+      "analysis": [
+        { "point": "잃을", "explanation": "잃다（失去）的冠形詞形（-을），修飾 것。" },
+        { "point": "것이", "explanation": "것（東西） + -이（主格）。" },
+        { "point": "많았나 보네요", "explanation": "많다（多） + -았-（過去） + -나 보다（推測「看來……」） + -네요（感嘆／陳述，敬語）。" }
+      ]
+    },
+    {
+      "korean": "이 세상 사람의 흉터들은",
+      "translation": "這世上人們的傷疤們",
+      "analysis": [
+        { "point": "이 세상", "explanation": "이（這） + 세상（世界）。" },
+        { "point": "사람의", "explanation": "사람（人） + -의（屬格助詞）。" },
+        { "point": "흉터들은", "explanation": "흉터（傷疤／傷痕） + -들（複數） + -은（主題助詞）。" }
+      ]
+    },
+    {
+      "korean": "너무나도 다양해요",
+      "translation": "太過多樣了。",
+      "analysis": [
+        { "point": "너무나도", "explanation": "너무나（太過） + -도（強調助詞）。" },
+        { "point": "다양해요", "explanation": "다양하다（多樣） + -아/어요（敬語終結詞尾）。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "난 그저 그렇게 흘러갔음 해요",
+      "translation": "我只是想要那樣流過去。",
+      "analysis": [
+        { "point": "난", "explanation": "나는 的縮略（我＋主題）。" },
+        { "point": "그저", "explanation": "副詞「只是／僅僅」。 " },
+        { "point": "그렇게", "explanation": "那樣地（副詞）。" },
+        { "point": "흘러갔음", "explanation": "흘러가다（流去） + -았-（過去） + -음（名詞化），與 하다 連用表希望。" },
+        { "point": "해요", "explanation": "하다（做） + -아요（敬語），整體意為「希望能那樣流去」。 " }
+      ]
+    },
+    {
+      "korean": "많은 것도 바라지 않을 거예요",
+      "translation": "也不會期待太多。",
+      "analysis": [
+        { "point": "많은", "explanation": "많다（多）的冠形詞形（-은），修飾 것。" },
+        { "point": "것도", "explanation": "것（東西） + -도（也）。" },
+        { "point": "바라지 않을 거예요", "explanation": "바라다（期待） + -지 않다（否定） + -을 것이다（推測）的敬語形，意為「不會期待的」。 " }
+      ]
+    },
+    {
+      "korean": "세상의 소음들을 가득 모아봐요",
+      "translation": "試著把世上的噪音們全都收集起來吧。",
+      "analysis": [
+        { "point": "세상의", "explanation": "세상（世界） + -의（屬格）。" },
+        { "point": "소음들을", "explanation": "소음（噪音） + -들（複數） + -을（賓格助詞）。" },
+        { "point": "가득", "explanation": "副詞「滿滿地」。 " },
+        { "point": "모아봐요", "explanation": "모으다（收集） + -아/어 보다（試試看） + -아요（敬語）。" }
+      ]
+    },
+    {
+      "korean": "아름다운 소리도 꽤나 있을걸요",
+      "translation": "美麗的聲音應該也還不少吧。",
+      "analysis": [
+        { "point": "아름다운", "explanation": "아름답다（美麗）的冠形詞形（-은），修飾 소리。" },
+        { "point": "소리도", "explanation": "소리（聲音） + -도（也）。" },
+        { "point": "꽤나", "explanation": "副詞「相當／頗」。 " },
+        { "point": "있을걸요", "explanation": "있다（有） + -을걸요（推測終結詞尾，敬語），意為「應該會有吧」。 " }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "엎질러진 물처럼",
+      "translation": "如同潑灑出去的水一般，",
+      "analysis": [
+        { "point": "엎질러진", "explanation": "엎지르다（潑灑） + -어지다（被動）的冠形詞形（-ㄴ），修飾 물。" },
+        { "point": "물처럼", "explanation": "물（水） + -처럼（像……一樣）。" }
+      ]
+    },
+    {
+      "korean": "주워 담을 순 없어요",
+      "translation": "無法再撿起來裝回去。",
+      "analysis": [
+        { "point": "주워", "explanation": "줍다（拾起）的連接形。" },
+        { "point": "담을", "explanation": "담다（裝入）的冠形詞形（-을），修飾 순。" },
+        { "point": "순", "explanation": "수는 的縮略（依存名詞 수 + 主題助詞는）。" },
+        { "point": "없어요", "explanation": "없다（沒有） + -어요（敬語）。" }
+      ]
+    },
+    {
+      "korean": "투명하게 맺힌 물방울이",
+      "translation": "透明地凝結的水珠",
+      "analysis": [
+        { "point": "투명하게", "explanation": "투명하다（透明）的副詞化形（-게）。" },
+        { "point": "맺힌", "explanation": "맺히다（凝結）的冠形詞形（-ㄴ），修飾 물방울。" },
+        { "point": "물방울이", "explanation": "물방울（水珠） + -이（主格）。" }
+      ]
+    },
+    {
+      "korean": "나를 보며 비웃네요",
+      "translation": "看著我嘲笑著。",
+      "analysis": [
+        { "point": "나를", "explanation": "나（我） + -를（賓格）。" },
+        { "point": "보며", "explanation": "보다（看） + -며（並列連接「一邊……一邊」）。" },
+        { "point": "비웃네요", "explanation": "비웃다（嘲笑） + -네요（感嘆／陳述，敬語）。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus 2",
+      "korean": "난 그저 그렇게 살아갔음 해요",
+      "translation": "我只是想要那樣活下去。",
+      "analysis": [
+        { "point": "난", "explanation": "나는 的縮略。" },
+        { "point": "그저", "explanation": "只是。" },
+        { "point": "그렇게", "explanation": "那樣地。" },
+        { "point": "살아갔음", "explanation": "살아가다（活下去） + -았-（過去） + -음（名詞化）。" },
+        { "point": "해요", "explanation": "하다（做） + -아요，表希望。" }
+      ]
+    },
+    {
+      "korean": "많은 것도 바라지 않을 거예요",
+      "translation": "也不會期待太多。",
+      "analysis": [
+        { "point": "많은 것도", "explanation": "很多的東西也。" },
+        { "point": "바라지 않을 거예요", "explanation": "不會期待。" }
+      ]
+    },
+    {
+      "korean": "세상의 소음들을 가득 모아봐요",
+      "translation": "試著把世上的噪音們全都收集起來吧。",
+      "analysis": [
+        { "point": "세상의", "explanation": "世界的。" },
+        { "point": "소음들을", "explanation": "噪音們（賓格）。" },
+        { "point": "가득", "explanation": "滿滿地。" },
+        { "point": "모아봐요", "explanation": "收集看看。" }
+      ]
+    },
+    {
+      "korean": "아름다운 소리도 꽤나 있을걸요",
+      "translation": "美麗的聲音應該也還不少吧。",
+      "analysis": [
+        { "point": "아름다운", "explanation": "美麗的。" },
+        { "point": "소리도", "explanation": "聲音也。" },
+        { "point": "꽤나", "explanation": "相當。" },
+        { "point": "있을걸요", "explanation": "應該有吧。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 4",
+      "korean": "보잘것없는 나를 좋아하지 마요",
+      "translation": "請不要喜歡卑微的我。",
+      "analysis": [
+        { "point": "보잘것없는", "explanation": "보잘것없다（微不足道／卑微）的冠形詞形（-은），修飾 나。" },
+        { "point": "나를", "explanation": "我（賓格）。" },
+        { "point": "좋아하지 마요", "explanation": "좋아하다（喜歡） + -지 마요（否定命令「請不要……」）。" }
+      ]
+    },
+    {
+      "korean": "모든 것이 다 거짓인걸요",
+      "translation": "因為一切都是謊言。",
+      "analysis": [
+        { "point": "모든 것이", "explanation": "所有的東西（主格）。" },
+        { "point": "다", "explanation": "全部（副詞）。" },
+        { "point": "거짓인걸요", "explanation": "거짓（謊言） + -인 것이다（是……的）的縮略 -인걸 + -요（敬語語氣）。" }
+      ]
+    },
+    {
+      "korean": "왜 세 번을 빙그르 돌았냐고 물으면",
+      "translation": "如果問為什麼轉了三圈，",
+      "analysis": [
+        { "point": "왜", "explanation": "為什麼（疑問副詞）。" },
+        { "point": "세 번을", "explanation": "三次（賓格）。" },
+        { "point": "빙그르", "explanation": "擬態詞「滴溜溜地」。 " },
+        { "point": "돌았냐고", "explanation": "돌다（轉） + -았-（過去） + -냐고（引用疑問句終結詞尾）。" },
+        { "point": "물으면", "explanation": "묻다（問） + -으면（條件「如果……」）。" }
+      ]
+    },
+    {
+      "korean": "아무 대답도 못 할 거예요",
+      "translation": "什麼答案也給不出來。",
+      "analysis": [
+        { "point": "아무", "explanation": "任何（冠形詞）。" },
+        { "point": "대답도", "explanation": "대답（回答） + -도（也）。" },
+        { "point": "못 할 거예요", "explanation": "못（無法） + 하다（做） + -을 것이다（推測）的敬語形，意為「無法給出」。 " }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "이 세상이 분명 싫은데 난 살고 있어요",
+      "translation": "這世界分明令人厭惡，但我還活著。",
+      "analysis": [
+        { "point": "이 세상이", "explanation": "這世界（主格）。" },
+        { "point": "분명", "explanation": "副詞「分明／確實」。 " },
+        { "point": "싫은데", "explanation": "싫다（厭惡） + -ㄴ데（背景／轉折連接詞尾）。" },
+        { "point": "난", "explanation": "나는 的縮略。" },
+        { "point": "살고 있어요", "explanation": "살다（活） + -고 있다（進行） + -어요（敬語）。" }
+      ]
+    },
+    {
+      "korean": "선택이란 순간 속은 항상 괴로웠었죠",
+      "translation": "所謂選擇的那一瞬間，總是曾經很痛苦。",
+      "analysis": [
+        { "point": "선택이란", "explanation": "선택（選擇） + -이란（-이라는 的縮略，意為「所謂……的」）。" },
+        { "point": "순간 속은", "explanation": "순간（瞬間） + 속（裡面） + -은（主題）。" },
+        { "point": "항상", "explanation": "副詞「總是」。 " },
+        { "point": "괴로웠었죠", "explanation": "괴롭다（痛苦） + -았었-（過去回憶時制） + -죠（陳述語氣）。" }
+      ]
+    },
+    {
+      "korean": "어지럽게 살아간다는 건 쉽지 않네요",
+      "translation": "混亂地活下去這件事，並不容易。",
+      "analysis": [
+        { "point": "어지럽게", "explanation": "어지럽다（混亂）的副詞化形（-게）。" },
+        { "point": "살아간다는", "explanation": "살아가다（活下去） + -다는（引用冠形詞形），修飾 건。" },
+        { "point": "건", "explanation": "것은 的縮略（這件事）。" },
+        { "point": "쉽지 않네요", "explanation": "쉽다（容易） + -지 않다（否定） + -네요（感嘆／陳述）。" }
+      ]
+    },
+    {
+      "korean": "눈물 대신 피를 흘리는 게 맘이 편했죠",
+      "translation": "比起眼淚，流血反而讓心更舒坦。",
+      "analysis": [
+        { "point": "눈물 대신", "explanation": "눈물（眼淚） + 대신（代替）。" },
+        { "point": "피를", "explanation": "피（血） + -를（賓格）。" },
+        { "point": "흘리는", "explanation": "흘리다（流）的冠形詞形（-는），修飾 게。" },
+        { "point": "게", "explanation": "것이 的縮略（主格）。" },
+        { "point": "맘이", "explanation": "마음（心） + -이（主格）。" },
+        { "point": "편했죠", "explanation": "편하다（舒坦） + -았-（過去） + -죠（陳述）。" }
+      ]
+    },
+    {
+      "korean": "몸은 아프다고 소리치는데 난 몰라요",
+      "translation": "身體在大喊著痛，我卻不知道。",
+      "analysis": [
+        { "point": "몸은", "explanation": "몸（身體） + -은（主題）。" },
+        { "point": "아프다고", "explanation": "아프다（痛） + -다고（引用助詞）。" },
+        { "point": "소리치는데", "explanation": "소리치다（大喊） + -는데（背景連接）。" },
+        { "point": "난", "explanation": "나는 的縮略。" },
+        { "point": "몰라요", "explanation": "모르다（不知道） + -아요（敬語）。" }
+      ]
+    },
+    {
+      "korean": "밤이 되면 두 손 모아 기도를 시작했죠",
+      "translation": "每當夜晚來臨，就雙手合十開始祈禱。",
+      "analysis": [
+        { "point": "밤이", "explanation": "밤（夜晚） + -이（主格）。" },
+        { "point": "되면", "explanation": "되다（成為） + -면（條件「如果……」）。" },
+        { "point": "두 손", "explanation": "두（兩） + 손（手）。" },
+        { "point": "모아", "explanation": "모으다（合起來）的連接形。" },
+        { "point": "기도를", "explanation": "기도（祈禱） + -를（賓格）。" },
+        { "point": "시작했죠", "explanation": "시작하다（開始） + -았-（過去） + -죠（陳述）。" }
+      ]
+    },
+    {
+      "korean": "아침에는 항상 악몽 속에 잠들어있죠",
+      "translation": "早晨時總是沉睡在惡夢之中。",
+      "analysis": [
+        { "point": "아침에는", "explanation": "아침（早晨） + -에는（時間助詞 -에 + 主題 -는）。" },
+        { "point": "항상", "explanation": "總是（副詞）。" },
+        { "point": "악몽 속에", "explanation": "악몽（惡夢） + 속（裡面） + -에（位置助詞）。" },
+        { "point": "잠들어있죠", "explanation": "잠들어 있다（沉睡） + -죠（陳述）。" }
+      ]
+    },
+    {
+      "korean": "몸부림을 쳐도 나는 벗어날 순 없어요",
+      "translation": "即使掙扎，我也無法逃脫。",
+      "analysis": [
+        { "point": "몸부림을", "explanation": "몸부림（掙扎） + -을（賓格）。" },
+        { "point": "쳐도", "explanation": "치다（打／做） + -아/어도（讓步「即使……」）。" },
+        { "point": "나는", "explanation": "我（主題）。" },
+        { "point": "벗어날", "explanation": "벗어나다（逃脫）的冠形詞形（-ㄹ），修飾 순。" },
+        { "point": "순", "explanation": "수는 的縮略。" },
+        { "point": "없어요", "explanation": "沒有（敬語）。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "언제부턴가 밤하늘엔 별이 죽어있죠",
+      "translation": "不知從何時起，夜空中的星星已經死了。",
+      "analysis": [
+        { "point": "언제부턴가", "explanation": "언제（何時） + -부터（從） + -인가（不確定），意為「不知從何時起」。 " },
+        { "point": "밤하늘엔", "explanation": "밤하늘（夜空） + -에（位置） + -는（主題），縮略為 -엔。" },
+        { "point": "별이", "explanation": "별（星星） + -이（主格）。" },
+        { "point": "죽어있죠", "explanation": "죽어 있다（死了） + -죠（陳述）。" }
+      ]
+    },
+    {
+      "korean": "빛도 이젠 내 눈에는 닿을 수 없나 봐요",
+      "translation": "光芒現在也無法觸及我的眼睛了。",
+      "analysis": [
+        { "point": "빛도", "explanation": "빛（光芒） + -도（也）。" },
+        { "point": "이젠", "explanation": "이제는 的縮略（現在＋主題）。" },
+        { "point": "내 눈에는", "explanation": "내（我的） + 눈（眼睛） + -에는（位置＋主題）。" },
+        { "point": "닿을 수 없나 봐요", "explanation": "닿다（觸及） + -을 수 없다（無法） + -나 보다（推測「看來……」） + -아요（敬語）。" }
+      ]
+    },
+    {
+      "korean": "마음을 전달하는 게 난 쉽지가 않아서",
+      "translation": "因為傳達心意對我來說並不容易，",
+      "analysis": [
+        { "point": "마음을", "explanation": "마음（心意） + -을（賓格）。" },
+        { "point": "전달하는", "explanation": "전달하다（傳達）的冠形詞形（-는），修飾 게。" },
+        { "point": "게", "explanation": "것이 的縮略（主格）。" },
+        { "point": "난", "explanation": "나는 的縮略。" },
+        { "point": "쉽지가", "explanation": "쉽다（容易） + -지가（連結詞尾＋主格強調）。" },
+        { "point": "않아서", "explanation": "않다（不） + -아/어서（因果連接「因為……」）。" }
+      ]
+    },
+    {
+      "korean": "그냥 삼켰던 말들만 수천 가지가 넘죠",
+      "translation": "只是吞下去的話語們，已經超過數千種。",
+      "analysis": [
+        { "point": "그냥", "explanation": "副詞「只是／就那樣」。 " },
+        { "point": "삼켰던", "explanation": "삼키다（吞） + -었-（過去） + -던（回想冠形詞尾），修飾 말들。" },
+        { "point": "말들만", "explanation": "말（話語） + -들（複數） + -만（限定助詞「只」）。" },
+        { "point": "수천 가지가", "explanation": "수천 가지（數千種） + -가（主格）。" },
+        { "point": "넘죠", "explanation": "넘다（超過） + -죠（陳述語氣）。" }
+      ]
+    },
+    {
+      "korean": "이상하게 토를 하고 나면 후련했어요",
+      "translation": "奇怪的是，吐出來之後就覺得舒暢了。",
+      "analysis": [
+        { "point": "이상하게", "explanation": "이상하다（奇怪）的副詞化形（-게）。" },
+        { "point": "토를", "explanation": "토（嘔吐） + -를（賓格）。" },
+        { "point": "하고", "explanation": "하다（做）的連接形。" },
+        { "point": "나면", "explanation": "나다（發生） + -면（條件「如果……之後」）。" },
+        { "point": "후련했어요", "explanation": "후련하다（舒暢） + -았-（過去） + -어요（敬語）。" }
+      ]
+    },
+    {
+      "korean": "몇 번이고 하다 보니 살이 많이 빠졌죠",
+      "translation": "做了好幾次之後，體重掉了不少。",
+      "analysis": [
+        { "point": "몇 번이고", "explanation": "몇 번（幾次） + -이고（強調「無論幾次」）。" },
+        { "point": "하다 보니", "explanation": "하다（做） + -다 보니（持續做……之後發現）。" },
+        { "point": "살이", "explanation": "살（體重／肉） + -이（主格）。" },
+        { "point": "많이", "explanation": "副詞「很多地」。 " },
+        { "point": "빠졌죠", "explanation": "빠지다（掉落／減少） + -았-（過去） + -죠（陳述）。" }
+      ]
+    },
+    {
+      "korean": "당신 눈에 비친 내 모습은 처량했어요",
+      "translation": "在你眼中映出的我的樣子，很淒涼。",
+      "analysis": [
+        { "point": "당신", "explanation": "你（敬稱）。" },
+        { "point": "눈에", "explanation": "눈（眼睛） + -에（位置）。" },
+        { "point": "비친", "explanation": "비치다（映出）的冠形詞形（-ㄴ），修飾 내 모습。" },
+        { "point": "내 모습은", "explanation": "我的樣子（主題）。" },
+        { "point": "처량했어요", "explanation": "처량하다（淒涼） + -았-（過去） + -어요（敬語）。" }
+      ]
+    },
+    {
+      "korean": "그것을 숨기는 것도 모두 알고 있었죠",
+      "translation": "隱藏那件事，我也全都知道。",
+      "analysis": [
+        { "point": "그것을", "explanation": "그것（那件事） + -을（賓格）。" },
+        { "point": "숨기는", "explanation": "숨기다（隱藏）的冠形詞形（-는），修飾 것。" },
+        { "point": "것도", "explanation": "것（事情） + -도（也）。" },
+        { "point": "모두", "explanation": "全部（副詞）。" },
+        { "point": "알고 있었죠", "explanation": "알다（知道） + -고 있었다（過去持續） + -죠（陳述），意為「一直都知道」。 " }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "멈추다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "욕심", "chinese": "貪欲", "pos": "名詞" },
+    { "korean": "끝", "chinese": "盡頭", "pos": "名詞" },
+    { "korean": "부풀리다", "chinese": "膨脹", "pos": "動詞" },
+    { "korean": "불어넣다", "chinese": "吹入", "pos": "動詞" },
+    { "korean": "터지다", "chinese": "爆裂", "pos": "動詞" },
+    { "korean": "버리다", "chinese": "徹底（補助動詞）", "pos": "動詞" },
+    { "korean": "두렵다", "chinese": "害怕", "pos": "形容詞" },
+    { "korean": "잃다", "chinese": "失去", "pos": "動詞" },
+    { "korean": "흉터", "chinese": "傷疤", "pos": "名詞" },
+    { "korean": "다양하다", "chinese": "多樣", "pos": "形容詞" },
+    { "korean": "흘러가다", "chinese": "流去", "pos": "動詞" },
+    { "korean": "바라다", "chinese": "期待", "pos": "動詞" },
+    { "korean": "소음", "chinese": "噪音", "pos": "名詞" },
+    { "korean": "모으다", "chinese": "收集", "pos": "動詞" },
+    { "korean": "아름답다", "chinese": "美麗", "pos": "形容詞" },
+    { "korean": "소리", "chinese": "聲音", "pos": "名詞" },
+    { "korean": "꽤나", "chinese": "相當", "pos": "副詞" },
+    { "korean": "엎지르다", "chinese": "潑灑", "pos": "動詞" },
+    { "korean": "줍다", "chinese": "拾起", "pos": "動詞" },
+    { "korean": "담다", "chinese": "裝入", "pos": "動詞" },
+    { "korean": "투명하다", "chinese": "透明", "pos": "形容詞" },
+    { "korean": "맺히다", "chinese": "凝結", "pos": "動詞" },
+    { "korean": "물방울", "chinese": "水珠", "pos": "名詞" },
+    { "korean": "비웃다", "chinese": "嘲笑", "pos": "動詞" },
+    { "korean": "살아가다", "chinese": "活下去", "pos": "動詞" },
+    { "korean": "보잘것없다", "chinese": "微不足道", "pos": "形容詞" },
+    { "korean": "좋아하다", "chinese": "喜歡", "pos": "動詞" },
+    { "korean": "거짓", "chinese": "謊言", "pos": "名詞" },
+    { "korean": "빙그르", "chinese": "滴溜溜地", "pos": "副詞／擬態詞" },
+    { "korean": "돌다", "chinese": "轉", "pos": "動詞" },
+    { "korean": "묻다", "chinese": "問", "pos": "動詞" },
+    { "korean": "대답", "chinese": "回答", "pos": "名詞" },
+    { "korean": "분명", "chinese": "分明", "pos": "副詞" },
+    { "korean": "싫다", "chinese": "厭惡", "pos": "形容詞" },
+    { "korean": "살다", "chinese": "活", "pos": "動詞" },
+    { "korean": "선택", "chinese": "選擇", "pos": "名詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "괴롭다", "chinese": "痛苦", "pos": "形容詞" },
+    { "korean": "어지럽다", "chinese": "混亂", "pos": "形容詞" },
+    { "korean": "쉽다", "chinese": "容易", "pos": "形容詞" },
+    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" },
+    { "korean": "피", "chinese": "血", "pos": "名詞" },
+    { "korean": "흘리다", "chinese": "流", "pos": "動詞" },
+    { "korean": "편하다", "chinese": "舒坦", "pos": "形容詞" },
+    { "korean": "소리치다", "chinese": "大喊", "pos": "動詞" },
+    { "korean": "기도", "chinese": "祈禱", "pos": "名詞" },
+    { "korean": "시작하다", "chinese": "開始", "pos": "動詞" },
+    { "korean": "악몽", "chinese": "惡夢", "pos": "名詞" },
+    { "korean": "잠들다", "chinese": "入睡", "pos": "動詞" },
+    { "korean": "몸부림", "chinese": "掙扎", "pos": "名詞" },
+    { "korean": "치다", "chinese": "打／做", "pos": "動詞" },
+    { "korean": "벗어나다", "chinese": "逃脫", "pos": "動詞" },
+    { "korean": "언제부턴가", "chinese": "不知從何時起", "pos": "副詞" },
+    { "korean": "밤하늘", "chinese": "夜空", "pos": "名詞" },
+    { "korean": "별", "chinese": "星星", "pos": "名詞" },
+    { "korean": "죽다", "chinese": "死", "pos": "動詞" },
+    { "korean": "빛", "chinese": "光芒", "pos": "名詞" },
+    { "korean": "닿다", "chinese": "觸及", "pos": "動詞" },
+    { "korean": "전달하다", "chinese": "傳達", "pos": "動詞" },
+    { "korean": "그냥", "chinese": "只是", "pos": "副詞" },
+    { "korean": "삼키다", "chinese": "吞", "pos": "動詞" },
+    { "korean": "수천", "chinese": "數千", "pos": "名詞" },
+    { "korean": "가지", "chinese": "種（量詞）", "pos": "量詞" },
+    { "korean": "넘다", "chinese": "超過", "pos": "動詞" },
+    { "korean": "이상하다", "chinese": "奇怪", "pos": "形容詞" },
+    { "korean": "토", "chinese": "嘔吐", "pos": "名詞" },
+    { "korean": "후련하다", "chinese": "舒暢", "pos": "形容詞" },
+    { "korean": "살", "chinese": "體重／肉", "pos": "名詞" },
+    { "korean": "빠지다", "chinese": "掉落／減少", "pos": "動詞" },
+    { "korean": "당신", "chinese": "你（敬稱）", "pos": "代名詞" },
+    { "korean": "비치다", "chinese": "映出", "pos": "動詞" },
+    { "korean": "처량하다", "chinese": "淒涼", "pos": "形容詞" },
+    { "korean": "숨기다", "chinese": "隱藏", "pos": "動詞" },
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "나", "chinese": "我", "pos": "代名詞" },
+    { "korean": "세상", "chinese": "世界", "pos": "名詞" },
+    { "korean": "사람", "chinese": "人", "pos": "名詞" }
+  ]
+}

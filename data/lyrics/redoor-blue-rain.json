@@ -1,0 +1,263 @@
+{
+  "id": "redoor-blue-rain",
+  "title": "청우 (靑雨) blue rain",
+  "artist": "Redoor (리도어)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "언덕 너머로 우리의",
+      "translation": "越過山丘，我們的（愛情）",
+      "analysis": [
+        { "point": "언덕", "explanation": "名詞「山丘」。" },
+        { "point": "너머로", "explanation": "너머（那邊） + -로（方向助詞），意為「越過／到那一邊」。" },
+        { "point": "우리의", "explanation": "우리（我們） + -의（屬格助詞），意為「我們的」。" }
+      ]
+    },
+    {
+      "korean": "사랑이 보이나요",
+      "translation": "愛情能看得見嗎？",
+      "analysis": [
+        { "point": "사랑이", "explanation": "사랑（愛情） + -이（主格助詞）。" },
+        { "point": "보이나요", "explanation": "보이다（被看見） + -나요（疑問終結詞尾，敬語），意為「看得見嗎？」" }
+      ]
+    },
+    {
+      "korean": "높게도 쌓았던 추억은 무너졌네요",
+      "translation": "曾經堆得高高的回憶崩塌了呢。",
+      "analysis": [
+        { "point": "높게도", "explanation": "높다（高） + -게（副詞化詞尾） + -도（助詞「也」），意為「也高高地」。" },
+        { "point": "쌓았던", "explanation": "쌓다（堆積） + -았-（過去時） + -던（回想冠形詞形），修飾後面的 추억。" },
+        { "point": "추억은", "explanation": "추억（回憶） + -은（主題助詞）。" },
+        { "point": "무너졌네요", "explanation": "무너지다（崩塌） + -었-（過去時） + -네요（感嘆／陳述終結詞尾，敬語）。" }
+      ]
+    },
+    {
+      "korean": "영원할 줄 알았던",
+      "translation": "曾以為會永恆的（故事）",
+      "analysis": [
+        { "point": "영원할", "explanation": "영원하다（永恆） + -ㄹ（冠形詞尾，表推測／未來），修飾後面的 줄。" },
+        { "point": "줄", "explanation": "依存名詞，表「事情／方法」，與 알다 搭配表示「以為會……」。" },
+        { "point": "알았던", "explanation": "알다（知道） + -았-（過去時） + -던（回想冠形詞形），修飾後面的 이야기。" }
+      ]
+    },
+    {
+      "korean": "거대한 우리의 이야기는",
+      "translation": "我們宏大的故事",
+      "analysis": [
+        { "point": "거대한", "explanation": "거대하다（宏大） + -ㄴ（冠形詞尾），修飾 이야기。" },
+        { "point": "우리의", "explanation": "우리（我們） + -의（屬格）。" },
+        { "point": "이야기는", "explanation": "이야기（故事） + -는（主題助詞）。" }
+      ]
+    },
+    {
+      "korean": "오늘이 마지막 결말 일 줄은",
+      "translation": "今天竟是（這故事）最後的結局。",
+      "analysis": [
+        { "point": "오늘이", "explanation": "오늘（今天） + -이（主格助詞）。" },
+        { "point": "마지막 결말", "explanation": "마지막（最後） + 결말（結局），名詞短語。" },
+        { "point": "일", "explanation": "이다（是）的冠形詞形 -ㄹ（表推測），修飾 줄。" },
+        { "point": "줄은", "explanation": "줄（依存名詞，表推測） + -은（主題助詞），整體意為「……會是（結局）這件事」。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "눈물을 씻겨 줄 비가 내려요",
+      "translation": "能為我洗去淚水的雨在下著。",
+      "analysis": [
+        { "point": "눈물을", "explanation": "눈물（眼淚） + -을（賓格助詞）。" },
+        { "point": "씻겨 줄", "explanation": "씻기다（使／被洗）或 씻다 的使動形 + -아/어 주다（為……做）的連接形，此處作冠形修飾 비，意為「能洗去的」。" },
+        { "point": "비가", "explanation": "비（雨） + -가（主格助詞）。" },
+        { "point": "내려요", "explanation": "내리다（落下／下） + -어요（敬語陳述）。" }
+      ]
+    },
+    {
+      "korean": "상처를 날려 줄 바람이 부네요",
+      "translation": "能為我吹散傷痕的風在吹著。",
+      "analysis": [
+        { "point": "상처를", "explanation": "상처（傷痕／傷口） + -을（賓格）。" },
+        { "point": "날려 줄", "explanation": "날리다（使飛走／吹散） + -아/어 주다 的連接形，修飾 바람，意為「能吹散的」。" },
+        { "point": "바람이", "explanation": "바람（風） + -이（主格）。" },
+        { "point": "부네요", "explanation": "불다（吹） + -네요（感嘆／陳述，敬語）。" }
+      ]
+    },
+    {
+      "korean": "이별을 만나기엔 너무 작아요",
+      "translation": "對於遇見離別來說，我實在太渺小了。",
+      "analysis": [
+        { "point": "이별을", "explanation": "이별（離別） + -을（賓格）。" },
+        { "point": "만나기엔", "explanation": "만나다（遇見） + -기（名詞化） + -에는（助詞 -에 表基準／目的，加上 -는 強調），縮略為 -기엔，意為「對於……來說」。" },
+        { "point": "너무", "explanation": "副詞「太過／非常」。" },
+        { "point": "작아요", "explanation": "작다（小） + -아요（敬語陳述）。" }
+      ]
+    },
+    {
+      "korean": "내 울음소리가",
+      "translation": "我的哭聲",
+      "analysis": [
+        { "point": "내", "explanation": "我的（代名詞）。" },
+        { "point": "울음소리가", "explanation": "울음소리（哭聲） + -가（主格助詞）。" }
+      ]
+    },
+    {
+      "korean": "이별에 닿지 않게 하도록",
+      "translation": "為了不讓（哭聲）觸及離別。",
+      "analysis": [
+        { "point": "이별에", "explanation": "이별（離別） + -에（位置／對象助詞）。" },
+        { "point": "닿지 않게", "explanation": "닿다（觸及） + -지 않다（否定） + -게（副詞化，表方式），意為「不觸及地」。" },
+        { "point": "하도록", "explanation": "하다（使） + -도록（目的連接詞尾），意為「為了使……」。整體表示「為了使（哭聲）不觸及離別」。 " }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "어느덧 우린 지워진",
+      "translation": "不知不覺，我們被抹去的（愛情）",
+      "analysis": [
+        { "point": "어느덧", "explanation": "副詞「不知不覺間」。" },
+        { "point": "우린", "explanation": "우리（我們） + -는（主題助詞）的縮略。" },
+        { "point": "지워진", "explanation": "지워지다（被抹去／被消除）的冠形詞形（-ㄴ），修飾後面的 사랑。" }
+      ]
+    },
+    {
+      "korean": "사랑에 맴돌았고",
+      "translation": "徘徊在愛情裡，",
+      "analysis": [
+        { "point": "사랑에", "explanation": "사랑（愛情） + -에（位置助詞「在……裡」）。" },
+        { "point": "맴돌았고", "explanation": "맴돌다（徘徊／盤旋） + -았-（過去時） + -고（並列連接詞尾）。" }
+      ]
+    },
+    {
+      "korean": "흩어진 추억을",
+      "translation": "將散落的回憶",
+      "analysis": [
+        { "point": "흩어진", "explanation": "흩어지다（散落／散開）的冠形詞形（-ㄴ），修飾 추억。" },
+        { "point": "추억을", "explanation": "추억（回憶） + -을（賓格助詞）。" }
+      ]
+    },
+    {
+      "korean": "하나씩 주워 담았네",
+      "translation": "一個一個拾起收集了呢。",
+      "analysis": [
+        { "point": "하나씩", "explanation": "하나（一） + -씩（每／各），意為「一個一個地」。" },
+        { "point": "주워", "explanation": "줍다（拾起）的連接形（-아/어）。" },
+        { "point": "담았네", "explanation": "담다（裝／收集） + -았-（過去時） + -네（感嘆／陳述）。" }
+      ]
+    },
+    {
+      "korean": "영원할 줄 알았던",
+      "translation": "曾以為會永恆的（故事）",
+      "analysis": [
+        { "point": "영원할", "explanation": "영원하다（永恆） + -ㄹ（冠形推測）。" },
+        { "point": "줄", "explanation": "依存名詞，表「事情」。" },
+        { "point": "알았던", "explanation": "알다（知道） + -았-（過去） + -던（回想冠形）。" }
+      ]
+    },
+    {
+      "korean": "거대한 우리의 이야기는",
+      "translation": "我們宏大的故事",
+      "analysis": [
+        { "point": "거대한", "explanation": "거대하다（宏大） + -ㄴ（冠形）。" },
+        { "point": "우리의", "explanation": "우리（我們） + -의（屬格）。" },
+        { "point": "이야기는", "explanation": "이야기（故事） + -는（主題）。" }
+      ]
+    },
+    {
+      "korean": "오늘이 마지막 결말일 줄은",
+      "translation": "今天竟是（這故事）最後的結局。",
+      "analysis": [
+        { "point": "오늘이", "explanation": "오늘（今天） + -이（主格）。" },
+        { "point": "마지막 결말일", "explanation": "마지막（最後） + 결말（結局） + 이다（是）的冠形推測形 -ㄹ，修飾 줄。" },
+        { "point": "줄은", "explanation": "줄（依存名詞） + -은（主題）。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "눈물을 씻겨 줄 비가 내려요",
+      "translation": "能為我洗去淚水的雨在下著。",
+      "analysis": [
+        { "point": "눈물을", "explanation": "눈물（眼淚） + -을（賓格）。" },
+        { "point": "씻겨 줄", "explanation": "씻기다（使／被洗） + -아/어 주다 的連接形，修飾 비，意為「能洗去的」。" },
+        { "point": "비가", "explanation": "비（雨） + -가（主格）。" },
+        { "point": "내려요", "explanation": "내리다（落下） + -어요。" }
+      ]
+    },
+    {
+      "korean": "상처를 날려 줄 바람이 부네요",
+      "translation": "能為我吹散傷痕的風在吹著。",
+      "analysis": [
+        { "point": "상처를", "explanation": "상처（傷痕） + -을（賓格）。" },
+        { "point": "날려 줄", "explanation": "날리다（吹散） + -아/어 주다 的連接形，修飾 바람。" },
+        { "point": "바람이", "explanation": "바람（風） + -이（主格）。" },
+        { "point": "부네요", "explanation": "불다（吹） + -네요。" }
+      ]
+    },
+    {
+      "korean": "이별을 만나기엔 너무 작아요",
+      "translation": "對於遇見離別來說，我實在太渺小了。",
+      "analysis": [
+        { "point": "이별을", "explanation": "이별（離別） + -을（賓格）。" },
+        { "point": "만나기엔", "explanation": "만나다（遇見） + -기（名詞化） + -에는（基準助詞 + 主題），縮略為 -기엔。" },
+        { "point": "너무", "explanation": "副詞「太過」。" },
+        { "point": "작아요", "explanation": "작다（小） + -아요。" }
+      ]
+    },
+    {
+      "korean": "내 울음소리가",
+      "translation": "我的哭聲",
+      "analysis": [
+        { "point": "내", "explanation": "我的（代名詞）。" },
+        { "point": "울음소리가", "explanation": "울음소리（哭聲） + -가（主格）。" }
+      ]
+    },
+    {
+      "korean": "이별에 닿지 않게 하도록",
+      "translation": "為了不讓（哭聲）觸及離別。",
+      "analysis": [
+        { "point": "이별에", "explanation": "이별（離別） + -에（對象）。" },
+        { "point": "닿지 않게", "explanation": "닿다（觸及） + -지 않다（否定） + -게（副詞化）。" },
+        { "point": "하도록", "explanation": "하다（使） + -도록（目的）。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "언덕", "chinese": "山丘", "pos": "名詞" },
+    { "korean": "너머", "chinese": "那邊／越過", "pos": "名詞" },
+    { "korean": "우리", "chinese": "我們", "pos": "代名詞" },
+    { "korean": "사랑", "chinese": "愛情", "pos": "名詞" },
+    { "korean": "보이다", "chinese": "被看見", "pos": "動詞" },
+    { "korean": "높다", "chinese": "高", "pos": "形容詞" },
+    { "korean": "쌓다", "chinese": "堆積", "pos": "動詞" },
+    { "korean": "추억", "chinese": "回憶", "pos": "名詞" },
+    { "korean": "무너지다", "chinese": "崩塌", "pos": "動詞" },
+    { "korean": "영원하다", "chinese": "永恆", "pos": "形容詞" },
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "거대하다", "chinese": "宏大", "pos": "形容詞" },
+    { "korean": "이야기", "chinese": "故事", "pos": "名詞" },
+    { "korean": "오늘", "chinese": "今天", "pos": "名詞" },
+    { "korean": "마지막", "chinese": "最後", "pos": "名詞" },
+    { "korean": "결말", "chinese": "結局", "pos": "名詞" },
+    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" },
+    { "korean": "씻기다", "chinese": "被洗／洗去", "pos": "動詞" },
+    { "korean": "비", "chinese": "雨", "pos": "名詞" },
+    { "korean": "내리다", "chinese": "落下", "pos": "動詞" },
+    { "korean": "상처", "chinese": "傷痕", "pos": "名詞" },
+    { "korean": "날리다", "chinese": "吹散／使飛", "pos": "動詞" },
+    { "korean": "바람", "chinese": "風", "pos": "名詞" },
+    { "korean": "불다", "chinese": "吹", "pos": "動詞" },
+    { "korean": "이별", "chinese": "離別", "pos": "名詞" },
+    { "korean": "만나다", "chinese": "遇見", "pos": "動詞" },
+    { "korean": "작다", "chinese": "小", "pos": "形容詞" },
+    { "korean": "울음소리", "chinese": "哭聲", "pos": "名詞" },
+    { "korean": "닿다", "chinese": "觸及", "pos": "動詞" },
+    { "korean": "하다", "chinese": "做／使", "pos": "動詞" },
+    { "korean": "어느덧", "chinese": "不知不覺間", "pos": "副詞" },
+    { "korean": "지워지다", "chinese": "被抹去", "pos": "動詞" },
+    { "korean": "맴돌다", "chinese": "徘徊", "pos": "動詞" },
+    { "korean": "흩어지다", "chinese": "散落", "pos": "動詞" },
+    { "korean": "줍다", "chinese": "拾起", "pos": "動詞" },
+    { "korean": "담다", "chinese": "裝／收集", "pos": "動詞" },
+    { "korean": "하나", "chinese": "一", "pos": "數詞" },
+    { "korean": "주다", "chinese": "給（補助動詞）", "pos": "動詞" },
+    { "korean": "도", "chinese": "也（助詞）", "pos": "助詞" } 
+
+  ]
+}
