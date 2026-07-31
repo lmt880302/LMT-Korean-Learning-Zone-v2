@@ -1,0 +1,301 @@
+{
+  "id": "redoor-exaggerated-love",
+  "title": "Exaggerated Love (사랑의 미학)",
+  "artist": "Redoor (리도어)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "미리 알았더라면",
+      "translation": "如果早點知道的話，",
+      "analysis": [
+        { "point": "미리", "explanation": "副詞「事先／提前」。 " },
+        { "point": "알았더라면", "explanation": "알다（知道） + -았-（過去時） + -더라면（回想假設連接詞尾，意為「如果早知……」）。" }
+      ]
+    },
+    {
+      "korean": "조금 덜 아팠을까",
+      "translation": "會不會稍微不那麼痛呢？",
+      "analysis": [
+        { "point": "조금", "explanation": "副詞「稍微」。 " },
+        { "point": "덜", "explanation": "副詞「更少／不那麼」。 " },
+        { "point": "아팠을까", "explanation": "아프다（痛） + -았-（過去） + -을까（推測疑問終結詞尾）。" }
+      ]
+    },
+    {
+      "korean": "내 하루를 버텨 줄 일기장에는",
+      "translation": "在支撐我每一天的日記本裡，",
+      "analysis": [
+        { "point": "내 하루를", "explanation": "내（我的） + 하루（一天） + -를（賓格助詞）。" },
+        { "point": "버텨 줄", "explanation": "버티다（撐住／忍受） + -아/어 주다（為……做）的冠形詞形（-ㄹ），修飾 일기장。" },
+        { "point": "일기장에는", "explanation": "일기장（日記本） + -에는（位置助詞 -에 + 主題助詞 -는），意為「在日記本裡」。 " }
+      ]
+    },
+    {
+      "korean": "또 무엇을 담을까",
+      "translation": "又會裝進什麼呢？",
+      "analysis": [
+        { "point": "또", "explanation": "副詞「又／再」。 " },
+        { "point": "무엇을", "explanation": "무엇（什麼） + -을（賓格）。" },
+        { "point": "담을까", "explanation": "담다（裝入） + -을까（推測疑問終結詞尾）。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "부풀린 사랑에 속아요",
+      "translation": "被膨脹的愛情欺騙了。",
+      "analysis": [
+        { "point": "부풀린", "explanation": "부풀리다（膨脹／誇大）的冠形詞形（-ㄴ），修飾 사랑。" },
+        { "point": "사랑에", "explanation": "사랑（愛情） + -에（對象／原因助詞「被」）。" },
+        { "point": "속아요", "explanation": "속다（被騙） + -아요（敬語終結詞尾）。" }
+      ]
+    },
+    {
+      "korean": "뒷걸음치는 내 모습 알아요",
+      "translation": "我知道自己後退的樣子。",
+      "analysis": [
+        { "point": "뒷걸음치는", "explanation": "뒷걸음치다（倒退／後退）的冠形詞形（-는），修飾 내 모습。" },
+        { "point": "내 모습", "explanation": "내（我的） + 모습（樣子）。" },
+        { "point": "알아요", "explanation": "알다（知道） + -아요（敬語）。" }
+      ]
+    },
+    {
+      "korean": "내가 나를 괴롭혔네요",
+      "translation": "是我折磨了我自己。",
+      "analysis": [
+        { "point": "내가", "explanation": "나（我） + -가（主格助詞）。" },
+        { "point": "나를", "explanation": "나（我） + -를（賓格）。" },
+        { "point": "괴롭혔네요", "explanation": "괴롭히다（折磨） + -었-（過去） + -네요（感嘆／陳述終結詞尾，敬語）。" }
+      ]
+    },
+    {
+      "korean": "어둠이 떨어져도 난 몰랐죠",
+      "translation": "即使黑暗降臨，我也不知道。",
+      "analysis": [
+        { "point": "어둠이", "explanation": "어둠（黑暗） + -이（主格助詞）。" },
+        { "point": "떨어져도", "explanation": "떨어지다（落下／降臨） + -아/어도（讓步連接詞尾「即使……」）。" },
+        { "point": "난", "explanation": "나는 的縮略（我＋主題）。" },
+        { "point": "몰랐죠", "explanation": "모르다（不知道） + -았-（過去） + -죠（陳述語氣）。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "풍선에 매달린 듯",
+      "translation": "如同懸掛在氣球上一般，",
+      "analysis": [
+        { "point": "풍선에", "explanation": "풍선（氣球） + -에（位置助詞「在……上」）。" },
+        { "point": "매달린", "explanation": "매달리다（懸掛）的冠形詞形（-ㄴ），修飾 듯。" },
+        { "point": "듯", "explanation": "依存名詞，表比喻「如同……」。 " }
+      ]
+    },
+    {
+      "korean": "해가 떠오른다면",
+      "translation": "如果太陽升起的話，",
+      "analysis": [
+        { "point": "해가", "explanation": "해（太陽） + -가（主格助詞）。" },
+        { "point": "떠오른다면", "explanation": "떠오르다（升起） + -ㄴ다면（假設條件「如果……」）。" }
+      ]
+    },
+    {
+      "korean": "옅어진 우리를 채울 거예요",
+      "translation": "會填滿變得淡薄的我們。",
+      "analysis": [
+        { "point": "옅어진", "explanation": "옅어지다（變淡／變薄）的冠形詞形（-ㄴ），修飾 우리。" },
+        { "point": "우리를", "explanation": "우리（我們） + -를（賓格）。" },
+        { "point": "채울 거예요", "explanation": "채우다（填滿） + -을 것이다（將來推測）的敬語形 거예요。" }
+      ]
+    },
+    {
+      "korean": "꽃잎은 졌다 해도",
+      "translation": "即使花瓣已經凋謝，",
+      "analysis": [
+        { "point": "꽃잎은", "explanation": "꽃잎（花瓣） + -은（主題助詞）。" },
+        { "point": "졌다 해도", "explanation": "지다（凋謝） + -았-（過去） + -다고 해도（引用＋讓步「即使說……」）。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "부풀린 사랑에 속아요",
+      "translation": "被膨脹的愛情欺騙了。",
+      "analysis": [
+        { "point": "부풀린", "explanation": "冠形詞。" },
+        { "point": "사랑에", "explanation": "對象助詞。" },
+        { "point": "속아요", "explanation": "敬語。" }
+      ]
+    },
+    {
+      "korean": "뒷걸음치는 내 모습 알아요",
+      "translation": "我知道自己後退的樣子。",
+      "analysis": [
+        { "point": "뒷걸음치는", "explanation": "冠形詞。" },
+        { "point": "내 모습", "explanation": "我的樣子。" },
+        { "point": "알아요", "explanation": "知道。" }
+      ]
+    },
+    {
+      "korean": "내가 나를 괴롭혔네요",
+      "translation": "是我折磨了我自己。",
+      "analysis": [
+        { "point": "내가", "explanation": "主格。" },
+        { "point": "나를", "explanation": "賓格。" },
+        { "point": "괴롭혔네요", "explanation": "過去感嘆。" }
+      ]
+    },
+    {
+      "korean": "어둠이 떨어져도 난 몰랐죠",
+      "translation": "即使黑暗降臨，我也不知道。",
+      "analysis": [
+        { "point": "어둠이", "explanation": "主格。" },
+        { "point": "떨어져도", "explanation": "讓步。" },
+        { "point": "난", "explanation": "我。" },
+        { "point": "몰랐죠", "explanation": "過去陳述。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "떠내려간 마음이 예정 없이 찾아와요",
+      "translation": "漂流而去的心，毫無預告地找了過來。",
+      "analysis": [
+        { "point": "떠내려간", "explanation": "떠내려가다（漂流而去）的冠形詞形（-ㄴ），修飾 마음。" },
+        { "point": "마음이", "explanation": "마음（心） + -이（主格）。" },
+        { "point": "예정 없이", "explanation": "예정（預定） + 없다（沒有） + -이（副詞化），意為「毫無預告地」。 " },
+        { "point": "찾아와요", "explanation": "찾아오다（找來） + -아요（敬語）。" }
+      ]
+    },
+    {
+      "korean": "사라진 흔적만 가득한데",
+      "translation": "只有消失的痕跡，滿滿的都是。",
+      "analysis": [
+        { "point": "사라진", "explanation": "사라지다（消失）的冠形詞形（-ㄴ），修飾 흔적。" },
+        { "point": "흔적만", "explanation": "흔적（痕跡） + -만（限定助詞「只」）。" },
+        { "point": "가득한데", "explanation": "가득하다（滿滿的） + -ㄴ데（背景／轉折連接詞尾）。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus (Variation)",
+      "korean": "부풀린 사랑에 속아요",
+      "translation": "被膨脹的愛情欺騙了。",
+      "analysis": [
+        { "point": "부풀린", "explanation": "冠形詞。" },
+        { "point": "사랑에", "explanation": "對象助詞。" },
+        { "point": "속아요", "explanation": "敬語。" }
+      ]
+    },
+    {
+      "korean": "뒷걸음치는 내 모습 알아요",
+      "translation": "我知道自己後退的樣子。",
+      "analysis": [
+        { "point": "뒷걸음치는", "explanation": "冠形詞。" },
+        { "point": "내 모습", "explanation": "我的樣子。" },
+        { "point": "알아요", "explanation": "知道。" }
+      ]
+    },
+    {
+      "korean": "내가 나를 괴롭혔네요",
+      "translation": "是我折磨了我自己。",
+      "analysis": [
+        { "point": "내가", "explanation": "主格。" },
+        { "point": "나를", "explanation": "賓格。" },
+        { "point": "괴롭혔네요", "explanation": "過去感嘆。" }
+      ]
+    },
+    {
+      "korean": "그늘이 떨어져도 난 몰랐죠",
+      "translation": "即使陰影降臨，我也不知道。",
+      "analysis": [
+        { "point": "그늘이", "explanation": "그늘（陰影） + -이（主格）。" },
+        { "point": "떨어져도", "explanation": "讓步。" },
+        { "point": "난", "explanation": "我。" },
+        { "point": "몰랐죠", "explanation": "過去陳述。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "난 세 번을 빙글 돌아요",
+      "translation": "我轉了三圈。",
+      "analysis": [
+        { "point": "난", "explanation": "나는 的縮略。" },
+        { "point": "세 번을", "explanation": "세 번（三次） + -을（賓格助詞，表次數）。" },
+        { "point": "빙글", "explanation": "擬態詞「旋轉地」。 " },
+        { "point": "돌아요", "explanation": "돌다（轉） + -아요（敬語）。" }
+      ]
+    },
+    {
+      "korean": "어지러운 세상은 익숙해요",
+      "translation": "令人眩暈的世界，我已經習慣了。",
+      "analysis": [
+        { "point": "어지러운", "explanation": "어지럽다（令人眩暈）的冠形詞形（-은），修飾 세상。" },
+        { "point": "세상은", "explanation": "세상（世界） + -은（主題）。" },
+        { "point": "익숙해요", "explanation": "익숙하다（熟悉／習慣） + -아/어요（敬語）。" }
+      ]
+    },
+    {
+      "korean": "사랑이란 말 잘 몰라요",
+      "translation": "我不太懂「愛情」這個詞。",
+      "analysis": [
+        { "point": "사랑이란", "explanation": "사랑（愛情） + -이란（-이라는 的縮略，意為「所謂『愛情』」）。" },
+        { "point": "말", "explanation": "말（話語／詞）。" },
+        { "point": "잘", "explanation": "副詞「好好地／很」。 " },
+        { "point": "몰라요", "explanation": "모르다（不知道） + -아요（敬語）。" }
+      ]
+    },
+    {
+      "korean": "후회를 삼켜봐야 뭐겠어요",
+      "translation": "就算試著吞下後悔，又能怎樣呢。",
+      "analysis": [
+        { "point": "후회를", "explanation": "후회（後悔） + -를（賓格）。" },
+        { "point": "삼켜봐야", "explanation": "삼키다（吞） + -아/어 보다（嘗試） + -아/어야（條件「必須／就算」），意為「就算試著吞下」。 " },
+        { "point": "뭐겠어요", "explanation": "뭐（什麼） + 이겠어요（이다 的推測疑問敬語），意為「會是什麼呢／又能怎樣呢」。 " }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "미리", "chinese": "事先", "pos": "副詞" },
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "조금", "chinese": "稍微", "pos": "副詞" },
+    { "korean": "덜", "chinese": "更少", "pos": "副詞" },
+    { "korean": "아프다", "chinese": "痛", "pos": "形容詞" },
+    { "korean": "하루", "chinese": "一天", "pos": "名詞" },
+    { "korean": "버티다", "chinese": "撐住", "pos": "動詞" },
+    { "korean": "일기장", "chinese": "日記本", "pos": "名詞" },
+    { "korean": "담다", "chinese": "裝入", "pos": "動詞" },
+    { "korean": "부풀리다", "chinese": "膨脹／誇大", "pos": "動詞" },
+    { "korean": "사랑", "chinese": "愛情", "pos": "名詞" },
+    { "korean": "속다", "chinese": "被騙", "pos": "動詞" },
+    { "korean": "뒷걸음치다", "chinese": "倒退", "pos": "動詞" },
+    { "korean": "모습", "chinese": "樣子", "pos": "名詞" },
+    { "korean": "괴롭히다", "chinese": "折磨", "pos": "動詞" },
+    { "korean": "어둠", "chinese": "黑暗", "pos": "名詞" },
+    { "korean": "떨어지다", "chinese": "落下／降臨", "pos": "動詞" },
+    { "korean": "모르다", "chinese": "不知道", "pos": "動詞" },
+    { "korean": "풍선", "chinese": "氣球", "pos": "名詞" },
+    { "korean": "매달리다", "chinese": "懸掛", "pos": "動詞" },
+    { "korean": "해", "chinese": "太陽", "pos": "名詞" },
+    { "korean": "떠오르다", "chinese": "升起", "pos": "動詞" },
+    { "korean": "옅어지다", "chinese": "變淡", "pos": "動詞" },
+    { "korean": "채우다", "chinese": "填滿", "pos": "動詞" },
+    { "korean": "꽃잎", "chinese": "花瓣", "pos": "名詞" },
+    { "korean": "지다", "chinese": "凋謝", "pos": "動詞" },
+    { "korean": "떠내려가다", "chinese": "漂流而去", "pos": "動詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "예정", "chinese": "預定", "pos": "名詞" },
+    { "korean": "찾아오다", "chinese": "找來", "pos": "動詞" },
+    { "korean": "사라지다", "chinese": "消失", "pos": "動詞" },
+    { "korean": "흔적", "chinese": "痕跡", "pos": "名詞" },
+    { "korean": "가득하다", "chinese": "滿滿的", "pos": "形容詞" },
+    { "korean": "그늘", "chinese": "陰影", "pos": "名詞" },
+    { "korean": "세 번", "chinese": "三次", "pos": "名詞" },
+    { "korean": "빙글", "chinese": "旋轉地", "pos": "副詞／擬態詞" },
+    { "korean": "돌다", "chinese": "轉", "pos": "動詞" },
+    { "korean": "어지럽다", "chinese": "令人眩暈", "pos": "形容詞" },
+    { "korean": "세상", "chinese": "世界", "pos": "名詞" },
+    { "korean": "익숙하다", "chinese": "習慣", "pos": "形容詞" },
+    { "korean": "말", "chinese": "話／詞", "pos": "名詞" },
+    { "korean": "잘", "chinese": "好好地", "pos": "副詞" },
+    { "korean": "후회", "chinese": "後悔", "pos": "名詞" },
+    { "korean": "삼키다", "chinese": "吞", "pos": "動詞" },
+    { "korean": "보다", "chinese": "試試看（補助動詞）", "pos": "動詞" },
+    { "korean": "되다", "chinese": "成為", "pos": "動詞" },
+    { "korean": "나", "chinese": "我", "pos": "代名詞" },
+    { "korean": "우리", "chinese": "我們", "pos": "代名詞" }
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "id": "junny-heaven-can-wait",
+  "title": "Heaven Can Wait",
+  "artist": "JUNNY (주니)",
+  "lines": [
+    {
+      "sectionTitle": "Intro",
+      "korean": "Ta, ta-ta-ta-ta, ta-ta-ta-ta, ta-ta-ta-ta",
+      "translation": "Ta, ta-ta-ta-ta, ta-ta-ta-ta, ta-ta-ta-ta",
+      "analysis": []
+    },
+    {
+      "korean": "Ta-ta-ta-ta, ta-ta-ta-ta, ta-ta-ta-ta",
+      "translation": "Ta-ta-ta-ta, ta-ta-ta-ta, ta-ta-ta-ta",
+      "analysis": []
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "Heaven can wait, 네 향기의 출처",
+      "translation": "天堂可以等待，你那香氣的來源。",
+      "analysis": [
+        { "point": "네", "explanation": "너（你）的屬格形，意為「你的」。 " },
+        { "point": "향기의", "explanation": "향기（香氣） + -의（屬格助詞），修飾 출처。" },
+        { "point": "출처", "explanation": "來源／出處（名詞）。" }
+      ]
+    },
+    {
+      "korean": "색바랜 도시 속 (ta-ta-ta-ta)",
+      "translation": "在褪色的城市中 (ta-ta-ta-ta)。",
+      "analysis": [
+        { "point": "색바랜", "explanation": "색바래다（褪色）的冠形詞形（-ㄴ），修飾 도시。" },
+        { "point": "도시 속", "explanation": "도시（城市） + 속（裡面）。" }
+      ]
+    },
+    {
+      "korean": "Oh, you're everywhere I go (ta-ta-ta-ta, ta-ta-ta-ta)",
+      "translation": "哦，無論我去哪裡，你都在。",
+      "analysis": []
+    },
+    {
+      "korean": "That's why I can't give you up",
+      "translation": "那就是我無法放棄你的原因。",
+      "analysis": []
+    },
+    {
+      "korean": "색깔은 red, 오묘한 flavor, oh",
+      "translation": "顏色是紅色的，奧妙的風味，噢。",
+      "analysis": [
+        { "point": "색깔은", "explanation": "색깔（顏色） + -은（主題助詞）。" },
+        { "point": "오묘한", "explanation": "오묘하다（奧妙）的冠形詞形（-ㄴ），修飾 flavor。" }
+      ]
+    },
+    {
+      "korean": "Have I been blessed? Oh, you my angel",
+      "translation": "我是被祝福的嗎？哦，你是我的天使。",
+      "analysis": []
+    },
+    {
+      "korean": "날 구원한 눈빛 (oh, hmm-mm)",
+      "translation": "拯救了我的眼神 (oh, hmm-mm)。",
+      "analysis": [
+        { "point": "날", "explanation": "나를 的縮略（我＋賓格助詞 -를）。" },
+        { "point": "구원한", "explanation": "구원하다（拯救）的冠形詞形（-ㄴ），修飾 눈빛。" },
+        { "point": "눈빛", "explanation": "眼神（名詞）。" }
+      ]
+    },
+    {
+      "korean": "It's killing me softly, I guarantee",
+      "translation": "這正溫柔地殺死我，我保證。",
+      "analysis": []
+    },
+    {
+      "korean": "I'll give you what you want (mm-mm)",
+      "translation": "我會給你你想要的 (mm-mm)。",
+      "analysis": []
+    },
+    {
+      "korean": "I know just what you want (yeah-eh)",
+      "translation": "我知道你想要什麼 (yeah-eh)。",
+      "analysis": []
+    },
+    {
+      "korean": "It's more than just enough ('cause I)",
+      "translation": "這不僅僅是足夠（因為我）。",
+      "analysis": []
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "'Cause I wanna see you dance tonight, mm, yeah",
+      "translation": "因為我想看你今晚跳舞，mm，yeah。",
+      "analysis": []
+    },
+    {
+      "korean": "모든 게 heaven in disguise, moonwalkin' 'til we're naked",
+      "translation": "一切都是偽裝的天堂，月亮漫步直到我們赤裸。",
+      "analysis": [
+        { "point": "모든 게", "explanation": "모든（所有的） + 것이（東西／事物＋主格助詞）的縮略 게，意為「所有一切」。 " },
+        { "point": "heaven in disguise", "explanation": "偽裝的天堂（英文片語）。" },
+        { "point": "moonwalkin'", "explanation": "月球漫步（麥可·傑克森舞步），此處作為動詞使用。" }
+      ]
+    },
+    {
+      "korean": "Give you what you want",
+      "translation": "給你你想要的。",
+      "analysis": []
+    },
+    {
+      "korean": "Baby, I know just what you want",
+      "translation": "寶貝，我知道你想要什麼。",
+      "analysis": []
+    },
+    {
+      "korean": "Like it's more than just enough",
+      "translation": "就像它不僅僅是足夠。",
+      "analysis": []
+    },
+    {
+      "korean": "I'll give you what you want (ow!)",
+      "translation": "我會給你你想要的 (ow!)。",
+      "analysis": []
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "Uh, hmm, yeah",
+      "translation": "Uh, hmm, yeah。",
+      "analysis": []
+    },
+    {
+      "korean": "Rocketman, play this piano",
+      "translation": "火箭人，彈奏這架鋼琴。",
+      "analysis": []
+    },
+    {
+      "korean": "내 몸에 맞춰 (내 몸에 맞춰) 움직여줘 take it slow",
+      "translation": "配合我的身體（配合我的身體）移動，慢慢來。",
+      "analysis": [
+        { "point": "내 몸에 맞춰", "explanation": "내（我的） + 몸（身體） + -에（對象助詞） + 맞추다（配合）的連接形，意為「配合我的身體」。 " },
+        { "point": "움직여줘", "explanation": "움직이다（移動） + -아/어 주다（為……做）的縮略命令形，意為「請為我移動」。 " }
+      ]
+    },
+    {
+      "korean": "'Cause I can't give it up",
+      "translation": "因為我無法放棄。",
+      "analysis": []
+    },
+    {
+      "korean": "La vie en rose (oh, yeah) 우아한 behavior",
+      "translation": "玫瑰人生 (oh, yeah) 優雅的行為。",
+      "analysis": [
+        { "point": "우아한", "explanation": "우아하다（優雅）的冠形詞形（-ㄴ），修飾 behavior。" }
+      ]
+    },
+    {
+      "korean": "Have you been told? Oh, you my angel",
+      "translation": "有人告訴過你嗎？哦，你是我的天使。",
+      "analysis": []
+    },
+    {
+      "korean": "날 구원한 눈빛 (눈빛, hmm)",
+      "translation": "拯救了我的眼神 (眼神, hmm)。",
+      "analysis": [
+        { "point": "날", "explanation": "나를 的縮略。" },
+        { "point": "구원한", "explanation": "구원하다（拯救）的冠形詞形（-ㄴ），修飾 눈빛。" },
+        { "point": "눈빛", "explanation": "眼神（名詞）。" }
+      ]
+    },
+    {
+      "korean": "It's killing me softly, I guarantee",
+      "translation": "這正溫柔地殺死我，我保證。",
+      "analysis": []
+    },
+    {
+      "korean": "I'll give you what you want (mm-mm)",
+      "translation": "我會給你你想要的 (mm-mm)。",
+      "analysis": []
+    },
+    {
+      "korean": "I know just what you want (yeah-eh)",
+      "translation": "我知道你想要什麼 (yeah-eh)。",
+      "analysis": []
+    },
+    {
+      "korean": "It's more than just enough ('cause I, I, I, I)",
+      "translation": "這不僅僅是足夠（因為我，我，我，我）。",
+      "analysis": []
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "'Cause I wanna see you dance tonight",
+      "translation": "因為我想看你今晚跳舞。",
+      "analysis": []
+    },
+    {
+      "korean": "(So, baby, let's dance the night away)",
+      "translation": "（所以，寶貝，讓我們整夜跳舞吧。）",
+      "analysis": []
+    },
+    {
+      "korean": "모든 게 heaven in disguise",
+      "translation": "一切都是偽裝的天堂。",
+      "analysis": [
+        { "point": "모든 게", "explanation": "모든（所有的） + 것이（主格）的縮略 게。" },
+        { "point": "heaven in disguise", "explanation": "偽裝的天堂。" }
+      ]
+    },
+    {
+      "korean": "(You know that we'll be moonwalkin' 'til we're naked)",
+      "translation": "（你知道我們會月亮漫步直到赤裸。）",
+      "analysis": []
+    },
+    {
+      "korean": "Give you what you want",
+      "translation": "給你你想要的。",
+      "analysis": []
+    },
+    {
+      "korean": "Baby, I know just what you want",
+      "translation": "寶貝，我知道你想要什麼。",
+      "analysis": []
+    },
+    {
+      "korean": "Like it's more than just enough",
+      "translation": "就像它不僅僅是足夠。",
+      "analysis": []
+    },
+    {
+      "korean": "'Cause girl heaven can wait",
+      "translation": "因為女孩，天堂可以等待。",
+      "analysis": []
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "새빨간 lips, 난 suit and tie, hey (uh, yeah, mm-hmm)",
+      "translation": "鮮紅的嘴唇，我穿西裝打領帶，嘿 (uh, yeah, mm-hmm)。",
+      "analysis": [
+        { "point": "새빨간", "explanation": "새빨갛다（鮮紅）的冠形詞形（-ㄴ），修飾 lips。" },
+        { "point": "난", "explanation": "나는 的縮略（我＋主題助詞 -는）。" }
+      ]
+    },
+    {
+      "korean": "네 허리 위 내 손을 봐 (do you feel it coming now, babe?)",
+      "translation": "看看我放在你腰上的手 (你現在感覺到了嗎，寶貝？)。",
+      "analysis": [
+        { "point": "네 허리 위", "explanation": "네（你的） + 허리（腰） + 위（上面）。" },
+        { "point": "내 손을", "explanation": "내（我的） + 손（手） + -을（賓格助詞）。" },
+        { "point": "봐", "explanation": "보다（看）的命令形／親密形。" }
+      ]
+    },
+    {
+      "korean": "석류 빛깔 석양의 light, hey (he)",
+      "translation": "石榴色夕陽的光芒，嘿 (he)。",
+      "analysis": [
+        { "point": "석류 빛깔", "explanation": "석류（石榴） + 빛깔（色澤），意為「石榴色」。 " },
+        { "point": "석양의", "explanation": "석양（夕陽） + -의（屬格助詞），修飾 light。" },
+        { "point": "light", "explanation": "光芒（英文）。" }
+      ]
+    },
+    {
+      "korean": "뜨거운 high, hell of a time (say with me)",
+      "translation": "炙熱的高潮，超棒的時光（跟我一起說）。",
+      "analysis": [
+        { "point": "뜨거운", "explanation": "뜨겁다（炙熱）的冠形詞形（-은），修飾 high。" },
+        { "point": "high", "explanation": "高潮（英文）。" },
+        { "point": "hell of a time", "explanation": "超棒的時光（英文俚語）。" }
+      ]
+    },
+    {
+      "korean": "새빨간 lips, 난 suit and tie, hey (ooh)",
+      "translation": "鮮紅的嘴唇，我穿西裝打領帶，嘿 (ooh)。",
+      "analysis": [
+        { "point": "새빨간", "explanation": "鮮紅的（冠形）。" },
+        { "point": "난", "explanation": "나는 的縮略。" }
+      ]
+    },
+    {
+      "korean": "네 허리 위 내 손을 봐 (it's true, yeah)",
+      "translation": "看看我放在你腰上的手 (這是真的，yeah)。",
+      "analysis": [
+        { "point": "네 허리 위", "explanation": "你的腰上。" },
+        { "point": "내 손을", "explanation": "我的手（賓格）。" },
+        { "point": "봐", "explanation": "看（命令）。" }
+      ]
+    },
+    {
+      "korean": "석류 빛깔 석양의 light, hey (yeah-hey)",
+      "translation": "石榴色夕陽的光芒，嘿 (yeah-hey)。",
+      "analysis": [
+        { "point": "석류 빛깔", "explanation": "石榴色。" },
+        { "point": "석양의", "explanation": "夕陽的。" },
+        { "point": "light", "explanation": "光芒。" }
+      ]
+    },
+    {
+      "korean": "뜨거운 high (you and me, one, two, three)",
+      "translation": "炙熱的高潮（你和我，一，二，三）。",
+      "analysis": [
+        { "point": "뜨거운", "explanation": "炙熱的（冠形）。" },
+        { "point": "high", "explanation": "高潮。" }
+      ]
+    },
+    {
+      "korean": "'Cause, baby, we gon' have a hell of a time",
+      "translation": "因為，寶貝，我們會度過一段超棒的時光。",
+      "analysis": []
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "'Cause I wanna see you dance tonight",
+      "translation": "因為我想看你今晚跳舞。",
+      "analysis": []
+    },
+    {
+      "korean": "(I need your body to dance the night away, hey)",
+      "translation": "（我需要你的身體來整夜跳舞，嘿。）",
+      "analysis": []
+    },
+    {
+      "korean": "모든 게 heaven in disguise",
+      "translation": "一切都是偽裝的天堂。",
+      "analysis": [
+        { "point": "모든 게", "explanation": "所有一切（主格）。" },
+        { "point": "heaven in disguise", "explanation": "偽裝的天堂。" }
+      ]
+    },
+    {
+      "korean": "(You know that we'll be moonwalkin' 'til we're naked, yeah)",
+      "translation": "（你知道我們會月亮漫步直到赤裸，yeah。）",
+      "analysis": []
+    },
+    {
+      "korean": "Sweet like lemonade, 기분 좋은 aftertaste",
+      "translation": "像檸檬水一樣甜美，令人愉悅的餘韻。",
+      "analysis": [
+        { "point": "기분 좋은", "explanation": "기분（心情） + 좋다（好）的冠形詞形（-은），修飾 aftertaste，意為「令人心情愉悅的」。 " },
+        { "point": "aftertaste", "explanation": "餘韻（英文）。" }
+      ]
+    },
+    {
+      "korean": "시간이 마치 멈춘 듯해, oh",
+      "translation": "時間彷彿停止了，oh。",
+      "analysis": [
+        { "point": "시간이", "explanation": "시간（時間） + -이（主格助詞）。" },
+        { "point": "마치", "explanation": "副詞「彷彿／好像」。 " },
+        { "point": "멈춘 듯해", "explanation": "멈추다（停止） + -ㄴ 듯하다（表推測「彷彿……」）的縮略形 듯해，意為「彷彿停止了」。 " }
+      ]
+    },
+    {
+      "korean": "I'll give you what you want (come on)",
+      "translation": "我會給你你想要的 (來吧)。",
+      "analysis": []
+    },
+    {
+      "korean": "(Oh, yeah) baby, I know just what you want (what you want)",
+      "translation": "（Oh, yeah）寶貝，我知道你想要什麼（你想要的）。",
+      "analysis": []
+    },
+    {
+      "korean": "Like it's more than just enough",
+      "translation": "就像它不僅僅是足夠。",
+      "analysis": []
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "I'll give you what you want, babe",
+      "translation": "我會給你你想要的，寶貝。",
+      "analysis": []
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "향기", "chinese": "香氣", "pos": "名詞" },
+    { "korean": "출처", "chinese": "來源／出處", "pos": "名詞" },
+    { "korean": "색바래다", "chinese": "褪色", "pos": "動詞" },
+    { "korean": "도시", "chinese": "城市", "pos": "名詞" },
+    { "korean": "색깔", "chinese": "顏色", "pos": "名詞" },
+    { "korean": "오묘하다", "chinese": "奧妙", "pos": "形容詞" },
+    { "korean": "구원하다", "chinese": "拯救", "pos": "動詞" },
+    { "korean": "눈빛", "chinese": "眼神", "pos": "名詞" },
+    { "korean": "몸", "chinese": "身體", "pos": "名詞" },
+    { "korean": "맞추다", "chinese": "配合", "pos": "動詞" },
+    { "korean": "움직이다", "chinese": "移動", "pos": "動詞" },
+    { "korean": "우아하다", "chinese": "優雅", "pos": "形容詞" },
+    { "korean": "새빨갛다", "chinese": "鮮紅", "pos": "形容詞" },
+    { "korean": "허리", "chinese": "腰", "pos": "名詞" },
+    { "korean": "손", "chinese": "手", "pos": "名詞" },
+    { "korean": "석류", "chinese": "石榴", "pos": "名詞" },
+    { "korean": "빛깔", "chinese": "色澤", "pos": "名詞" },
+    { "korean": "석양", "chinese": "夕陽", "pos": "名詞" },
+    { "korean": "뜨겁다", "chinese": "炙熱", "pos": "形容詞" },
+    { "korean": "기분", "chinese": "心情", "pos": "名詞" },
+    { "korean": "좋다", "chinese": "好", "pos": "形容詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "마치", "chinese": "彷彿", "pos": "副詞" },
+    { "korean": "멈추다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "보았다", "chinese": "看／看到", "pos": "動詞" },
+    { "korean": "주다", "chinese": "給予", "pos": "動詞" },
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "나", "chinese": "我", "pos": "代名詞" },
+    { "korean": "너", "chinese": "你", "pos": "代名詞" },
+    { "korean": "우리", "chinese": "我們", "pos": "代名詞" }
+  ]
+}
