@@ -8,297 +8,298 @@
       "korean": "화려한 조명들도 그렇게",
       "translation": "華麗的照明們也那樣",
       "analysis": [
-        { "point": "화려한", "explanation": "화려하다（華麗）的冠形詞形（-ㄴ），修飾 조명들。" },
-        { "point": "조명들도", "explanation": "조명（照明） + -들（複數） + -도（助詞「也」）。" },
-        { "point": "그렇게", "explanation": "副詞「那樣地」。" }
+        { "point": "화려한", "explanation": "화려하다 華麗的冠形詞形 -ㄴ 修飾 조명들" },
+        { "point": "조명들도", "explanation": "조명 照明加上 -들 複數與 -도 助詞也" },
+        { "point": "그렇게", "explanation": "副詞 意為那樣地" }
       ]
     },
     {
       "korean": "부서진 채로 빛을 잃었네",
-      "translation": "破碎地失去了光芒。",
+      "translation": "破碎地失去了光芒",
       "analysis": [
-        { "point": "부서진", "explanation": "부서지다（破碎）的冠形詞形（-ㄴ），修飾 채로。" },
-        { "point": "채로", "explanation": "依存名詞 채（狀態）+ -로（助詞，表方式），意為「以……的狀態」。 " },
-        { "point": "빛을", "explanation": "빛（光芒） + -을（賓格助詞）。" },
-        { "point": "잃었네", "explanation": "잃다（失去） + -었-（過去時） + -네（感嘆／陳述終結詞尾）。" }
+        { "point": "부서진", "explanation": "부서지다 破碎的冠形詞形 -ㄴ 修飾 채로" },
+        { "point": "채로", "explanation": "依存名詞 채 狀態加上 -로 助詞表方式 意為以的狀態" },
+        { "point": "빛을", "explanation": "빛 光芒加上 -을 賓格助詞" },
+        { "point": "잃었네", "explanation": "잃다 失去加上 -었- 過去時與 -네 感嘆或陳述終結詞尾" }
       ]
     },
     {
       "korean": "떠밀려 가버린 내 바램도 사라져",
-      "translation": "被推走的我的願望也消失了。",
+      "translation": "被推走的我的願望也消失了",
       "analysis": [
-        { "point": "떠밀려", "explanation": "떠밀리다（被推）的連接形。" },
-        { "point": "가버린", "explanation": "가다（去） + -아/어 버리다（徹底） + -ㄴ（冠形詞形），修飾 내 바램。" },
-        { "point": "내 바램도", "explanation": "내（我的） + 바램（願望） + -도（也）。" },
-        { "point": "사라져", "explanation": "사라지다（消失）的連接形，此處作終結語尾（口語）。" }
+        { "point": "떠밀려", "explanation": "떠밀리다 被推的連接形" },
+        { "point": "가버린", "explanation": "가다 去加上 -아/어 버리다 徹底與 -ㄴ 冠形詞形 修飾 내 바램" },
+        { "point": "내 바램도", "explanation": "내 我的加上 바램 願望與 -도 也" },
+        { "point": "사라져", "explanation": "사라지다 消失的連接形 此處作終結語尾" }
       ]
     },
     {
       "korean": "찾을 수 없는 마음이 됐지",
-      "translation": "成了無法尋找的心。",
+      "translation": "成了無法尋找的心",
       "analysis": [
-        { "point": "찾을", "explanation": "찾다（尋找）的冠形詞形（-을），修飾 수。" },
-        { "point": "수 없는", "explanation": "수（依存名詞）+ 없다（沒有）的冠形詞形，構成「無法……」。 " },
-        { "point": "마음이", "explanation": "마음（心） + -이（主格助詞）。" },
-        { "point": "됐지", "explanation": "되다（成為） + -았-（過去） + -지（陳述語氣）。" }
+        { "point": "찾을", "explanation": "찾다 尋找的冠形詞形 -을 修飾 수" },
+        { "point": "수 없는", "explanation": "수 依存名詞加上 없다 沒有的冠形詞形 構成無法" },
+        { "point": "마음이", "explanation": "마음 心加上 -이 主格助詞" },
+        { "point": "됐지", "explanation": "되다 成為加上 -았- 過去時與 -지 陳述語氣" }
       ]
     },
     {
       "sectionTitle": "Pre-Chorus",
       "korean": "내 마음에 독을 품어도",
-      "translation": "即使心裡懷著毒，",
+      "translation": "即使心裡懷著毒",
       "analysis": [
-        { "point": "내 마음에", "explanation": "내（我的） + 마음（心） + -에（位置助詞「在……裡」）。" },
-        { "point": "독을", "explanation": "독（毒） + -을（賓格助詞）。" },
-        { "point": "품어도", "explanation": "품다（懷抱） + -아/어도（讓步連接詞尾）。" }
+        { "point": "내 마음에", "explanation": "내 我的加上 마음 心與 -에 位置助詞在裡" },
+        { "point": "독을", "explanation": "독 毒加上 -을 賓格助詞" },
+        { "point": "품어도", "explanation": "품다 懷抱加上 -아/어도 讓步連接詞尾" }
       ]
     },
     {
       "korean": "지나간 계절처럼 돌아올 텐데",
-      "translation": "應該會像過去的季節一樣回來吧。",
+      "translation": "應該會像過去的季節一樣回來吧",
       "analysis": [
-        { "point": "지나간", "explanation": "지나가다（過去）的冠形詞形（-ㄴ），修飾 계절。" },
-        { "point": "계절처럼", "explanation": "계절（季節） + -처럼（像……一樣）。" },
-        { "point": "돌아올", "explanation": "돌아오다（回來）的冠形詞形（-ㄹ），與 텐데 連用。" },
-        { "point": "텐데", "explanation": "터이다（推測） + -ㄴ데（背景／轉折連接詞尾），意為「應該會……（但……）」。" }
+        { "point": "지나간", "explanation": "지나가다 過去的冠形詞形 -ㄴ 修飾 계절" },
+        { "point": "계절처럼", "explanation": "계절 季節加上 -처럼 像一樣" },
+        { "point": "돌아올", "explanation": "돌아오다 回來的冠形詞形 -ㄹ 與 텐데 連用" },
+        { "point": "텐데", "explanation": "터이다 推測加上 -ㄴ데 背景或轉折連接詞尾 意為應該會但" }
       ]
     },
     {
       "sectionTitle": "Chorus",
       "korean": "혈관을 파고드는 욕망 주사기",
-      "translation": "刺入血管的欲望注射器。",
+      "translation": "刺入血管的欲望注射器",
       "analysis": [
-        { "point": "혈관을", "explanation": "혈관（血管） + -을（賓格助詞）。" },
-        { "point": "파고드는", "explanation": "파고들다（刺入／鑽入）的冠形詞形（-는），修飾 욕망 주사기。" },
-        { "point": "욕망 주사기", "explanation": "욕망（欲望） + 주사기（注射器），名詞短語。" }
+        { "point": "혈관을", "explanation": "혈관 血管加上 -을 賓格助詞" },
+        { "point": "파고드는", "explanation": "파고들다 刺入或鑽入的冠形詞形 -는 修飾 욕망 주사기" },
+        { "point": "욕망 주사기", "explanation": "욕망 欲望加上 주사기 注射器 名詞短語" }
       ]
     },
     {
       "korean": "창자가 뒤틀릴 때까지 울었지",
-      "translation": "哭到腸子都扭曲了。",
+      "translation": "哭到腸子都扭曲了",
       "analysis": [
-        { "point": "창자가", "explanation": "창자（腸子） + -가（主格助詞）。" },
-        { "point": "뒤틀릴", "explanation": "뒤틀리다（扭曲）的冠形詞形（-ㄹ），修飾 때까지。" },
-        { "point": "때까지", "explanation": "때（時候） + -까지（到……為止），意為「直到……的時候」。 " },
-        { "point": "울었지", "explanation": "울다（哭） + -었-（過去） + -지（陳述語氣）。" }
+        { "point": "창자가", "explanation": "창자 腸子加上 -가 主格助詞" },
+        { "point": "뒤틀릴", "explanation": "뒤틀리다 扭曲的冠形詞形 -ㄹ 修飾 때까지" },
+        { "point": "때까지", "explanation": "때 時候加上 -까지 到為止 意為直到的時候" },
+        { "point": "울었지", "explanation": "울다 哭加上 -었- 過去時與 -지 陳述語氣" }
       ]
     },
     {
       "korean": "떠나가는 그대 손을 놓게 된다면",
-      "translation": "如果不得不放開離開的你的手，",
+      "translation": "如果不得不放開離開的你的手",
       "analysis": [
-        { "point": "떠나가는", "explanation": "떠나가다（離開）的冠形詞形（-는），修飾 그대 손。" },
-        { "point": "그대 손을", "explanation": "그대（你） + 손（手） + -을（賓格）。" },
-        { "point": "놓게 된다면", "explanation": "놓다（放開） + -게 되다（被動／不得不） + -면（條件「如果……」）。" }
+        { "point": "떠나가는", "explanation": "떠나가다 離開的冠形詞形 -는 修飾 그대 손" },
+        { "point": "그대 손을", "explanation": "그대 你加上 손 手與 -을 賓格" },
+        { "point": "놓게 된다면", "explanation": "놓다 放開加上 -게 되다 被動或不得不與 -면 條件如果" }
       ]
     },
     {
       "korean": "사랑해라는 말을 죽여요 나는",
-      "translation": "我將「我愛你」這句話殺死。",
+      "translation": "我將我愛你這句話殺死",
       "analysis": [
-        { "point": "사랑해라는", "explanation": "사랑해（我愛你） + -라는（引用冠形詞形），修飾 말。" },
-        { "point": "말을", "explanation": "말（話） + -을（賓格）。" },
-        { "point": "죽여요", "explanation": "죽이다（殺死） + -어요（敬語終結）。" },
-        { "point": "나는", "explanation": "나（我） + -는（主題助詞）。" }
+        { "point": "사랑해라는", "explanation": "사랑해 我愛你加上 -라는 引用冠形詞形 修飾 말" },
+        { "point": "말을", "explanation": "말 話加上 -을 賓格" },
+        { "point": "죽여요", "explanation": "죽이다 殺死加上 -어요 敬語終結" },
+        { "point": "나는", "explanation": "나 我加上 -는 主題助詞" }
       ]
     },
     {
       "sectionTitle": "Pre-Chorus 2",
       "korean": "내 마음에 독을 품어도",
-      "translation": "即使心裡懷著毒，",
+      "translation": "即使心裡懷著毒",
       "analysis": [
-        { "point": "내 마음에", "explanation": "位置助詞。" },
-        { "point": "독을", "explanation": "賓格。" },
-        { "point": "품어도", "explanation": "讓步連接。" }
+        { "point": "내 마음에", "explanation": "내 我的加上 마음 心與 -에 位置助詞在裡" },
+        { "point": "독을", "explanation": "독 毒加上 -을 賓格助詞" },
+        { "point": "품어도", "explanation": "품다 懷抱加上 -아/어도 讓步連接詞尾" }
       ]
     },
     {
       "korean": "지나간 계절처럼 돌아올 텐데",
-      "translation": "應該會像過去的季節一樣回來吧。",
+      "translation": "應該會像過去的季節一樣回來吧",
       "analysis": [
-        { "point": "지나간", "explanation": "冠形詞。" },
-        { "point": "계절처럼", "explanation": "比較。" },
-        { "point": "돌아올 텐데", "explanation": "推測＋背景。" }
+        { "point": "지나간", "explanation": "지나가다 過去的冠形詞形 -ㄴ 修飾 계절" },
+        { "point": "계절처럼", "explanation": "계절 季節加上 -처럼 像一樣" },
+        { "point": "돌아올", "explanation": "돌아오다 回來的冠形詞形 -ㄹ 與 텐데 連用" },
+        { "point": "텐데", "explanation": "터이다 推測加上 -ㄴ데 背景或轉折連接詞尾 意為應該會但" }
       ]
     },
     {
       "sectionTitle": "Chorus 2",
       "korean": "혈관을 파고드는 욕망 주사기",
-      "translation": "刺入血管的欲望注射器。",
+      "translation": "刺入血管的欲望注射器",
       "analysis": [
-        { "point": "혈관을", "explanation": "賓格。" },
-        { "point": "파고드는", "explanation": "冠形詞。" },
-        { "point": "욕망 주사기", "explanation": "名詞短語。" }
+        { "point": "혈관을", "explanation": "혈관 血管加上 -을 賓格助詞" },
+        { "point": "파고드는", "explanation": "파고들다 刺入或鑽入的冠形詞形 -는 修飾 욕망 주사기" },
+        { "point": "욕망 주사기", "explanation": "욕망 欲望加上 주사기 注射器 名詞短語" }
       ]
     },
     {
       "korean": "창자가 뒤틀릴 때까지 울었지",
-      "translation": "哭到腸子都扭曲了。",
+      "translation": "哭到腸子都扭曲了",
       "analysis": [
-        { "point": "창자가", "explanation": "主格。" },
-        { "point": "뒤틀릴", "explanation": "冠形詞。" },
-        { "point": "때까지", "explanation": "時間範圍。" },
-        { "point": "울었지", "explanation": "過去陳述。" }
+        { "point": "창자가", "explanation": "창자 腸子加上 -가 主格助詞" },
+        { "point": "뒤틀릴", "explanation": "뒤틀리다 扭曲的冠形詞形 -ㄹ 修飾 때까지" },
+        { "point": "때까지", "explanation": "때 時候加上 -까지 到為止 意為直到的時候" },
+        { "point": "울었지", "explanation": "울다 哭加上 -었- 過去時與 -지 陳述語氣" }
       ]
     },
     {
       "korean": "떠나가는 그대 손을 놓게 된다면",
-      "translation": "如果不得不放開離開的你的手，",
+      "translation": "如果不得不放開離開的你的手",
       "analysis": [
-        { "point": "떠나가는", "explanation": "冠形詞。" },
-        { "point": "그대 손을", "explanation": "賓格。" },
-        { "point": "놓게 된다면", "explanation": "條件。" }
+        { "point": "떠나가는", "explanation": "떠나가다 離開的冠形詞形 -는 修飾 그대 손" },
+        { "point": "그대 손을", "explanation": "그대 你加上 손 手與 -을 賓格" },
+        { "point": "놓게 된다면", "explanation": "놓다 放開加上 -게 되다 被動或不得不與 -면 條件如果" }
       ]
     },
     {
       "korean": "사랑해라는 말을 죽여요 나는",
-      "translation": "我將「我愛你」這句話殺死。",
+      "translation": "我將我愛你這句話殺死",
       "analysis": [
-        { "point": "사랑해라는", "explanation": "引用。" },
-        { "point": "말을", "explanation": "賓格。" },
-        { "point": "죽여요", "explanation": "敬語。" },
-        { "point": "나는", "explanation": "主題。" }
+        { "point": "사랑해라는", "explanation": "사랑해 我愛你加上 -라는 引用冠形詞形 修飾 말" },
+        { "point": "말을", "explanation": "말 話加上 -을 賓格" },
+        { "point": "죽여요", "explanation": "죽이다 殺死加上 -어요 敬語終結" },
+        { "point": "나는", "explanation": "나 我加上 -는 主題助詞" }
       ]
     },
     {
       "sectionTitle": "Bridge",
       "korean": "잊어요 모든 것들을요",
-      "translation": "請忘記所有一切。",
+      "translation": "請忘記所有一切",
       "analysis": [
-        { "point": "잊어요", "explanation": "잊다（忘記） + -어요（敬語終結）。" },
-        { "point": "모든 것들을요", "explanation": "모든（所有的） + 것들（事物們） + -을（賓格） + -요（語氣詞）。" }
+        { "point": "잊어요", "explanation": "잊다 忘記加上 -어요 敬語終結" },
+        { "point": "모든 것들을요", "explanation": "모든 所有的加上 것들 事物們與 -을 賓格及 -요 語氣詞" }
       ]
     },
     {
       "korean": "손에 쥐어봤자 쓸모없어요",
-      "translation": "即使握在手裡也沒用。",
+      "translation": "即使握在手裡也沒用",
       "analysis": [
-        { "point": "손에", "explanation": "손（手） + -에（位置助詞）。" },
-        { "point": "쥐어봤자", "explanation": "쥐다（握） + -아/어 보다（嘗試） + -았-（過去） + -자（讓步連接詞尾，意為「即使……也」）。" },
-        { "point": "쓸모없어요", "explanation": "쓸모없다（沒用） + -어요（敬語）。" }
+        { "point": "손에", "explanation": "손 手加上 -에 位置助詞" },
+        { "point": "쥐어봤자", "explanation": "쥐다 握加上 -아/어 보다 嘗試與 -았- 過去時及 -자 讓步連接詞尾 意為即使也" },
+        { "point": "쓸모없어요", "explanation": "쓸모없다 沒用加上 -어요 敬語" }
       ]
     },
     {
       "korean": "지친 하루를 더 먹다 보면",
-      "translation": "如果再吞噬疲憊的一天，",
+      "translation": "如果再吞噬疲憊的一天",
       "analysis": [
-        { "point": "지친", "explanation": "지치다（疲憊）的冠形詞形（-ㄴ），修飾 하루。" },
-        { "point": "하루를", "explanation": "하루（一天） + -을（賓格）。" },
-        { "point": "더", "explanation": "副詞「更／再」。 " },
-        { "point": "먹다 보면", "explanation": "먹다（吃／吞噬） + -다 보면（如果持續做……的話）。" }
+        { "point": "지친", "explanation": "지치다 疲憊的冠形詞形 -ㄴ 修飾 하루" },
+        { "point": "하루를", "explanation": "하루 一天加上 -을 賓格" },
+        { "point": "더", "explanation": "副詞 意為更或再" },
+        { "point": "먹다 보면", "explanation": "먹다 吃或吞噬加上 -다 보면 如果持續做的話" }
       ]
     },
     {
       "korean": "내가 바랬던 내일이 오겠죠",
-      "translation": "我所期盼的明天會到來吧。",
+      "translation": "我所期盼的明天會到來吧",
       "analysis": [
-        { "point": "내가", "explanation": "나（我） + -가（主格）。" },
-        { "point": "바랬던", "explanation": "바라다（期盼） + -았-（過去） + -던（回想冠形詞尾），修飾 내일。" },
-        { "point": "내일이", "explanation": "내일（明天） + -이（主格）。" },
-        { "point": "오겠죠", "explanation": "오다（來） + -겠-（推測） + -죠（陳述語氣）。" }
+        { "point": "내가", "explanation": "나 我加上 -가 主格" },
+        { "point": "바랬던", "explanation": "바라다 期盼加上 -았- 過去時與 -던 回想冠形詞尾 修飾 내일" },
+        { "point": "내일이", "explanation": "내일 明天加上 -이 主格" },
+        { "point": "오겠죠", "explanation": "오다 來加上 -겠- 推測與 -죠 陳述語氣" }
       ]
     },
     {
       "sectionTitle": "Chorus 3",
       "korean": "혈관을 파고드는 욕망 주사기",
-      "translation": "刺入血管的欲望注射器。",
+      "translation": "刺入血管的欲望注射器",
       "analysis": [
-        { "point": "혈관을", "explanation": "賓格。" },
-        { "point": "파고드는", "explanation": "冠形詞。" },
-        { "point": "욕망 주사기", "explanation": "名詞短語。" }
+        { "point": "혈관을", "explanation": "혈관 血管加上 -을 賓格助詞" },
+        { "point": "파고드는", "explanation": "파고들다 刺入或鑽入的冠形詞形 -는 修飾 욕망 주사기" },
+        { "point": "욕망 주사기", "explanation": "욕망 欲望加上 주사기 注射器 名詞短語" }
       ]
     },
     {
       "korean": "창자가 뒤틀릴 때까지 울었지",
-      "translation": "哭到腸子都扭曲了。",
+      "translation": "哭到腸子都扭曲了",
       "analysis": [
-        { "point": "창자가", "explanation": "主格。" },
-        { "point": "뒤틀릴", "explanation": "冠形詞。" },
-        { "point": "때까지", "explanation": "時間範圍。" },
-        { "point": "울었지", "explanation": "過去陳述。" }
+        { "point": "창자가", "explanation": "창자 腸子加上 -가 主格助詞" },
+        { "point": "뒤틀릴", "explanation": "뒤틀리다 扭曲的冠形詞形 -ㄹ 修飾 때까지" },
+        { "point": "때까지", "explanation": "때 時候加上 -까지 到為止 意為直到的時候" },
+        { "point": "울었지", "explanation": "울다 哭加上 -었- 過去時與 -지 陳述語氣" }
       ]
     },
     {
       "korean": "떠나가는 그대 손을 놓게 된다면",
-      "translation": "如果不得不放開離開的你的手，",
+      "translation": "如果不得不放開離開的你的手",
       "analysis": [
-        { "point": "떠나가는", "explanation": "冠形詞。" },
-        { "point": "그대 손을", "explanation": "賓格。" },
-        { "point": "놓게 된다면", "explanation": "條件。" }
+        { "point": "떠나가는", "explanation": "떠나가다 離開的冠形詞形 -는 修飾 그대 손" },
+        { "point": "그대 손을", "explanation": "그대 你加上 손 手與 -을 賓格" },
+        { "point": "놓게 된다면", "explanation": "놓다 放開加上 -게 되다 被動或不得不與 -면 條件如果" }
       ]
     },
     {
       "korean": "사랑해라는 말을 죽여요 나는",
-      "translation": "我將「我愛你」這句話殺死。",
+      "translation": "我將我愛你這句話殺死",
       "analysis": [
-        { "point": "사랑해라는", "explanation": "引用。" },
-        { "point": "말을", "explanation": "賓格。" },
-        { "point": "죽여요", "explanation": "敬語。" },
-        { "point": "나는", "explanation": "主題。" }
+        { "point": "사랑해라는", "explanation": "사랑해 我愛你加上 -라는 引用冠形詞形 修飾 말" },
+        { "point": "말을", "explanation": "말 話加上 -을 賓格" },
+        { "point": "죽여요", "explanation": "죽이다 殺死加上 -어요 敬語終結" },
+        { "point": "나는", "explanation": "나 我加上 -는 主題助詞" }
       ]
     },
     {
       "sectionTitle": "Outro",
       "korean": "맞아요 그대 말이 모두 옳아요",
-      "translation": "對，你的話全都對。",
+      "translation": "對 你的話全都對",
       "analysis": [
-        { "point": "맞아요", "explanation": "맞다（正確） + -아요（敬語）。" },
-        { "point": "그대 말이", "explanation": "그대（你） + 말（話） + -이（主格）。" },
-        { "point": "모두", "explanation": "全部（副詞）。" },
-        { "point": "옳아요", "explanation": "옳다（正確） + -아요（敬語）。" }
+        { "point": "맞아요", "explanation": "맞다 正確加上 -아요 敬語" },
+        { "point": "그대 말이", "explanation": "그대 你加上 말 話與 -이 主格" },
+        { "point": "모두", "explanation": "副詞 意為全部" },
+        { "point": "옳아요", "explanation": "옳다 正確加上 -아요 敬語" }
       ]
     },
     {
       "korean": "틀린 것 하나 없는 사랑이었죠",
-      "translation": "是沒有一點錯誤的愛。",
+      "translation": "是沒有一點錯誤的愛",
       "analysis": [
-        { "point": "틀린", "explanation": "틀리다（錯誤）的冠形詞形（-ㄴ），修飾 것。" },
-        { "point": "것 하나 없는", "explanation": "것（東西） + 하나（一個） + 없다（沒有）的冠形詞形，意為「沒有一個錯誤的」。 " },
-        { "point": "사랑이었죠", "explanation": "사랑（愛） + 이었（이다 的過去形） + -죠（陳述語氣）。" }
+        { "point": "틀린", "explanation": "틀리다 錯誤的冠形詞形 -ㄴ 修飾 것" },
+        { "point": "것 하나 없는", "explanation": "것 東西加上 하나 一個與 없다 沒有的冠形詞形 意為沒有一個錯誤的" },
+        { "point": "사랑이었죠", "explanation": "사랑 愛加上 이었 이다 的過去形與 -죠 陳述語氣" }
       ]
     },
     {
       "korean": "떠나가는 그대 손을 잡을 수 있다면",
-      "translation": "如果能抓住離開的你的手，",
+      "translation": "如果能抓住離開的你的手",
       "analysis": [
-        { "point": "떠나가는", "explanation": "冠形詞。" },
-        { "point": "그대 손을", "explanation": "賓格。" },
-        { "point": "잡을 수 있다면", "explanation": "잡다（抓住） + -을 수 있다（可以） + -면（條件「如果……」）。" }
+        { "point": "떠나가는", "explanation": "떠나가다 離開的冠形詞形 -는 修飾 그대 손" },
+        { "point": "그대 손을", "explanation": "그대 你加上 손 手與 -을 賓格" },
+        { "point": "잡을 수 있다면", "explanation": "잡다 抓住加上 -을 수 있다 可以與 -면 條件如果" }
       ]
     },
     {
       "korean": "파랗게 멍든 네 가슴에",
-      "translation": "在發青淤青的你的胸膛上，",
+      "translation": "在發青淤青的你的胸膛上",
       "analysis": [
-        { "point": "파랗게", "explanation": "파랗다（發青）的副詞化形（-게）。" },
-        { "point": "멍든", "explanation": "멍들다（淤青）的冠形詞形（-ㄴ），修飾 네 가슴。" },
-        { "point": "네 가슴에", "explanation": "네（你的） + 가슴（胸膛） + -에（位置助詞）。" }
+        { "point": "파랗게", "explanation": "파랗다 發青的副詞化形 -게" },
+        { "point": "멍든", "explanation": "멍들다 淤青的冠形詞形 -ㄴ 修飾 네 가슴" },
+        { "point": "네 가슴에", "explanation": "네 你的加上 가슴 胸膛與 -에 位置助詞" }
       ]
     },
     {
       "korean": "사랑해라는 말을 전할래",
-      "translation": "我要傳達「我愛你」這句話。",
+      "translation": "我要傳達我愛你這句話",
       "analysis": [
-        { "point": "사랑해라는", "explanation": "引用冠形。" },
-        { "point": "말을", "explanation": "賓格。" },
-        { "point": "전할래", "explanation": "전하다（傳達） + -ㄹ래（意志終結詞尾，意為「要……」）。" }
+        { "point": "사랑해라는", "explanation": "사랑해 我愛你加上 -라는 引用冠形詞形 修飾 말" },
+        { "point": "말을", "explanation": "말 話加上 -을 賓格" },
+        { "point": "전할래", "explanation": "전하다 傳達加上 -ㄹ래 意志終結詞尾 意為要" }
       ]
     },
     {
       "korean": "닿지 않아도 상관없어",
-      "translation": "即使觸及不到也沒關係。",
+      "translation": "即使觸及不到也沒關係",
       "analysis": [
-        { "point": "닿지", "explanation": "닿다（觸及） + -지（連結詞尾）。" },
-        { "point": "않아도", "explanation": "않다（不） + -아도（讓步），意為「即使不……」。 " },
-        { "point": "상관없어", "explanation": "상관없다（沒關係） + -어（平語終結）。" }
+        { "point": "닿지", "explanation": "닿다 觸及加上 -지 連結詞尾" },
+        { "point": "않아도", "explanation": "않다 不加上 -아도 讓步 意為即使不" },
+        { "point": "상관없어", "explanation": "상관없다 沒關係加上 -어 平語終結" }
       ]
     },
     {
       "korean": "이젠 말할게요",
-      "translation": "現在我要說了。",
+      "translation": "現在我要說了",
       "analysis": [
-        { "point": "이젠", "explanation": "이제는 的縮略（現在＋主題）。" },
-        { "point": "말할게요", "explanation": "말하다（說） + -ㄹ게요（約定／意志終結詞尾，敬語）。" }
+        { "point": "이젠", "explanation": "이제는 的縮略 現在加上主題" },
+        { "point": "말할게요", "explanation": "말하다 說加上 -ㄹ게요 約定或意志終結詞尾敬語" }
       ]
     }
   ],

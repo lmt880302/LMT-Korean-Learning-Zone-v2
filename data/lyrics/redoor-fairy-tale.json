@@ -6,326 +6,326 @@
     {
       "sectionTitle": "Verse 1",
       "korean": "예쁜 마음은 몰라보게 시들었죠",
-      "translation": "美麗的心靈已枯萎得讓人認不出來。",
+      "translation": "美麗的心靈已枯萎得讓人認不出來",
       "analysis": [
-        { "point": "예쁜", "explanation": "예쁘다（美麗的）的冠形詞形（-ㄴ），修飾後面的名詞 마음。" },
-        { "point": "마음은", "explanation": "마음（心／心靈） + -은（主題助詞）。" },
-        { "point": "몰라보게", "explanation": "몰라보다（認不出來）的副詞化形（-게），修飾後面的動詞，意為「到認不出來的程度」。" },
-        { "point": "시들었죠", "explanation": "시들다（枯萎） + -었-（過去時制） + -죠（-지요 的縮略，表陳述語氣）。" }
+        { "point": "예쁜", "explanation": "예쁘다 美麗的冠形詞形 -ㄴ 修飾後面的名詞 마음" },
+        { "point": "마음은", "explanation": "마음 心或心靈加上 -은 主題助詞" },
+        { "point": "몰라보게", "explanation": "몰라보다 認不出來的副詞化形 -게 修飾後面的動詞 意為到認不出來的程度" },
+        { "point": "시들었죠", "explanation": "시들다 枯萎加上 -었- 過去時制與 -죠 -지요 的縮略表陳述語氣" }
       ]
     },
     {
       "korean": "이런 어쩌나 물을 뿌려봐야겠어요",
-      "translation": "這該如何是好，得灑點水試試看了。",
+      "translation": "這該如何是好 得灑點水試試看了",
       "analysis": [
-        { "point": "이런", "explanation": "指示感嘆詞，意為「這種／這般」。" },
-        { "point": "어쩌나", "explanation": "어쩌다（怎麼辦） + -나（感嘆／推測終結詞尾），意為「該怎麼辦呀」。" },
-        { "point": "물을", "explanation": "물（水） + -을（賓格助詞）。" },
-        { "point": "뿌려봐야겠어요", "explanation": "뿌리다（灑／澆） + -아/어 보다（嘗試看看） + -아/어야겠다（表必須／應該做某事） + -어요（敬語終結詞尾）。" }
+        { "point": "이런", "explanation": "指示感嘆詞 意為這種或這般" },
+        { "point": "어쩌나", "explanation": "어쩌다 怎麼辦加上 -나 感嘆或推測終結詞尾 意為該怎麼辦呀" },
+        { "point": "물을", "explanation": "물 水加上 -을 賓格助詞" },
+        { "point": "뿌려봐야겠어요", "explanation": "뿌리다 灑或澆加上 -아/어 보다 嘗試看看與 -아/어야겠다 表必須或應該做某事再加 -어요 敬語終結詞尾" }
       ]
     },
     {
       "korean": "물을 주어도 햇살이 없어 죽었네",
-      "translation": "就算澆了水，因為沒有陽光，還是死掉了。",
+      "translation": "就算澆了水 因為沒有陽光 還是死掉了",
       "analysis": [
-        { "point": "물을", "explanation": "물（水） + -을（賓格助詞）。" },
-        { "point": "주어도", "explanation": "주다（給／澆） + -아/어도（讓步連接詞尾，意為「就算……也」）。" },
-        { "point": "햇살이", "explanation": "햇살（陽光） + -이（主格助詞）。" },
-        { "point": "없어", "explanation": "없다（沒有） + -아/어（連接詞尾，此處表原因或背景）。" },
-        { "point": "죽었네", "explanation": "죽다（死） + -었-（過去時） + -네（感嘆／陳述終結詞尾）。" }
+        { "point": "물을", "explanation": "물 水加上 -을 賓格助詞" },
+        { "point": "주어도", "explanation": "주다 給或澆加上 -아/어도 讓步連接詞尾 意為就算也" },
+        { "point": "햇살이", "explanation": "햇살 陽光加上 -이 主格助詞" },
+        { "point": "없어", "explanation": "없다 沒有加上 -아/어 連接詞尾此處表原因或背景" },
+        { "point": "죽었네", "explanation": "죽다 死加上 -었- 過去時與 -네 感嘆或陳述終結詞尾" }
       ]
     },
     {
       "korean": "이런 어쩌나 내 맘이",
-      "translation": "這該如何是好，我的心……",
+      "translation": "這該如何是好 我的心……",
       "analysis": [
-        { "point": "이런 어쩌나", "explanation": "同上，意為「這該如何是好」。" },
-        { "point": "내 맘이", "explanation": "내（我的） + 마음（心） + -이（主格助詞，맘이 為縮略）。" }
+        { "point": "이런 어쩌나", "explanation": "同上 意為這該如何是好" },
+        { "point": "내 맘이", "explanation": "내 我的加上 마음 心與 -이 主格助詞 맘이 為縮略" }
       ]
     },
     {
       "korean": "뜨겁지 않았나 봐요",
-      "translation": "看來是（我的心）不熾熱吧。",
+      "translation": "看來是（我的心）不熾熱吧",
       "analysis": [
-        { "point": "뜨겁지", "explanation": "뜨겁다（熾熱／滾燙） + -지（連結詞尾，用於否定或引用）。" },
-        { "point": "않았나", "explanation": "않다（不） + -았-（過去時） + -나（疑問／推測終結詞尾）。" },
-        { "point": "봐요", "explanation": "보다（看） + -아요（敬語終結詞尾），此處作補助動詞，表「看來／推測」。 " }
+        { "point": "뜨겁지", "explanation": "뜨겁다 熾熱或滾燙加上 -지 連結詞尾用於否定或引用" },
+        { "point": "않았나", "explanation": "않다 不加上 -았- 過去時與 -나 疑問或推測終結詞尾" },
+        { "point": "봐요", "explanation": "보다 看加上 -아요 敬語終結詞尾 此處作補助動詞表看來或推測" }
       ]
     },
     {
       "sectionTitle": "Chorus",
       "korean": "오 사랑은 동화처럼",
-      "translation": "哦，愛情像童話一樣。",
+      "translation": "哦 愛情像童話一樣",
       "analysis": [
-        { "point": "오", "explanation": "感嘆詞「哦」。" },
-        { "point": "사랑은", "explanation": "사랑（愛情） + -은（主題助詞）。" },
-        { "point": "동화처럼", "explanation": "동화（童話） + -처럼（助詞，表「像……一樣」）。" }
+        { "point": "오", "explanation": "感嘆詞 意為哦" },
+        { "point": "사랑은", "explanation": "사랑 愛情加上 -은 主題助詞" },
+        { "point": "동화처럼", "explanation": "동화 童話加上 -처럼 助詞表像一樣" }
       ]
     },
     {
       "korean": "아름다울 순 없는가요",
       "translation": "難道不能美麗嗎？",
       "analysis": [
-        { "point": "아름다울", "explanation": "아름답다（美麗）的冠形詞形（-을），修飾後面的依存名詞 순。" },
-        { "point": "순", "explanation": "것은 的縮略，意為「事情／東西」。" },
-        { "point": "없는가요", "explanation": "없다（沒有） + -는가요（疑問終結詞尾，帶柔和語氣）。" }
+        { "point": "아름다울", "explanation": "아름답다 美麗的冠形詞形 -을 修飾後面的依存名詞 순" },
+        { "point": "순", "explanation": "것은 的縮略 意為事情或東西" },
+        { "point": "없는가요", "explanation": "없다 沒有加上 -는가요 疑問終結詞尾帶柔和語氣" }
       ]
     },
     {
       "korean": "오 이별은 흑백처럼",
-      "translation": "哦，離別像黑白一樣。",
+      "translation": "哦 離別像黑白一樣",
       "analysis": [
-        { "point": "오", "explanation": "感嘆詞「哦」。" },
-        { "point": "이별은", "explanation": "이별（離別） + -은（主題助詞）。" },
-        { "point": "흑백처럼", "explanation": "흑백（黑白） + -처럼（助詞，表「像……一樣」）。" }
+        { "point": "오", "explanation": "感嘆詞 意為哦" },
+        { "point": "이별은", "explanation": "이별 離別加上 -은 主題助詞" },
+        { "point": "흑백처럼", "explanation": "흑백 黑白加上 -처럼 助詞表像一樣" }
       ]
     },
     {
       "korean": "색을 띄울 순 없나 봐요",
-      "translation": "看來是無法染上色彩吧。",
+      "translation": "看來是無法染上色彩吧",
       "analysis": [
-        { "point": "색을", "explanation": "색（色彩） + -을（賓格助詞）。" },
-        { "point": "띄울", "explanation": "띄우다（使浮現／染上色彩）的冠形詞形（-을），修飾 순。" },
-        { "point": "순", "explanation": "것은 的縮略。" },
-        { "point": "없나 봐요", "explanation": "없다（沒有） + -나 보다（推測構造「看來……」） + -아요（敬語）。" }
+        { "point": "색을", "explanation": "색 色彩加上 -을 賓格助詞" },
+        { "point": "띄울", "explanation": "띄우다 使浮現或染上色彩的冠形詞形 -을 修飾 순" },
+        { "point": "순", "explanation": "것은 的縮略" },
+        { "point": "없나 봐요", "explanation": "없다 沒有加上 -나 보다 推測構造看來與 -아요 敬語" }
       ]
     },
     {
       "sectionTitle": "Verse 2",
       "korean": "저기 작은 별들 좀 봐요",
-      "translation": "看看那邊的小星星們吧。",
+      "translation": "看看那邊的小星星們吧",
       "analysis": [
-        { "point": "저기", "explanation": "那邊（指示副詞）。" },
-        { "point": "작은", "explanation": "작다（小）的冠形詞形（-은），修飾 별들。" },
-        { "point": "별들", "explanation": "별（星星） + -들（複數助詞）。" },
-        { "point": "좀", "explanation": "稍微／一點（副詞，常用於請求或建議）。" },
-        { "point": "봐요", "explanation": "보다（看） + -아요（敬語終結詞尾）。" }
+        { "point": "저기", "explanation": "那邊 指示副詞" },
+        { "point": "작은", "explanation": "작다 小的冠形詞形 -은 修飾 별들" },
+        { "point": "별들", "explanation": "별 星星加上 -들 複數助詞" },
+        { "point": "좀", "explanation": "稍微或一點 副詞常用於請求或建議" },
+        { "point": "봐요", "explanation": "보다 看加上 -아요 敬語終結詞尾" }
       ]
     },
     {
       "korean": "우릴 보며 손짓하잖아요",
-      "translation": "（它們）不是正看著我們在招手嘛。",
+      "translation": "（它們）不是正看著我們在招手嘛",
       "analysis": [
-        { "point": "우릴", "explanation": "우리（我們） + -를（賓格助詞）的縮略。" },
-        { "point": "보며", "explanation": "보다（看） + -며（並列／同時連接詞尾，表「一邊……一邊」）。" },
-        { "point": "손짓하잖아요", "explanation": "손짓하다（做手勢／招手） + -잖아요（表提醒或共知的終結詞尾「不是……嘛」）。" }
+        { "point": "우릴", "explanation": "우리 我們加上 -를 賓格助詞的縮略" },
+        { "point": "보며", "explanation": "보다 看加上 -며 並列或同時連接詞尾 表一邊一邊" },
+        { "point": "손짓하잖아요", "explanation": "손짓하다 做手勢或招手加上 -잖아요 表提醒或共知的終結詞尾 不是嘛" }
       ]
     },
     {
       "korean": "별이기에 잡으려는 노력은",
-      "translation": "因為是星星，所以想要抓住的努力……",
+      "translation": "因為是星星 所以想要抓住的努力……",
       "analysis": [
-        { "point": "별이기에", "explanation": "별（星星） + -이기에（이다 的連接形 -기에，表原因「因為是……」）。" },
-        { "point": "잡으려는", "explanation": "잡다（抓） + -으려는（冠形詞形，表意圖「想要……的」）。" },
-        { "point": "노력은", "explanation": "노력（努力） + -은（主題助詞）。" }
+        { "point": "별이기에", "explanation": "별 星星加上 -이기에 이다 的連接形 -기에 表原因 因為是" },
+        { "point": "잡으려는", "explanation": "잡다 抓加上 -으려는 冠形詞形表意圖 想要" },
+        { "point": "노력은", "explanation": "노력 努力加上 -은 主題助詞" }
       ]
     },
     {
       "korean": "하지 않았었나 봐요",
-      "translation": "看來是沒有做過吧。",
+      "translation": "看來是沒有做過吧",
       "analysis": [
-        { "point": "하지", "explanation": "하다（做） + -지（連結詞尾）。" },
-        { "point": "않았었나", "explanation": "않다（不） + -았었-（過去完成／回憶時制） + -나（推測疑問）。" },
-        { "point": "봐요", "explanation": "보다 的敬語形，表推測「看來」。 " }
+        { "point": "하지", "explanation": "하다 做加上 -지 連結詞尾" },
+        { "point": "않았었나", "explanation": "않다 不加上 -았었- 過去完成或回憶時制與 -나 推測疑問" },
+        { "point": "봐요", "explanation": "보다 的敬語形 表推測 看來" }
       ]
     },
     {
       "korean": "그게 후회로 남아요",
-      "translation": "那件事留下了遺憾。",
+      "translation": "那件事留下了遺憾",
       "analysis": [
-        { "point": "그게", "explanation": "그것이（那件事）的縮略，意為「那件事」。" },
-        { "point": "후회로", "explanation": "후회（遺憾／後悔） + -로（助詞，表結果狀態「作為……」）。" },
-        { "point": "남아요", "explanation": "남다（留下） + -아요（敬語終結詞尾）。" }
+        { "point": "그게", "explanation": "그것이 那件事的縮略 意為那件事" },
+        { "point": "후회로", "explanation": "후회 遺憾或後悔加上 -로 助詞表結果狀態 作為" },
+        { "point": "남아요", "explanation": "남다 留下加上 -아요 敬語終結詞尾" }
       ]
     },
     {
       "korean": "내 서툰 사랑엔 후회가 돋아났어요",
-      "translation": "在我那笨拙的愛情裡，長出了後悔。",
+      "translation": "在我那笨拙的愛情裡 長出了後悔",
       "analysis": [
-        { "point": "내", "explanation": "我的（代名詞）。" },
-        { "point": "서툰", "explanation": "서투르다（笨拙／生疏）的冠形詞形（-ㄴ），修飾 사랑。" },
-        { "point": "사랑엔", "explanation": "사랑（愛情） + -에（位置助詞「在……裡」） + -는（主題助詞，強調對比）。" },
-        { "point": "후회가", "explanation": "후회（後悔） + -가（主格助詞）。" },
-        { "point": "돋아났어요", "explanation": "돋아나다（生出／長出） + -았-（過去時） + -어요（敬語終結詞尾）。" }
+        { "point": "내", "explanation": "我的 代名詞" },
+        { "point": "서툰", "explanation": "서투르다 笨拙或生疏的冠形詞形 -ㄴ 修飾 사랑" },
+        { "point": "사랑엔", "explanation": "사랑 愛情加上 -에 位置助詞在裡與 -는 主題助詞強調對比" },
+        { "point": "후회가", "explanation": "후회 後悔加上 -가 主格助詞" },
+        { "point": "돋아났어요", "explanation": "돋아나다 生出或長出加上 -았- 過去時與 -어요 敬語終結詞尾" }
       ]
     },
     {
       "korean": "이런 어쩌나 너의 뒷모습만 보이네",
-      "translation": "這該如何是好，只看見你的背影。",
+      "translation": "這該如何是好 只看見你的背影",
       "analysis": [
-        { "point": "이런 어쩌나", "explanation": "感嘆詞，意為「這該如何是好」。" },
-        { "point": "너의", "explanation": "너（你） + -의（屬格助詞）。" },
-        { "point": "뒷모습만", "explanation": "뒷모습（背影） + -만（限定助詞「只」）。" },
-        { "point": "보이네", "explanation": "보이다（被看見） + -네（感嘆／陳述終結詞尾）。" }
+        { "point": "이런 어쩌나", "explanation": "感嘆詞 意為這該如何是好" },
+        { "point": "너의", "explanation": "너 你加上 -의 屬格助詞" },
+        { "point": "뒷모습만", "explanation": "뒷모습 背影加上 -만 限定助詞只" },
+        { "point": "보이네", "explanation": "보이다 被看見加上 -네 感嘆或陳述終結詞尾" }
       ]
     },
     {
       "korean": "햇살이 내려도 작은 그림자뿐이네",
-      "translation": "即使陽光灑落，也不過是小小的影子罷了。",
+      "translation": "即使陽光灑落 也不過是小小的影子罷了",
       "analysis": [
-        { "point": "햇살이", "explanation": "햇살（陽光） + -이（主格助詞）。" },
-        { "point": "내려도", "explanation": "내리다（落下／灑落） + -아/어도（讓步連接「即使……」）。" },
-        { "point": "작은", "explanation": "작다（小）的冠形詞形。" },
-        { "point": "그림자뿐이네", "explanation": "그림자（影子） + -뿐이다（只是……罷了） + -네（感嘆終結詞尾）。" }
+        { "point": "햇살이", "explanation": "햇살 陽光加上 -이 主格助詞" },
+        { "point": "내려도", "explanation": "내리다 落下或灑落加上 -아/어도 讓步連接即使" },
+        { "point": "작은", "explanation": "작다 小的冠形詞形" },
+        { "point": "그림자뿐이네", "explanation": "그림자 影子加上 -뿐이다 只是罷了與 -네 感嘆終結詞尾" }
       ]
     },
     {
       "korean": "그래요 어쩌면",
-      "translation": "是啊，或許……",
+      "translation": "是啊 或許……",
       "analysis": [
-        { "point": "그래요", "explanation": "그렇다（那樣） + -아요（敬語終結詞尾），意為「是那樣／是啊」。 " },
-        { "point": "어쩌면", "explanation": "或許／說不定（副詞）。" }
+        { "point": "그래요", "explanation": "그렇다 那樣加上 -아요 敬語終結詞尾 意為是那樣或是啊" },
+        { "point": "어쩌면", "explanation": "或許或說不定 副詞" }
       ]
     },
     {
       "korean": "내 사랑이 부족했었나 봐요",
-      "translation": "看來是我的愛不夠吧。",
+      "translation": "看來是我的愛不夠吧",
       "analysis": [
-        { "point": "내 사랑이", "explanation": "내（我的） + 사랑（愛） + -이（主格助詞）。" },
-        { "point": "부족했었나", "explanation": "부족하다（不足／不夠） + -았었-（過去完成／回顧） + -나（推測疑問）。" },
-        { "point": "봐요", "explanation": "보다 的敬語形，表推測「看來」。 " }
+        { "point": "내 사랑이", "explanation": "내 我的加上 사랑 愛與 -이 主格助詞" },
+        { "point": "부족했었나", "explanation": "부족하다 不足或不夠加上 -았었- 過去完成或回顧與 -나 推測疑問" },
+        { "point": "봐요", "explanation": "보다 的敬語形 表推測 看來" }
       ]
     },
     {
       "sectionTitle": "Chorus",
       "korean": "오 사랑은 동화처럼",
-      "translation": "哦，愛情像童話一樣。",
+      "translation": "哦 愛情像童話一樣",
       "analysis": [
-        { "point": "오", "explanation": "感嘆詞「哦」。" },
-        { "point": "사랑은", "explanation": "사랑（愛情） + -은（主題助詞）。" },
-        { "point": "동화처럼", "explanation": "동화（童話） + -처럼（像……一樣）。" }
+        { "point": "오", "explanation": "感嘆詞 意為哦" },
+        { "point": "사랑은", "explanation": "사랑 愛情加上 -은 主題助詞" },
+        { "point": "동화처럼", "explanation": "동화 童話加上 -처럼 像一樣" }
       ]
     },
     {
       "korean": "아름다울 순 없는가요",
       "translation": "難道不能美麗嗎？",
       "analysis": [
-        { "point": "아름다울", "explanation": "아름답다（美麗）的冠形詞形（-을）。" },
-        { "point": "순", "explanation": "것은 的縮略。" },
-        { "point": "없는가요", "explanation": "없다（沒有） + -는가요（疑問終結詞尾）。" }
+        { "point": "아름다울", "explanation": "아름답다 美麗的冠形詞形 -을" },
+        { "point": "순", "explanation": "것은 的縮略" },
+        { "point": "없는가요", "explanation": "없다 沒有加上 -는가요 疑問終結詞尾" }
       ]
     },
     {
       "korean": "오 이별은 흑백처럼",
-      "translation": "哦，離別像黑白一樣。",
+      "translation": "哦 離別像黑白一樣",
       "analysis": [
-        { "point": "오", "explanation": "感嘆詞「哦」。" },
-        { "point": "이별은", "explanation": "이별（離別） + -은（主題助詞）。" },
-        { "point": "흑백처럼", "explanation": "흑백（黑白） + -처럼（像……一樣）。" }
+        { "point": "오", "explanation": "感嘆詞 意為哦" },
+        { "point": "이별은", "explanation": "이별 離別加上 -은 主題助詞" },
+        { "point": "흑백처럼", "explanation": "흑백 黑白加上 -처럼 像一樣" }
       ]
     },
     {
       "korean": "색을 띄울 순 없나 봐요",
-      "translation": "看來是無法染上色彩吧。",
+      "translation": "看來是無法染上色彩吧",
       "analysis": [
-        { "point": "색을", "explanation": "색（色彩） + -을（賓格助詞）。" },
-        { "point": "띄울", "explanation": "띄우다（染上／使浮現）的冠形詞形（-을）。" },
-        { "point": "순", "explanation": "것은 的縮略。" },
-        { "point": "없나 봐요", "explanation": "없다（沒有） + -나 보다（推測「看來……」） + -아요。" }
+        { "point": "색을", "explanation": "색 色彩加上 -을 賓格助詞" },
+        { "point": "띄울", "explanation": "띄우다 染上或使浮現的冠形詞形 -을" },
+        { "point": "순", "explanation": "것은 的縮略" },
+        { "point": "없나 봐요", "explanation": "없다 沒有加上 -나 보다 推測看來與 -아요" }
       ]
     },
     {
       "sectionTitle": "Bridge",
       "korean": "저기 작은 별들 좀 봐요",
-      "translation": "看看那邊的小星星們吧。",
+      "translation": "看看那邊的小星星們吧",
       "analysis": [
-        { "point": "저기", "explanation": "那邊（副詞）。" },
-        { "point": "작은", "explanation": "작다（小）的冠形詞形。" },
-        { "point": "별들", "explanation": "별（星星） + -들（複數）。" },
-        { "point": "좀", "explanation": "稍微（建議語氣）。" },
-        { "point": "봐요", "explanation": "보다（看） + -아요。" }
+        { "point": "저기", "explanation": "那邊 副詞" },
+        { "point": "작은", "explanation": "작다 小的冠形詞形" },
+        { "point": "별들", "explanation": "별 星星加上 -들 複數" },
+        { "point": "좀", "explanation": "稍微 建議語氣" },
+        { "point": "봐요", "explanation": "보다 看加上 -아요" }
       ]
     },
     {
       "korean": "우리 곁을 떠나가잖아요",
-      "translation": "（它們）不是正離開我們身邊嘛。",
+      "translation": "（它們）不是正離開我們身邊嘛",
       "analysis": [
-        { "point": "우리 곁을", "explanation": "우리（我們） + 곁（身邊） + -을（賓格助詞）。" },
-        { "point": "떠나가잖아요", "explanation": "떠나가다（離開） + -잖아요（提醒／共知終結詞尾「不是……嘛」）。" }
+        { "point": "우리 곁을", "explanation": "우리 我們加上 곁 身邊與 -을 賓格助詞" },
+        { "point": "떠나가잖아요", "explanation": "떠나가다 離開加上 -잖아요 提醒或共知終結詞尾 不是嘛" }
       ]
     },
     {
       "korean": "너이기에 떠날 거란 생각은",
-      "translation": "因為是你，所以會離開的想法……",
+      "translation": "因為是你 所以會離開的想法……",
       "analysis": [
-        { "point": "너이기에", "explanation": "너（你） + -이기에（因為是……）。" },
-        { "point": "떠날 거란", "explanation": "떠나다（離開） + -을 것이다（將來推測） + -란（-라는 的縮略，引用冠形詞形「說會……的」）。" },
-        { "point": "생각은", "explanation": "생각（想法） + -은（主題助詞）。" }
+        { "point": "너이기에", "explanation": "너 你加上 -이기에 因為是" },
+        { "point": "떠날 거란", "explanation": "떠나다 離開加上 -을 것이다 將來推測與 -란 -라는 的縮略引用冠形詞形 說會的" },
+        { "point": "생각은", "explanation": "생각 想法加上 -은 主題助詞" }
       ]
     },
     {
       "korean": "하지 않았었나 봐요",
-      "translation": "看來是沒有做過吧。",
+      "translation": "看來是沒有做過吧",
       "analysis": [
-        { "point": "하지", "explanation": "하다（做） + -지。" },
-        { "point": "않았었나", "explanation": "않다（不） + -았었-（過去回憶） + -나（推測）。" },
-        { "point": "봐요", "explanation": "보다 的敬語形，表推測「看來」。 " }
+        { "point": "하지", "explanation": "하다 做加上 -지" },
+        { "point": "않았었나", "explanation": "않다 不加上 -았었- 過去回憶與 -나 推測" },
+        { "point": "봐요", "explanation": "보다 的敬語形 表推測 看來" }
       ]
     },
     {
       "korean": "그게 후회로 남아요",
-      "translation": "那件事留下了遺憾。",
+      "translation": "那件事留下了遺憾",
       "analysis": [
-        { "point": "그게", "explanation": "그것이 的縮略。" },
-        { "point": "후회로", "explanation": "후회（後悔） + -로（作為）。" },
-        { "point": "남아요", "explanation": "남다（留下） + -아요。" }
+        { "point": "그게", "explanation": "그것이 的縮略" },
+        { "point": "후회로", "explanation": "후회 後悔加上 -로 作為" },
+        { "point": "남아요", "explanation": "남다 留下加上 -아요" }
       ]
     },
     {
       "sectionTitle": "Outro",
       "korean": "부서진 조명은 나를 비추지 못해요",
-      "translation": "破碎的燈光無法照亮我。",
+      "translation": "破碎的燈光無法照亮我",
       "analysis": [
-        { "point": "부서진", "explanation": "부서지다（破碎）的冠形詞形（-ㄴ），修飾 조명。" },
-        { "point": "조명은", "explanation": "조명（照明／燈光） + -은（主題助詞）。" },
-        { "point": "나를", "explanation": "나（我） + -를（賓格助詞）。" },
-        { "point": "비추지 못해요", "explanation": "비추다（照耀） + -지 못하다（表無法做到某事） + -어요（敬語）。" }
+        { "point": "부서진", "explanation": "부서지다 破碎的冠形詞形 -ㄴ 修飾 조명" },
+        { "point": "조명은", "explanation": "조명 照明或燈光加上 -은 主題助詞" },
+        { "point": "나를", "explanation": "나 我加上 -를 賓格助詞" },
+        { "point": "비추지 못해요", "explanation": "비추다 照耀加上 -지 못하다 表無法做到某事與 -어요 敬語" }
       ]
     },
     {
       "korean": "가난한 마음은 버려진",
-      "translation": "貧瘠的心是被拋棄的（一朵花）。",
+      "translation": "貧瘠的心是被拋棄的（一朵花）",
       "analysis": [
-        { "point": "가난한", "explanation": "가난하다（貧瘠／清貧）的冠形詞形（-ㄴ），修飾 마음。" },
-        { "point": "마음은", "explanation": "마음（心） + -은（主題助詞）。" },
-        { "point": "버려진", "explanation": "버리다（拋棄） + -어지다（被動） + -ㄴ（冠形詞形），修飾下一行的 꽃。" }
+        { "point": "가난한", "explanation": "가난하다 貧瘠或清貧的冠形詞形 -ㄴ 修飾 마음" },
+        { "point": "마음은", "explanation": "마음 心加上 -은 主題助詞" },
+        { "point": "버려진", "explanation": "버리다 拋棄加上 -어지다 被動與 -ㄴ 冠形詞形 修飾下一行的 꽃" }
       ]
     },
     {
       "korean": "꽃 한 송이 같아요",
-      "translation": "像一朵（被拋棄的）花。",
+      "translation": "像一朵（被拋棄的）花",
       "analysis": [
-        { "point": "꽃", "explanation": "花（名詞）。" },
-        { "point": "한 송이", "explanation": "한（一） + 송이（花的計數單位「朵」）。" },
-        { "point": "같아요", "explanation": "같다（像） + -아요（敬語終結詞尾）。" }
+        { "point": "꽃", "explanation": "花 名詞" },
+        { "point": "한 송이", "explanation": "한 一加上 송이 花的計數單位朵" },
+        { "point": "같아요", "explanation": "같다 像加上 -아요 敬語終結詞尾" }
       ]
     },
     {
       "korean": "찢어진 하늘은 오늘도 울어요",
-      "translation": "撕裂的天空今天也在哭泣。",
+      "translation": "撕裂的天空今天也在哭泣",
       "analysis": [
-        { "point": "찢어진", "explanation": "찢어지다（撕裂）的冠形詞形（-ㄴ），修飾 하늘。" },
-        { "point": "하늘은", "explanation": "하늘（天空） + -은（主題助詞）。" },
-        { "point": "오늘도", "explanation": "오늘（今天） + -도（也）。" },
-        { "point": "울어요", "explanation": "울다（哭） + -어요（敬語終結詞尾）。" }
+        { "point": "찢어진", "explanation": "찢어지다 撕裂的冠形詞形 -ㄴ 修飾 하늘" },
+        { "point": "하늘은", "explanation": "하늘 天空加上 -은 主題助詞" },
+        { "point": "오늘도", "explanation": "오늘 今天加上 -도 也" },
+        { "point": "울어요", "explanation": "울다 哭加上 -어요 敬語終結詞尾" }
       ]
     },
     {
       "korean": "창문 속 달님은",
-      "translation": "窗戶裡的月亮。",
+      "translation": "窗戶裡的月亮",
       "analysis": [
-        { "point": "창문", "explanation": "窗戶（名詞）。" },
-        { "point": "속", "explanation": "裡面（依存名詞）。" },
-        { "point": "달님은", "explanation": "달（月亮） + -님（敬稱詞綴） + -은（主題助詞）。" }
+        { "point": "창문", "explanation": "窗戶 名詞" },
+        { "point": "속", "explanation": "裡面 依存名詞" },
+        { "point": "달님은", "explanation": "달 月亮加上 -님 敬稱詞綴與 -은 主題助詞" }
       ]
     },
     {
       "korean": "어느새 친구가 됐어요",
-      "translation": "不知不覺成了朋友。",
+      "translation": "不知不覺成了朋友",
       "analysis": [
-        { "point": "어느새", "explanation": "不知不覺間（副詞）。" },
-        { "point": "친구가", "explanation": "친구（朋友） + -가（主格助詞）。" },
-        { "point": "됐어요", "explanation": "되다（成為） + -았-（過去時） + -어요（敬語終結詞尾）。" }
+        { "point": "어느새", "explanation": "不知不覺間 副詞" },
+        { "point": "친구가", "explanation": "친구 朋友加上 -가 主格助詞" },
+        { "point": "됐어요", "explanation": "되다 成為加上 -았- 過去時與 -어요 敬語終結詞尾" }
       ]
     }
   ],

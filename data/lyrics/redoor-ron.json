@@ -6,155 +6,155 @@
     {
       "sectionTitle": "Verse 1",
       "korean": "움츠렸던 날개는 비에 젖어 있었고",
-      "translation": "曾經蜷縮的翅膀被雨淋濕了，",
+      "translation": "曾經蜷縮的翅膀被雨淋濕了 ",
       "analysis": [
-        { "point": "움츠렸던", "explanation": "움츠리다（蜷縮） + -었-（過去時） + -던（回想冠形詞尾），修飾 날개。" },
-        { "point": "날개는", "explanation": "날개（翅膀） + -는（主題助詞）。" },
-        { "point": "비에", "explanation": "비（雨） + -에（位置／對象助詞「被」）。" },
-        { "point": "젖어 있었고", "explanation": "젖다（濕） + -아/어 있다（持續狀態） + -고（並列連接詞尾），意為「一直濕著，而且」。 " }
+        { "point": "움츠렸던", "explanation": "움츠리다（蜷縮） + -었-（過去時） + -던（回想冠形詞尾） 修飾 날개" },
+        { "point": "날개는", "explanation": "날개（翅膀） + -는（主題助詞）" },
+        { "point": "비에", "explanation": "비（雨） + -에（位置／對象助詞「被」）" },
+        { "point": "젖어 있었고", "explanation": "젖다（濕） + -아/어 있다（持續狀態） + -고（並列連接詞尾） 意為「一直濕著 而且」 " }
       ]
     },
     {
       "korean": "좁아진 내 어깨엔 네가 기대어 자고 있었지",
-      "translation": "在我變窄的肩膀上，你正倚靠著入睡。",
+      "translation": "在我變窄的肩膀上 你正倚靠著入睡",
       "analysis": [
-        { "point": "좁아진", "explanation": "좁아지다（變窄）的冠形詞形（-ㄴ），修飾 내 어깨。" },
-        { "point": "내 어깨엔", "explanation": "내（我的） + 어깨（肩膀） + -에（位置助詞） + -는（主題助詞），縮略為 -엔。" },
-        { "point": "네가", "explanation": "너（你） + -가（主格助詞）。" },
-        { "point": "기대어", "explanation": "기대다（倚靠）的連接形。" },
-        { "point": "자고 있었지", "explanation": "자다（睡） + -고 있었다（過去進行） + -지（陳述語氣），意為「正睡著」。 " }
+        { "point": "좁아진", "explanation": "좁아지다（變窄）的冠形詞形（-ㄴ） 修飾 내 어깨" },
+        { "point": "내 어깨엔", "explanation": "내（我的） + 어깨（肩膀） + -에（位置助詞） + -는（主題助詞） 縮略為 -엔" },
+        { "point": "네가", "explanation": "너（你） + -가（主格助詞）" },
+        { "point": "기대어", "explanation": "기대다（倚靠）的連接形" },
+        { "point": "자고 있었지", "explanation": "자다（睡） + -고 있었다（過去進行） + -지（陳述語氣） 意為「正睡著」 " }
       ]
     },
     {
       "korean": "미안하단 말로는 한없이 부족했었네",
-      "translation": "只說對不起，是遠遠不夠的。",
+      "translation": "只說對不起 是遠遠不夠的",
       "analysis": [
-        { "point": "미안하단", "explanation": "미안하다（對不起） + -다는（引用冠形詞形，縮略為 -단），修飾 말。" },
-        { "point": "말로는", "explanation": "말（話） + -로는（手段助詞 -로 + 主題助詞 -는），意為「用話語來說」。 " },
-        { "point": "한없이", "explanation": "副詞「無止境地／遠遠地」。 " },
-        { "point": "부족했었네", "explanation": "부족하다（不足） + -았었-（過去回憶時制） + -네（感嘆／陳述終結詞尾），意為「曾經不足啊」。 " }
+        { "point": "미안하단", "explanation": "미안하다（對不起） + -다는（引用冠形詞形 縮略為 -단） 修飾 말" },
+        { "point": "말로는", "explanation": "말（話） + -로는（手段助詞 -로 + 主題助詞 -는） 意為「用話語來說」 " },
+        { "point": "한없이", "explanation": "副詞「無止境地／遠遠地」 " },
+        { "point": "부족했었네", "explanation": "부족하다（不足） + -았었-（過去回憶時制） + -네（感嘆／陳述終結詞尾） 意為「曾經不足啊」 " }
       ]
     },
     {
       "korean": "기억을 조각내어 몸에 예쁜 선을 그었지",
-      "translation": "將記憶碎片化，在身體上畫下美麗的線條。",
+      "translation": "將記憶碎片化 在身體上畫下美麗的線條",
       "analysis": [
-        { "point": "기억을", "explanation": "기억（記憶） + -을（賓格助詞）。" },
-        { "point": "조각내어", "explanation": "조각내다（碎片化／拆解）的連接形。" },
-        { "point": "몸에", "explanation": "몸（身體） + -에（位置助詞「在……上」）。" },
-        { "point": "예쁜", "explanation": "예쁘다（美麗）的冠形詞形（-은），修飾 선。" },
-        { "point": "선을", "explanation": "선（線條） + -을（賓格）。" },
-        { "point": "그었지", "explanation": "긋다（劃線） + -었-（過去） + -지（陳述語氣）。" }
+        { "point": "기억을", "explanation": "기억（記憶） + -을（賓格助詞）" },
+        { "point": "조각내어", "explanation": "조각내다（碎片化／拆解）的連接形" },
+        { "point": "몸에", "explanation": "몸（身體） + -에（位置助詞「在……上」）" },
+        { "point": "예쁜", "explanation": "예쁘다（美麗）的冠形詞形（-은） 修飾 선" },
+        { "point": "선을", "explanation": "선（線條） + -을（賓格）" },
+        { "point": "그었지", "explanation": "긋다（劃線） + -었-（過去） + -지（陳述語氣）" }
       ]
     },
     {
       "sectionTitle": "Chorus",
       "korean": "나의 눈물은 금가루야",
-      "translation": "我的眼淚是金粉。",
+      "translation": "我的眼淚是金粉",
       "analysis": [
-        { "point": "나의", "explanation": "나（我） + -의（屬格助詞）。" },
-        { "point": "눈물은", "explanation": "눈물（眼淚） + -은（主題助詞）。" },
-        { "point": "금가루야", "explanation": "금가루（金粉） + -야（이다 的平語終結詞尾），意為「是金粉」。 " }
+        { "point": "나의", "explanation": "나（我） + -의（屬格助詞）" },
+        { "point": "눈물은", "explanation": "눈물（眼淚） + -은（主題助詞）" },
+        { "point": "금가루야", "explanation": "금가루（金粉） + -야（이다 的平語終結詞尾） 意為「是金粉」 " }
       ]
     },
     {
       "korean": "너의 손길은 빛 한 줄기야",
-      "translation": "你的觸摸是一道光。",
+      "translation": "你的觸摸是一道光",
       "analysis": [
-        { "point": "너의", "explanation": "너（你） + -의（屬格）。" },
-        { "point": "손길은", "explanation": "손길（手觸摸／手） + -은（主題）。" },
-        { "point": "빛 한 줄기야", "explanation": "빛（光） + 한 줄기（一道／一縷） + -야（이다 的平語終結），意為「是一道光」。 " }
+        { "point": "너의", "explanation": "너（你） + -의（屬格）" },
+        { "point": "손길은", "explanation": "손길（手觸摸／手） + -은（主題）" },
+        { "point": "빛 한 줄기야", "explanation": "빛（光） + 한 줄기（一道／一縷） + -야（이다 的平語終結） 意為「是一道光」 " }
       ]
     },
     {
       "korean": "이젠 솔직하게 말해봐",
-      "translation": "現在坦率地說說看吧。",
+      "translation": "現在坦率地說說看吧",
       "analysis": [
-        { "point": "이젠", "explanation": "이제는 的縮略（現在＋主題）。" },
-        { "point": "솔직하게", "explanation": "솔직하다（坦率）的副詞化形（-게）。" },
-        { "point": "말해봐", "explanation": "말하다（說） + -아/어 보다（嘗試看看）的平語命令形，意為「試著說說看」。 " }
+        { "point": "이젠", "explanation": "이제는 的縮略（現在＋主題）" },
+        { "point": "솔직하게", "explanation": "솔직하다（坦率）的副詞化形（-게）" },
+        { "point": "말해봐", "explanation": "말하다（說） + -아/어 보다（嘗試看看）的平語命令形 意為「試著說說看」 " }
       ]
     },
     {
       "sectionTitle": "Verse 2",
       "korean": "모순적인 것들이 모여 나를 완성시켰고",
-      "translation": "矛盾的事物們聚集在一起，完成了我的樣子。",
+      "translation": "矛盾的事物們聚集在一起 完成了我的樣子",
       "analysis": [
-        { "point": "모순적인", "explanation": "모순적（矛盾） + -인（冠形詞尾），修飾 것들。" },
-        { "point": "것들이", "explanation": "것（事物） + -들（複數） + -이（主格助詞）。" },
-        { "point": "모여", "explanation": "모이다（聚集）的連接形。" },
-        { "point": "나를", "explanation": "나（我） + -를（賓格）。" },
-        { "point": "완성시켰고", "explanation": "완성시키다（使完成） + -었-（過去） + -고（並列連接）。" }
+        { "point": "모순적인", "explanation": "모순적（矛盾） + -인（冠形詞尾） 修飾 것들" },
+        { "point": "것들이", "explanation": "것（事物） + -들（複數） + -이（主格助詞）" },
+        { "point": "모여", "explanation": "모이다（聚集）的連接形" },
+        { "point": "나를", "explanation": "나（我） + -를（賓格）" },
+        { "point": "완성시켰고", "explanation": "완성시키다（使完成） + -었-（過去） + -고（並列連接）" }
       ]
     },
     {
       "korean": "결국 시간은 흐르고 모든 기억은 희미해지지",
-      "translation": "最終時間流逝，所有的記憶都變得模糊。",
+      "translation": "最終時間流逝 所有的記憶都變得模糊",
       "analysis": [
-        { "point": "결국", "explanation": "副詞「最終」。" },
-        { "point": "시간은", "explanation": "시간（時間） + -은（主題）。" },
-        { "point": "흐르고", "explanation": "흐르다（流動） + -고（並列連接）。" },
-        { "point": "모든", "explanation": "冠形詞「所有的」，修飾 기억。" },
-        { "point": "기억은", "explanation": "기억（記憶） + -은（主題）。" },
-        { "point": "희미해지지", "explanation": "희미해지다（變得模糊） + -지（陳述語氣）。" }
+        { "point": "결국", "explanation": "副詞「最終」" },
+        { "point": "시간은", "explanation": "시간（時間） + -은（主題）" },
+        { "point": "흐르고", "explanation": "흐르다（流動） + -고（並列連接）" },
+        { "point": "모든", "explanation": "冠形詞「所有的」 修飾 기억" },
+        { "point": "기억은", "explanation": "기억（記憶） + -은（主題）" },
+        { "point": "희미해지지", "explanation": "희미해지다（變得模糊） + -지（陳述語氣）" }
       ]
     },
     {
       "sectionTitle": "Chorus",
       "korean": "나의 눈물은 금가루야",
-      "translation": "我的眼淚是金粉。",
+      "translation": "我的眼淚是金粉",
       "analysis": [
-        { "point": "나의", "explanation": "我的（屬格）。" },
-        { "point": "눈물은", "explanation": "眼淚（主題）。" },
-        { "point": "금가루야", "explanation": "是金粉（平語）。" }
+        { "point": "나의", "explanation": "我的（屬格）" },
+        { "point": "눈물은", "explanation": "眼淚（主題）" },
+        { "point": "금가루야", "explanation": "是金粉（平語）" }
       ]
     },
     {
       "korean": "너의 손길은 빛 한 줄기야",
-      "translation": "你的觸摸是一道光。",
+      "translation": "你的觸摸是一道光",
       "analysis": [
-        { "point": "너의", "explanation": "你的（屬格）。" },
-        { "point": "손길은", "explanation": "手的觸摸（主題）。" },
-        { "point": "빛 한 줄기야", "explanation": "是一道光（平語）。" }
+        { "point": "너의", "explanation": "你的（屬格）" },
+        { "point": "손길은", "explanation": "手的觸摸（主題）" },
+        { "point": "빛 한 줄기야", "explanation": "是一道光（平語）" }
       ]
     },
     {
       "korean": "이젠 솔직하게 말해봐",
-      "translation": "現在坦率地說說看吧。",
+      "translation": "現在坦率地說說看吧",
       "analysis": [
-        { "point": "이젠", "explanation": "現在（主題）。" },
-        { "point": "솔직하게", "explanation": "坦率地（副詞化）。" },
-        { "point": "말해봐", "explanation": "試著說（命令）。" }
+        { "point": "이젠", "explanation": "現在（主題）" },
+        { "point": "솔직하게", "explanation": "坦率地（副詞化）" },
+        { "point": "말해봐", "explanation": "試著說（命令）" }
       ]
     },
     {
       "sectionTitle": "Bridge",
       "korean": "나의 깊이는 대상자야",
-      "translation": "我的深度是對象（本身）。",
+      "translation": "我的深度是對象（本身）",
       "analysis": [
-        { "point": "나의", "explanation": "我的（屬格）。" },
-        { "point": "깊이는", "explanation": "깊이（深度） + -는（主題助詞）。" },
-        { "point": "대상자야", "explanation": "대상자（對象者） + -야（이다 的平語終結），意為「是對象」。 " }
+        { "point": "나의", "explanation": "我的（屬格）" },
+        { "point": "깊이는", "explanation": "깊이（深度） + -는（主題助詞）" },
+        { "point": "대상자야", "explanation": "대상자（對象者） + -야（이다 的平語終結） 意為「是對象」 " }
       ]
     },
     {
       "korean": "나의 표정은 오늘의 날씨야",
-      "translation": "我的表情是今天的天氣。",
+      "translation": "我的表情是今天的天氣",
       "analysis": [
-        { "point": "나의", "explanation": "我的（屬格）。" },
-        { "point": "표정은", "explanation": "표정（表情） + -은（主題）。" },
-        { "point": "오늘의", "explanation": "오늘（今天） + -의（屬格），修飾 날씨。" },
-        { "point": "날씨야", "explanation": "날씨（天氣） + -야（이다 平語終結），意為「是天氣」。 " }
+        { "point": "나의", "explanation": "我的（屬格）" },
+        { "point": "표정은", "explanation": "표정（表情） + -은（主題）" },
+        { "point": "오늘의", "explanation": "오늘（今天） + -의（屬格） 修飾 날씨" },
+        { "point": "날씨야", "explanation": "날씨（天氣） + -야（이다 平語終結） 意為「是天氣」 " }
       ]
     },
     {
       "korean": "사실 낮게 뜬 무지개야",
-      "translation": "其實是低掛的彩虹。",
+      "translation": "其實是低掛的彩虹",
       "analysis": [
-        { "point": "사실", "explanation": "副詞「其實／實際上」。 " },
-        { "point": "낮게", "explanation": "낮다（低）的副詞化形（-게），修飾 뜬。" },
-        { "point": "뜬", "explanation": "뜨다（升起／浮現）的冠形詞形（-ㄴ），修飾 무지개。" },
-        { "point": "무지개야", "explanation": "무지개（彩虹） + -야（이다 平語終結），意為「是彩虹」。 " }
+        { "point": "사실", "explanation": "副詞「其實／實際上」 " },
+        { "point": "낮게", "explanation": "낮다（低）的副詞化形（-게） 修飾 뜬" },
+        { "point": "뜬", "explanation": "뜨다（升起／浮現）的冠形詞形（-ㄴ） 修飾 무지개" },
+        { "point": "무지개야", "explanation": "무지개（彩虹） + -야（이다 平語終結） 意為「是彩虹」 " }
       ]
     }
   ],

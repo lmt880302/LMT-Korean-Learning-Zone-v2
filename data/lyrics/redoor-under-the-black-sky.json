@@ -6,182 +6,182 @@
     {
       "sectionTitle": "Verse 1",
       "korean": "널 새까맣게 색칠할 거예요",
-      "translation": "我會將你塗成漆黑一片。",
+      "translation": "我會將你塗成漆黑一片",
       "analysis": [
-        { "point": "널", "explanation": "너를 的縮略，意為「你」（賓格助詞 -를）。" },
-        { "point": "새까맣게", "explanation": "새까맣다（漆黑）的副詞化形（-게），修飾後面的動詞。" },
-        { "point": "색칠할", "explanation": "색칠하다（塗色／著色）的冠形詞形（-ㄹ），修飾後面的 거예요。" },
-        { "point": "거예요", "explanation": "것이에요 的縮略，表將來推測「會……的」。" }
+        { "point": "널", "explanation": "너를 的縮略 意為你 賓格助詞 -를" },
+        { "point": "새까맣게", "explanation": "새까맣다 漆黑的副詞化形 -게 修飾後面的動詞" },
+        { "point": "색칠할", "explanation": "색칠하다 塗色或著色的冠形詞形 -ㄹ 修飾後面的 거예요" },
+        { "point": "거예요", "explanation": "것이에요 的縮略 表將來推測 意為會的" }
       ]
     },
     {
       "korean": "그 어떤 색도 입히지 못하게",
-      "translation": "不讓任何顏色附著（在你身上）。",
+      "translation": "不讓任何顏色附著在你身上",
       "analysis": [
-        { "point": "그 어떤", "explanation": "그（那） + 어떤（任何），意為「無論哪種」。 " },
-        { "point": "색도", "explanation": "색（顏色） + -도（助詞「也」）。" },
-        { "point": "입히지", "explanation": "입히다（使穿上／使附著） + -지（連結詞尾，用於否定）。" },
-        { "point": "못하게", "explanation": "못（無法） + -하게（副詞化，表方式「……地」），整體意為「無法讓……附著地」。 " }
+        { "point": "그 어떤", "explanation": "그 那加上 어떤 任何 意為無論哪種" },
+        { "point": "색도", "explanation": "색 顏色加上 -도 助詞也" },
+        { "point": "입히지", "explanation": "입히다 使穿上或使附著加上 -지 連結詞尾用於否定" },
+        { "point": "못하게", "explanation": "못 無法加上 -하게 副詞化表方式 整體意為無法讓附著地" }
       ]
     },
     {
       "korean": "그러고 나면 다신 볼 순 없겠죠",
-      "translation": "那樣之後，就再也見不到了吧。",
+      "translation": "那樣之後 就再也見不到了吧",
       "analysis": [
-        { "point": "그러고", "explanation": "그렇게 하고（那樣做了之後）的縮略。" },
-        { "point": "나면", "explanation": "나다（發生／出來） + -면（條件「如果……之後」），意為「那樣做了之後」。 " },
-        { "point": "다신", "explanation": "다시（再次） + -은（強調），意為「再也不」。" },
-        { "point": "볼", "explanation": "보다（看）的冠形詞形（-ㄹ），修飾 순。" },
-        { "point": "순", "explanation": "수는 的縮略（依存名詞 수 + 主題助詞 는）。" },
-        { "point": "없겠죠", "explanation": "없다（沒有） + -겠-（推測） + -죠（-지요 的縮略，陳述語氣），意為「不會有（辦法）吧」。 " }
+        { "point": "그러고", "explanation": "그렇게 하고 那樣做了之後的縮略" },
+        { "point": "나면", "explanation": "나다 發生或出來加上 -면 條件如果之後 意為那樣做了之後" },
+        { "point": "다신", "explanation": "다시 再次加上 -은 強調 意為再也不" },
+        { "point": "볼", "explanation": "보다 看的冠形詞形 -ㄹ 修飾 순" },
+        { "point": "순", "explanation": "수는 的縮略 依存名詞 수 加上主題助詞 는" },
+        { "point": "없겠죠", "explanation": "없다 沒有加上 -겠- 推測與 -죠 -지요 的縮略陳述語氣 意為不會有辦法吧" }
       ]
     },
     {
       "korean": "그게 두려워서 난",
-      "translation": "因為害怕那個，所以我……",
+      "translation": "因為害怕那個 所以我……",
       "analysis": [
-        { "point": "그게", "explanation": "그것이（那件事）的縮略，意為「那件事」。" },
-        { "point": "두려워서", "explanation": "두렵다（害怕） + -아/어서（因果連接詞尾「因為……」）。" },
-        { "point": "난", "explanation": "나는 的縮略（我 + 主題助詞 -는）。" }
+        { "point": "그게", "explanation": "그것이 那件事的縮略 意為那件事" },
+        { "point": "두려워서", "explanation": "두렵다 害怕加上 -아/어서 因果連接詞尾因為" },
+        { "point": "난", "explanation": "나는 的縮略 我加上主題助詞 -는" }
       ]
     },
     {
       "sectionTitle": "Chorus",
       "korean": "수많은 밤들을 지새웠어요",
-      "translation": "熬過了無數個夜晚。",
+      "translation": "熬過了無數個夜晚",
       "analysis": [
-        { "point": "수많은", "explanation": "수많다（無數的）的冠形詞形（-은），修飾 밤들。" },
-        { "point": "밤들을", "explanation": "밤（夜晚） + -들（複數） + -을（賓格助詞）。" },
-        { "point": "지새웠어요", "explanation": "지새다（熬夜度過） + -았-（過去時） + -어요（敬語終結詞尾）。" }
+        { "point": "수많은", "explanation": "수많다 無數的冠形詞形 -은 修飾 밤들" },
+        { "point": "밤들을", "explanation": "밤 夜晚加上 -들 複數與 -을 賓格助詞" },
+        { "point": "지새웠어요", "explanation": "지새다 熬夜度過加上 -았- 過去時與 -어요 敬語終結詞尾" }
       ]
     },
     {
       "korean": "오늘은 유난히 네가 반짝이죠 많이 생각나죠",
-      "translation": "今天你特別地閃耀，非常想念（你）。",
+      "translation": "今天你特別地閃耀 非常想念你",
       "analysis": [
-        { "point": "오늘은", "explanation": "오늘（今天） + -은（主題助詞）。" },
-        { "point": "유난히", "explanation": "副詞「特別地」。" },
-        { "point": "네가", "explanation": "너（你） + -가（主格助詞）。" },
-        { "point": "반짝이죠", "explanation": "반짝이다（閃耀） + -죠（-지요 的縮略，陳述語氣）。" },
-        { "point": "많이", "explanation": "副詞「很多地／非常」。 " },
-        { "point": "생각나죠", "explanation": "생각나다（被想起） + -죠（陳述語氣）。" }
+        { "point": "오늘은", "explanation": "오늘 今天加上 -은 主題助詞" },
+        { "point": "유난히", "explanation": "副詞 意為特別地" },
+        { "point": "네가", "explanation": "너 你加上 -가 主格助詞" },
+        { "point": "반짝이죠", "explanation": "반짝이다 閃耀加上 -죠 -지요 的縮略陳述語氣" },
+        { "point": "많이", "explanation": "副詞 意為很多地或非常" },
+        { "point": "생각나죠", "explanation": "생각나다 被想起加上 -죠 陳述語氣" }
       ]
     },
     {
       "sectionTitle": "Verse 2",
       "korean": "비틀비틀 걸으며 생각을 해요 너의 빈자리의 크기를",
-      "translation": "搖搖晃晃地走著，思考著你空位的尺寸。",
+      "translation": "搖搖晃晃地走著 思考著你空位的尺寸",
       "analysis": [
-        { "point": "비틀비틀", "explanation": "擬態詞「搖搖晃晃地」。" },
-        { "point": "걸으며", "explanation": "걷다（走） + -으며（並列／同時連接詞尾「一邊……一邊」）。" },
-        { "point": "생각을 해요", "explanation": "생각（想法） + -을（賓格） + 하다（做）的敬語形，意為「思考」。 " },
-        { "point": "너의", "explanation": "너（你） + -의（屬格助詞）。" },
-        { "point": "빈자리의", "explanation": "빈자리（空位） + -의（屬格），修飾 크기。" },
-        { "point": "크기를", "explanation": "크기（尺寸／大小） + -를（賓格助詞）。" }
+        { "point": "비틀비틀", "explanation": "擬態詞 意為搖搖晃晃地" },
+        { "point": "걸으며", "explanation": "걷다 走加上 -으며 並列或同時連接詞尾 一邊一邊" },
+        { "point": "생각을 해요", "explanation": "생각 想法加上 -을 賓格與 하다 做的敬語形 意為思考" },
+        { "point": "너의", "explanation": "너 你加上 -의 屬格助詞" },
+        { "point": "빈자리의", "explanation": "빈자리 空位加上 -의 屬格 修飾 크기" },
+        { "point": "크기를", "explanation": "크기 尺寸或大小加上 -를 賓格助詞" }
       ]
     },
     {
       "korean": "울먹울먹일 때면 네 생각이 나요 나의 슬픔을 삼켜주던 너",
-      "translation": "每當哽咽時，就會想起你，那個曾經吞噬我的悲傷的你。",
+      "translation": "每當哽咽時 就會想起你 那個曾經吞噬我的悲傷的你",
       "analysis": [
-        { "point": "울먹울먹일", "explanation": "울먹이다（哽咽） + -ㄹ（冠形詞形），修飾 때면。" },
-        { "point": "때면", "explanation": "때（時候） + -면（條件「每當……」）。" },
-        { "point": "네 생각이 나요", "explanation": "네（你） + 생각（想法） + 이 나다（被想起）的敬語形，意為「想起你」。 " },
-        { "point": "나의", "explanation": "나（我） + -의（屬格）。" },
-        { "point": "슬픔을", "explanation": "슬픔（悲傷） + -을（賓格）。" },
-        { "point": "삼켜주던", "explanation": "삼키다（吞噬） + -아/어 주다（為……做） + -던（回想冠形詞尾），修飾後面的 너。" },
-        { "point": "너", "explanation": "你（名詞／代名詞）。" }
+        { "point": "울먹울먹일", "explanation": "울먹이다 哽咽加上 -ㄹ 冠形詞形 修飾 때면" },
+        { "point": "때면", "explanation": "때 時候加上 -면 條件每當" },
+        { "point": "네 생각이 나요", "explanation": "네 你加上 생각 想法與 이 나다 被想起的敬語形 意為想起你" },
+        { "point": "나의", "explanation": "나 我加上 -의 屬格" },
+        { "point": "슬픔을", "explanation": "슬픔 悲傷加上 -을 賓格" },
+        { "point": "삼켜주던", "explanation": "삼키다 吞噬加上 -아/어 주다 為做與 -던 回想冠形詞尾 修飾後面的 너" },
+        { "point": "너", "explanation": "代名詞 意為你" }
       ]
     },
     {
       "sectionTitle": "Chorus",
       "korean": "널 새까맣게 색칠하려다가",
-      "translation": "想要將你塗成漆黑一片時，",
+      "translation": "想要將你塗成漆黑一片時",
       "analysis": [
-        { "point": "널", "explanation": "너를 的縮略（賓格）。" },
-        { "point": "새까맣게", "explanation": "새까맣다（漆黑）的副詞化形（-게）。" },
-        { "point": "색칠하려다가", "explanation": "색칠하다（塗色） + -려다가（表意圖中斷「本想……卻」）。" }
+        { "point": "널", "explanation": "너를 的縮略 賓格助詞 -를" },
+        { "point": "새까맣게", "explanation": "새까맣다 漆黑的副詞化形 -게" },
+        { "point": "색칠하려다가", "explanation": "색칠하다 塗色加上 -려다가 表意圖中斷 意為本想卻" }
       ]
     },
     {
       "korean": "내 마음에도 번져버렸죠",
-      "translation": "甚至也蔓延到了我的心。",
+      "translation": "甚至也蔓延到了我的心",
       "analysis": [
-        { "point": "내 마음에도", "explanation": "내（我的） + 마음（心） + -에도（位置助詞 -에 + 強調助詞 -도「也」）。" },
-        { "point": "번져버렸죠", "explanation": "번지다（蔓延） + -아/어 버리다（徹底完成） + -었-（過去時） + -죠（陳述語氣）。" }
+        { "point": "내 마음에도", "explanation": "내 我的加上 마음 心與 -에도 位置助詞 -에 加上強調助詞 -도 也" },
+        { "point": "번져버렸죠", "explanation": "번지다 蔓延加上 -아/어 버리다 徹底完成與 -었- 過去時及 -죠 陳述語氣" }
       ]
     },
     {
       "korean": "오랫동안 우릴 그려왔기에",
-      "translation": "因為長久以來一直描繪著我們，",
+      "translation": "因為長久以來一直描繪著我們",
       "analysis": [
-        { "point": "오랫동안", "explanation": "副詞「長久以來」。" },
-        { "point": "우릴", "explanation": "우리를 的縮略（我們 + 賓格助詞 -를）。" },
-        { "point": "그려왔기에", "explanation": "그리다（描繪） + -아/어 오다（持續以來） + -았-（過去） + -기에（因果連接詞尾「因為……」）。" }
+        { "point": "오랫동안", "explanation": "副詞 意為長久以來" },
+        { "point": "우릴", "explanation": "우리를 的縮略 我們加上賓格助詞 -를" },
+        { "point": "그려왔기에", "explanation": "그리다 描繪加上 -아/어 오다 持續以來與 -았- 過去時及 -기에 因果連接詞尾因為" }
       ]
     },
     {
       "korean": "나의 손목을 잡아버렸죠",
-      "translation": "抓住了我的手腕。",
+      "translation": "抓住了我的手腕",
       "analysis": [
-        { "point": "나의", "explanation": "나（我） + -의（屬格）。" },
-        { "point": "손목을", "explanation": "손목（手腕） + -을（賓格）。" },
-        { "point": "잡아버렸죠", "explanation": "잡다（抓住） + -아/어 버리다（徹底完成） + -었-（過去） + -죠（陳述語氣）。" }
+        { "point": "나의", "explanation": "나 我加上 -의 屬格" },
+        { "point": "손목을", "explanation": "손목 手腕加上 -을 賓格" },
+        { "point": "잡아버렸죠", "explanation": "잡다 抓住加上 -아/어 버리다 徹底完成與 -었- 過去時及 -죠 陳述語氣" }
       ]
     },
     {
       "sectionTitle": "Chorus",
       "korean": "수많은 밤들을 지새웠어요",
-      "translation": "熬過了無數個夜晚。",
+      "translation": "熬過了無數個夜晚",
       "analysis": [
-        { "point": "수많은", "explanation": "수많다（無數的）的冠形詞形（-은）。" },
-        { "point": "밤들을", "explanation": "밤（夜晚） + -들（複數） + -을（賓格）。" },
-        { "point": "지새웠어요", "explanation": "지새다（熬夜度過） + -았-（過去） + -어요（敬語）。" }
+        { "point": "수많은", "explanation": "수많다 無數的冠形詞形 -은 修飾 밤들" },
+        { "point": "밤들을", "explanation": "밤 夜晚加上 -들 複數與 -을 賓格助詞" },
+        { "point": "지새웠어요", "explanation": "지새다 熬夜度過加上 -았- 過去時與 -어요 敬語終結詞尾" }
       ]
     },
     {
       "korean": "오늘은 유난히 네가 반짝이죠 많이 생각나죠",
-      "translation": "今天你特別地閃耀，非常想念（你）。",
+      "translation": "今天你特別地閃耀 非常想念你",
       "analysis": [
-        { "point": "오늘은", "explanation": "오늘（今天） + -은（主題）。" },
-        { "point": "유난히", "explanation": "副詞「特別地」。" },
-        { "point": "네가", "explanation": "너（你） + -가（主格）。" },
-        { "point": "반짝이죠", "explanation": "반짝이다（閃耀） + -죠（陳述）。" },
-        { "point": "많이", "explanation": "副詞「非常」。 " },
-        { "point": "생각나죠", "explanation": "생각나다（被想起） + -죠（陳述）。" }
+        { "point": "오늘은", "explanation": "오늘 今天加上 -은 主題助詞" },
+        { "point": "유난히", "explanation": "副詞 意為特別地" },
+        { "point": "네가", "explanation": "너 你加上 -가 主格助詞" },
+        { "point": "반짝이죠", "explanation": "반짝이다 閃耀加上 -죠 -지요 的縮略陳述語氣" },
+        { "point": "많이", "explanation": "副詞 意為非常" },
+        { "point": "생각나죠", "explanation": "생각나다 被想起加上 -죠 陳述語氣" }
       ]
     },
     {
       "sectionTitle": "Verse 2 (Reprise)",
       "korean": "비틀비틀 걸으며 생각을 해요 너의 빈자리의 크기를",
-      "translation": "搖搖晃晃地走著，思考著你空位的尺寸。",
+      "translation": "搖搖晃晃地走著 思考著你空位的尺寸",
       "analysis": [
-        { "point": "비틀비틀", "explanation": "擬態詞「搖搖晃晃地」。" },
-        { "point": "걸으며", "explanation": "걷다（走） + -으며（一邊……一邊）。" },
-        { "point": "생각을 해요", "explanation": "思考（動詞片語）。" },
-        { "point": "너의", "explanation": "你（屬格）。" },
-        { "point": "빈자리의", "explanation": "空位（屬格）。" },
-        { "point": "크기를", "explanation": "尺寸（賓格）。" }
+        { "point": "비틀비틀", "explanation": "擬態詞 意為搖搖晃晃地" },
+        { "point": "걸으며", "explanation": "걷다 走加上 -으며 並列或同時連接詞尾 一邊一邊" },
+        { "point": "생각을 해요", "explanation": "생각 想法加上 -을 賓格與 하다 做的敬語形 意為思考" },
+        { "point": "너의", "explanation": "너 你加上 -의 屬格助詞" },
+        { "point": "빈자리의", "explanation": "빈자리 空位加上 -의 屬格 修飾 크기" },
+        { "point": "크기를", "explanation": "크기 尺寸或大小加上 -를 賓格助詞" }
       ]
     },
     {
       "korean": "울먹울먹일 때면 네 생각이 나죠 나의 슬픔을 삼켜주던 너",
-      "translation": "每當哽咽時，就會想起你，那個曾經吞噬我的悲傷的你。",
+      "translation": "每當哽咽時 就會想起你 那個曾經吞噬我的悲傷的你",
       "analysis": [
-        { "point": "울먹울먹일", "explanation": "울먹이다（哽咽） + -ㄹ（冠形），修飾 때면。" },
-        { "point": "때면", "explanation": "때（時候） + -면（每當）。" },
-        { "point": "네 생각이 나죠", "explanation": "想起你（被動語態）。" },
-        { "point": "나의", "explanation": "我的（屬格）。" },
-        { "point": "슬픔을", "explanation": "悲傷（賓格）。" },
-        { "point": "삼켜주던", "explanation": "삼키다（吞噬） + -아/어 주다（為……） + -던（回想冠形），修飾 너。" },
-        { "point": "너", "explanation": "你（代名詞）。" }
+        { "point": "울먹울먹일", "explanation": "울먹이다 哽咽加上 -ㄹ 冠形詞形 修飾 때면" },
+        { "point": "때면", "explanation": "때 時候加上 -면 條件每當" },
+        { "point": "네 생각이 나죠", "explanation": "네 你加上 생각 想法與 이 나다 被想起的敬語形 意為想起你" },
+        { "point": "나의", "explanation": "나 我加上 -의 屬格" },
+        { "point": "슬픔을", "explanation": "슬픔 悲傷加上 -을 賓格" },
+        { "point": "삼켜주던", "explanation": "삼키다 吞噬加上 -아/어 주다 為做與 -던 回想冠形詞尾 修飾後面的 너" },
+        { "point": "너", "explanation": "代名詞 意為你" }
       ]
     }
   ],
   "keyVocabulary": [
     { "korean": "새까맣다", "chinese": "漆黑", "pos": "形容詞" },
     { "korean": "색칠하다", "chinese": "塗色／著色", "pos": "動詞" },
-    { "korean": "입히지", "chinese": "使附著／使穿上", "pos": "動詞" },
+    { "korean": "입히다", "chinese": "使附著／使穿上", "pos": "動詞" },
     { "korean": "보다", "chinese": "看", "pos": "動詞" },
     { "korean": "두렵다", "chinese": "害怕", "pos": "形容詞" },
     { "korean": "수많다", "chinese": "無數的", "pos": "形容詞" },

@@ -6,274 +6,274 @@
     {
       "sectionTitle": "Verse 1",
       "korean": "도망치는 사람들 다 맨발이기에",
-      "translation": "因為逃跑的人們全都是赤腳。",
+      "translation": "因為逃跑的人們全都是赤腳",
       "analysis": [
-        { "point": "도망치는", "explanation": "도망치다（逃跑） + -는（冠形詞尾，修飾名詞）。" },
-        { "point": "사람들", "explanation": "사람（人） + -들（複數助詞）。" },
-        { "point": "다", "explanation": "全都（副詞）。" },
-        { "point": "맨발이기에", "explanation": "맨발（赤腳） + -이기에（이다 的連接形 -기에，表原因「因為是……」）。" }
+        { "point": "도망치는", "explanation": "도망치다 逃跑加上 -는 冠形詞尾修飾名詞" },
+        { "point": "사람들", "explanation": "사람 人加上 -들 複數助詞" },
+        { "point": "다", "explanation": "副詞 意為全都" },
+        { "point": "맨발이기에", "explanation": "맨발 赤腳加上 -이기에 이다 的連接形 -기에 表原因 意為因為是" }
       ]
     },
     {
       "korean": "굳이 잡을 필요도 없다고 믿었네",
-      "translation": "曾相信沒有非要抓住的必要。",
+      "translation": "曾相信沒有非要抓住的必要",
       "analysis": [
-        { "point": "굳이", "explanation": "副詞「故意／非要」。" },
-        { "point": "잡을 필요도 없다고", "explanation": "잡다（抓） + -을 필요가 없다（沒有必要） + -도（也） + -라고（引用助詞，縮略為 -다고）。" },
-        { "point": "믿었네", "explanation": "믿다（相信） + -었-（過去時） + -네（感嘆／陳述終結詞尾）。" }
+        { "point": "굳이", "explanation": "副詞 意為故意或非要" },
+        { "point": "잡을 필요도 없다고", "explanation": "잡다 抓加上 -을 필요가 없다 沒有必要與 -도 也及 -라고 引用助詞縮略為 -다고" },
+        { "point": "믿었네", "explanation": "믿다 相信加上 -었- 過去時與 -네 感嘆或陳述終結詞尾" }
       ]
     },
     {
       "korean": "네가 기쁠 만큼 행복을 못 빌어 주기에",
-      "translation": "因為無法為你祈求足以讓你高興的幸福。",
+      "translation": "因為無法為你祈求足以讓你高興的幸福",
       "analysis": [
-        { "point": "네가", "explanation": "너（你） + -가（主格助詞）。" },
-        { "point": "기쁠 만큼", "explanation": "기쁘다（高興） + -ㄹ 만큼（表程度「足以……」）。" },
-        { "point": "행복을", "explanation": "행복（幸福） + -을（賓格助詞）。" },
-        { "point": "못 빌어 주기에", "explanation": "못（無法） + 빌다（祈求） + -아/어 주다（為……做） + -기에（因果連接詞尾「因為」）。" }
+        { "point": "네가", "explanation": "너 你加上 -가 主格助詞" },
+        { "point": "기쁠 만큼", "explanation": "기쁘다 高興加上 -ㄹ 만큼 表程度足以" },
+        { "point": "행복을", "explanation": "행복 幸福加上 -을 賓格助詞" },
+        { "point": "못 빌어 주기에", "explanation": "못 無法加上 빌다 祈求與 -아/어 주다 為做及 -기에 因果連接詞尾因為" }
       ]
     },
     {
       "korean": "내 생각을 반으로 접어도 보았네",
-      "translation": "甚至試著將我的想法對折。",
+      "translation": "甚至試著將我的想法對折",
       "analysis": [
-        { "point": "내 생각을", "explanation": "내（我的） + 생각（想法） + -을（賓格助詞）。" },
-        { "point": "반으로", "explanation": "반（一半） + -으로（手段／方式助詞）。" },
-        { "point": "접어도 보았네", "explanation": "접다（折） + -아/어도 보다（嘗試看看） + -았-（過去時） + -네（陳述終結詞尾）。" }
+        { "point": "내 생각을", "explanation": "내 我的加上 생각 想法與 -을 賓格助詞" },
+        { "point": "반으로", "explanation": "반 一半加上 -으로 手段或方式助詞" },
+        { "point": "접어도 보았네", "explanation": "접다 折加上 -아/어도 보다 嘗試看看與 -았- 過去時及 -네 陳述終結詞尾" }
       ]
     },
     {
       "sectionTitle": "Chorus",
       "korean": "내 맘 모두 토해내도 비우지 못하고",
-      "translation": "即使將我的心全部吐出，也無法清空。",
+      "translation": "即使將我的心全部吐出 也無法清空",
       "analysis": [
-        { "point": "내 맘", "explanation": "내 마음（我的心）的縮略。" },
-        { "point": "모두", "explanation": "全部（副詞）。" },
-        { "point": "토해내도", "explanation": "토해내다（吐出） + -아/어도（讓步連接「即使……」）。" },
-        { "point": "비우지 못하고", "explanation": "비우다（清空） + -지 못하다（無法） + -고（並列連接詞尾）。" }
+        { "point": "내 맘", "explanation": "내 마음 我的心的縮略" },
+        { "point": "모두", "explanation": "副詞 意為全部" },
+        { "point": "토해내도", "explanation": "토해내다 吐出加上 -아/어도 讓步連接即使" },
+        { "point": "비우지 못하고", "explanation": "비우다 清空加上 -지 못하다 無法與 -고 並列連接詞尾" }
       ]
     },
     {
       "korean": "내 사랑 모두 써내려도 초라할 뿐이네",
-      "translation": "即使將我的愛全部傾訴，也只覺得寒酸。",
+      "translation": "即使將我的愛全部傾訴 也只覺得寒酸",
       "analysis": [
-        { "point": "내 사랑", "explanation": "我的愛。" },
-        { "point": "모두", "explanation": "全部（副詞）。" },
-        { "point": "써내려도", "explanation": "써내려가다（傾訴／寫下去） + -아/어도（讓步）。" },
-        { "point": "초라할 뿐이네", "explanation": "초라하다（寒酸） + -ㄹ 뿐이다（只是……罷了） + -네（陳述終結詞尾）。" }
+        { "point": "내 사랑", "explanation": "내 我的加上 사랑 愛" },
+        { "point": "모두", "explanation": "副詞 意為全部" },
+        { "point": "써내려도", "explanation": "써내려가다 傾訴或寫下去加上 -아/어도 讓步" },
+        { "point": "초라할 뿐이네", "explanation": "초라하다 寒酸加上 -ㄹ 뿐이다 只是罷了與 -네 陳述終結詞尾" }
       ]
     },
     {
       "korean": "지나간 사랑 되찾아도 텅 비었을 텐데",
-      "translation": "即使找回逝去的愛，大概也已是空蕩蕩的吧。",
+      "translation": "即使找回逝去的愛 大概也已是空蕩蕩的吧",
       "analysis": [
-        { "point": "지나간", "explanation": "지나가다（過去／流逝）的冠形詞形（-ㄴ），修飾 사랑。" },
-        { "point": "사랑", "explanation": "愛（名詞）。" },
-        { "point": "되찾아도", "explanation": "되찾다（找回） + -아/어도（讓步）。" },
-        { "point": "텅 비었을 텐데", "explanation": "텅 빈（空蕩蕩） + -었을 터이다（表推測「大概會……」） + -는데（背景／轉折連接詞尾）。" }
+        { "point": "지나간", "explanation": "지나가다 過去或流逝的冠形詞形 -ㄴ 修飾 사랑" },
+        { "point": "사랑", "explanation": "名詞 意為愛" },
+        { "point": "되찾아도", "explanation": "되찾다 找回加上 -아/어도 讓步" },
+        { "point": "텅 비었을 텐데", "explanation": "텅 빈 空蕩蕩加上 -었을 터이다 表推測大概會與 -는데 背景或轉折連接詞尾" }
       ]
     },
     {
       "korean": "우리 영원할 추억 다시 못 만날 사랑",
-      "translation": "我們永恆的回憶，再也無法相遇的愛情。",
+      "translation": "我們永恆的回憶 再也無法相遇的愛情",
       "analysis": [
-        { "point": "우리", "explanation": "我們（代名詞）。" },
-        { "point": "영원할", "explanation": "영원하다（永恆）的冠形詞形（-ㄹ），修飾 추억。" },
-        { "point": "추억", "explanation": "回憶（名詞）。" },
-        { "point": "다시", "explanation": "再次（副詞）。" },
-        { "point": "못 만날", "explanation": "못（無法） + 만나다（相遇）的冠形詞形（-ㄹ），修飾 사랑。" },
-        { "point": "사랑", "explanation": "愛情（名詞）。" }
+        { "point": "우리", "explanation": "代名詞 意為我們" },
+        { "point": "영원할", "explanation": "영원하다 永恆的冠形詞形 -ㄹ 修飾 추억" },
+        { "point": "추억", "explanation": "名詞 意為回憶" },
+        { "point": "다시", "explanation": "副詞 意為再次" },
+        { "point": "못 만날", "explanation": "못 無法加上 만나다 相遇的冠形詞形 -ㄹ 修飾 사랑" },
+        { "point": "사랑", "explanation": "名詞 意為愛情" }
       ]
     },
     {
       "korean": "더 빛나요",
-      "translation": "更加閃耀。",
+      "translation": "更加閃耀",
       "analysis": [
-        { "point": "더", "explanation": "更加（副詞）。" },
-        { "point": "빛나요", "explanation": "빛나다（閃耀） + -아요（敬語終結詞尾）。" }
+        { "point": "더", "explanation": "副詞 意為更加" },
+        { "point": "빛나요", "explanation": "빛나다 閃耀加上 -아요 敬語終結詞尾" }
       ]
     },
     {
       "sectionTitle": "Verse 2",
       "korean": "조용한 방구석은 나를 삼켰기에",
-      "translation": "因為安靜的房間角落將我吞噬。",
+      "translation": "因為安靜的房間角落將我吞噬",
       "analysis": [
-        { "point": "조용한", "explanation": "조용하다（安靜）的冠形詞形（-ㄴ），修飾 방구석。" },
-        { "point": "방구석은", "explanation": "방구석（房間角落） + -은（主題助詞）。" },
-        { "point": "나를", "explanation": "나（我） + -를（賓格助詞）。" },
-        { "point": "삼켰기에", "explanation": "삼키다（吞噬） + -었-（過去時） + -기에（因果連接詞尾）。" }
+        { "point": "조용한", "explanation": "조용하다 安靜的冠形詞形 -ㄴ 修飾 방구석" },
+        { "point": "방구석은", "explanation": "방구석 房間角落加上 -은 主題助詞" },
+        { "point": "나를", "explanation": "나 我加上 -를 賓格助詞" },
+        { "point": "삼켰기에", "explanation": "삼키다 吞噬加上 -었- 過去時與 -기에 因果連接詞尾" }
       ]
     },
     {
       "korean": "슬픈 꿈을 끌어안고 바닥에 누웠네",
-      "translation": "懷抱著悲傷的夢，躺在地板上。",
+      "translation": "懷抱著悲傷的夢 躺在地板上",
       "analysis": [
-        { "point": "슬픈", "explanation": "슬프다（悲傷）的冠形詞形（-ㄴ），修飾 꿈。" },
-        { "point": "꿈을", "explanation": "꿈（夢） + -을（賓格助詞）。" },
-        { "point": "끌어안고", "explanation": "끌어안다（抱住／懷抱） + -고（並列連接詞尾）。" },
-        { "point": "바닥에", "explanation": "바닥（地板） + -에（位置助詞）。" },
-        { "point": "누웠네", "explanation": "눕다（躺） + -았-（過去時） + -네（陳述終結詞尾）。" }
+        { "point": "슬픈", "explanation": "슬프다 悲傷的冠形詞形 -ㄴ 修飾 꿈" },
+        { "point": "꿈을", "explanation": "꿈 夢加上 -을 賓格助詞" },
+        { "point": "끌어안고", "explanation": "끌어안다 抱住或懷抱加上 -고 並列連接詞尾" },
+        { "point": "바닥에", "explanation": "바닥 地板加上 -에 位置助詞" },
+        { "point": "누웠네", "explanation": "눕다 躺加上 -았- 過去時與 -네 陳述終結詞尾" }
       ]
     },
     {
       "korean": "흘린 눈물 주워 담아 모른척하기엔",
-      "translation": "要將流下的眼淚拾起裝好、裝作若無其事的話，",
+      "translation": "要將流下的眼淚拾起裝好 裝作若無其事的話",
       "analysis": [
-        { "point": "흘린", "explanation": "흘리다（流下）的冠形詞形（-ㄴ），修飾 눈물。" },
-        { "point": "눈물", "explanation": "眼淚（名詞）。" },
-        { "point": "주워 담아", "explanation": "줍다（拾起） + 담다（裝／盛）的連接形，意為「拾起裝好」。" },
-        { "point": "모른척하기엔", "explanation": "모른척하다（裝作不知道） + -기에（原因） + -는（主題助詞，縮略為 -기엔），意為「因為要裝作若無其事的話」。" }
+        { "point": "흘린", "explanation": "흘리다 流下的冠形詞形 -ㄴ 修飾 눈물" },
+        { "point": "눈물", "explanation": "名詞 意為眼淚" },
+        { "point": "주워 담아", "explanation": "줍다 拾起加上 담다 裝或盛的連接形 意為拾起裝好" },
+        { "point": "모른척하기엔", "explanation": "모른척하다 裝作不知道加上 -기에 原因與 -는 主題助詞縮略為 -기엔 意為因為要裝作若無其事的話" }
       ]
     },
     {
       "korean": "처량했던 흔적들이 손가락질하네",
-      "translation": "曾經淒涼的痕跡們在指指點點。",
+      "translation": "曾經淒涼的痕跡們在指指點點",
       "analysis": [
-        { "point": "처량했던", "explanation": "처량하다（淒涼） + -았-（過去） + -던（回想冠形詞尾），修飾 흔적들。" },
-        { "point": "흔적들이", "explanation": "흔적（痕跡） + -들（複數） + -이（主格助詞）。" },
-        { "point": "손가락질하네", "explanation": "손가락질하다（指指點點） + -네（陳述終結詞尾）。" }
+        { "point": "처량했던", "explanation": "처량하다 淒涼加上 -았- 過去時與 -던 回想冠形詞尾 修飾 흔적들" },
+        { "point": "흔적들이", "explanation": "흔적 痕跡加上 -들 複數與 -이 主格助詞" },
+        { "point": "손가락질하네", "explanation": "손가락질하다 指指點點加上 -네 陳述終結詞尾" }
       ]
     },
     {
       "sectionTitle": "Chorus",
       "korean": "내 맘 모두 토해내도 비우지 못하고",
-      "translation": "即使將我的心全部吐出，也無法清空。",
+      "translation": "即使將我的心全部吐出 也無法清空",
       "analysis": [
-        { "point": "내 맘", "explanation": "내 마음（我的心）的縮略。" },
-        { "point": "모두", "explanation": "全部（副詞）。" },
-        { "point": "토해내도", "explanation": "토해내다（吐出） + -아/어도（讓步）。" },
-        { "point": "비우지 못하고", "explanation": "비우다（清空） + -지 못하다（無法） + -고（並列）。" }
+        { "point": "내 맘", "explanation": "내 마음 我的心的縮略" },
+        { "point": "모두", "explanation": "副詞 意為全部" },
+        { "point": "토해내도", "explanation": "토해내다 吐出加上 -아/어도 讓步" },
+        { "point": "비우지 못하고", "explanation": "비우다 清空加上 -지 못하다 無法與 -고 並列" }
       ]
     },
     {
       "korean": "내 사랑 모두 써내려도 초라할 뿐이네",
-      "translation": "即使將我的愛全部傾訴，也只覺得寒酸。",
+      "translation": "即使將我的愛全部傾訴 也只覺得寒酸",
       "analysis": [
-        { "point": "내 사랑", "explanation": "我的愛。" },
-        { "point": "모두", "explanation": "全部（副詞）。" },
-        { "point": "써내려도", "explanation": "써내려가다（傾訴） + -아/어도（讓步）。" },
-        { "point": "초라할 뿐이네", "explanation": "초라하다（寒酸） + -ㄹ 뿐이다（只是） + -네。" }
+        { "point": "내 사랑", "explanation": "내 我的加上 사랑 愛" },
+        { "point": "모두", "explanation": "副詞 意為全部" },
+        { "point": "써내려도", "explanation": "써내려가다 傾訴加上 -아/어도 讓步" },
+        { "point": "초라할 뿐이네", "explanation": "초라하다 寒酸加上 -ㄹ 뿐이다 只是與 -네" }
       ]
     },
     {
       "korean": "지나간 사랑 되찾아도 텅 비었을 텐데",
-      "translation": "即使找回逝去的愛，大概也已是空蕩蕩的吧。",
+      "translation": "即使找回逝去的愛 大概也已是空蕩蕩的吧",
       "analysis": [
-        { "point": "지나간", "explanation": "지나가다（過去）的冠形詞形（-ㄴ）。" },
-        { "point": "사랑", "explanation": "愛。" },
-        { "point": "되찾아도", "explanation": "되찾다（找回） + -아/어도（讓步）。" },
-        { "point": "텅 비었을 텐데", "explanation": "텅 빈（空蕩蕩） + -었을 터이다（推測） + -는데（背景）。" }
+        { "point": "지나간", "explanation": "지나가다 過去的冠形詞形 -ㄴ" },
+        { "point": "사랑", "explanation": "名詞 意為愛" },
+        { "point": "되찾아도", "explanation": "되찾다 找回加上 -아/어도 讓步" },
+        { "point": "텅 비었을 텐데", "explanation": "텅 빈 空蕩蕩加上 -었을 터이다 推測與 -는데 背景" }
       ]
     },
     {
       "korean": "우리 영원할 추억 다시 못 만날 사랑",
-      "translation": "我們永恆的回憶，再也無法相遇的愛情。",
+      "translation": "我們永恆的回憶 再也無法相遇的愛情",
       "analysis": [
-        { "point": "우리", "explanation": "我們。" },
-        { "point": "영원할", "explanation": "영원하다（永恆）的冠形詞形（-ㄹ）。" },
-        { "point": "추억", "explanation": "回憶。" },
-        { "point": "다시", "explanation": "再次。" },
-        { "point": "못 만날", "explanation": "못（無法） + 만나다（相遇）的冠形詞形（-ㄹ）。" },
-        { "point": "사랑", "explanation": "愛情。" }
+        { "point": "우리", "explanation": "代名詞 意為我們" },
+        { "point": "영원할", "explanation": "영원하다 永恆的冠形詞形 -ㄹ" },
+        { "point": "추억", "explanation": "名詞 意為回憶" },
+        { "point": "다시", "explanation": "副詞 意為再次" },
+        { "point": "못 만날", "explanation": "못 無法加上 만나다 相遇的冠形詞形 -ㄹ" },
+        { "point": "사랑", "explanation": "名詞 意為愛情" }
       ]
     },
     {
       "korean": "더 빛나요",
-      "translation": "更加閃耀。",
+      "translation": "更加閃耀",
       "analysis": [
-        { "point": "더", "explanation": "更加（副詞）。" },
-        { "point": "빛나요", "explanation": "빛나다（閃耀） + -아요（敬語）。" }
+        { "point": "더", "explanation": "副詞 意為更加" },
+        { "point": "빛나요", "explanation": "빛나다 閃耀加上 -아요 敬語" }
       ]
     },
     {
       "sectionTitle": "Bridge",
       "korean": "떠나갈 사람 잊혀질 사랑",
-      "translation": "將要離開的人，將被遺忘的愛。",
+      "translation": "將要離開的人 將被遺忘的愛",
       "analysis": [
-        { "point": "떠나갈", "explanation": "떠나가다（離開）的冠形詞形（-ㄹ，表將來），修飾 사람。" },
-        { "point": "사람", "explanation": "人（名詞）。" },
-        { "point": "잊혀질", "explanation": "잊혀지다（被遺忘）的冠形詞形（-ㄹ，表將來），修飾 사랑。" },
-        { "point": "사랑", "explanation": "愛（名詞）。" }
+        { "point": "떠나갈", "explanation": "떠나가다 離開的冠形詞形 -ㄹ 表將來 修飾 사람" },
+        { "point": "사람", "explanation": "名詞 意為人" },
+        { "point": "잊혀질", "explanation": "잊혀지다 被遺忘的冠形詞形 -ㄹ 表將來 修飾 사랑" },
+        { "point": "사랑", "explanation": "名詞 意為愛" }
       ]
     },
     {
       "korean": "영원할 수 없다기에 더 빛나나요",
-      "translation": "因為說無法永恆，所以才更加閃耀嗎？",
+      "translation": "因為說無法永恆 所以才更加閃耀嗎",
       "analysis": [
-        { "point": "영원할 수 없다기에", "explanation": "영원하다（永恆） + -ㄹ 수 없다（無法） + -기에（原因「因為……」）。" },
-        { "point": "더", "explanation": "更加（副詞）。" },
-        { "point": "빛나나요", "explanation": "빛나다（閃耀） + -나요（疑問終結詞尾，敬語）。" }
+        { "point": "영원할 수 없다기에", "explanation": "영원하다 永恆加上 -ㄹ 수 없다 無法與 -기에 原因因為" },
+        { "point": "더", "explanation": "副詞 意為更加" },
+        { "point": "빛나나요", "explanation": "빛나다 閃耀加上 -나요 疑問終結詞尾敬語" }
       ]
     },
     {
       "korean": "무너진 마음 무뎌진 젊음",
-      "translation": "崩塌的心，麻木的青春。",
+      "translation": "崩塌的心 麻木的青春",
       "analysis": [
-        { "point": "무너진", "explanation": "무너지다（崩塌）的冠形詞形（-ㄴ），修飾 마음。" },
-        { "point": "마음", "explanation": "心（名詞）。" },
-        { "point": "무뎌진", "explanation": "무뎌지다（變麻木）的冠形詞形（-ㄴ），修飾 젊음。" },
-        { "point": "젊음", "explanation": "青春（名詞）。" }
+        { "point": "무너진", "explanation": "무너지다 崩塌的冠形詞形 -ㄴ 修飾 마음" },
+        { "point": "마음", "explanation": "名詞 意為心" },
+        { "point": "무뎌진", "explanation": "무뎌지다 變麻木的冠形詞形 -ㄴ 修飾 젊음" },
+        { "point": "젊음", "explanation": "名詞 意為青春" }
       ]
     },
     {
       "korean": "닿을 수 없기에 우린 더 빛나요",
-      "translation": "因為無法觸及，我們才更加閃耀。",
+      "translation": "因為無法觸及 我們才更加閃耀",
       "analysis": [
-        { "point": "닿을 수 없기에", "explanation": "닿다（觸及） + -을 수 없다（無法） + -기에（原因）。" },
-        { "point": "우린", "explanation": "우리（我們） + -는（主題助詞）的縮略。" },
-        { "point": "더", "explanation": "更加（副詞）。" },
-        { "point": "빛나요", "explanation": "빛나다（閃耀） + -아요（敬語）。" }
+        { "point": "닿을 수 없기에", "explanation": "닿다 觸及加上 -을 수 없다 無法與 -기에 原因" },
+        { "point": "우린", "explanation": "우리 我們加上 -는 主題助詞的縮略" },
+        { "point": "더", "explanation": "副詞 意為更加" },
+        { "point": "빛나요", "explanation": "빛나다 閃耀加上 -아요 敬語" }
       ]
     },
     {
       "sectionTitle": "Chorus",
       "korean": "내 맘 모두 토해내도 비우지 못하고",
-      "translation": "即使將我的心全部吐出，也無法清空。",
+      "translation": "即使將我的心全部吐出 也無法清空",
       "analysis": [
-        { "point": "내 맘", "explanation": "내 마음（我的心）的縮略。" },
-        { "point": "모두", "explanation": "全部（副詞）。" },
-        { "point": "토해내도", "explanation": "토해내다（吐出） + -아/어도（讓步）。" },
-        { "point": "비우지 못하고", "explanation": "비우다（清空） + -지 못하다（無法） + -고（並列）。" }
+        { "point": "내 맘", "explanation": "내 마음 我的心的縮略" },
+        { "point": "모두", "explanation": "副詞 意為全部" },
+        { "point": "토해내도", "explanation": "토해내다 吐出加上 -아/어도 讓步" },
+        { "point": "비우지 못하고", "explanation": "비우다 清空加上 -지 못하다 無法與 -고 並列" }
       ]
     },
     {
       "korean": "내 사랑 모두 써내려도 초라할 뿐이네",
-      "translation": "即使將我的愛全部傾訴，也只覺得寒酸。",
+      "translation": "即使將我的愛全部傾訴 也只覺得寒酸",
       "analysis": [
-        { "point": "내 사랑", "explanation": "我的愛。" },
-        { "point": "모두", "explanation": "全部（副詞）。" },
-        { "point": "써내려도", "explanation": "써내려가다（傾訴） + -아/어도（讓步）。" },
-        { "point": "초라할 뿐이네", "explanation": "초라하다（寒酸） + -ㄹ 뿐이다（只是） + -네。" }
+        { "point": "내 사랑", "explanation": "내 我的加上 사랑 愛" },
+        { "point": "모두", "explanation": "副詞 意為全部" },
+        { "point": "써내려도", "explanation": "써내려가다 傾訴加上 -아/어도 讓步" },
+        { "point": "초라할 뿐이네", "explanation": "초라하다 寒酸加上 -ㄹ 뿐이다 只是與 -네" }
       ]
     },
     {
       "korean": "지나간 사랑 되찾아도 텅 비었을 텐데",
-      "translation": "即使找回逝去的愛，大概也已是空蕩蕩的吧。",
+      "translation": "即使找回逝去的愛 大概也已是空蕩蕩的吧",
       "analysis": [
-        { "point": "지나간", "explanation": "지나가다（過去）的冠形詞形（-ㄴ）。" },
-        { "point": "사랑", "explanation": "愛。" },
-        { "point": "되찾아도", "explanation": "되찾다（找回） + -아/어도（讓步）。" },
-        { "point": "텅 비었을 텐데", "explanation": "텅 빈（空蕩蕩） + -었을 터이다（推測） + -는데（背景）。" }
+        { "point": "지나간", "explanation": "지나가다 過去的冠形詞形 -ㄴ" },
+        { "point": "사랑", "explanation": "名詞 意為愛" },
+        { "point": "되찾아도", "explanation": "되찾다 找回加上 -아/어도 讓步" },
+        { "point": "텅 비었을 텐데", "explanation": "텅 빈 空蕩蕩加上 -었을 터이다 推測與 -는데 背景" }
       ]
     },
     {
       "korean": "우리 영원할 추억 다시 못 만날 사랑",
-      "translation": "我們永恆的回憶，再也無法相遇的愛情。",
+      "translation": "我們永恆的回憶 再也無法相遇的愛情",
       "analysis": [
-        { "point": "우리", "explanation": "我們。" },
-        { "point": "영원할", "explanation": "영원하다（永恆）的冠形詞形（-ㄹ）。" },
-        { "point": "추억", "explanation": "回憶。" },
-        { "point": "다시", "explanation": "再次。" },
-        { "point": "못 만날", "explanation": "못（無法） + 만나다（相遇）的冠形詞形（-ㄹ）。" },
-        { "point": "사랑", "explanation": "愛情。" }
+        { "point": "우리", "explanation": "代名詞 意為我們" },
+        { "point": "영원할", "explanation": "영원하다 永恆的冠形詞形 -ㄹ" },
+        { "point": "추억", "explanation": "名詞 意為回憶" },
+        { "point": "다시", "explanation": "副詞 意為再次" },
+        { "point": "못 만날", "explanation": "못 無法加上 만나다 相遇的冠形詞形 -ㄹ" },
+        { "point": "사랑", "explanation": "名詞 意為愛情" }
       ]
     },
     {
       "korean": "더 빛나요",
-      "translation": "更加閃耀。",
+      "translation": "更加閃耀",
       "analysis": [
-        { "point": "더", "explanation": "更加（副詞）。" },
-        { "point": "빛나요", "explanation": "빛나다（閃耀） + -아요（敬語）。" }
+        { "point": "더", "explanation": "副詞 意為更加" },
+        { "point": "빛나요", "explanation": "빛나다 閃耀加上 -아요 敬語" }
       ]
     }
   ],
@@ -323,6 +323,7 @@
     { "korean": "닿다", "chinese": "觸及", "pos": "動詞" },
     { "korean": "주다", "chinese": "為……（補助動詞）", "pos": "動詞" },
     { "korean": "보다", "chinese": "試試看（補助動詞）", "pos": "動詞" },
+    { "korean": "못", "chinese": "無法", "pos": "副詞" },
     { "korean": "사람", "chinese": "人", "pos": "名詞" },
     { "korean": "사랑", "chinese": "愛", "pos": "名詞" },
     { "korean": "마음", "chinese": "心", "pos": "名詞" },

@@ -6,277 +6,277 @@
     {
       "sectionTitle": "Verse 1",
       "korean": "새빨간 노을에 마음을 주었죠",
-      "translation": "將心交給了鮮紅的晚霞。",
+      "translation": "將心交給了鮮紅的晚霞",
       "analysis": [
-        { "point": "새빨간", "explanation": "새빨갛다（鮮紅）的冠形詞形（-ㄴ），修飾 노을。" },
-        { "point": "노을에", "explanation": "노을（晚霞） + -에（對象／方向助詞）。" },
-        { "point": "마음을", "explanation": "마음（心） + -을（賓格助詞）。" },
-        { "point": "주었죠", "explanation": "주다（給予） + -었-（過去時） + -죠（-지요 的縮略，陳述語氣）。" }
+        { "point": "새빨간", "explanation": "새빨갛다 鮮紅的冠形詞形 -ㄴ 修飾 노을" },
+        { "point": "노을에", "explanation": "노을 晚霞加上 -에 對象或方向助詞" },
+        { "point": "마음을", "explanation": "마음 心加上 -을 賓格助詞" },
+        { "point": "주었죠", "explanation": "주다 給予加上 -었- 過去時與 -죠 -지요 的縮略陳述語氣" }
       ]
     },
     {
       "korean": "금방이면 사라질 것을",
-      "translation": "明知馬上就會消失的（事物）。",
+      "translation": "明知馬上就會消失的",
       "analysis": [
-        { "point": "금방이면", "explanation": "금방（馬上） + -이면（이다 的條件形，意為「如果是馬上」）。" },
-        { "point": "사라질", "explanation": "사라지다（消失）的冠形詞形（-ㄹ），修飾 것을。" },
-        { "point": "것을", "explanation": "것（事物／事情） + -을（賓格助詞）。" }
+        { "point": "금방이면", "explanation": "금방 馬上加上 -이면 이다 的條件形 意為如果是馬上" },
+        { "point": "사라질", "explanation": "사라지다 消失的冠形詞形 -ㄹ 修飾 것을" },
+        { "point": "것을", "explanation": "것 事物或事情加上 -을 賓格助詞" }
       ]
     },
     {
       "korean": "새파란 눈물을 흘려보내요",
-      "translation": "流下蔚藍的眼淚。",
+      "translation": "流下蔚藍的眼淚",
       "analysis": [
-        { "point": "새파란", "explanation": "새파랗다（蔚藍／深藍）的冠形詞形（-ㄴ），修飾 눈물。" },
-        { "point": "눈물을", "explanation": "눈물（眼淚） + -을（賓格）。" },
-        { "point": "흘려보내요", "explanation": "흘려보내다（流下／送走） + -아요（敬語終結詞尾）。" }
+        { "point": "새파란", "explanation": "새파랗다 蔚藍或深藍的冠形詞形 -ㄴ 修飾 눈물" },
+        { "point": "눈물을", "explanation": "눈물 眼淚加上 -을 賓格" },
+        { "point": "흘려보내요", "explanation": "흘려보내다 流下或送走加上 -아요 敬語終結詞尾" }
       ]
     },
     {
       "korean": "바다에 휩쓸려갔네요",
-      "translation": "被大海席捲而去了。",
+      "translation": "被大海席捲而去了",
       "analysis": [
-        { "point": "바다에", "explanation": "바다（大海） + -에（位置／對象助詞）。" },
-        { "point": "휩쓸려갔네요", "explanation": "휩쓸려가다（被席捲而去） + -았-（過去時） + -네요（感嘆／陳述終結詞尾，敬語）。" }
+        { "point": "바다에", "explanation": "바다 大海加上 -에 位置或對象助詞" },
+        { "point": "휩쓸려갔네요", "explanation": "휩쓸려가다 被席捲而去加上 -았- 過去時與 -네요 感嘆或陳述終結詞尾敬語" }
       ]
     },
     {
       "sectionTitle": "Chorus",
       "korean": "오 난 여름밤을",
-      "translation": "哦，我將夏夜",
+      "translation": "哦 我將夏夜",
       "analysis": [
-        { "point": "오", "explanation": "感嘆詞「哦」。 " },
-        { "point": "난", "explanation": "나는 的縮略（我＋主題助詞 -는）。" },
-        { "point": "여름밤을", "explanation": "여름밤（夏夜） + -을（賓格助詞）。" }
+        { "point": "오", "explanation": "感嘆詞 意為哦" },
+        { "point": "난", "explanation": "나는 的縮略 我加上主題助詞 -는" },
+        { "point": "여름밤을", "explanation": "여름밤 夏夜加上 -을 賓格助詞" }
       ]
     },
     {
       "korean": "눈물로만 가득 채웠어요",
-      "translation": "只用眼淚填滿了。",
+      "translation": "只用眼淚填滿了",
       "analysis": [
-        { "point": "눈물로만", "explanation": "눈물（眼淚） + -로만（手段助詞 -로 + 限定助詞 -만），意為「只用眼淚」。 " },
-        { "point": "가득", "explanation": "副詞「滿滿地」。 " },
-        { "point": "채웠어요", "explanation": "채우다（填滿） + -았-（過去） + -어요（敬語）。" }
+        { "point": "눈물로만", "explanation": "눈물 眼淚加上 -로만 手段助詞 -로 加上限定助詞 -만 意為只用眼淚" },
+        { "point": "가득", "explanation": "副詞 意為滿滿地" },
+        { "point": "채웠어요", "explanation": "채우다 填滿加上 -았- 過去時與 -어요 敬語終結詞尾" }
       ]
     },
     {
       "korean": "오 난 겨울밤도",
-      "translation": "哦，我連冬夜也",
+      "translation": "哦 我連冬夜也",
       "analysis": [
-        { "point": "오", "explanation": "感嘆詞「哦」。 " },
-        { "point": "난", "explanation": "나는 的縮略。" },
-        { "point": "겨울밤도", "explanation": "겨울밤（冬夜） + -도（助詞「也」）。" }
+        { "point": "오", "explanation": "感嘆詞 意為哦" },
+        { "point": "난", "explanation": "나는 的縮略" },
+        { "point": "겨울밤도", "explanation": "겨울밤 冬夜加上 -도 助詞也" }
       ]
     },
     {
       "korean": "그리움에 모두 덮혀질까 두려워요",
-      "translation": "害怕會被思念全部覆蓋。",
+      "translation": "害怕會被思念全部覆蓋",
       "analysis": [
-        { "point": "그리움에", "explanation": "그리움（思念） + -에（原因／對象助詞「被」）。" },
-        { "point": "모두", "explanation": "副詞「全部」。 " },
-        { "point": "덮혀질까", "explanation": "덮히다（被覆蓋） + -아/어지다（被動） + -ㄹ까（疑問推測），意為「會被覆蓋嗎」。 " },
-        { "point": "두려워요", "explanation": "두렵다（害怕） + -어요（敬語）。" }
+        { "point": "그리움에", "explanation": "그리움 思念加上 -에 原因或對象助詞 表被" },
+        { "point": "모두", "explanation": "副詞 意為全部" },
+        { "point": "덮혀질까", "explanation": "덮히다 被覆蓋加上 -아/어지다 被動與 -ㄹ까 疑問推測 意為會被覆蓋嗎" },
+        { "point": "두려워요", "explanation": "두렵다 害怕加上 -어요 敬語" }
       ]
     },
     {
       "sectionTitle": "Verse 2",
       "korean": "어두운 밤이 찾아오면은",
-      "translation": "當漆黑的夜晚來臨時，",
+      "translation": "當漆黑的夜晚來臨時",
       "analysis": [
-        { "point": "어두운", "explanation": "어둡다（漆黑）的冠形詞形（-은），修飾 밤。" },
-        { "point": "밤이", "explanation": "밤（夜晚） + -이（主格助詞）。" },
-        { "point": "찾아오면은", "explanation": "찾아오다（來臨） + -면（條件連接詞尾「如果／當……時」）+ -은（主題助詞，強調條件）。" }
+        { "point": "어두운", "explanation": "어둡다 漆黑的冠形詞形 -은 修飾 밤" },
+        { "point": "밤이", "explanation": "밤 夜晚加上 -이 主格助詞" },
+        { "point": "찾아오면은", "explanation": "찾아오다 來臨加上 -면 條件連接詞尾如果或當與 -은 主題助詞強調條件" }
       ]
     },
     {
       "korean": "꼭꼭 숨어 버릴 거예요",
-      "translation": "我會使勁躲藏起來。",
+      "translation": "我會使勁躲藏起來",
       "analysis": [
-        { "point": "꼭꼭", "explanation": "擬態詞「使勁地／牢牢地」。 " },
-        { "point": "숨어", "explanation": "숨다（躲藏）的連接形。" },
-        { "point": "버릴 거예요", "explanation": "버리다（徹底完成，補助動詞） + -을 것이다（將來推測）的敬語形 거예요，意為「會徹底躲藏起來的」。 " }
+        { "point": "꼭꼭", "explanation": "擬態詞 意為使勁地或牢牢地" },
+        { "point": "숨어", "explanation": "숨다 躲藏的連接形" },
+        { "point": "버릴 거예요", "explanation": "버리다 徹底完成補助動詞加上 -을 것이다 將來推測的敬語形 거예요 意為會徹底躲藏起來的" }
       ]
     },
     {
       "korean": "눈을 감고서 두 팔을 뻗겠죠",
-      "translation": "閉上眼睛，會伸出雙臂吧。",
+      "translation": "閉上眼睛 會伸出雙臂吧",
       "analysis": [
-        { "point": "눈을", "explanation": "눈（眼睛） + -을（賓格助詞）。" },
-        { "point": "감고서", "explanation": "감다（閉上） + -고서（先後連接「……之後」）。" },
-        { "point": "두 팔을", "explanation": "두 팔（雙臂） + -을（賓格）。" },
-        { "point": "뻗겠죠", "explanation": "뻗다（伸出） + -겠-（推測） + -죠（陳述語氣）。" }
+        { "point": "눈을", "explanation": "눈 眼睛加上 -을 賓格助詞" },
+        { "point": "감고서", "explanation": "감다 閉上加上 -고서 先後連接之後" },
+        { "point": "두 팔을", "explanation": "두 팔 雙臂加上 -을 賓格" },
+        { "point": "뻗겠죠", "explanation": "뻗다 伸出加上 -겠- 推測與 -죠 陳述語氣" }
       ]
     },
     {
       "korean": "손끝엔 닿을 것이 없네요",
-      "translation": "指尖上什麼也觸及不到。",
+      "translation": "指尖上什麼也觸及不到",
       "analysis": [
-        { "point": "손끝엔", "explanation": "손끝（指尖） + -에（位置助詞） + -는（主題助詞），縮略為 -엔。" },
-        { "point": "닿을", "explanation": "닿다（觸及）的冠形詞形（-을），修飾 것。" },
-        { "point": "것이", "explanation": "것（東西／事物） + -이（主格助詞）。" },
-        { "point": "없네요", "explanation": "없다（沒有） + -네요（感嘆／陳述，敬語）。" }
+        { "point": "손끝엔", "explanation": "손끝 指尖加上 -에 位置助詞與 -는 主題助詞 縮略為 -엔" },
+        { "point": "닿을", "explanation": "닿다 觸及的冠形詞形 -을 修飾 것" },
+        { "point": "것이", "explanation": "것 東西或事物加上 -이 主格助詞" },
+        { "point": "없네요", "explanation": "없다 沒有加上 -네요 感嘆或陳述敬語" }
       ]
     },
     {
       "sectionTitle": "Chorus",
       "korean": "오 난 여름밤을",
-      "translation": "哦，我將夏夜",
+      "translation": "哦 我將夏夜",
       "analysis": [
-        { "point": "오", "explanation": "感嘆詞。" },
-        { "point": "난", "explanation": "나는 的縮略。" },
-        { "point": "여름밤을", "explanation": "賓格。" }
+        { "point": "오", "explanation": "感嘆詞 意為哦" },
+        { "point": "난", "explanation": "나는 的縮略 我加上主題助詞 -는" },
+        { "point": "여름밤을", "explanation": "여름밤 夏夜加上 -을 賓格助詞" }
       ]
     },
     {
       "korean": "눈물로만 가득 채웠어요",
-      "translation": "只用眼淚填滿了。",
+      "translation": "只用眼淚填滿了",
       "analysis": [
-        { "point": "눈물로만", "explanation": "手段限定。" },
-        { "point": "가득", "explanation": "副詞。" },
-        { "point": "채웠어요", "explanation": "過去敬語。" }
+        { "point": "눈물로만", "explanation": "눈물 眼淚加上 -로만 手段助詞 -로 加上限定助詞 -만 意為只用眼淚" },
+        { "point": "가득", "explanation": "副詞 意為滿滿地" },
+        { "point": "채웠어요", "explanation": "채우다 填滿加上 -았- 過去時與 -어요 敬語終結詞尾" }
       ]
     },
     {
       "korean": "오 난 겨울밤도",
-      "translation": "哦，我連冬夜也",
+      "translation": "哦 我連冬夜也",
       "analysis": [
-        { "point": "오", "explanation": "感嘆詞。" },
-        { "point": "난", "explanation": "나는 的縮略。" },
-        { "point": "겨울밤도", "explanation": "也（助詞）。" }
+        { "point": "오", "explanation": "感嘆詞 意為哦" },
+        { "point": "난", "explanation": "나는 的縮略" },
+        { "point": "겨울밤도", "explanation": "겨울밤 冬夜加上 -도 助詞也" }
       ]
     },
     {
       "korean": "Redoor (리도어) - Forever Has Always Been (영원은 그렇듯)",
-      "translation": "Redoor (리도어) - 永遠就是那樣。",
+      "translation": "Redoor (리도어) - 永遠就是那樣",
       "analysis": [
-        { "point": "영원은", "explanation": "영원（永遠） + -은（主題助詞）。" },
-        { "point": "그렇듯", "explanation": "그렇다（那樣） + -듯（比喻／樣態詞尾，意為「如同……」），整體意為「如同那樣」。 " }
+        { "point": "영원은", "explanation": "영원 永遠加上 -은 主題助詞" },
+        { "point": "그렇듯", "explanation": "그렇다 那樣加上 -듯 比喻或樣態詞尾 意為如同 整體意為如同那樣" }
       ]
     },
     {
       "korean": "그리움에 모두 덮혀질까 두려워요",
-      "translation": "害怕會被思念全部覆蓋。",
+      "translation": "害怕會被思念全部覆蓋",
       "analysis": [
-        { "point": "그리움에", "explanation": "思念（對象）。" },
-        { "point": "모두", "explanation": "全部。" },
-        { "point": "덮혀질까", "explanation": "會被覆蓋嗎（疑問推測）。" },
-        { "point": "두려워요", "explanation": "害怕（敬語）。" }
+        { "point": "그리움에", "explanation": "그리움 思念加上 -에 原因或對象助詞 表被" },
+        { "point": "모두", "explanation": "副詞 意為全部" },
+        { "point": "덮혀질까", "explanation": "덮히다 被覆蓋加上 -아/어지다 被動與 -ㄹ까 疑問推測 意為會被覆蓋嗎" },
+        { "point": "두려워요", "explanation": "두렵다 害怕加上 -어요 敬語" }
       ]
     },
     {
       "sectionTitle": "Bridge",
       "korean": "사랑은 언제나 냉정했고요",
-      "translation": "愛情總是很冷淡。",
+      "translation": "愛情總是很冷淡",
       "analysis": [
-        { "point": "사랑은", "explanation": "사랑（愛情） + -은（主題助詞）。" },
-        { "point": "언제나", "explanation": "副詞「總是／無論何時」。 " },
-        { "point": "냉정했고요", "explanation": "냉정하다（冷淡） + -았-（過去） + -고（並列連接） + -요（敬語語氣）。" }
+        { "point": "사랑은", "explanation": "사랑 愛情加上 -은 主題助詞" },
+        { "point": "언제나", "explanation": "副詞 意為總是或無論何時" },
+        { "point": "냉정했고요", "explanation": "냉정하다 冷淡加上 -았- 過去時與 -고 並列連接與 -요 敬語語氣" }
       ]
     },
     {
       "korean": "영원은 그렇듯 거짓이겠죠",
-      "translation": "永遠大概就像那樣，是謊言吧。",
+      "translation": "永遠大概就像那樣 是謊言吧",
       "analysis": [
-        { "point": "영원은", "explanation": "영원（永遠） + -은（主題）。" },
-        { "point": "그렇듯", "explanation": "그렇다（那樣） + -듯（如同），意為「如同那樣」。 " },
-        { "point": "거짓이겠죠", "explanation": "거짓（謊言） + 이겠다（이다 的推測形） + -죠（陳述語氣），意為「會是謊言吧」。 " }
+        { "point": "영원은", "explanation": "영원 永遠加上 -은 主題" },
+        { "point": "그렇듯", "explanation": "그렇다 那樣加上 -듯 如同 意為如同那樣" },
+        { "point": "거짓이겠죠", "explanation": "거짓 謊言加上 이겠다 이다 的推測形與 -죠 陳述語氣 意為會是謊言吧" }
       ]
     },
     {
       "korean": "목이 메어 와도 삼켜버려요",
-      "translation": "即使喉嚨哽住，也會吞下去。",
+      "translation": "即使喉嚨哽住 也會吞下去",
       "analysis": [
-        { "point": "목이", "explanation": "목（喉嚨） + -이（主格助詞）。" },
-        { "point": "메어 와도", "explanation": "메다（哽住／堵住） + -아/어 오다（持續） + -아/어도（讓步連接「即使……」）。" },
-        { "point": "삼켜버려요", "explanation": "삼키다（吞） + -아/어 버리다（徹底） + -어요（敬語）。" }
+        { "point": "목이", "explanation": "목 喉嚨加上 -이 主格助詞" },
+        { "point": "메어 와도", "explanation": "메다 哽住或堵住加上 -아/어 오다 持續與 -아/어도 讓步連接即使" },
+        { "point": "삼켜버려요", "explanation": "삼키다 吞加上 -아/어 버리다 徹底與 -어요 敬語" }
       ]
     },
     {
       "korean": "넘치는 눈물이 앞을 가리니",
-      "translation": "因為滿溢的淚水遮住了前方。",
+      "translation": "因為滿溢的淚水遮住了前方",
       "analysis": [
-        { "point": "넘치는", "explanation": "넘치다（滿溢）的冠形詞形（-는），修飾 눈물。" },
-        { "point": "눈물이", "explanation": "눈물（眼淚） + -이（主格）。" },
-        { "point": "앞을", "explanation": "앞（前方） + -을（賓格）。" },
-        { "point": "가리니", "explanation": "가리다（遮住） + -니（因果連接詞尾「因為……」）。" }
+        { "point": "넘치는", "explanation": "넘치다 滿溢的冠形詞形 -는 修飾 눈물" },
+        { "point": "눈물이", "explanation": "눈물 眼淚加上 -이 主格" },
+        { "point": "앞을", "explanation": "앞 前方加上 -을 賓格" },
+        { "point": "가리니", "explanation": "가리다 遮住加上 -니 因果連接詞尾因為" }
       ]
     },
     {
       "sectionTitle": "Chorus",
       "korean": "오 난 여름밤을",
-      "translation": "哦，我將夏夜",
+      "translation": "哦 我將夏夜",
       "analysis": [
-        { "point": "오", "explanation": "感嘆詞。" },
-        { "point": "난", "explanation": "나는 的縮略。" },
-        { "point": "여름밤을", "explanation": "賓格。" }
+        { "point": "오", "explanation": "感嘆詞 意為哦" },
+        { "point": "난", "explanation": "나는 的縮略 我加上主題助詞 -는" },
+        { "point": "여름밤을", "explanation": "여름밤 夏夜加上 -을 賓格助詞" }
       ]
     },
     {
       "korean": "눈물로만 가득 채웠어요",
-      "translation": "只用眼淚填滿了。",
+      "translation": "只用眼淚填滿了",
       "analysis": [
-        { "point": "눈물로만", "explanation": "手段限定。" },
-        { "point": "가득", "explanation": "副詞。" },
-        { "point": "채웠어요", "explanation": "過去敬語。" }
+        { "point": "눈물로만", "explanation": "눈물 眼淚加上 -로만 手段助詞 -로 加上限定助詞 -만 意為只用眼淚" },
+        { "point": "가득", "explanation": "副詞 意為滿滿地" },
+        { "point": "채웠어요", "explanation": "채우다 填滿加上 -았- 過去時與 -어요 敬語終結詞尾" }
       ]
     },
     {
       "korean": "오 난 겨울밤도",
-      "translation": "哦，我連冬夜也",
+      "translation": "哦 我連冬夜也",
       "analysis": [
-        { "point": "오", "explanation": "感嘆詞。" },
-        { "point": "난", "explanation": "나는 的縮略。" },
-        { "point": "겨울밤도", "explanation": "也（助詞）。" }
+        { "point": "오", "explanation": "感嘆詞 意為哦" },
+        { "point": "난", "explanation": "나는 的縮略" },
+        { "point": "겨울밤도", "explanation": "겨울밤 冬夜加上 -도 助詞也" }
       ]
     },
     {
       "korean": "그리움에 모두 덮혀질까 두려워요",
-      "translation": "害怕會被思念全部覆蓋。",
+      "translation": "害怕會被思念全部覆蓋",
       "analysis": [
-        { "point": "그리움에", "explanation": "思念（對象）。" },
-        { "point": "모두", "explanation": "全部。" },
-        { "point": "덮혀질까", "explanation": "會被覆蓋嗎（疑問推測）。" },
-        { "point": "두려워요", "explanation": "害怕（敬語）。" }
+        { "point": "그리움에", "explanation": "그리움 思念加上 -에 原因或對象助詞 表被" },
+        { "point": "모두", "explanation": "副詞 意為全部" },
+        { "point": "덮혀질까", "explanation": "덮히다 被覆蓋加上 -아/어지다 被動與 -ㄹ까 疑問推測 意為會被覆蓋嗎" },
+        { "point": "두려워요", "explanation": "두렵다 害怕加上 -어요 敬語" }
       ]
     },
     {
       "sectionTitle": "Outro",
       "korean": "난 널 사랑해요",
-      "translation": "我愛你。",
+      "translation": "我愛你",
       "analysis": [
-        { "point": "난", "explanation": "나는 的縮略（我＋主題）。" },
-        { "point": "널", "explanation": "너를 的縮略（你＋賓格）。" },
-        { "point": "사랑해요", "explanation": "사랑하다（愛） + -아/어요（敬語終結詞尾）。" }
+        { "point": "난", "explanation": "나는 的縮略 我加上主題助詞" },
+        { "point": "널", "explanation": "너를 的縮略 你加上賓格" },
+        { "point": "사랑해요", "explanation": "사랑하다 愛加上 -아/어요 敬語終結詞尾" }
       ]
     },
     {
       "korean": "내 추억 속에 남아있어줘요",
-      "translation": "請留在我回憶裡。",
+      "translation": "請留在我回憶裡",
       "analysis": [
-        { "point": "내", "explanation": "我的（屬格）。" },
-        { "point": "추억 속에", "explanation": "추억（回憶） + 속（裡面） + -에（位置助詞）。" },
-        { "point": "남아있어", "explanation": "남아있다（留下）的連接形。" },
-        { "point": "줘요", "explanation": "주다（為……做，補助動詞） + -아요（敬語），意為「請為我留下」。 " }
+        { "point": "내", "explanation": "我的 屬格" },
+        { "point": "추억 속에", "explanation": "추억 回憶加上 속 裡面與 -에 位置助詞" },
+        { "point": "남아있어", "explanation": "남아있다 留下的連接形" },
+        { "point": "줘요", "explanation": "주다 為補助動詞加上 -아요 敬語 意為請為我留下" }
       ]
     },
     {
       "korean": "오 난 언젠가는",
-      "translation": "哦，我總有一天",
+      "translation": "哦 我總有一天",
       "analysis": [
-        { "point": "오", "explanation": "感嘆詞。" },
-        { "point": "난", "explanation": "나는 的縮略。" },
-        { "point": "언젠가는", "explanation": "언젠가（總有一天） + -는（主題助詞，強調時間）。" }
+        { "point": "오", "explanation": "感嘆詞 意為哦" },
+        { "point": "난", "explanation": "나는 的縮略" },
+        { "point": "언젠가는", "explanation": "언젠가 總有一天加上 -는 主題助詞強調時間" }
       ]
     },
     {
       "korean": "너를 잊을 테니 조금만 기다려주세요",
-      "translation": "我會忘記你的，所以請等我一下。",
+      "translation": "我會忘記你的 所以請等我一下",
       "analysis": [
-        { "point": "너를", "explanation": "你（賓格）。" },
-        { "point": "잊을", "explanation": "잊다（忘記）的冠形詞形（-ㄹ），修飾 테니。" },
-        { "point": "테니", "explanation": "터이니（推測＋因果）的縮略，意為「因為會……」。 " },
-        { "point": "조금만", "explanation": "조금（一點點） + -만（限定助詞「只」），意為「只一點點／稍微」。 " },
-        { "point": "기다려주세요", "explanation": "기다리다（等待） + -아/어 주다（為……做） + -세요（敬語請求），意為「請等我」。 " }
+        { "point": "너를", "explanation": "너 你加上 -를 賓格" },
+        { "point": "잊을", "explanation": "잊다 忘記的冠形詞形 -ㄹ 修飾 테니" },
+        { "point": "테니", "explanation": "터이니 推測加因果的縮略 意為因為會" },
+        { "point": "조금만", "explanation": "조금 一點點加上 -만 限定助詞只 意為只一點點或稍微" },
+        { "point": "기다려주세요", "explanation": "기다리다 等待加上 -아/어 주다 為做與 -세요 敬語請求 意為請等我" }
       ]
     }
   ],

@@ -6,50 +6,50 @@
     {
       "sectionTitle": "Verse 1",
       "korean": "우리 사랑의 저울은 나를 향해 기울어 가네요",
-      "translation": "我們愛情的天秤正朝著我傾斜。",
+      "translation": "我們愛情的天秤正朝著我傾斜",
       "analysis": [
-        { "point": "우리 사랑의", "explanation": "우리（我們） + 사랑（愛情） + -의（屬格助詞），修飾 저울。" },
-        { "point": "저울은", "explanation": "저울（天秤） + -은（主題助詞）。" },
-        { "point": "나를", "explanation": "나（我） + -를（賓格助詞）。" },
-        { "point": "향해", "explanation": "향하다（朝向）的連接形（-여 → 해）。" },
-        { "point": "기울어 가네요", "explanation": "기울다（傾斜） + -아/어 가다（表趨勢「越來越……」） + -네요（感嘆／陳述終結詞尾，敬語）。" }
+        { "point": "우리 사랑의", "explanation": "우리 我們加上 사랑 愛情與 -의 屬格助詞 修飾 저울" },
+        { "point": "저울은", "explanation": "저울 天秤加上 -은 主題助詞" },
+        { "point": "나를", "explanation": "나 我加上 -를 賓格助詞" },
+        { "point": "향해", "explanation": "향하다 朝向的連接形 -여 → 해" },
+        { "point": "기울어 가네요", "explanation": "기울다 傾斜加上 -아/어 가다 表趨勢越來越與 -네요 感嘆或陳述終結詞尾敬語" }
       ]
     },
     {
       "korean": "아래서 본 너의 모습은 그보다 더 어색할 순 없더군요",
-      "translation": "從下方看到的你的模樣，不可能比那更尷尬了吧。",
+      "translation": "從下方看到的你的模樣 不可能比那更尷尬了吧",
       "analysis": [
-        { "point": "아래서", "explanation": "아래（下面） + -서（位置助詞「從……」）。" },
-        { "point": "본", "explanation": "보다（看）的冠形詞形（-ㄴ），修飾 너의 모습。" },
-        { "point": "너의 모습은", "explanation": "너（你） + -의（屬格） + 모습（模樣） + -은（主題助詞）。" },
-        { "point": "그보다", "explanation": "그（那） + -보다（比較助詞「比……」）。" },
-        { "point": "더", "explanation": "副詞「更加」。 " },
-        { "point": "어색할", "explanation": "어색하다（尷尬）的冠形詞形（-ㄹ），修飾 순。" },
-        { "point": "순", "explanation": "수는 的縮略（依存名詞 수 + 主題助詞 는）。" },
-        { "point": "없더군요", "explanation": "없다（沒有） + -더군요（回想／感嘆終結詞尾，敬語），意為「（回顧起來）沒有……啊」。 " }
+        { "point": "아래서", "explanation": "아래 下面加上 -서 位置助詞從" },
+        { "point": "본", "explanation": "보다 看的冠形詞形 -ㄴ 修飾 너의 모습" },
+        { "point": "너의 모습은", "explanation": "너 你加上 -의 屬格與 모습 模樣及 -은 主題助詞" },
+        { "point": "그보다", "explanation": "그 那加上 -보다 比較助詞比" },
+        { "point": "더", "explanation": "副詞 意為更加" },
+        { "point": "어색할", "explanation": "어색하다 尷尬的冠形詞形 -ㄹ 修飾 순" },
+        { "point": "순", "explanation": "수는 的縮略 依存名詞 수 加上主題助詞 는" },
+        { "point": "없더군요", "explanation": "없다 沒有加上 -더군요 回想或感嘆終結詞尾敬語 意為回顧起來沒有啊" }
       ]
     },
     {
       "korean": "너와 눈 맞춤을 하려고 사랑의 추를 덜어내 봤어요",
-      "translation": "為了與你對視，試著減去了愛情的砝碼。",
+      "translation": "為了與你對視 試著減去了愛情的砝碼",
       "analysis": [
-        { "point": "너와", "explanation": "너（你） + -와（對等助詞「和」）。" },
-        { "point": "눈 맞춤을", "explanation": "눈 맞춤（對視） + -을（賓格助詞）。" },
-        { "point": "하려고", "explanation": "하다（做） + -려고（目的連接詞尾「為了……」）。" },
-        { "point": "사랑의 추를", "explanation": "사랑（愛情） + -의（屬格） + 추（砝碼） + -를（賓格）。" },
-        { "point": "덜어내", "explanation": "덜어내다（減去／取出）的連接形。" },
-        { "point": "봤어요", "explanation": "보다（試試看，補助動詞） + -았-（過去時） + -어요（敬語）。" }
+        { "point": "너와", "explanation": "너 你加上 -와 對等助詞和" },
+        { "point": "눈 맞춤을", "explanation": "눈 맞춤 對視加上 -을 賓格助詞" },
+        { "point": "하려고", "explanation": "하다 做加上 -려고 目的連接詞尾為了" },
+        { "point": "사랑의 추를", "explanation": "사랑 愛情加上 -의 屬格與 추 砝碼及 -를 賓格" },
+        { "point": "덜어내", "explanation": "덜어내다 減去或取出的連接形" },
+        { "point": "봤어요", "explanation": "보다 試試看補助動詞加上 -았- 過去時與 -어요 敬語" }
       ]
     },
     {
       "korean": "아무리 사랑을 덜어내도 내 모습만 가벼워지더군요",
-      "translation": "無論怎麼減少愛情，只有我變得輕盈了。",
+      "translation": "無論怎麼減少愛情 只有我變得輕盈了",
       "analysis": [
-        { "point": "아무리", "explanation": "副詞「無論怎麼……也」。" },
-        { "point": "사랑을", "explanation": "사랑（愛情） + -을（賓格）。" },
-        { "point": "덜어내도", "explanation": "덜어내다（減去） + -아/어도（讓步連接「即使……」）。" },
-        { "point": "내 모습만", "explanation": "내（我的） + 모습（模樣） + -만（限定助詞「只」）。" },
-        { "point": "가벼워지더군요", "explanation": "가볍다（輕） + -아/어지다（變得） + -더군요（回想／感嘆終結詞尾）。" }
+        { "point": "아무리", "explanation": "副詞 意為無論怎麼也" },
+        { "point": "사랑을", "explanation": "사랑 愛情加上 -을 賓格" },
+        { "point": "덜어내도", "explanation": "덜어내다 減去加上 -아/어도 讓步連接即使" },
+        { "point": "내 모습만", "explanation": "내 我的加上 모습 模樣與 -만 限定助詞只" },
+        { "point": "가벼워지더군요", "explanation": "가볍다 輕加上 -아/어지다 變得與 -더군요 回想或感嘆終結詞尾" }
       ]
     },
     {
@@ -57,40 +57,40 @@
       "korean": "내 사랑이 그렇게 이기적인 가요",
       "translation": "我的愛就那麼自私嗎？",
       "analysis": [
-        { "point": "내 사랑이", "explanation": "내（我的） + 사랑（愛） + -이（主格助詞）。" },
-        { "point": "그렇게", "explanation": "副詞「那麼／那樣地」。" },
-        { "point": "이기적인", "explanation": "이기적（自私） + -인（冠形詞尾），修飾後面的 가요（疑問終結）。" },
-        { "point": "가요", "explanation": "것인가요 的縮略，意為「是……的嗎？」。" }
+        { "point": "내 사랑이", "explanation": "내 我的加上 사랑 愛與 -이 主格助詞" },
+        { "point": "그렇게", "explanation": "副詞 意為那麼或那樣地" },
+        { "point": "이기적인", "explanation": "이기적 自私加上 -인 冠形詞尾 修飾後面的 가요" },
+        { "point": "가요", "explanation": "것인가요 的縮略 意為是的嗎" }
       ]
     },
     {
       "korean": "내 바램이 그렇게 어려우던 가요",
       "translation": "我的願望就那麼困難嗎？",
       "analysis": [
-        { "point": "내 바램이", "explanation": "내（我的） + 바램（願望） + -이（主格）。" },
-        { "point": "그렇게", "explanation": "那麼（副詞）。" },
-        { "point": "어려우던", "explanation": "어렵다（困難）的回想冠形詞形（-던），修飾後面的 가요。" },
-        { "point": "가요", "explanation": "것인가요 的縮略。" }
+        { "point": "내 바램이", "explanation": "내 我的加上 바램 願望與 -이 主格" },
+        { "point": "그렇게", "explanation": "副詞 意為那麼" },
+        { "point": "어려우던", "explanation": "어렵다 困難的回想冠形詞形 -던 修飾後面的 가요" },
+        { "point": "가요", "explanation": "것인가요 的縮略" }
       ]
     },
     {
       "korean": "우리의 추억을 저렴히 팔았나요",
       "translation": "我們把回憶廉價地賣掉了嗎？",
       "analysis": [
-        { "point": "우리의", "explanation": "우리（我們） + -의（屬格）。" },
-        { "point": "추억을", "explanation": "추억（回憶） + -을（賓格）。" },
-        { "point": "저렴히", "explanation": "저렴하다（廉價）的副詞形（-히）。" },
-        { "point": "팔았나요", "explanation": "팔다（賣） + -았-（過去） + -나요（疑問終結詞尾，敬語）。" }
+        { "point": "우리의", "explanation": "우리 我們加上 -의 屬格" },
+        { "point": "추억을", "explanation": "추억 回憶加上 -을 賓格" },
+        { "point": "저렴히", "explanation": "저렴하다 廉價的副詞形 -히" },
+        { "point": "팔았나요", "explanation": "팔다 賣加上 -았- 過去時與 -나요 疑問終結詞尾敬語" }
       ]
     },
     {
       "korean": "우리가 담았던 사랑은 기울어 가요",
-      "translation": "我們曾盛裝的愛情正在傾斜。",
+      "translation": "我們曾盛裝的愛情正在傾斜",
       "analysis": [
-        { "point": "우리가", "explanation": "우리（我們） + -가（主格）。" },
-        { "point": "담았던", "explanation": "담다（盛裝） + -았-（過去） + -던（回想冠形詞尾），修飾 사랑。" },
-        { "point": "사랑은", "explanation": "사랑（愛情） + -은（主題）。" },
-        { "point": "기울어 가요", "explanation": "기울다（傾斜） + -아/어 가다（趨勢） + -아요（敬語）。" }
+        { "point": "우리가", "explanation": "우리 我們加上 -가 主格" },
+        { "point": "담았던", "explanation": "담다 盛裝加上 -았- 過去時與 -던 回想冠形詞尾 修飾 사랑" },
+        { "point": "사랑은", "explanation": "사랑 愛情加上 -은 主題" },
+        { "point": "기울어 가요", "explanation": "기울다 傾斜加上 -아/어 가다 趨勢與 -아요 敬語" }
       ]
     },
     {
@@ -98,29 +98,29 @@
       "korean": "후회를 품었던 추억들은",
       "translation": "懷抱後悔的回憶們",
       "analysis": [
-        { "point": "후회를", "explanation": "후회（後悔） + -를（賓格）。" },
-        { "point": "품었던", "explanation": "품다（懷抱） + -었-（過去） + -던（回想冠形詞尾），修飾 추억들。" },
-        { "point": "추억들은", "explanation": "추억（回憶） + -들（複數） + -은（主題）。" }
+        { "point": "후회를", "explanation": "후회 後悔加上 -를 賓格" },
+        { "point": "품었던", "explanation": "품다 懷抱加上 -었- 過去時與 -던 回想冠形詞尾 修飾 추억들" },
+        { "point": "추억들은", "explanation": "추억 回憶加上 -들 複數與 -은 主題" }
       ]
     },
     {
       "korean": "나를 외면하기 시작했더군요",
-      "translation": "開始迴避我了。",
+      "translation": "開始迴避我了",
       "analysis": [
-        { "point": "나를", "explanation": "나（我） + -를（賓格）。" },
-        { "point": "외면하기", "explanation": "외면하다（迴避／無視） + -기（名詞化）。" },
-        { "point": "시작했더군요", "explanation": "시작하다（開始） + -았-（過去） + -더군요（回想／感嘆終結詞尾）。" }
+        { "point": "나를", "explanation": "나 我加上 -를 賓格" },
+        { "point": "외면하기", "explanation": "외면하다 迴避或無視加上 -기 名詞化" },
+        { "point": "시작했더군요", "explanation": "시작하다 開始加上 -았- 過去時與 -더군요 回想或感嘆終結詞尾" }
       ]
     },
     {
       "korean": "두둥실 떠다닌 눈물들이 가라앉아 버렸기 때문이죠",
-      "translation": "因為飄浮的淚水們已經沉澱了下去。",
+      "translation": "因為飄浮的淚水們已經沉澱了下去",
       "analysis": [
-        { "point": "두둥실", "explanation": "擬態詞「輕飄飄地」。" },
-        { "point": "떠다닌", "explanation": "떠다니다（漂浮）的冠形詞形（-ㄴ），修飾 눈물들。" },
-        { "point": "눈물들이", "explanation": "눈물（眼淚） + -들（複數） + -이（主格）。" },
-        { "point": "가라앉아", "explanation": "가라앉다（沉澱／沉下）的連接形。" },
-        { "point": "버렸기 때문이죠", "explanation": "버리다（徹底完成，補助動詞） + -었-（過去） + -기 때문이다（因為） + -죠（-지요 的縮略，陳述語氣）。" }
+        { "point": "두둥실", "explanation": "擬態詞 意為輕飄飄地" },
+        { "point": "떠다닌", "explanation": "떠다니다 漂浮的冠形詞形 -ㄴ 修飾 눈물들" },
+        { "point": "눈물들이", "explanation": "눈물 眼淚加上 -들 複數與 -이 主格" },
+        { "point": "가라앉아", "explanation": "가라앉다 沉澱或沉下的連接形" },
+        { "point": "버렸기 때문이죠", "explanation": "버리다 徹底完成補助動詞加上 -었- 過去時與 -기 때문이다 因為及 -죠 -지요 的縮略陳述語氣" }
       ]
     },
     {
@@ -128,111 +128,111 @@
       "korean": "내 사랑이 그렇게 이기적인 가요",
       "translation": "我的愛就那麼自私嗎？",
       "analysis": [
-        { "point": "내 사랑이", "explanation": "내（我的） + 사랑（愛） + -이（主格）。" },
-        { "point": "그렇게", "explanation": "那麼（副詞）。" },
-        { "point": "이기적인", "explanation": "이기적（自私） + -인（冠形）。" },
-        { "point": "가요", "explanation": "것인가요 的縮略。" }
+        { "point": "내 사랑이", "explanation": "내 我的加上 사랑 愛與 -이 主格助詞" },
+        { "point": "그렇게", "explanation": "副詞 意為那麼或那樣地" },
+        { "point": "이기적인", "explanation": "이기적 自私加上 -인 冠形詞尾 修飾後面的 가요" },
+        { "point": "가요", "explanation": "것인가요 的縮略 意為是的嗎" }
       ]
     },
     {
       "korean": "내 바램이 그렇게 어려우던 가요",
       "translation": "我的願望就那麼困難嗎？",
       "analysis": [
-        { "point": "내 바램이", "explanation": "내（我的） + 바램（願望） + -이（主格）。" },
-        { "point": "그렇게", "explanation": "那麼（副詞）。" },
-        { "point": "어려우던", "explanation": "어렵다（困難）的回想冠形詞形（-던）。" },
-        { "point": "가요", "explanation": "것인가요 的縮略。" }
+        { "point": "내 바램이", "explanation": "내 我的加上 바램 願望與 -이 主格" },
+        { "point": "그렇게", "explanation": "副詞 意為那麼" },
+        { "point": "어려우던", "explanation": "어렵다 困難的回想冠形詞形 -던 修飾後面的 가요" },
+        { "point": "가요", "explanation": "것인가요 的縮略" }
       ]
     },
     {
       "korean": "우리의 추억을 저렴히 팔았나요",
       "translation": "我們把回憶廉價地賣掉了嗎？",
       "analysis": [
-        { "point": "우리의", "explanation": "우리（我們） + -의（屬格）。" },
-        { "point": "추억을", "explanation": "추억（回憶） + -을（賓格）。" },
-        { "point": "저렴히", "explanation": "저렴하다（廉價）的副詞形（-히）。" },
-        { "point": "팔았나요", "explanation": "팔다（賣） + -았-（過去） + -나요（疑問）。" }
+        { "point": "우리의", "explanation": "우리 我們加上 -의 屬格" },
+        { "point": "추억을", "explanation": "추억 回憶加上 -을 賓格" },
+        { "point": "저렴히", "explanation": "저렴하다 廉價的副詞形 -히" },
+        { "point": "팔았나요", "explanation": "팔다 賣加上 -았- 過去時與 -나요 疑問終結詞尾敬語" }
       ]
     },
     {
       "korean": "우리가 담았던 사랑은 기울어 가요",
-      "translation": "我們曾盛裝的愛情正在傾斜。",
+      "translation": "我們曾盛裝的愛情正在傾斜",
       "analysis": [
-        { "point": "우리가", "explanation": "우리（我們） + -가（主格）。" },
-        { "point": "담았던", "explanation": "담다（盛裝） + -았-（過去） + -던（回想冠形）。" },
-        { "point": "사랑은", "explanation": "사랑（愛情） + -은（主題）。" },
-        { "point": "기울어 가요", "explanation": "기울다（傾斜） + -아/어 가다（趨勢） + -아요（敬語）。" }
+        { "point": "우리가", "explanation": "우리 我們加上 -가 主格" },
+        { "point": "담았던", "explanation": "담다 盛裝加上 -았- 過去時與 -던 回想冠形詞尾 修飾 사랑" },
+        { "point": "사랑은", "explanation": "사랑 愛情加上 -은 主題" },
+        { "point": "기울어 가요", "explanation": "기울다 傾斜加上 -아/어 가다 趨勢與 -아요 敬語" }
       ]
     },
     {
       "sectionTitle": "Bridge",
       "korean": "쌓여가는 먼지처럼 쓸모없어요",
-      "translation": "像堆積的灰塵一樣毫無用處。",
+      "translation": "像堆積的灰塵一樣毫無用處",
       "analysis": [
-        { "point": "쌓여가는", "explanation": "쌓이다（堆積） + -아/어 가다（趨勢）的冠形詞形（-는），修飾 먼지。" },
-        { "point": "먼지처럼", "explanation": "먼지（灰塵） + -처럼（像……一樣）。" },
-        { "point": "쓸모없어요", "explanation": "쓸모없다（無用） + -어요（敬語）。" }
+        { "point": "쌓여가는", "explanation": "쌓이다 堆積加上 -아/어 가다 趨勢的冠形詞形 -는 修飾 먼지" },
+        { "point": "먼지처럼", "explanation": "먼지 灰塵加上 -처럼 像一樣" },
+        { "point": "쓸모없어요", "explanation": "쓸모없다 無用加上 -어요 敬語" }
       ]
     },
     {
       "korean": "소중했던 순간들 다 가져가 줘요",
-      "translation": "把曾經珍貴的瞬間全都帶走吧。",
+      "translation": "把曾經珍貴的瞬間全都帶走吧",
       "analysis": [
-        { "point": "소중했던", "explanation": "소중하다（珍貴） + -았-（過去） + -던（回想冠形），修飾 순간들。" },
-        { "point": "순간들", "explanation": "순간（瞬間） + -들（複數）。" },
-        { "point": "다", "explanation": "全部（副詞）。" },
-        { "point": "가져가", "explanation": "가져가다（帶走）的連接形。" },
-        { "point": "줘요", "explanation": "주다（為……做，補助動詞） + -아요（敬語），整體意為「為我帶走吧」。 " }
+        { "point": "소중했던", "explanation": "소중하다 珍貴加上 -았- 過去時與 -던 回想冠形詞尾 修飾 순간들" },
+        { "point": "순간들", "explanation": "순간 瞬間加上 -들 複數" },
+        { "point": "다", "explanation": "副詞 意為全部" },
+        { "point": "가져가", "explanation": "가져가다 帶走的連接形" },
+        { "point": "줘요", "explanation": "주다 為補助動詞加上 -아요 敬語 整體意為為我帶走吧" }
       ]
     },
     {
       "korean": "하고 싶은 말들은 내 맘 아래",
-      "translation": "想說的話們，在我的心之下。",
+      "translation": "想說的話們 在我的心之下",
       "analysis": [
-        { "point": "하고 싶은", "explanation": "하다（做） + -고 싶다（想要）的冠形詞形（-은），修飾 말들。" },
-        { "point": "말들은", "explanation": "말（話） + -들（複數） + -은（主題）。" },
-        { "point": "내 맘 아래", "explanation": "내（我的） + 맘（心） + 아래（下面），意為「在心裡深處」。 " }
+        { "point": "하고 싶은", "explanation": "하다 做加上 -고 싶다 想要的冠形詞形 -은 修飾 말들" },
+        { "point": "말들은", "explanation": "말 話加上 -들 複數與 -은 主題" },
+        { "point": "내 맘 아래", "explanation": "내 我的加上 맘 心與 아래 下面 意為在心裡深處" }
       ]
     },
     {
       "sectionTitle": "Chorus (Variation)",
       "korean": "내 사랑이 그대를 아프게 했어요",
-      "translation": "我的愛讓你痛苦了。",
+      "translation": "我的愛讓你痛苦了",
       "analysis": [
-        { "point": "내 사랑이", "explanation": "내（我的） + 사랑（愛） + -이（主格）。" },
-        { "point": "그대를", "explanation": "그대（你） + -를（賓格）。" },
-        { "point": "아프게", "explanation": "아프다（痛苦） + -게（副詞化），修飾 했어요。" },
-        { "point": "했어요", "explanation": "하다（使） + -았-（過去） + -어요（敬語），意為「使之痛苦了」。 " }
+        { "point": "내 사랑이", "explanation": "내 我的加上 사랑 愛與 -이 主格" },
+        { "point": "그대를", "explanation": "그대 你加上 -를 賓格" },
+        { "point": "아프게", "explanation": "아프다 痛苦加上 -게 副詞化 修飾 했어요" },
+        { "point": "했어요", "explanation": "하다 使加上 -았- 過去時與 -어요 敬語 意為使之痛苦了" }
       ]
     },
     {
       "korean": "내 바램이 그대를 힘들게 했나 봐요",
-      "translation": "看來是我的願望讓你辛苦了。",
+      "translation": "看來是我的願望讓你辛苦了",
       "analysis": [
-        { "point": "내 바램이", "explanation": "내（我的） + 바램（願望） + -이（主格）。" },
-        { "point": "그대를", "explanation": "그대（你） + -를（賓格）。" },
-        { "point": "힘들게", "explanation": "힘들다（辛苦） + -게（副詞化）。" },
-        { "point": "했나 봐요", "explanation": "하다（使） + -았-（過去） + -나 보다（推測「看來……」） + -아요（敬語）。" }
+        { "point": "내 바램이", "explanation": "내 我的加上 바램 願望與 -이 主格" },
+        { "point": "그대를", "explanation": "그대 你加上 -를 賓格" },
+        { "point": "힘들게", "explanation": "힘들다 辛苦加上 -게 副詞化" },
+        { "point": "했나 봐요", "explanation": "하다 使加上 -았- 過去時與 -나 보다 推測看來及 -아요 敬語" }
       ]
     },
     {
       "korean": "우리의 추억을 저렴히 팔아줘요",
-      "translation": "請你把我們的回憶廉價地賣掉吧。",
+      "translation": "請你把我們的回憶廉價地賣掉吧",
       "analysis": [
-        { "point": "우리의", "explanation": "우리（我們） + -의（屬格）。" },
-        { "point": "추억을", "explanation": "추억（回憶） + -을（賓格）。" },
-        { "point": "저렴히", "explanation": "저렴하다（廉價）的副詞形（-히）。" },
-        { "point": "팔아줘요", "explanation": "팔다（賣） + -아/어 주다（為……做） + -아요（敬語）。" }
+        { "point": "우리의", "explanation": "우리 我們加上 -의 屬格" },
+        { "point": "추억을", "explanation": "추억 回憶加上 -을 賓格" },
+        { "point": "저렴히", "explanation": "저렴하다 廉價的副詞形 -히" },
+        { "point": "팔아줘요", "explanation": "팔다 賣加上 -아/어 주다 為做與 -아요 敬語" }
       ]
     },
     {
       "korean": "우리가 담았던 사랑은 기울어 가요",
-      "translation": "我們曾盛裝的愛情正在傾斜。",
+      "translation": "我們曾盛裝的愛情正在傾斜",
       "analysis": [
-        { "point": "우리가", "explanation": "우리（我們） + -가（主格）。" },
-        { "point": "담았던", "explanation": "담다（盛裝） + -았-（過去） + -던（回想冠形）。" },
-        { "point": "사랑은", "explanation": "사랑（愛情） + -은（主題）。" },
-        { "point": "기울어 가요", "explanation": "기울다（傾斜） + -아/어 가다（趨勢） + -아요（敬語）。" }
+        { "point": "우리가", "explanation": "우리 我們加上 -가 主格" },
+        { "point": "담았던", "explanation": "담다 盛裝加上 -았- 過去時與 -던 回想冠形詞尾 修飾 사랑" },
+        { "point": "사랑은", "explanation": "사랑 愛情加上 -은 主題" },
+        { "point": "기울어 가요", "explanation": "기울다 傾斜加上 -아/어 가다 趨勢與 -아요 敬語" }
       ]
     }
   ],
@@ -277,6 +277,7 @@
     { "korean": "힘들다", "chinese": "辛苦", "pos": "形容詞" },
     { "korean": "하다", "chinese": "做／使", "pos": "動詞" },
     { "korean": "주다", "chinese": "為……（補助動詞）", "pos": "動詞" },
+    { "korean": "되다", "chinese": "成為", "pos": "動詞" },
     { "korean": "나", "chinese": "我", "pos": "代名詞" },
     { "korean": "너", "chinese": "你", "pos": "代名詞" },
     { "korean": "우리", "chinese": "我們", "pos": "代名詞" }

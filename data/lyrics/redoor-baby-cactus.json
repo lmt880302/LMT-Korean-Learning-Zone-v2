@@ -6,184 +6,184 @@
     {
       "sectionTitle": "Verse 1",
       "korean": "숨기는 게 익숙해 보여주기가 싫어요",
-      "translation": "隱藏已經習慣了，不喜歡表現出來。",
+      "translation": "隱藏已經習慣了 不喜歡表現出來",
       "analysis": [
-        { "point": "숨기는 게", "explanation": "숨기다（隱藏） + -는 것（名詞化） + -이（主格助詞，게 為 것이 的縮略），意為「隱藏這件事」。 " },
-        { "point": "익숙해", "explanation": "익숙하다（習慣） + -여/해（連接形，表狀態），意為「習慣了」。 " },
-        { "point": "보여주기가", "explanation": "보여주다（展示／表現出來） + -기（名詞化） + -가（主格助詞）。" },
-        { "point": "싫어요", "explanation": "싫다（不喜歡） + -어요（敬語終結詞尾）。" }
+        { "point": "숨기는 게", "explanation": "숨기다 隱藏 + -는 것 名詞化 + -이 主格助詞，게 為 것이 的縮略，意為「隱藏這件事」" },
+        { "point": "익숙해", "explanation": "익숙하다 習慣 + -여/해 連接形表狀態，意為「習慣了」" },
+        { "point": "보여주기가", "explanation": "보여주다 展示／表現出來 + -기 名詞化 + -가 主格助詞" },
+        { "point": "싫어요", "explanation": "싫다 不喜歡 + -어요 敬語終結詞尾" }
       ]
     },
     {
       "korean": "너에게 보여줘 버리면 뒤도 돌아보지 않고 떠나가겠죠",
-      "translation": "如果向你展現（自己）後，你就會頭也不回地離開吧。",
+      "translation": "如果向你展現自己後 你就會頭也不回地離開吧",
       "analysis": [
-        { "point": "너에게", "explanation": "너（你） + -에게（對象助詞「向……」）。" },
-        { "point": "보여줘", "explanation": "보여주다（展現）的連接形。" },
-        { "point": "버리면", "explanation": "버리다（徹底，補助動詞） + -면（條件「如果……」），強調動作的徹底完成。" },
-        { "point": "뒤도", "explanation": "뒤（後面） + -도（助詞「也」）。" },
-        { "point": "돌아보지 않고", "explanation": "돌아보다（回頭看） + -지 않다（否定） + -고（並列連接），意為「不回頭看」。 " },
-        { "point": "떠나가겠죠", "explanation": "떠나가다（離開） + -겠-（推測） + -죠（-지요 的縮略，陳述語氣）。" }
+        { "point": "너에게", "explanation": "너 你 + -에게 對象助詞，意為「向你」" },
+        { "point": "보여줘", "explanation": "보여주다 展現的連接形" },
+        { "point": "버리면", "explanation": "버리다 徹底完成補助動詞 + -면 條件「如果」，強調動作徹底完成" },
+        { "point": "뒤도", "explanation": "뒤 後面 + -도 助詞「也」" },
+        { "point": "돌아보지 않고", "explanation": "돌아보다 回頭看 + -지 않다 否定 + -고 並列連接，意為「不回頭看」" },
+        { "point": "떠나가겠죠", "explanation": "떠나가다 離開 + -겠- 推測 + -죠 -지요 的縮略陳述語氣" }
       ]
     },
     {
       "korean": "아무도 알지 못하게 사랑할 순 없나요",
-      "translation": "難道不能不讓任何人知道地相愛嗎？",
+      "translation": "難道不能不讓任何人知道地相愛嗎",
       "analysis": [
-        { "point": "아무도", "explanation": "아무（任何人） + -도（與否定連用，意為「誰都不」）。" },
-        { "point": "알지 못하게", "explanation": "알다（知道） + -지 못하다（無法） + -게（副詞化，表方式「……地」），意為「無法知道地」。 " },
-        { "point": "사랑할", "explanation": "사랑하다（愛）的冠形詞形（-ㄹ），修飾 순。" },
-        { "point": "순", "explanation": "수는 的縮略（依存名詞 수 + 主題助詞 는）。" },
-        { "point": "없나요", "explanation": "없다（沒有） + -나요（疑問終結詞尾，敬語）。" }
+        { "point": "아무도", "explanation": "아무 任何人 + -도 與否定連用，意為「誰都不」" },
+        { "point": "알지 못하게", "explanation": "알다 知道 + -지 못하다 無法 + -게 副詞化表方式，意為「無法知道地」" },
+        { "point": "사랑할", "explanation": "사랑하다 愛的冠形詞形 -ㄹ，修飾 순" },
+        { "point": "순", "explanation": "수는 的縮略，依存名詞 수 + 主題助詞 는" },
+        { "point": "없나요", "explanation": "없다 沒有 + -나요 疑問終結詞尾敬語" }
       ]
     },
     {
       "korean": "거울 속에 모습을 난 보기 싫을 뿐이죠 두려울 뿐이죠",
-      "translation": "我只是不想看鏡子裡的模樣而已，只是害怕而已。",
+      "translation": "我只是不想看鏡子裡的模樣而已 只是害怕而已",
       "analysis": [
-        { "point": "거울 속에", "explanation": "거울（鏡子） + 속（裡面） + -에（位置助詞）。" },
-        { "point": "모습을", "explanation": "모습（模樣） + -을（賓格助詞）。" },
-        { "point": "난", "explanation": "나는 的縮略（我 + 主題助詞 -는）。" },
-        { "point": "보기 싫을 뿐이죠", "explanation": "보다（看） + -기 싫다（不想） + -을 뿐이다（只是……罷了） + -죠（陳述語氣），意為「只是不想看罷了」。 " },
-        { "point": "두려울 뿐이죠", "explanation": "두렵다（害怕） + -을 뿐이다（只是） + -죠，意為「只是害怕罷了」。 " }
+        { "point": "거울 속에", "explanation": "거울 鏡子 + 속 裡面 + -에 位置助詞" },
+        { "point": "모습을", "explanation": "모습 模樣 + -을 賓格助詞" },
+        { "point": "난", "explanation": "나는 的縮略，我 + 主題助詞 -는" },
+        { "point": "보기 싫을 뿐이죠", "explanation": "보다 看 + -기 싫다 不想 + -을 뿐이다 只是罷了 + -죠 陳述語氣，意為「只是不想看罷了」" },
+        { "point": "두려울 뿐이죠", "explanation": "두렵다 害怕 + -을 뿐이다 只是 + -죠，意為「只是害怕罷了」" }
       ]
     },
     {
       "sectionTitle": "Pre-Chorus",
       "korean": "I can’t be a flower",
-      "translation": "我無法成為一朵花。",
+      "translation": "我無法成為一朵花",
       "analysis": []
     },
     {
       "korean": "얼룩이 진 내가 미워요",
-      "translation": "帶有污漬的我，令人厭惡。",
+      "translation": "帶有污漬的我 令人厭惡",
       "analysis": [
-        { "point": "얼룩이 진", "explanation": "얼룩（污漬） + 이（主格助詞） + 지다（產生／形成）的冠形詞形（-ㄴ），意為「產生了污漬的」，修飾 내가。" },
-        { "point": "내가", "explanation": "나（我） + -가（主格助詞）。" },
-        { "point": "미워요", "explanation": "밉다（厭惡／討厭） + -어요（敬語終結詞尾）。" }
+        { "point": "얼룩이 진", "explanation": "얼룩 污漬 + 이 主格助詞 + 지다 產生／形成的冠形詞形 -ㄴ，意為「產生了污漬的」，修飾 내가" },
+        { "point": "내가", "explanation": "나 我 + -가 主格助詞" },
+        { "point": "미워요", "explanation": "밉다 厭惡／討厭 + -어요 敬語終結詞尾" }
       ]
     },
     {
       "korean": "I can’t be a flower",
-      "translation": "我無法成為一朵花。",
+      "translation": "我無法成為一朵花",
       "analysis": []
     },
     {
       "korean": "그댄 나를 바라봐 줄까요",
-      "translation": "你會願意看著我嗎？",
+      "translation": "你會願意看著我嗎",
       "analysis": [
-        { "point": "그댄", "explanation": "그대（你） + -는（主題助詞）的縮略。" },
-        { "point": "나를", "explanation": "나（我） + -를（賓格助詞）。" },
-        { "point": "바라봐", "explanation": "바라보다（看著）的連接形。" },
-        { "point": "줄까요", "explanation": "주다（為……做，補助動詞） + -ㄹ까요（疑問推測終結詞尾，敬語），意為「會願意……嗎？」。" }
+        { "point": "그댄", "explanation": "그대 你 + -는 主題助詞的縮略" },
+        { "point": "나를", "explanation": "나 我 + -를 賓格助詞" },
+        { "point": "바라봐", "explanation": "바라보다 看著的連接形" },
+        { "point": "줄까요", "explanation": "주다 為補助動詞 + -ㄹ까요 疑問推測終結詞尾敬語，意為「會願意嗎」" }
       ]
     },
     {
       "sectionTitle": "Chorus",
       "korean": "Beautiful Flower Beautiful Flower",
-      "translation": "美麗的花，美麗的花。",
+      "translation": "美麗的花 美麗的花",
       "analysis": []
     },
     {
       "korean": "Beautiful Flower Beautiful Flower",
-      "translation": "美麗的花，美麗的花。",
+      "translation": "美麗的花 美麗的花",
       "analysis": []
     },
     {
       "sectionTitle": "Verse 2",
       "korean": "Redoor (리도어) - 내 몸에 가시가 있어 어루만질 수 없나요",
-      "translation": "Redoor (리도어) - 我身上有刺，難道不能撫摸嗎？",
+      "translation": "Redoor (리도어) - 我身上有刺 難道不能撫摸嗎",
       "analysis": [
-        { "point": "내 몸에", "explanation": "내（我的） + 몸（身體） + -에（位置助詞「在……上」）。" },
-        { "point": "가시가", "explanation": "가시（刺） + -가（主格助詞）。" },
-        { "point": "있어", "explanation": "있다（有／存在）的連接形，此處表狀態" },
-        { "point": "어루만질", "explanation": "어루만지다（撫摸）的冠形詞形（-ㄹ），修飾 수。" },
-        { "point": "수", "explanation": "依存名詞，表可能／方法。" },
-        { "point": "없나요", "explanation": "없다（沒有） + -나요（疑問終結詞尾，敬語），意為「不能……嗎？」。 " }
+        { "point": "내 몸에", "explanation": "내 我的 + 몸 身體 + -에 位置助詞，意為「在身上」" },
+        { "point": "가시가", "explanation": "가시 刺 + -가 主格助詞" },
+        { "point": "있어", "explanation": "있다 有的連接形，此處表狀態" },
+        { "point": "어루만질", "explanation": "어루만지다 撫摸的冠形詞形 -ㄹ，修飾 수" },
+        { "point": "수", "explanation": "依存名詞表可能／方法" },
+        { "point": "없나요", "explanation": "없다 沒有 + -나요 疑問終結詞尾敬語，意為「不能嗎」" }
       ]
     },
     {
       "korean": "너에게 보여줘 버리면",
-      "translation": "如果向你展現（自己）後，",
+      "translation": "如果向你展現自己後",
       "analysis": [
-        { "point": "너에게", "explanation": "너（你） + -에게（對象助詞）。" },
-        { "point": "보여줘", "explanation": "보여주다（展現）的連接形。" },
-        { "point": "버리면", "explanation": "버리다（徹底，補助動詞） + -면（條件「如果……」）。" }
+        { "point": "너에게", "explanation": "너 你 + -에게 對象助詞" },
+        { "point": "보여줘", "explanation": "보여주다 展現的連接形" },
+        { "point": "버리면", "explanation": "버리다 徹底補助動詞 + -면 條件「如果」" }
       ]
     },
     {
       "korean": "뒤도 돌아보지 않고 떠나가겠죠",
-      "translation": "就會頭也不回地離開吧。",
+      "translation": "就會頭也不回地離開吧",
       "analysis": [
-        { "point": "뒤도", "explanation": "뒤（後面） + -도（助詞「也」）。" },
-        { "point": "돌아보지 않고", "explanation": "돌아보다（回頭看） + -지 않다（否定） + -고（並列連接），意為「不回頭看」。 " },
-        { "point": "떠나가겠죠", "explanation": "떠나가다（離開） + -겠-（推測） + -죠（陳述語氣）。" }
+        { "point": "뒤도", "explanation": "뒤 後面 + -도 助詞「也」" },
+        { "point": "돌아보지 않고", "explanation": "돌아보다 回頭看 + -지 않다 否定 + -고 並列連接，意為「不回頭看」" },
+        { "point": "떠나가겠죠", "explanation": "떠나가다 離開 + -겠- 推測 + -죠 陳述語氣" }
       ]
     },
     {
       "sectionTitle": "Pre-Chorus",
       "korean": "I can’t be a flower",
-      "translation": "我無法成為一朵花。",
+      "translation": "我無法成為一朵花",
       "analysis": []
     },
     {
       "korean": "얼룩이 진 내가 미워요",
-      "translation": "帶有污漬的我，令人厭惡。",
+      "translation": "帶有污漬的我 令人厭惡",
       "analysis": [
-        { "point": "얼룩이 진", "explanation": "얼룩（污漬） + 이（主格） + 지다（產生）的冠形詞形（-ㄴ），修飾 내가。" },
-        { "point": "내가", "explanation": "나（我） + -가（主格）。" },
-        { "point": "미워요", "explanation": "밉다（厭惡） + -어요（敬語）。" }
+        { "point": "얼룩이 진", "explanation": "얼룩 污漬 + 이 主格 + 지다 產生的冠形詞形 -ㄴ，修飾 내가" },
+        { "point": "내가", "explanation": "나 我 + -가 主格" },
+        { "point": "미워요", "explanation": "밉다 厭惡 + -어요 敬語" }
       ]
     },
     {
       "korean": "I can’t be a flower",
-      "translation": "我無法成為一朵花。",
+      "translation": "我無法成為一朵花",
       "analysis": []
     },
     {
       "korean": "그댄 나를 바라봐 줄까요",
-      "translation": "你會願意看著我嗎？",
+      "translation": "你會願意看著我嗎",
       "analysis": [
-        { "point": "그댄", "explanation": "그대（你） + -는（主題）的縮略。" },
-        { "point": "나를", "explanation": "나（我） + -를（賓格）。" },
-        { "point": "바라봐", "explanation": "바라보다（看著）的連接形。" },
-        { "point": "줄까요", "explanation": "주다（為……做，補助動詞） + -ㄹ까요（疑問推測）。" }
+        { "point": "그댄", "explanation": "그대 你 + -는 主題的縮略" },
+        { "point": "나를", "explanation": "나 我 + -를 賓格" },
+        { "point": "바라봐", "explanation": "바라보다 看著的連接形" },
+        { "point": "줄까요", "explanation": "주다 為補助動詞 + -ㄹ까요 疑問推測" }
       ]
     },
     {
       "sectionTitle": "Chorus",
       "korean": "I can’t be a flower",
-      "translation": "我無法成為一朵花。",
+      "translation": "我無法成為一朵花",
       "analysis": []
     },
     {
       "korean": "그대 향기를 닮고 싶어요",
-      "translation": "我想像你一樣擁有香氣。",
+      "translation": "我想像你一樣擁有香氣",
       "analysis": [
-        { "point": "그대 향기를", "explanation": "그대（你） + 향기（香氣） + -를（賓格助詞）。" },
-        { "point": "닮고 싶어요", "explanation": "닮다（像／相似） + -고 싶다（想要） + -어요（敬語），意為「想要像（你一樣）」。 " }
+        { "point": "그대 향기를", "explanation": "그대 你 + 향기 香氣 + -를 賓格助詞" },
+        { "point": "닮고 싶어요", "explanation": "닮다 像／相似 + -고 싶다 想要 + -어요 敬語，意為「想要像你一樣」" }
       ]
     },
     {
       "korean": "그댄 아름다워 그댈 사랑해도 될까요",
-      "translation": "你很美麗，可以愛你嗎？",
+      "translation": "你很美麗 可以愛你嗎",
       "analysis": [
-        { "point": "그댄", "explanation": "그대（你） + -는（主題）的縮略。" },
-        { "point": "아름다워", "explanation": "아름답다（美麗）的連接形（-아/어）。" },
-        { "point": "그댈", "explanation": "그대（你） + -를（賓格）的縮略。" },
-        { "point": "사랑해도", "explanation": "사랑하다（愛） + -아/어도（讓步連接「即使……也」）。" },
-        { "point": "될까요", "explanation": "되다（成為／可以） + -ㄹ까요（疑問推測終結詞尾），意為「可以……嗎？」。 " }
+        { "point": "그댄", "explanation": "그대 你 + -는 主題的縮略" },
+        { "point": "아름다워", "explanation": "아름답다 美麗的連接形 -아/어" },
+        { "point": "그댈", "explanation": "그대 你 + -를 賓格的縮略" },
+        { "point": "사랑해도", "explanation": "사랑하다 愛 + -아/어도 讓步連接「即使」" },
+        { "point": "될까요", "explanation": "되다 成為／可以 + -ㄹ까요 疑問推測終結詞尾，意為「可以嗎」" }
       ]
     },
     {
       "sectionTitle": "Outro",
       "korean": "Beautiful Flower Beautiful Flower",
-      "translation": "美麗的花，美麗的花。",
+      "translation": "美麗的花 美麗的花",
       "analysis": []
     },
     {
       "korean": "Beautiful Flower Beautiful Flower",
-      "translation": "美麗的花，美麗的花。",
+      "translation": "美麗的花 美麗的花",
       "analysis": []
     }
   ],

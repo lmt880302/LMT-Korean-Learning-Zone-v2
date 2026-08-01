@@ -6,241 +6,242 @@
     {
       "sectionTitle": "Verse 1",
       "korean": "풍선을 불다 얼굴이 가려져 갈 때쯤",
-      "translation": "吹著氣球，當臉快要被遮住的時候，",
+      "translation": "吹著氣球 當臉快要被遮住的時候",
       "analysis": [
-        { "point": "풍선을 불다", "explanation": "풍선（氣球） + -을（賓格助詞） + 불다（吹），意為「吹氣球」。 " },
-        { "point": "얼굴이", "explanation": "얼굴（臉） + -이（主格助詞）。" },
-        { "point": "가려져", "explanation": "가려지다（被遮住）的連接形。" },
-        { "point": "갈 때쯤", "explanation": "가다（去） + -ㄹ 때쯤（大約……的時候），與前面的 동사 結合表「快要……的時候」。 " }
+        { "point": "풍선을 불다", "explanation": "풍선 氣球加上 -을 賓格助詞與 불다 吹 意為吹氣球" },
+        { "point": "얼굴이", "explanation": "얼굴 臉加上 -이 主格助詞" },
+        { "point": "가려져", "explanation": "가려지다 被遮住的連接形" },
+        { "point": "갈 때쯤", "explanation": "가다 去加上 -ㄹ 때쯤 大約的時候 與前面的動詞結合表快要的時候" }
       ]
     },
     {
       "korean": "터질 듯한 두려움이 시작되듯이",
-      "translation": "如同快要爆裂的恐懼開始一般，",
+      "translation": "如同快要爆裂的恐懼開始一般",
       "analysis": [
-        { "point": "터질 듯한", "explanation": "터지다（爆裂） + -을 듯하다（比喻「好像要……」）的冠形詞形（-ㄴ），修飾 두려움。" },
-        { "point": "두려움이", "explanation": "두려움（恐懼） + -이（主格）。" },
-        { "point": "시작되듯이", "explanation": "시작되다（開始） + -듯이（比喻「如同……」），意為「如同開始一樣」。 " }
+        { "point": "터질 듯한", "explanation": "터지다 爆裂加上 -을 듯하다 比喻好像要的冠形詞形 -ㄴ 修飾 두려움" },
+        { "point": "두려움이", "explanation": "두려움 恐懼加上 -이 主格" },
+        { "point": "시작되듯이", "explanation": "시작되다 開始加上 -듯이 比喻如同 意為如同開始一樣" }
       ]
     },
     {
       "korean": "모두 다 내뱉어버린 나의 욕심들이",
       "translation": "全都吐出來了的我的貪欲們",
       "analysis": [
-        { "point": "모두 다", "explanation": "모두（全部） + 다（全都，強調副詞）。" },
-        { "point": "내뱉어버린", "explanation": "내뱉다（吐出） + -아/어 버리다（徹底完成）的冠形詞形（-ㄴ），修飾 나의 욕심들。" },
-        { "point": "나의 욕심들이", "explanation": "나（我） + -의（屬格） + 욕심（貪欲） + -들（複數） + -이（主格）。" }
+        { "point": "모두 다", "explanation": "모두 全部加上 다 全都強調副詞" },
+        { "point": "내뱉어버린", "explanation": "내뱉다 吐出加上 -아/어 버리다 徹底完成的冠形詞形 -ㄴ 修飾 나의 욕심들" },
+        { "point": "나의 욕심들이", "explanation": "나 我加上 -의 屬格與 욕심 貪欲 -들 複數 -이 主格" }
       ]
     },
     {
       "korean": "결국 날 삼킬 듯 부풀어 올랐네",
-      "translation": "最終彷彿要吞噬我一般膨脹了起來。",
+      "translation": "最終彷彿要吞噬我一般膨脹了起來",
       "analysis": [
-        { "point": "결국", "explanation": "副詞「最終」。 " },
-        { "point": "날", "explanation": "나를 的縮略（賓格）。" },
-        { "point": "삼킬 듯", "explanation": "삼키다（吞噬） + -을 듯（比喻「彷彿要……」）。" },
-        { "point": "부풀어 올랐네", "explanation": "부풀어 오르다（膨脹） + -았-（過去時） + -네（感嘆／陳述終結詞尾）。" }
+        { "point": "결국", "explanation": "副詞 意為最終" },
+        { "point": "날", "explanation": "나를 的縮略 賓格" },
+        { "point": "삼킬 듯", "explanation": "삼키다 吞噬加上 -을 듯 比喻彷彿要" },
+        { "point": "부풀어 올랐네", "explanation": "부풀어 오르다 膨脹加上 -았- 過去時與 -네 感嘆或陳述終結詞尾" }
       ]
     },
     {
       "sectionTitle": "Pre-Chorus",
       "korean": "내 귓가에 속삭임은 덩그러니 남아있죠",
-      "translation": "在我耳邊的竊竊私語，孤零零地留存著。",
+      "translation": "在我耳邊的竊竊私語 孤零零地留存著",
       "analysis": [
-        { "point": "내 귓가에", "explanation": "내（我的） + 귓가（耳邊） + -에（位置助詞）。" },
-        { "point": "속삭임은", "explanation": "속삭임（低語／竊竊私語） + -은（主題助詞）。" },
-        { "point": "덩그러니", "explanation": "副詞「孤零零地／空蕩蕩地」。 " },
-        { "point": "남아있죠", "explanation": "남아있다（留存） + -죠（-지요 的縮略，陳述語氣）。" }
+        { "point": "내 귓가에", "explanation": "내 我的加上 귓가 耳邊與 -에 位置助詞" },
+        { "point": "속삭임은", "explanation": "속삭임 低語或竊竊私語加上 -은 主題助詞" },
+        { "point": "덩그러니", "explanation": "副詞 意為孤零零地或空蕩蕩地" },
+        { "point": "남아있죠", "explanation": "남아있다 留存加上 -죠 -지요 的縮略陳述語氣" }
       ]
     },
     {
       "korean": "돌아갈 수 없는 부서져 흩어진 곳으로",
-      "translation": "朝向無法回去的、破碎散落的地方。",
+      "translation": "朝向無法回去的破碎散落的地方",
       "analysis": [
-        { "point": "돌아갈 수 없는", "explanation": "돌아가다（回去） + -을 수 없다（無法）的冠形詞形，修飾 곳。" },
-        { "point": "부서져", "explanation": "부서지다（破碎）的連接形。" },
-        { "point": "흩어진", "explanation": "흩어지다（散落）的冠形詞形（-ㄴ），修飾 곳。" },
-        { "point": "곳으로", "explanation": "곳（地方） + -으로（方向助詞）。" }
+        { "point": "돌아갈 수 없는", "explanation": "돌아가다 回去加上 -을 수 없다 無法的冠形詞形 修飾 곳" },
+        { "point": "부서져", "explanation": "부서지다 破碎的連接形" },
+        { "point": "흩어진", "explanation": "흩어지다 散落的冠形詞形 -ㄴ 修飾 곳" },
+        { "point": "곳으로", "explanation": "곳 地方加上 -으로 方向助詞" }
       ]
     },
     {
       "sectionTitle": "Chorus",
       "korean": "우리 사랑은 영원을 약속했죠",
-      "translation": "我們的愛情承諾了永遠。",
+      "translation": "我們的愛情承諾了永遠",
       "analysis": [
-        { "point": "우리 사랑은", "explanation": "우리（我們） + 사랑（愛情） + -은（主題助詞）。" },
-        { "point": "영원을", "explanation": "영원（永遠） + -을（賓格助詞）。" },
-        { "point": "약속했죠", "explanation": "약속하다（約定） + -았-（過去時） + -죠（陳述語氣）。" }
+        { "point": "우리 사랑은", "explanation": "우리 我們加上 사랑 愛情與 -은 主題助詞" },
+        { "point": "영원을", "explanation": "영원 永遠加上 -을 賓格助詞" },
+        { "point": "약속했죠", "explanation": "약속하다 約定加上 -았- 過去時與 -죠 陳述語氣" }
       ]
     },
     {
       "korean": "깨지고 부서져도 다시 돌아올 테니까",
-      "translation": "即使破碎毀壞，也因為會再回來。",
+      "translation": "即使破碎毀壞 也因為會再回來",
       "analysis": [
-        { "point": "깨지고", "explanation": "깨지다（破碎） + -고（並列連接）。" },
-        { "point": "부서져도", "explanation": "부서지다（毀壞） + -아/어도（讓步連接「即使……」）。" },
-        { "point": "다시", "explanation": "副詞「再／又」。 " },
-        { "point": "돌아올", "explanation": "돌아오다（回來）的冠形詞形（-을），修飾 테니까。" },
-        { "point": "테니까", "explanation": "터이니까（推測＋因果）的縮略，意為「因為會……」。 " }
+        { "point": "깨지고", "explanation": "깨지다 破碎加上 -고 並列連接" },
+        { "point": "부서져도", "explanation": "부서지다 毀壞加上 -아/어도 讓步連接即使" },
+        { "point": "다시", "explanation": "副詞 意為再或又" },
+        { "point": "돌아올", "explanation": "돌아오다 回來的冠形詞形 -을 修飾 테니까" },
+        { "point": "테니까", "explanation": "터이니까 推測加因果的縮略 意為因為會" }
       ]
     },
     {
       "korean": "우리 결말은 넓은 바다 같아서",
-      "translation": "我們的結局像寬闊的大海一樣，",
+      "translation": "我們的結局像寬闊的大海一樣",
       "analysis": [
-        { "point": "우리 결말은", "explanation": "우리（我們） + 결말（結局） + -은（主題）。" },
-        { "point": "넓은", "explanation": "넓다（寬闊）的冠形詞形（-은），修飾 바다。" },
-        { "point": "바다 같아서", "explanation": "바다（大海） + 같다（像） + -아/어서（因果／連接）。" }
+        { "point": "우리 결말은", "explanation": "우리 我們加上 결말 結局與 -은 主題" },
+        { "point": "넓은", "explanation": "넓다 寬闊的冠形詞形 -은 修飾 바다" },
+        { "point": "바다 같아서", "explanation": "바다 大海加上 같다 像與 -아/어서 因果或連接" }
       ]
     },
     {
       "korean": "깊은 곳에 빠져 잠겨도 숨을 쉴 수 있죠",
-      "translation": "即使掉進深處被淹沒，也能呼吸。",
+      "translation": "即使掉進深處被淹沒 也能呼吸",
       "analysis": [
-        { "point": "깊은 곳에", "explanation": "깊다（深）的冠形詞形（-은） + 곳（地方） + -에（位置助詞）。" },
-        { "point": "빠져", "explanation": "빠지다（掉進）的連接形。" },
-        { "point": "잠겨도", "explanation": "잠기다（被淹沒） + -아/어도（讓步「即使……」）。" },
-        { "point": "숨을 쉴 수 있죠", "explanation": "숨을 쉬다（呼吸） + -을 수 있다（可以） + -죠（陳述）。" }
+        { "point": "깊은 곳에", "explanation": "깊다 深的冠形詞形 -은 加上 곳 地方與 -에 位置助詞" },
+        { "point": "빠져", "explanation": "빠지다 掉進的連接形" },
+        { "point": "잠겨도", "explanation": "잠기다 被淹沒加上 -아/어도 讓步即使" },
+        { "point": "숨을 쉴 수 있죠", "explanation": "숨을 쉬다 呼吸加上 -을 수 있다 可以與 -죠 陳述" }
       ]
     },
     {
       "sectionTitle": "Pre-Chorus 2",
       "korean": "내 귓가에 속삭임은 덩그러니 남아있죠",
-      "translation": "在我耳邊的竊竊私語，孤零零地留存著。",
+      "translation": "在我耳邊的竊竊私語 孤零零地留存著",
       "analysis": [
-        { "point": "내 귓가에", "explanation": "位置。" },
-        { "point": "속삭임은", "explanation": "主題。" },
-        { "point": "덩그러니", "explanation": "副詞。" },
-        { "point": "남아있죠", "explanation": "陳述。" }
+        { "point": "내 귓가에", "explanation": "내 我的加上 귓가 耳邊與 -에 位置助詞" },
+        { "point": "속삭임은", "explanation": "속삭임 低語或竊竊私語加上 -은 主題助詞" },
+        { "point": "덩그러니", "explanation": "副詞 意為孤零零地或空蕩蕩地" },
+        { "point": "남아있죠", "explanation": "남아있다 留存加上 -죠 -지요 的縮略陳述語氣" }
       ]
     },
     {
       "korean": "그 시절 영원하자던 새하얀 다짐 속으로",
-      "translation": "朝向那時說著『永遠吧』的雪白約定的深處。",
+      "translation": "朝向那時說著永遠吧的雪白約定的深處",
       "analysis": [
-        { "point": "그 시절", "explanation": "그（那） + 시절（時期）。" },
-        { "point": "영원하자던", "explanation": "영원하다（永遠） + -자（勸誘終結詞尾） + -던（回想冠形詞尾），修飾 다짐。" },
-        { "point": "새하얀", "explanation": "새하얗다（雪白）的冠形詞形（-ㄴ），修飾 다짐。" },
-        { "point": "다짐 속으로", "explanation": "다짐（約定／誓言） + 속（裡面） + -으로（方向助詞）。" }
+        { "point": "그 시절", "explanation": "그 那加上 시절 時期" },
+        { "point": "영원하자던", "explanation": "영원하다 永遠加上 -자 勸誘終結詞尾與 -던 回想冠形詞尾 修飾 다짐" },
+        { "point": "새하얀", "explanation": "새하얗다 雪白的冠形詞形 -ㄴ 修飾 다짐" },
+        { "point": "다짐 속으로", "explanation": "다짐 約定或誓言加上 속 裡面與 -으로 方向助詞" }
       ]
     },
     {
       "sectionTitle": "Chorus 2",
       "korean": "우리 사랑은 영원을 약속했죠",
-      "translation": "我們的愛情承諾了永遠。",
+      "translation": "我們的愛情承諾了永遠",
       "analysis": [
-        { "point": "우리 사랑은", "explanation": "主題。" },
-        { "point": "영원을", "explanation": "賓格。" },
-        { "point": "약속했죠", "explanation": "過去陳述。" }
+        { "point": "우리 사랑은", "explanation": "우리 我們加上 사랑 愛情與 -은 主題助詞" },
+        { "point": "영원을", "explanation": "영원 永遠加上 -을 賓格助詞" },
+        { "point": "약속했죠", "explanation": "약속하다 約定加上 -았- 過去時與 -죠 陳述語氣" }
       ]
     },
     {
       "korean": "깨지고 부서져도 다시 돌아올 테니까",
-      "translation": "即使破碎毀壞，也因為會再回來。",
+      "translation": "即使破碎毀壞 也因為會再回來",
       "analysis": [
-        { "point": "깨지고", "explanation": "並列。" },
-        { "point": "부서져도", "explanation": "讓步。" },
-        { "point": "다시", "explanation": "副詞。" },
-        { "point": "돌아올 테니까", "explanation": "推測因果。" }
+        { "point": "깨지고", "explanation": "깨지다 破碎加上 -고 並列連接" },
+        { "point": "부서져도", "explanation": "부서지다 毀壞加上 -아/어도 讓步連接即使" },
+        { "point": "다시", "explanation": "副詞 意為再或又" },
+        { "point": "돌아올", "explanation": "돌아오다 回來的冠形詞形 -을 修飾 테니까" },
+        { "point": "테니까", "explanation": "터이니까 推測加因果的縮略 意為因為會" }
       ]
     },
     {
       "korean": "우리 결말은 넓은 바다 같아서",
-      "translation": "我們的結局像寬闊的大海一樣，",
+      "translation": "我們的結局像寬闊的大海一樣",
       "analysis": [
-        { "point": "우리 결말은", "explanation": "主題。" },
-        { "point": "넓은", "explanation": "冠形詞。" },
-        { "point": "바다 같아서", "explanation": "比喻。" }
+        { "point": "우리 결말은", "explanation": "우리 我們加上 결말 結局與 -은 主題" },
+        { "point": "넓은", "explanation": "넓다 寬闊的冠形詞形 -은 修飾 바다" },
+        { "point": "바다 같아서", "explanation": "바다 大海加上 같다 像與 -아/어서 因果或連接" }
       ]
     },
     {
       "korean": "깊은 곳에 빠져 잠겨도 숨을 쉴 수 있죠",
-      "translation": "即使掉進深處被淹沒，也能呼吸。",
+      "translation": "即使掉進深處被淹沒 也能呼吸",
       "analysis": [
-        { "point": "깊은 곳에", "explanation": "位置。" },
-        { "point": "빠져", "explanation": "連接。" },
-        { "point": "잠겨도", "explanation": "讓步。" },
-        { "point": "숨을 쉴 수 있죠", "explanation": "可能＋陳述。" }
+        { "point": "깊은 곳에", "explanation": "깊다 深的冠形詞形 -은 加上 곳 地方與 -에 位置助詞" },
+        { "point": "빠져", "explanation": "빠지다 掉進的連接形" },
+        { "point": "잠겨도", "explanation": "잠기다 被淹沒加上 -아/어도 讓步即使" },
+        { "point": "숨을 쉴 수 있죠", "explanation": "숨을 쉬다 呼吸加上 -을 수 있다 可以與 -죠 陳述" }
       ]
     },
     {
       "sectionTitle": "Bridge",
       "korean": "붉어진 노을 떨어진 체온",
-      "translation": "變紅的晚霞，下降的體溫。",
+      "translation": "變紅的晚霞 下降的體溫",
       "analysis": [
-        { "point": "붉어진", "explanation": "붉어지다（變紅）的冠形詞形（-ㄴ），修飾 노을。" },
-        { "point": "노을", "explanation": "晚霞（名詞）。" },
-        { "point": "떨어진", "explanation": "떨어지다（下降／掉落）的冠形詞形（-ㄴ），修飾 체온。" },
-        { "point": "체온", "explanation": "體溫（名詞）。" }
+        { "point": "붉어진", "explanation": "붉어지다 變紅的冠形詞形 -ㄴ 修飾 노을" },
+        { "point": "노을", "explanation": "名詞 意為晚霞" },
+        { "point": "떨어진", "explanation": "떨어지다 下降或掉落的冠形詞形 -ㄴ 修飾 체온" },
+        { "point": "체온", "explanation": "名詞 意為體溫" }
       ]
     },
     {
       "korean": "같은 곳을 바라보던 우리는",
-      "translation": "曾經注視著同一處的我們，",
+      "translation": "曾經注視著同一處的我們",
       "analysis": [
-        { "point": "같은", "explanation": "같다（相同）的冠形詞形（-은），修飾 곳。" },
-        { "point": "곳을", "explanation": "곳（地方） + -을（賓格）。" },
-        { "point": "바라보던", "explanation": "바라보다（注視） + -던（回想冠形詞尾），修飾 우리。" },
-        { "point": "우리는", "explanation": "我們（主題）。" }
+        { "point": "같은", "explanation": "같다 相同的冠形詞形 -은 修飾 곳" },
+        { "point": "곳을", "explanation": "곳 地方加上 -을 賓格" },
+        { "point": "바라보던", "explanation": "바라보다 注視加上 -던 回想冠形詞尾 修飾 우리" },
+        { "point": "우리는", "explanation": "우리 我們加上 -는 主題助詞" }
       ]
     },
     {
       "korean": "보이지 않는 안개 속 너를",
-      "translation": "看不見的迷霧中的你，",
+      "translation": "看不見的迷霧中的你",
       "analysis": [
-        { "point": "보이지 않는", "explanation": "보이다（被看見） + -지 않다（否定）的冠形詞形（-는），修飾 안개。" },
-        { "point": "안개 속", "explanation": "안개（迷霧） + 속（裡面）。" },
-        { "point": "너를", "explanation": "你（賓格）。" }
+        { "point": "보이지 않는", "explanation": "보이다 被看見加上 -지 않다 否定的冠形詞形 -는 修飾 안개" },
+        { "point": "안개 속", "explanation": "안개 迷霧加上 속 裡面" },
+        { "point": "너를", "explanation": "너 你加上 -를 賓格" }
       ]
     },
     {
       "korean": "맑고 푸른 언덕 위에서 만나기를",
-      "translation": "在晴朗翠綠的山丘上，期待著相遇。",
+      "translation": "在晴朗翠綠的山丘上 期待著相遇",
       "analysis": [
-        { "point": "맑고", "explanation": "맑다（晴朗） + -고（並列連接）。" },
-        { "point": "푸른", "explanation": "푸르다（翠綠）的冠形詞形（-은），修飾 언덕。" },
-        { "point": "언덕 위에서", "explanation": "언덕（山丘） + 위（上面） + -에서（位置助詞「在……」）。" },
-        { "point": "만나기를", "explanation": "만나다（相遇） + -기를（名詞化＋賓格，表希望／期待）。" }
+        { "point": "맑고", "explanation": "맑다 晴朗加上 -고 並列連接" },
+        { "point": "푸른", "explanation": "푸르다 翠綠的冠形詞形 -은 修飾 언덕" },
+        { "point": "언덕 위에서", "explanation": "언덕 山丘加上 위 上面與 -에서 位置助詞在" },
+        { "point": "만나기를", "explanation": "만나다 相遇加上 -기를 名詞化加賓格 表希望或期待" }
       ]
     },
     {
       "sectionTitle": "Outro",
       "korean": "우리 사랑은 하얀 봄날 같아서",
-      "translation": "我們的愛情像白色的春日一樣，",
+      "translation": "我們的愛情像白色的春日一樣",
       "analysis": [
-        { "point": "우리 사랑은", "explanation": "我們愛情（主題）。" },
-        { "point": "하얀", "explanation": "하얗다（白色）的冠形詞形（-ㄴ），修飾 봄날。" },
-        { "point": "봄날 같아서", "explanation": "봄날（春日） + 같다（像） + -아/어서（因果連接）。" }
+        { "point": "우리 사랑은", "explanation": "우리 我們加上 사랑 愛情與 -은 主題助詞" },
+        { "point": "하얀", "explanation": "하얗다 白色的冠形詞形 -ㄴ 修飾 봄날" },
+        { "point": "봄날 같아서", "explanation": "봄날 春日加上 같다 像與 -아/어서 因果連接" }
       ]
     },
     {
       "korean": "깊은 겨울이 지나고 나면 깨어나겠죠",
-      "translation": "深冬過去之後，應該會醒來吧。",
+      "translation": "深冬過去之後 應該會醒來吧",
       "analysis": [
-        { "point": "깊은", "explanation": "깊다（深）的冠形詞形（-은），修飾 겨울。" },
-        { "point": "겨울이", "explanation": "겨울（冬天） + -이（主格）。" },
-        { "point": "지나고 나면", "explanation": "지나다（過去） + -고 나면（……之後如果）。" },
-        { "point": "깨어나겠죠", "explanation": "깨어나다（醒來） + -겠-（推測） + -죠（陳述）。" }
+        { "point": "깊은", "explanation": "깊다 深的冠形詞形 -은 修飾 겨울" },
+        { "point": "겨울이", "explanation": "겨울 冬天加上 -이 主格" },
+        { "point": "지나고 나면", "explanation": "지나다 過去加上 -고 나면 之後如果" },
+        { "point": "깨어나겠죠", "explanation": "깨어나다 醒來加上 -겠- 推測與 -죠 陳述" }
       ]
     },
     {
       "korean": "진실된 순간의 틈 속에서 피어나",
-      "translation": "在真實瞬間的縫隙中綻放，",
+      "translation": "在真實瞬間的縫隙中綻放",
       "analysis": [
-        { "point": "진실된", "explanation": "진실되다（真實）的冠形詞形（-ㄴ），修飾 순간。" },
-        { "point": "순간의", "explanation": "순간（瞬間） + -의（屬格），修飾 틈。" },
-        { "point": "틈 속에서", "explanation": "틈（縫隙） + 속（裡面） + -에서（位置助詞）。" },
-        { "point": "피어나", "explanation": "피어나다（綻放）的連接形。" }
+        { "point": "진실된", "explanation": "진실되다 真實的冠形詞形 -ㄴ 修飾 순간" },
+        { "point": "순간의", "explanation": "순간 瞬間加上 -의 屬格 修飾 틈" },
+        { "point": "틈 속에서", "explanation": "틈 縫隙加上 속 裡面與 -에서 位置助詞" },
+        { "point": "피어나", "explanation": "피어나다 綻放的連接形" }
       ]
     },
     {
       "korean": "영원한 시간 속에 서로를 남겨두기를",
-      "translation": "在永遠的時間裡，期待著將彼此留下。",
+      "translation": "在永遠的時間裡 期待著將彼此留下",
       "analysis": [
-        { "point": "영원한", "explanation": "영원하다（永遠）的冠形詞形（-ㄴ），修飾 시간。" },
-        { "point": "시간 속에", "explanation": "시간（時間） + 속（裡面） + -에（位置助詞）。" },
-        { "point": "서로를", "explanation": "서로（彼此） + -를（賓格）。" },
-        { "point": "남겨두기를", "explanation": "남겨두다（留下） + -기를（名詞化＋賓格，表希望／期待）。" }
+        { "point": "영원한", "explanation": "영원하다 永遠的冠形詞形 -ㄴ 修飾 시간" },
+        { "point": "시간 속에", "explanation": "시간 時間加上 속 裡面與 -에 位置助詞" },
+        { "point": "서로를", "explanation": "서로 彼此加上 -를 賓格" },
+        { "point": "남겨두기를", "explanation": "남겨두다 留下加上 -기를 名詞化加賓格 表希望或期待" }
       ]
     }
   ],

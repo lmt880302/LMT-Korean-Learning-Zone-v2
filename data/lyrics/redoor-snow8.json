@@ -6,132 +6,132 @@
     {
       "sectionTitle": "Verse 1",
       "korean": "멈춰있는 시간들이 흘러가네요",
-      "translation": "停滯的時間們正在流逝。",
+      "translation": "停滯的時間們正在流逝",
       "analysis": [
-        { "point": "멈춰있는", "explanation": "멈추다（停止） + -아/어 있다（持續狀態）的冠形詞形（-는），修飾後面的 시간들。" },
-        { "point": "시간들이", "explanation": "시간（時間） + -들（複數助詞） + -이（主格助詞）。" },
-        { "point": "흘러가네요", "explanation": "흘러가다（流逝／流去） + -네요（感嘆／陳述終結詞尾，敬語）。" }
+        { "point": "멈춰있는", "explanation": "멈추다 停止加上 -아/어 있다 持續狀態的冠形詞形 -는 修飾後面的 시간들" },
+        { "point": "시간들이", "explanation": "시간 時間加上 -들 複數助詞與 -이 主格助詞" },
+        { "point": "흘러가네요", "explanation": "흘러가다 流逝或流去加上 -네요 感嘆或陳述終結詞尾敬語" }
       ]
     },
     {
       "korean": "굳어 있던 내 몸이 녹아내렸어요",
-      "translation": "曾經僵硬的我的身體融化了。",
+      "translation": "曾經僵硬的我的身體融化了",
       "analysis": [
-        { "point": "굳어 있던", "explanation": "굳다（變硬） + -아/어 있다（持續） + -던（回想冠形詞尾），修飾 내 몸。" },
-        { "point": "내 몸이", "explanation": "내（我的） + 몸（身體） + -이（主格）。" },
-        { "point": "녹아내렸어요", "explanation": "녹아내리다（融化） + -었-（過去時） + -어요（敬語終結詞尾）。" }
+        { "point": "굳어 있던", "explanation": "굳다 變硬加上 -아/어 있다 持續狀態與 -던 回想冠形詞尾 修飾 내 몸" },
+        { "point": "내 몸이", "explanation": "내 我的加上 몸 身體與 -이 主格" },
+        { "point": "녹아내렸어요", "explanation": "녹아내리다 融化加上 -었- 過去時與 -어요 敬語終結詞尾" }
       ]
     },
     {
       "korean": "뿌리 깊게 자라나는 나무 곁에서",
-      "translation": "在根深蒂固生長的樹木旁邊，",
+      "translation": "在根深蒂固生長的樹木旁邊",
       "analysis": [
-        { "point": "뿌리 깊게", "explanation": "뿌리（根） + 깊다（深）的副詞化形 -게，意為「根深地」。 " },
-        { "point": "자라나는", "explanation": "자라나다（生長）的冠形詞形（-는），修飾 나무。" },
-        { "point": "나무 곁에서", "explanation": "나무（樹） + 곁（旁邊） + -에서（位置助詞「在……」）。" }
+        { "point": "뿌리 깊게", "explanation": "뿌리 根加上 깊다 深的副詞化形 -게 意為根深地" },
+        { "point": "자라나는", "explanation": "자라나다 生長的冠形詞形 -는 修飾 나무" },
+        { "point": "나무 곁에서", "explanation": "나무 樹加上 곁 旁邊與 -에서 位置助詞在" }
       ]
     },
     {
       "korean": "흔들릴 순 있어도 무너지진 않아",
-      "translation": "雖然可能會搖晃，但不會崩塌。",
+      "translation": "雖然可能會搖晃 但不會崩塌",
       "analysis": [
-        { "point": "흔들릴", "explanation": "흔들리다（搖晃）的冠形詞形（-을），修飾 순。" },
-        { "point": "순", "explanation": "수는 的縮略（依存名詞 수 + 主題助詞 는）。" },
-        { "point": "있어도", "explanation": "있다（有／可以） + -아/어도（讓步連接「即使……」）。" },
-        { "point": "무너지진", "explanation": "무너지다（崩塌） + -지（連結詞尾） + -는（主題強調），與否定連用。" },
-        { "point": "않아", "explanation": "않다（不） + -아（平語終結），意為「不會」。 " }
+        { "point": "흔들릴", "explanation": "흔들리다 搖晃的冠形詞形 -을 修飾 순" },
+        { "point": "순", "explanation": "수는 的縮略 依存名詞 수 加上主題助詞 는" },
+        { "point": "있어도", "explanation": "있다 有或可以加上 -아/어도 讓步連接即使" },
+        { "point": "무너지진", "explanation": "무너지다 崩塌加上 -지 連結詞尾與 -는 主題強調 與否定連用" },
+        { "point": "않아", "explanation": "않다 不加上 -아 平語終結 意為不會" }
       ]
     },
     {
       "sectionTitle": "Chorus",
       "korean": "눈이 왔어요",
-      "translation": "下雪了。",
+      "translation": "下雪了",
       "analysis": [
-        { "point": "눈이", "explanation": "눈（雪） + -이（主格助詞）。" },
-        { "point": "왔어요", "explanation": "오다（來） + -았-（過去時） + -어요（敬語）。" }
+        { "point": "눈이", "explanation": "눈 雪加上 -이 主格助詞" },
+        { "point": "왔어요", "explanation": "오다 來加上 -았- 過去時與 -어요 敬語" }
       ]
     },
     {
       "korean": "소복이 쌓였죠",
-      "translation": "厚厚地堆積了。",
+      "translation": "厚厚地堆積了",
       "analysis": [
-        { "point": "소복이", "explanation": "副詞／擬態詞「厚厚地」。 " },
-        { "point": "쌓였죠", "explanation": "쌓이다（堆積） + -었-（過去） + -죠（-지요 的縮略，陳述語氣）。" }
+        { "point": "소복이", "explanation": "副詞或擬態詞 意為厚厚地" },
+        { "point": "쌓였죠", "explanation": "쌓이다 堆積加上 -었- 過去時與 -죠 -지요 的縮略陳述語氣" }
       ]
     },
     {
       "korean": "되돌아갈 발걸음은 찾을 수 없죠",
-      "translation": "無法找到回去的腳步。",
+      "translation": "無法找到回去的腳步",
       "analysis": [
-        { "point": "되돌아갈", "explanation": "되돌아가다（回去）的冠形詞形（-을），修飾 발걸음。" },
-        { "point": "발걸음은", "explanation": "발걸음（腳步） + -은（主題助詞）。" },
-        { "point": "찾을 수 없죠", "explanation": "찾다（尋找） + -을 수 없다（無法） + -죠（陳述語氣）。" }
+        { "point": "되돌아갈", "explanation": "되돌아가다 回去的冠形詞形 -을 修飾 발걸음" },
+        { "point": "발걸음은", "explanation": "발걸음 腳步加上 -은 主題助詞" },
+        { "point": "찾을 수 없죠", "explanation": "찾다 尋找加上 -을 수 없다 無法與 -죠 陳述語氣" }
       ]
     },
     {
       "korean": "쌓이고 쌓여서 우리를 덮어요",
-      "translation": "堆了又堆，覆蓋了我們。",
+      "translation": "堆了又堆 覆蓋了我們",
       "analysis": [
-        { "point": "쌓이고", "explanation": "쌓이다（堆積） + -고（並列連接）。" },
-        { "point": "쌓여서", "explanation": "쌓이다（堆積） + -아/어서（因果連接「……之後」）。" },
-        { "point": "우리를", "explanation": "우리（我們） + -를（賓格助詞）。" },
-        { "point": "덮어요", "explanation": "덮다（覆蓋） + -어요（敬語）。" }
+        { "point": "쌓이고", "explanation": "쌓이다 堆積加上 -고 並列連接" },
+        { "point": "쌓여서", "explanation": "쌓이다 堆積加上 -아/어서 因果連接之後" },
+        { "point": "우리를", "explanation": "우리 我們加上 -를 賓格助詞" },
+        { "point": "덮어요", "explanation": "덮다 覆蓋加上 -어요 敬語" }
       ]
     },
     {
       "korean": "새하얘진 눈길 위로 나를 밟아요",
-      "translation": "在變得雪白的雪路上，踩著我。",
+      "translation": "在變得雪白的雪路上 踩著我",
       "analysis": [
-        { "point": "새하얘진", "explanation": "새하얗다（雪白） + -아/어지다（變得）的冠形詞形（-ㄴ），修飾 눈길。" },
-        { "point": "눈길 위로", "explanation": "눈길（雪路） + 위（上面） + -로（方向助詞）。" },
-        { "point": "나를", "explanation": "나（我） + -를（賓格）。" },
-        { "point": "밟아요", "explanation": "밟다（踩） + -아요（敬語）。" }
+        { "point": "새하얘진", "explanation": "새하얗다 雪白加上 -아/어지다 變得與冠形詞形 -ㄴ 修飾 눈길" },
+        { "point": "눈길 위로", "explanation": "눈길 雪路加上 위 上面與 -로 方向助詞" },
+        { "point": "나를", "explanation": "나 我加上 -를 賓格" },
+        { "point": "밟아요", "explanation": "밟다 踩加上 -아요 敬語" }
       ]
     },
     {
       "sectionTitle": "Chorus",
       "korean": "눈이 왔어요",
-      "translation": "下雪了。",
+      "translation": "下雪了",
       "analysis": [
-        { "point": "눈이", "explanation": "主格。" },
-        { "point": "왔어요", "explanation": "過去敬語。" }
+        { "point": "눈이", "explanation": "눈 雪加上 -이 主格助詞" },
+        { "point": "왔어요", "explanation": "오다 來加上 -았- 過去時與 -어요 敬語" }
       ]
     },
     {
       "korean": "소복이 쌓였죠",
-      "translation": "厚厚地堆積了。",
+      "translation": "厚厚地堆積了",
       "analysis": [
-        { "point": "소복이", "explanation": "擬態詞。" },
-        { "point": "쌓였죠", "explanation": "過去陳述。" }
+        { "point": "소복이", "explanation": "副詞或擬態詞 意為厚厚地" },
+        { "point": "쌓였죠", "explanation": "쌓이다 堆積加上 -었- 過去時與 -죠 -지요 的縮略陳述語氣" }
       ]
     },
     {
       "korean": "되돌아갈 발걸음은 찾을 수 없죠",
-      "translation": "無法找到回去的腳步。",
+      "translation": "無法找到回去的腳步",
       "analysis": [
-        { "point": "되돌아갈", "explanation": "冠形詞。" },
-        { "point": "발걸음은", "explanation": "主題。" },
-        { "point": "찾을 수 없죠", "explanation": "無法。" }
+        { "point": "되돌아갈", "explanation": "되돌아가다 回去的冠形詞形 -을 修飾 발걸음" },
+        { "point": "발걸음은", "explanation": "발걸음 腳步加上 -은 主題助詞" },
+        { "point": "찾을 수 없죠", "explanation": "찾다 尋找加上 -을 수 없다 無法與 -죠 陳述語氣" }
       ]
     },
     {
       "korean": "쌓이고 쌓여서 우리를 덮어요",
-      "translation": "堆了又堆，覆蓋了我們。",
+      "translation": "堆了又堆 覆蓋了我們",
       "analysis": [
-        { "point": "쌓이고", "explanation": "並列。" },
-        { "point": "쌓여서", "explanation": "因果。" },
-        { "point": "우리를", "explanation": "賓格。" },
-        { "point": "덮어요", "explanation": "敬語。" }
+        { "point": "쌓이고", "explanation": "쌓이다 堆積加上 -고 並列連接" },
+        { "point": "쌓여서", "explanation": "쌓이다 堆積加上 -아/어서 因果連接之後" },
+        { "point": "우리를", "explanation": "우리 我們加上 -를 賓格助詞" },
+        { "point": "덮어요", "explanation": "덮다 覆蓋加上 -어요 敬語" }
       ]
     },
     {
       "korean": "새하얘진 눈길 위로 나를 밟아요",
-      "translation": "在變得雪白的雪路上，踩著我。",
+      "translation": "在變得雪白的雪路上 踩著我",
       "analysis": [
-        { "point": "새하얘진", "explanation": "冠形詞。" },
-        { "point": "눈길 위로", "explanation": "方向。" },
-        { "point": "나를", "explanation": "賓格。" },
-        { "point": "밟아요", "explanation": "敬語。" }
+        { "point": "새하얘진", "explanation": "새하얗다 雪白加上 -아/어지다 變得與冠形詞形 -ㄴ 修飾 눈길" },
+        { "point": "눈길 위로", "explanation": "눈길 雪路加上 위 上面與 -로 方向助詞" },
+        { "point": "나를", "explanation": "나 我加上 -를 賓格" },
+        { "point": "밟아요", "explanation": "밟다 踩加上 -아요 敬語" }
       ]
     },
     {
@@ -139,89 +139,89 @@
       "korean": "붉어진 낙엽들은",
       "translation": "變紅的落葉們",
       "analysis": [
-        { "point": "붉어진", "explanation": "붉어지다（變紅）的冠形詞形（-ㄴ），修飾 낙엽。" },
-        { "point": "낙엽들은", "explanation": "낙엽（落葉） + -들（複數） + -은（主題助詞）。" }
+        { "point": "붉어진", "explanation": "붉어지다 變紅的冠形詞形 -ㄴ 修飾 낙엽" },
+        { "point": "낙엽들은", "explanation": "낙엽 落葉加上 -들 複數與 -은 主題助詞" }
       ]
     },
     {
       "korean": "거름 되어 피어나고",
-      "translation": "成為肥料，綻放著，",
+      "translation": "成為肥料 綻放著",
       "analysis": [
-        { "point": "거름 되어", "explanation": "거름（肥料） + 되다（成為）的連接形 -되어（→ 되어）。" },
-        { "point": "피어나고", "explanation": "피어나다（綻放） + -고（並列連接）。" }
+        { "point": "거름 되어", "explanation": "거름 肥料加上 되다 成為的連接形 -되어 即 되어" },
+        { "point": "피어나고", "explanation": "피어나다 綻放加上 -고 並列連接" }
       ]
     },
     {
       "korean": "상처 속에 태어난",
       "translation": "在傷口中誕生的",
       "analysis": [
-        { "point": "상처 속에", "explanation": "상처（傷口） + 속（裡面） + -에（位置助詞）。" },
-        { "point": "태어난", "explanation": "태어나다（誕生）的冠形詞形（-ㄴ），修飾後面的 거짓들。" }
+        { "point": "상처 속에", "explanation": "상처 傷口加上 속 裡面與 -에 位置助詞" },
+        { "point": "태어난", "explanation": "태어나다 誕生的冠形詞形 -ㄴ 修飾後面的 거짓들" }
       ]
     },
     {
       "korean": "피 묻은 거짓들은",
       "translation": "沾血的謊言們",
       "analysis": [
-        { "point": "피 묻은", "explanation": "피（血） + 묻다（沾）的冠形詞形（-은），修飾 거짓들。" },
-        { "point": "거짓들은", "explanation": "거짓（謊言） + -들（複數） + -은（主題）。" }
+        { "point": "피 묻은", "explanation": "피 血加上 묻다 沾的冠形詞形 -은 修飾 거짓들" },
+        { "point": "거짓들은", "explanation": "거짓 謊言加上 -들 複數與 -은 主題" }
       ]
     },
     {
       "korean": "한마디도 못한 채",
-      "translation": "連一句話也沒能說，就這樣",
+      "translation": "連一句話也沒能說 就這樣",
       "analysis": [
-        { "point": "한마디도", "explanation": "한마디（一句話） + -도（助詞「也」）。" },
-        { "point": "못한", "explanation": "못 하다（未能）的冠形詞形（-ㄴ），修飾 채。" },
-        { "point": "채", "explanation": "依存名詞，表「維持著某種狀態」。" }
+        { "point": "한마디도", "explanation": "한마디 一句話加上 -도 助詞也" },
+        { "point": "못한", "explanation": "못 하다 未能的冠形詞形 -ㄴ 修飾 채" },
+        { "point": "채", "explanation": "依存名詞 表維持著某種狀態" }
       ]
     },
     {
       "korean": "그대 곁을 맴돌다 사라지겠죠",
-      "translation": "在你的身邊徘徊後，會消失吧。",
+      "translation": "在你的身邊徘徊後 會消失吧",
       "analysis": [
-        { "point": "그대 곁을", "explanation": "그대（你） + 곁（身邊） + -을（賓格助詞）。" },
-        { "point": "맴돌다", "explanation": "맴돌다（徘徊）。" },
-        { "point": "사라지겠죠", "explanation": "사라지다（消失） + -겠-（推測） + -죠（陳述語氣）。" }
+        { "point": "그대 곁을", "explanation": "그대 你加上 곁 身邊與 -을 賓格助詞" },
+        { "point": "맴돌다", "explanation": "맴돌다 徘徊" },
+        { "point": "사라지겠죠", "explanation": "사라지다 消失加上 -겠- 推測與 -죠 陳述語氣" }
       ]
     },
     {
       "sectionTitle": "Outro",
       "korean": "눈을 감고서 간절히 바랬죠",
-      "translation": "閉上眼睛，懇切地期盼了。",
+      "translation": "閉上眼睛 懇切地期盼了",
       "analysis": [
-        { "point": "눈을", "explanation": "눈（眼睛） + -을（賓格）。" },
-        { "point": "감고서", "explanation": "감다（閉上） + -고서（先後連接「……之後」）。" },
-        { "point": "간절히", "explanation": "副詞「懇切地」。 " },
-        { "point": "바랬죠", "explanation": "바라다（期盼） + -았-（過去） + -죠（陳述語氣）。" }
+        { "point": "눈을", "explanation": "눈 眼睛加上 -을 賓格" },
+        { "point": "감고서", "explanation": "감다 閉上加上 -고서 先後連接之後" },
+        { "point": "간절히", "explanation": "副詞 意為懇切地" },
+        { "point": "바랬죠", "explanation": "바라다 期盼加上 -았- 過去時與 -죠 陳述語氣" }
       ]
     },
     {
       "korean": "약속했던 겨울에 돌아올 거라고",
-      "translation": "說會在約定好的冬天回來。",
+      "translation": "說會在約定好的冬天回來",
       "analysis": [
-        { "point": "약속했던", "explanation": "약속하다（約定） + -았-（過去） + -던（回想冠形詞尾），修飾 겨울。" },
-        { "point": "겨울에", "explanation": "겨울（冬天） + -에（時間助詞）。" },
-        { "point": "돌아올 거라고", "explanation": "돌아오다（回來） + -을 거라고（引用未來推測）。" }
+        { "point": "약속했던", "explanation": "약속하다 約定加上 -았- 過去時與 -던 回想冠形詞尾 修飾 겨울" },
+        { "point": "겨울에", "explanation": "겨울 冬天加上 -에 時間助詞" },
+        { "point": "돌아올 거라고", "explanation": "돌아오다 回來加上 -을 거라고 引用未來推測" }
       ]
     },
     {
       "korean": "버티고 견디면 만날 수 있겠죠",
-      "translation": "如果忍耐堅持住，應該就能相遇吧。",
+      "translation": "如果忍耐堅持住 應該就能相遇吧",
       "analysis": [
-        { "point": "버티고", "explanation": "버티다（忍耐） + -고（並列連接）。" },
-        { "point": "견디면", "explanation": "견디다（忍受） + -면（條件「如果……」）。" },
-        { "point": "만날 수 있겠죠", "explanation": "만나다（相遇） + -을 수 있다（可以） + -겠-（推測） + -죠（陳述語氣）。" }
+        { "point": "버티고", "explanation": "버티다 忍耐加上 -고 並列連接" },
+        { "point": "견디면", "explanation": "견디다 忍受加上 -면 條件如果" },
+        { "point": "만날 수 있겠죠", "explanation": "만나다 相遇加上 -을 수 있다 可以與 -겠- 推測及 -죠 陳述語氣" }
       ]
     },
     {
       "korean": "새하얘진 눈길 위로 나를 피워요",
-      "translation": "在變得雪白的雪路上，讓我綻放吧。",
+      "translation": "在變得雪白的雪路上 讓我綻放吧",
       "analysis": [
-        { "point": "새하얘진", "explanation": "冠形詞。" },
-        { "point": "눈길 위로", "explanation": "方向。" },
-        { "point": "나를", "explanation": "賓格。" },
-        { "point": "피워요", "explanation": "피우다（使綻放） + -어요（敬語），意為「讓我綻放」。 " }
+        { "point": "새하얘진", "explanation": "새하얗다 雪白加上 -아/어지다 變得與冠形詞形 -ㄴ 修飾 눈길" },
+        { "point": "눈길 위로", "explanation": "눈길 雪路加上 위 上面與 -로 方向助詞" },
+        { "point": "나를", "explanation": "나 我加上 -를 賓格" },
+        { "point": "피워요", "explanation": "피우다 使綻放加上 -어요 敬語 意為讓我綻放" }
       ]
     }
   ],
@@ -262,6 +262,7 @@
     { "korean": "묻다", "chinese": "沾", "pos": "動詞" },
     { "korean": "거짓", "chinese": "謊言", "pos": "名詞" },
     { "korean": "한마디", "chinese": "一句話", "pos": "名詞" },
+    { "korean": "채", "chinese": "維持狀態（依存名詞）", "pos": "名詞" },
     { "korean": "맴돌다", "chinese": "徘徊", "pos": "動詞" },
     { "korean": "사라지다", "chinese": "消失", "pos": "動詞" },
     { "korean": "감다", "chinese": "閉上", "pos": "動詞" },
