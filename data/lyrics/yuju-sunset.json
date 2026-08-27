@@ -6,7 +6,7 @@
     {
       "sectionTitle": "Verse 1",
       "korean": "아스라이 흩어지는 구름 사이로",
-      "translation": "在依稀消散的雲朵之間",
+      "translation": "在朦朧散去的雲層之間",
       "analysis": [
         { "point": "아스라이", "explanation": "副詞，依稀地、隱約地。" },
         { "point": "흩어지는", "explanation": "흩어지다 (消散、散開) 的現在定語形。" },
@@ -15,7 +15,7 @@
     },
     {
       "korean": "함께였던 많은 날들이 보여",
-      "translation": "看見曾一起的許多日子",
+      "translation": "看見了我們一起走過的許多日子",
       "analysis": [
         { "point": "함께였던", "explanation": "함께 (一起) + -였던 (曾是) 的定語形。" },
         { "point": "많은 날들이", "explanation": "많다 (多的) 的定語形 + 날 (日子) + -들 (複數) + -이 (主格助詞)。" },
@@ -24,7 +24,7 @@
     },
     {
       "korean": "빗물처럼 차오른 마음을 품은 채",
-      "translation": "懷著如雨水般湧上的心意",
+      "translation": "懷抱著如雨水般滿溢的心意",
       "analysis": [
         { "point": "빗물처럼", "explanation": "빗물 (雨水) + -처럼 (像...一樣)。" },
         { "point": "차오른", "explanation": "차오르다 (充滿、湧上) 的過去定語形。" },
@@ -34,7 +34,7 @@
     },
     {
       "korean": "Say goodbye, 이내 그 인사를 네게 건네야 했지",
-      "translation": "說再見, 隨即就必須向你傳達那個問候",
+      "translation": "Say goodbye 最終還是得向你說出那句告別",
       "analysis": [
         { "point": "Say goodbye", "explanation": "英文歌詞，無韓文文法解析。" },
         { "point": "이내", "explanation": "副詞，隨即、立刻。" },
@@ -46,7 +46,7 @@
     {
       "sectionTitle": "Pre-Chorus",
       "korean": "모든 게 막을 let it go",
-      "translation": "一切 帷幕 讓它走吧",
+      "translation": "當一切落下帷幕",
       "analysis": [
         { "point": "모든 게", "explanation": "모든 것 (所有事物) + -이 (主格助詞) 的縮略。" },
         { "point": "막을", "explanation": "막 (帷幕) + -을 (受格助詞)。" },
@@ -55,7 +55,7 @@
     },
     {
       "korean": "떠나가는 사람 사이로",
-      "translation": "在離去的人們之間",
+      "translation": "在人群一個個離去之間",
       "analysis": [
         { "point": "떠나가는", "explanation": "떠나가다 (離開) 的現在定語形。" },
         { "point": "사람 사이로", "explanation": "사람 (人) + 사이 (之間) + -(으)로 (通過)。" }
@@ -63,7 +63,7 @@
     },
     {
       "korean": "끝내 네게 못다 한 그 맘을 전할게",
-      "translation": "最終我會向你傳達沒能說完的那份心意",
+      "translation": "會將始終沒能對你說出口的那份心意傳達給你",
       "analysis": [
         { "point": "끝내", "explanation": "副詞，最終。" },
         { "point": "네게", "explanation": "너에게 (向你) 的縮略。" },
@@ -75,7 +75,7 @@
     {
       "sectionTitle": "Chorus",
       "korean": "저 멀리 사라져 가는",
-      "translation": "在遠處漸漸消失的",
+      "translation": "在那遠遠消逝的",
       "analysis": [
         { "point": "저 멀리", "explanation": "저 (那) + 멀리 (遠處)。" },
         { "point": "사라져 가는", "explanation": "사라지다 (消失) + -아/어 가다 (漸進) 的現在定語形。" }
@@ -83,7 +83,7 @@
     },
     {
       "korean": "붉은 태양 속에",
-      "translation": "紅色太陽之中",
+      "translation": "赤紅夕陽之中",
       "analysis": [
         { "point": "붉은", "explanation": "붉다 (紅色的) 的定語形。" },
         { "point": "태양 속에", "explanation": "태양 (太陽) + 속 (裡面) + -에 (場所助詞)。" }
@@ -91,7 +91,7 @@
     },
     {
       "korean": "뜨겁던 날들이 아직 빛나고 있어",
-      "translation": "曾經熾熱的日子們仍然在閃耀",
+      "translation": "那些曾經熾熱的日子依然閃耀著",
       "analysis": [
         { "point": "뜨겁던", "explanation": "뜨겁다 (熾熱的) 的過去回想着定語形。" },
         { "point": "날들이", "explanation": "날 (日子) + -들 (複數) + -이 (主格助詞)。" },
@@ -101,7 +101,7 @@
     },
     {
       "korean": "잊지는 마 이건 분명",
-      "translation": "不要忘記 這很分明",
+      "translation": "請不要忘記 這分明",
       "analysis": [
         { "point": "잊지는 마", "explanation": "잊다 (忘記) + -지 (強調) + 말다 (不要)。" },
         { "point": "이건", "explanation": "이것은 (這個) 的縮略。" },
@@ -110,7 +110,7 @@
     },
     {
       "korean": "마지막이 아닌 또 다른 안녕",
-      "translation": "不是最後的 另一個再見",
+      "translation": "不是最後的結束 而是另一個「再見」",
       "analysis": [
         { "point": "마지막이 아닌", "explanation": "마지막 (最後) + -이 아니다 (不是) 的定語形。" },
         { "point": "또 다른", "explanation": "또 (又) + 다른 (不同的)。" },
@@ -119,7 +119,7 @@
     },
     {
       "korean": "너와 난 같은 곳을 바라본 거야",
-      "translation": "你和我望著同一個地方",
+      "translation": "因為你和我曾經望向同一個地方",
       "analysis": [
         { "point": "너와", "explanation": "너 (你) + -와 (和)。" },
         { "point": "난", "explanation": "나는 (我) 的縮略。" },
@@ -130,7 +130,7 @@
     {
       "sectionTitle": "Verse 2",
       "korean": "운명이란 말은 때론 잔인하게도",
-      "translation": "名為命運的話語 有時殘忍地",
+      "translation": "「命運」這個詞有時殘酷得讓人覺得",
       "analysis": [
         { "point": "운명이란", "explanation": "운명 (命運) + -이란 (稱為...的)。" },
         { "point": "말은", "explanation": "말 (話) + -은 (主題助詞)。" },
@@ -140,7 +140,7 @@
     },
     {
       "korean": "끝이란 게 정해진 기분이 들어",
-      "translation": "感覺所謂的結局是注定的",
+      "translation": "一切彷彿早已注定會迎來結束",
       "analysis": [
         { "point": "끝이란 게", "explanation": "끝 (結束) + -이란 (所謂的) + 것 (東西) + -이 (主格助詞) 的縮略。" },
         { "point": "정해진", "explanation": "정해지다 (被決定) 的過去定語形。" },
@@ -149,7 +149,7 @@
     },
     {
       "korean": "대체 왜 행복이란 새하얀 조각은",
-      "translation": "到底為什麼 名為幸福的雪白碎片",
+      "translation": "究竟為什麼 名為幸福的潔白碎片",
       "analysis": [
         { "point": "대체", "explanation": "副詞，到底、究竟。" },
         { "point": "왜", "explanation": "副詞，為什麼。" },
@@ -159,7 +159,7 @@
     },
     {
       "korean": "너무 빠르게 다 흩어지는 거야",
-      "translation": "如此快速地全都消散",
+      "translation": "總是如此迅速地四散而去",
       "analysis": [
         { "point": "너무", "explanation": "副詞，太、非常。" },
         { "point": "빠르게", "explanation": "빠르다 (快的) 的副詞形。" },
@@ -170,7 +170,7 @@
     {
       "sectionTitle": "Pre-Chorus",
       "korean": "모두 떠나간 자리에",
-      "translation": "在所有人都離開的位置",
+      "translation": "在所有人離去之後",
       "analysis": [
         { "point": "모두", "explanation": "副詞，全都。" },
         { "point": "떠나간", "explanation": "떠나가다 (離開) 的過去定語形。" },
@@ -179,7 +179,7 @@
     },
     {
       "korean": "홀로 남은 작은 시라도",
-      "translation": "即使獨自留下的微小詩篇",
+      "translation": "即使只剩下一首孤零零的小詩",
       "analysis": [
         { "point": "홀로", "explanation": "副詞，獨自。" },
         { "point": "남은", "explanation": "남다 (留下) 的過去定語形。" },
@@ -188,7 +188,7 @@
     },
     {
       "korean": "끝내 네게 못다 한 그 맘을 전할게",
-      "translation": "最終我會向你傳達沒能說完的那份心意",
+      "translation": "也會將始終沒能對你說出口的那份心意傳達給你",
       "analysis": [
         { "point": "끝내", "explanation": "副詞，最終。" },
         { "point": "네게", "explanation": "너에게 (向你) 的縮略。" },
@@ -200,7 +200,7 @@
     {
       "sectionTitle": "Chorus",
       "korean": "저 멀리 사라져 가는",
-      "translation": "在遠處漸漸消失的",
+      "translation": "在那遠遠消逝的",
       "analysis": [
         { "point": "저 멀리", "explanation": "저 (那) + 멀리 (遠處)。" },
         { "point": "사라져 가는", "explanation": "사라지다 (消失) + -아/어 가다 (漸進) 的現在定語形。" }
@@ -208,7 +208,7 @@
     },
     {
       "korean": "붉은 태양 속에",
-      "translation": "紅色太陽之中",
+      "translation": "赤紅夕陽之中",
       "analysis": [
         { "point": "붉은", "explanation": "붉다 (紅色的) 的定語形。" },
         { "point": "태양 속에", "explanation": "태양 (太陽) + 속 (裡面) + -에 (場所助詞)。" }
@@ -216,7 +216,7 @@
     },
     {
       "korean": "뜨겁던 날들이 아직 빛나고 있어",
-      "translation": "曾經熾熱的日子們仍然在閃耀",
+      "translation": "那些曾經熾熱的日子依然閃耀著",
       "analysis": [
         { "point": "뜨겁던", "explanation": "뜨겁다 (熾熱的) 的過去回想着定語形。" },
         { "point": "날들이", "explanation": "날 (日子) + -들 (複數) + -이 (主格助詞)。" },
@@ -226,7 +226,7 @@
     },
     {
       "korean": "잊지는 마 이건 분명",
-      "translation": "不要忘記 這很分明",
+      "translation": "請不要忘記 這分明",
       "analysis": [
         { "point": "잊지는 마", "explanation": "잊다 (忘記) + -지 (強調) + 말다 (不要)。" },
         { "point": "이건", "explanation": "이것은 (這個) 的縮略。" },
@@ -235,7 +235,7 @@
     },
     {
       "korean": "마지막이 아닌 또 다른 안녕",
-      "translation": "不是最後的 另一個再見",
+      "translation": "不是最後的結束 而是另一個「再見」",
       "analysis": [
         { "point": "마지막이 아닌", "explanation": "마지막 (最後) + -이 아니다 (不是) 的定語形。" },
         { "point": "또 다른", "explanation": "또 (又) + 다른 (不同的)。" },
@@ -244,7 +244,7 @@
     },
     {
       "korean": "너와 난 같은 곳을 바라본 거야",
-      "translation": "你和我望著同一個地方",
+      "translation": "因為你和我曾經望向同一個地方",
       "analysis": [
         { "point": "너와", "explanation": "너 (你) + -와 (和)。" },
         { "point": "난", "explanation": "나는 (我) 的縮略。" },
@@ -255,7 +255,7 @@
     {
       "sectionTitle": "Bridge",
       "korean": "이 많은 날들을 함께해서 고마워",
-      "translation": "謝謝你和我一起度過這麼多日子",
+      "translation": "謝謝你陪我一起走過這麼多日子",
       "analysis": [
         { "point": "이 많은 날들을", "explanation": "이 (這) + 많은 (多的) + 날 (日子) + -들을 (受格助詞複數)。" },
         { "point": "함께해서", "explanation": "함께하다 (一起做) + -아/어서 (因為)。" },
@@ -264,7 +264,7 @@
     },
     {
       "korean": "헤아릴 수 없이 참 많이 아껴 널",
-      "translation": "無法計數地 非常珍惜你",
+      "translation": "數也數不清 真的一直都很珍惜你",
       "analysis": [
         { "point": "헤아릴 수 없이", "explanation": "헤아리다 (計數、估量) + -(으)ㄹ 수 없다 (無法) + -이 (副詞形)。" },
         { "point": "참 많이", "explanation": "참 (真、非常) + 많이 (多地)。" },
@@ -274,7 +274,7 @@
     },
     {
       "korean": "어둠이 오고 길 잃은 채 유영해도",
-      "translation": "即使黑暗降臨 迷路著遊蕩",
+      "translation": "即使黑暗降臨 即使迷失方向孤單漂流",
       "analysis": [
         { "point": "어둠이 오고", "explanation": "어둠 (黑暗) + -이 (主格助詞) + 오다 (來) + -고 (連接詞尾)。" },
         { "point": "길 잃은 채", "explanation": "길 (路) + 잃다 (失去) 的過去定語形 + 채 (保持狀態)。" },
@@ -283,7 +283,7 @@
     },
     {
       "korean": "그 순간조차 널 향할 테니까",
-      "translation": "因為就連那個瞬間我也會朝向著你",
+      "translation": "就連那一刻 心也依然會朝向你",
       "analysis": [
         { "point": "그 순간조차", "explanation": "그 (那) + 순간 (瞬間) + -조차 (連...也)。" },
         { "point": "널", "explanation": "너를 (你) 的縮略。" },
@@ -293,7 +293,7 @@
     {
       "sectionTitle": "Chorus",
       "korean": "저 멀리 구름을 넘어",
-      "translation": "越過遠處的雲",
+      "translation": "即使最後越過遠方的雲層",
       "analysis": [
         { "point": "저 멀리", "explanation": "저 (那) + 멀리 (遠處)。" },
         { "point": "구름을 넘어", "explanation": "구름 (雲) + -을 (受格助詞) + 넘다 (越過) 的非格式體。" }
@@ -301,7 +301,7 @@
     },
     {
       "korean": "사라져 간대도",
-      "translation": "即使說會消失",
+      "translation": "就這樣消失不見",
       "analysis": [
         { "point": "사라져", "explanation": "사라지다 (消失) 的非格式體。" },
         { "point": "간대도", "explanation": "가다 (去) + -ㄴ대도 (即使說...也) 的縮略。" }
@@ -309,7 +309,7 @@
     },
     {
       "korean": "그날의 그 사랑은",
-      "translation": "那天的 那份愛",
+      "translation": "那一天的那份愛",
       "analysis": [
         { "point": "그날의", "explanation": "그날 (那天) + -의 (的)。" },
         { "point": "그 사랑은", "explanation": "그 (那) + 사랑 (愛) + -은 (主題助詞)。" }
@@ -317,7 +317,7 @@
     },
     {
       "korean": "여기 남은 거 알지?",
-      "translation": "留在這裡 知道吧？",
+      "translation": "依然留在這裡 你知道的吧",
       "analysis": [
         { "point": "여기", "explanation": "這裡。" },
         { "point": "남은 거", "explanation": "남다 (留下) 的過去定語形 + 것 (事情) 的縮略。" },
@@ -326,7 +326,7 @@
     },
     {
       "korean": "잊지는 마 이건 분명",
-      "translation": "不要忘記 這很分明",
+      "translation": "請不要忘記 這分明",
       "analysis": [
         { "point": "잊지는 마", "explanation": "잊다 (忘記) + -지 (強調) + 말다 (不要)。" },
         { "point": "이건", "explanation": "이것은 (這個) 的縮略。" },
@@ -335,7 +335,7 @@
     },
     {
       "korean": "마지막이 아닌 또 다른 안녕",
-      "translation": "不是最後的 另一個再見",
+      "translation": "不是最後的結束 而是另一個「再見」",
       "analysis": [
         { "point": "마지막이 아닌", "explanation": "마지막 (最後) + -이 아니다 (不是) 的定語形。" },
         { "point": "또 다른", "explanation": "또 (又) + 다른 (不同的)。" },
@@ -344,7 +344,7 @@
     },
     {
       "korean": "영원히 이곳에 떠오를 거야",
-      "translation": "會永遠在這裡升起",
+      "translation": "它會永遠在這裡再次升起",
       "analysis": [
         { "point": "영원히", "explanation": "副詞，永遠地。" },
         { "point": "이곳에", "explanation": "이곳 (這裡) + -에 (場所助詞)。" },

@@ -6,7 +6,7 @@
     {
       "sectionTitle": "Verse 1",
       "korean": "지금 꾸고 있는 이 꿈이",
-      "translation": "現在正在做的這個夢",
+      "translation": "此刻正在做的這場夢",
       "analysis": [
         { "point": "지금", "explanation": "副詞，現在。" },
         { "point": "꾸고 있는", "explanation": "꾸다 (做夢) + -고 있다 (正在) 的定語形。" },
@@ -15,7 +15,7 @@
     },
     {
       "korean": "더 길어져갈수록",
-      "translation": "越變越長",
+      "translation": "越是延續下去",
       "analysis": [
         { "point": "더", "explanation": "副詞，更。" },
         { "point": "길어져갈수록", "explanation": "길어지다 (變長) + -아/어 가다 (漸進) + -(으)ㄹ수록 (越...越)。" }
@@ -23,7 +23,7 @@
     },
     {
       "korean": "깨고 나면 잊어야 할 게",
-      "translation": "醒來後要忘記的事",
+      "translation": "醒來之後必須遺忘的",
       "analysis": [
         { "point": "깨고 나면", "explanation": "깨다 (醒) + -고 나면 (做完...之後如果)。" },
         { "point": "잊어야 할 게", "explanation": "잊다 (忘記) + -아/어야 하다 (必須) 的未來定語形 + 것 (事情) + -이 (主格助詞) 的縮略。" }
@@ -31,7 +31,7 @@
     },
     {
       "korean": "더 많아야 하겠지",
-      "translation": "應該會更多吧",
+      "translation": "想必也會越來越多吧",
       "analysis": [
         { "point": "더", "explanation": "副詞，更。" },
         { "point": "많아야 하겠지", "explanation": "많다 (多) + -아/어야 하다 (必須) + -겠- (推測) + -지 (語尾)。" }
@@ -40,7 +40,7 @@
     {
       "sectionTitle": "Pre-Chorus",
       "korean": "마냥 행복이라 부르기엔",
-      "translation": "要一味地稱之為幸福",
+      "translation": "若單純將它稱作幸福",
       "analysis": [
         { "point": "마냥", "explanation": "副詞，一味地、總是。" },
         { "point": "행복이라 부르기엔", "explanation": "행복 (幸福) + -이라 (稱為) + 부르다 (叫) 的名詞形 + -엔 (對於...來說)。" }
@@ -48,7 +48,7 @@
     },
     {
       "korean": "두려움이 같이 자라나서",
-      "translation": "恐懼一起滋生",
+      "translation": "心中的不安卻也隨之滋長",
       "analysis": [
         { "point": "두려움이", "explanation": "두려움 (恐懼) + -이 (主格助詞)。" },
         { "point": "같이", "explanation": "副詞，一起。" },
@@ -57,7 +57,7 @@
     },
     {
       "korean": "뭉클했던 말을 또 적어보다",
-      "translation": "又試著寫下曾感動的話",
+      "translation": "於是又一次寫下那些令人心頭悸動的話",
       "analysis": [
         { "point": "뭉클했던", "explanation": "뭉클하다 (感動的、心酸的) 的過去回想着定語形。" },
         { "point": "말을", "explanation": "말 (話) + -을 (受格助詞)。" },
@@ -68,7 +68,7 @@
     {
       "sectionTitle": "Chorus",
       "korean": "혹 꿈이었었나 전부 내 착각이었나",
-      "translation": "難道是夢嗎 全都是我的錯覺嗎",
+      "translation": "該不會那是一場夢吧 一切都是我的錯覺嗎",
       "analysis": [
         { "point": "혹", "explanation": "副詞，或許、難道。" },
         { "point": "꿈이었었나", "explanation": "꿈 (夢) + -이었었- (過去回想) + -나 (疑問)。" },
@@ -78,7 +78,7 @@
     },
     {
       "korean": "구분조차 어려워지는 날들에 어지러워",
-      "translation": "在連區分都變得困難的日子裡 暈眩",
+      "translation": "在連夢與現實都難以分辨的日子裡 我陷入一片恍惚",
       "analysis": [
         { "point": "구분조차", "explanation": "구분 (區分) + -조차 (連...也)。" },
         { "point": "어려워지는", "explanation": "어렵다 (困難的) + -아/어 지다 (變得) 的現在定語形。" },
@@ -88,7 +88,7 @@
     },
     {
       "korean": "중심을 잃고 휘청여도",
-      "translation": "即使失去重心搖晃",
+      "translation": "即使失去重心 踉蹌不穩",
       "analysis": [
         { "point": "중심을", "explanation": "중심 (中心、重心) + -을 (受格助詞)。" },
         { "point": "잃고", "explanation": "잃다 (失去) + -고 (連接詞尾)。" },
@@ -97,7 +97,7 @@
     },
     {
       "korean": "이 기분마저 잊고 싶지가 않은 난데 fallin'",
-      "translation": "連這感覺都不想忘記的我 墜落",
+      "translation": "我卻連這份感覺都不想忘記 fallin'",
       "analysis": [
         { "point": "이 기분마저", "explanation": "이 (這) + 기분 (感覺) + -마저 (連...也)。" },
         { "point": "잊고 싶지가 않은", "explanation": "잊다 (忘記) + -고 싶다 (想要) + -지 않다 (不) + -가 (強調) + -ㄴ (定語形)。" },
@@ -108,7 +108,7 @@
     {
       "sectionTitle": "Chorus",
       "korean": "만약 이 세계에서 깨어난대도",
-      "translation": "即使說從這個世界醒來",
+      "translation": "如果有一天從這個世界醒來",
       "analysis": [
         { "point": "만약", "explanation": "副詞，如果。" },
         { "point": "이 세계에서", "explanation": "이 (這) + 세계 (世界) + -에서 (從)。" },
@@ -117,7 +117,7 @@
     },
     {
       "korean": "잊지는 않을 거지?",
-      "translation": "不會忘記的吧？",
+      "translation": "也不會忘記吧",
       "analysis": [
         { "point": "잊지는", "explanation": "잊다 (忘記) + -지 (強調) + -는 (主題助詞)。" },
         { "point": "않을 거지", "explanation": "않다 (不) + -(으)ㄹ 것 (將來) + -지 (疑問語尾)。" }
@@ -125,7 +125,7 @@
     },
     {
       "korean": "발 맞춰보던 춤",
-      "translation": "曾試著合拍的舞",
+      "translation": "曾和著彼此的步伐起舞",
       "analysis": [
         { "point": "발 맞춰보던", "explanation": "발 (腳) + 맞추다 (使一致) + -아/어 보다 (嘗試) 的過去回想着定語形。" },
         { "point": "춤", "explanation": "名詞，舞蹈。" }
@@ -133,7 +133,7 @@
     },
     {
       "korean": "이내 껴안았던 품",
-      "translation": "隨即擁抱過的懷抱",
+      "translation": "也曾緊緊擁抱過彼此",
       "analysis": [
         { "point": "이내", "explanation": "副詞，隨即、立刻。" },
         { "point": "껴안았던", "explanation": "껴안다 (擁抱) 的過去回想着定語形。" },
@@ -142,7 +142,7 @@
     },
     {
       "korean": "모든 게 부서지고 흩날려도",
-      "translation": "即使一切破碎飄散",
+      "translation": "就算一切終將破碎隨風飄散",
       "analysis": [
         { "point": "모든 게", "explanation": "모든 것 (所有事物) + -이 (主格助詞) 的縮略。" },
         { "point": "부서지고", "explanation": "부서지다 (破碎) + -고 (連接詞尾)。" },
@@ -151,7 +151,7 @@
     },
     {
       "korean": "이 바람을 타고 날아",
-      "translation": "乘著這陣風飛翔",
+      "translation": "也乘著這陣風飛翔",
       "analysis": [
         { "point": "이 바람을", "explanation": "이 (這) + 바람 (風) + -을 (受格助詞)。" },
         { "point": "타고", "explanation": "타다 (乘) + -고 (連接詞尾)。" },
@@ -160,7 +160,7 @@
     },
     {
       "korean": "두 손을 놓치고",
-      "translation": "放開雙手",
+      "translation": "即使最終鬆開雙手",
       "analysis": [
         { "point": "두 손을", "explanation": "두 (二) + 손 (手) + -을 (受格助詞)。" },
         { "point": "놓치고", "explanation": "놓치다 (錯過、放開) + -고 (連接詞尾)。" }
@@ -168,7 +168,7 @@
     },
     {
       "korean": "멀어져도 서롤 잊지 않도록",
-      "translation": "即使變遠 為了彼此不忘記",
+      "translation": "即使彼此越走越遠 也不要忘記對方",
       "analysis": [
         { "point": "멀어져도", "explanation": "멀어지다 (變遠) + -아/어도 (即使)。" },
         { "point": "서롤", "explanation": "서로를 (彼此) 的縮略。" },
@@ -178,7 +178,7 @@
     {
       "sectionTitle": "Verse 2",
       "korean": "가끔 내가 그리워할 틈을 주면",
-      "translation": "如果偶爾給我思念的空隙",
+      "translation": "如果偶爾給我一點想念你的空隙",
       "analysis": [
         { "point": "가끔", "explanation": "副詞，偶爾。" },
         { "point": "내가", "explanation": "我 + -가 (主格助詞)。" },
@@ -189,7 +189,7 @@
     },
     {
       "korean": "그 틈 사이로 많이 떠올려줘",
-      "translation": "在那空隙之間 多多想起我",
+      "translation": "就請在那道縫隙裡 多多想起我",
       "analysis": [
         { "point": "그 틈 사이로", "explanation": "그 (那) + 틈 (空隙) + 사이 (之間) + -(으)로 (通過)。" },
         { "point": "많이", "explanation": "副詞，多地。" },
@@ -198,7 +198,7 @@
     },
     {
       "korean": "빛바래가는 기억보다 더",
-      "translation": "比漸漸褪色的記憶更",
+      "translation": "因為比起逐漸褪色的記憶",
       "analysis": [
         { "point": "빛바래가는", "explanation": "빛바래다 (褪色) + -아/어 가다 (漸進) 的現在定語形。" },
         { "point": "기억보다", "explanation": "기억 (記憶) + -보다 (比起)。" },
@@ -207,7 +207,7 @@
     },
     {
       "korean": "슬픈 건 없으니",
-      "translation": "沒有更悲傷的事了",
+      "translation": "沒有什麼更令人悲傷",
       "analysis": [
         { "point": "슬픈 건", "explanation": "슬프다 (悲傷的) 的定語形 + 것 (事情) + -이 (主格助詞) 的縮略。" },
         { "point": "없으니", "explanation": "없다 (沒有) + -(으)니 (因為)。" }
@@ -216,7 +216,7 @@
     {
       "sectionTitle": "Chorus",
       "korean": "꿈이었대도 전부 내 착각이어도",
-      "translation": "即使說是夢 即使全都是我的錯覺",
+      "translation": "即使那是一場夢 即使一切都是我的錯覺",
       "analysis": [
         { "point": "꿈이었대도", "explanation": "꿈 (夢) + -이었- (過去) + -대도 (即使說...也)。" },
         { "point": "전부", "explanation": "副詞，全部。" },
@@ -225,7 +225,7 @@
     },
     {
       "korean": "고여본 적 없는 기쁨의 눈물이 차올라",
-      "translation": "未曾積聚過的喜悅的眼淚湧上",
+      "translation": "從未停留過的喜悅化作淚水湧上眼眶",
       "analysis": [
         { "point": "고여본 적 없는", "explanation": "고이다 (積聚) + -아/어 보다 (嘗試) + -ㄴ 적 없다 (未曾有過) 的定語形。" },
         { "point": "기쁨의 눈물이", "explanation": "기쁨 (喜悅) + -의 (的) + 눈물 (眼淚) + -이 (主格助詞)。" },
@@ -234,7 +234,7 @@
     },
     {
       "korean": "중심을 잃고 휘청여도",
-      "translation": "即使失去重心搖晃",
+      "translation": "即使失去重心 踉蹌不穩",
       "analysis": [
         { "point": "중심을", "explanation": "중심 (中心、重心) + -을 (受格助詞)。" },
         { "point": "잃고", "explanation": "잃다 (失去) + -고 (連接詞尾)。" },
@@ -243,7 +243,7 @@
     },
     {
       "korean": "이 기분마저 잊고 싶지가 않은 난데 fallin'",
-      "translation": "連這感覺都不想忘記的我 墜落",
+      "translation": "我卻連這份感覺都不想忘記 fallin'",
       "analysis": [
         { "point": "이 기분마저", "explanation": "이 (這) + 기분 (感覺) + -마저 (連...也)。" },
         { "point": "잊고 싶지가 않은", "explanation": "잊다 (忘記) + -고 싶다 (想要) + -지 않다 (不) + -가 (強調) + -ㄴ (定語形)。" },
@@ -254,7 +254,7 @@
     {
       "sectionTitle": "Chorus",
       "korean": "만약 이 세계에서 깨어난대도",
-      "translation": "即使說從這個世界醒來",
+      "translation": "如果有一天從這個世界醒來",
       "analysis": [
         { "point": "만약", "explanation": "副詞，如果。" },
         { "point": "이 세계에서", "explanation": "이 (這) + 세계 (世界) + -에서 (從)。" },
@@ -263,7 +263,7 @@
     },
     {
       "korean": "잊지는 않을 거지?",
-      "translation": "不會忘記的吧？",
+      "translation": "也不會忘記吧",
       "analysis": [
         { "point": "잊지는", "explanation": "잊다 (忘記) + -지 (強調) + -는 (主題助詞)。" },
         { "point": "않을 거지", "explanation": "않다 (不) + -(으)ㄹ 것 (將來) + -지 (疑問語尾)。" }
@@ -271,7 +271,7 @@
     },
     {
       "korean": "발 맞춰보던 춤",
-      "translation": "曾試著合拍的舞",
+      "translation": "曾和著彼此的步伐起舞",
       "analysis": [
         { "point": "발 맞춰보던", "explanation": "발 (腳) + 맞추다 (使一致) + -아/어 보다 (嘗試) 的過去回想着定語形。" },
         { "point": "춤", "explanation": "名詞，舞蹈。" }
@@ -279,7 +279,7 @@
     },
     {
       "korean": "이내 껴안았던 품",
-      "translation": "隨即擁抱過的懷抱",
+      "translation": "也曾緊緊擁抱過彼此",
       "analysis": [
         { "point": "이내", "explanation": "副詞，隨即、立刻。" },
         { "point": "껴안았던", "explanation": "껴안다 (擁抱) 的過去回想着定語形。" },
@@ -288,7 +288,7 @@
     },
     {
       "korean": "모든 게 부서지고 흩날려도",
-      "translation": "即使一切破碎飄散",
+      "translation": "就算一切終將破碎隨風飄散",
       "analysis": [
         { "point": "모든 게", "explanation": "모든 것 (所有事物) + -이 (主格助詞) 的縮略。" },
         { "point": "부서지고", "explanation": "부서지다 (破碎) + -고 (連接詞尾)。" },
@@ -297,7 +297,7 @@
     },
     {
       "korean": "이 바람을 타고 날아",
-      "translation": "乘著這陣風飛翔",
+      "translation": "也乘著這陣風飛翔",
       "analysis": [
         { "point": "이 바람을", "explanation": "이 (這) + 바람 (風) + -을 (受格助詞)。" },
         { "point": "타고", "explanation": "타다 (乘) + -고 (連接詞尾)。" },
@@ -306,7 +306,7 @@
     },
     {
       "korean": "두 손을 놓치고",
-      "translation": "放開雙手",
+      "translation": "即使最終鬆開雙手",
       "analysis": [
         { "point": "두 손을", "explanation": "두 (二) + 손 (手) + -을 (受格助詞)。" },
         { "point": "놓치고", "explanation": "놓치다 (錯過、放開) + -고 (連接詞尾)。" }
@@ -314,7 +314,7 @@
     },
     {
       "korean": "멀어져도 서롤 잊지 않도록",
-      "translation": "即使變遠 為了彼此不忘記",
+      "translation": "即使彼此越走越遠 也不要忘記對方",
       "analysis": [
         { "point": "멀어져도", "explanation": "멀어지다 (變遠) + -아/어도 (即使)。" },
         { "point": "서롤", "explanation": "서로를 (彼此) 的縮略。" },
@@ -324,7 +324,7 @@
     {
       "sectionTitle": "Bridge",
       "korean": "만약 이 세계가 다 사라진대도",
-      "translation": "即使說這個世界全都消失",
+      "translation": "就算有一天這個世界徹底消失",
       "analysis": [
         { "point": "만약", "explanation": "副詞，如果。" },
         { "point": "이 세계가", "explanation": "이 (這) + 세계 (世界) + -가 (主格助詞)。" },
@@ -334,7 +334,7 @@
     },
     {
       "korean": "가끔은 떠올려줘",
-      "translation": "偶爾想起我吧",
+      "translation": "也請偶爾想起它",
       "analysis": [
         { "point": "가끔은", "explanation": "가끔 (偶爾) + -은 (強調)。" },
         { "point": "떠올려줘", "explanation": "떠올리다 (想起) + -아/어 주다 (為我) 的請求形。" }
@@ -342,7 +342,7 @@
     },
     {
       "korean": "뜨거웠던 품",
-      "translation": "曾經熾熱的懷抱",
+      "translation": "想起那曾經熾熱的懷抱",
       "analysis": [
         { "point": "뜨거웠던", "explanation": "뜨겁다 (熾熱的) 的過去回想着定語形。" },
         { "point": "품", "explanation": "名詞，懷抱。" }
@@ -350,7 +350,7 @@
     },
     {
       "korean": "내게만 보인 눈물",
-      "translation": "只對我顯現的眼淚",
+      "translation": "想起那只讓我看見的眼淚",
       "analysis": [
         { "point": "내게만", "explanation": "내게 (向我) + -만 (只)。" },
         { "point": "보인", "explanation": "보이다 (被看見) 的過去定語形。" },
@@ -359,7 +359,7 @@
     },
     {
       "korean": "모든 게 부서지고 흩날려도",
-      "translation": "即使一切破碎飄散",
+      "translation": "就算一切終將破碎隨風飄散",
       "analysis": [
         { "point": "모든 게", "explanation": "모든 것 (所有事物) + -이 (主格助詞) 的縮略。" },
         { "point": "부서지고", "explanation": "부서지다 (破碎) + -고 (連接詞尾)。" },
@@ -368,7 +368,7 @@
     },
     {
       "korean": "이 바람을 타고 날아",
-      "translation": "乘著這陣風飛翔",
+      "translation": "也乘著這陣風飛翔",
       "analysis": [
         { "point": "이 바람을", "explanation": "이 (這) + 바람 (風) + -을 (受格助詞)。" },
         { "point": "타고", "explanation": "타다 (乘) + -고 (連接詞尾)。" },
@@ -377,7 +377,7 @@
     },
     {
       "korean": "두 손을 놓치고",
-      "translation": "放開雙手",
+      "translation": "即使最終鬆開雙手",
       "analysis": [
         { "point": "두 손을", "explanation": "두 (二) + 손 (手) + -을 (受格助詞)。" },
         { "point": "놓치고", "explanation": "놓치다 (錯過、放開) + -고 (連接詞尾)。" }
@@ -385,7 +385,7 @@
     },
     {
       "korean": "멀어져도 서롤 잊지 않도록",
-      "translation": "即使變遠 為了彼此不忘記",
+      "translation": "即使彼此越走越遠 也不要忘記對方",
       "analysis": [
         { "point": "멀어져도", "explanation": "멀어지다 (變遠) + -아/어도 (即使)。" },
         { "point": "서롤", "explanation": "서로를 (彼此) 的縮略。" },

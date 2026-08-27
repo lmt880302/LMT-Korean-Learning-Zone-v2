@@ -6,7 +6,7 @@
     {
       "sectionTitle": "Verse 1",
       "korean": "모든 게 어두워지는 밤이 와도",
-      "translation": "即使萬物俱寂的夜晚到來",
+      "translation": "即使黑夜籠罩一切",
       "analysis": [
         { "point": "모든 게", "explanation": "모든 것 (所有事物) + -이 (主格助詞) 的縮略。" },
         { "point": "어두워지는", "explanation": "어두워지다 (變暗) 的現在定語形。" },
@@ -15,7 +15,7 @@
     },
     {
       "korean": "니가 떠오를 때면",
-      "translation": "每當我想起你的時候",
+      "translation": "只要想起你",
       "analysis": [
         { "point": "니가", "explanation": "네가 (你) 的口語變體。" },
         { "point": "떠오를 때면", "explanation": "떠오르다 (浮現、想起) + -(으)ㄹ 때면 (每當...的時候)。" }
@@ -23,7 +23,7 @@
     },
     {
       "korean": "희미한 별에 빛이 다시금 켜지듯이",
-      "translation": "如同微弱的星光再次點亮",
+      "translation": "就像黯淡的星光再次被點亮",
       "analysis": [
         { "point": "희미한 별에", "explanation": "희미하다 (模糊的、微弱的) 的定語形 + 별 (星星) + -에 (場所助詞)。" },
         { "point": "빛이 다시금 켜지듯이", "explanation": "빛 (光) + -이 (主格助詞) + 다시금 (再次) + 켜지다 (被點亮) + -듯이 (好像...一樣)。" }
@@ -31,7 +31,7 @@
     },
     {
       "korean": "두려울 게 없던 나야",
-      "translation": "曾是無所畏懼的我啊",
+      "translation": "那時的我便無所畏懼",
       "analysis": [
         { "point": "두려울 게", "explanation": "두렵다 (可怕的) + -(으)ㄹ 것 (事情) + -이 (主格助詞) 的縮略。" },
         { "point": "없던 나야", "explanation": "없다 (沒有) 的過去定語形 + 나 (我) + -야 (陳述形終結語尾)。" }
@@ -40,7 +40,7 @@
     {
       "sectionTitle": "Pre-Chorus",
       "korean": "너무도 다른 우리가 서로의 말들에",
-      "translation": "如此不同的我們 在彼此的話語中",
+      "translation": "如此不同的我們 在彼此的話語間",
       "analysis": [
         { "point": "너무도 다른", "explanation": "너무 (非常) + -도 (強調) + 다르다 (不同的) 的定語形。" },
         { "point": "우리가", "explanation": "우리 (我們) + -가 (主格助詞)。" },
@@ -49,7 +49,7 @@
     },
     {
       "korean": "스며들어 가던 많은 날들이",
-      "translation": "逐漸滲入的許多日子",
+      "translation": "那些一點一點滲入彼此生命的日子",
       "analysis": [
         { "point": "스며들어 가던", "explanation": "스며들다 (滲入) + -아/어 가다 (漸進) 的過去回想着定語形。" },
         { "point": "많은 날들이", "explanation": "많다 (多的) 的定語形 + 날 (日子) + -들 (複數) + -이 (主格助詞)。" }
@@ -57,7 +57,7 @@
     },
     {
       "korean": "매일 맘속에 감겨와 사라질 수 없을 테니",
-      "translation": "每天在心中盤旋 因為無法消失",
+      "translation": "每日縈繞心頭 想必再也無法消失",
       "analysis": [
         { "point": "매일", "explanation": "副詞，每天。" },
         { "point": "맘속에", "explanation": "마음속 (心裡) 的縮略 + -에 (場所助詞)。" },
@@ -67,7 +67,7 @@
     },
     {
       "korean": "그런 아픈 말은 더 하지 말아 줘",
-      "translation": "那種傷人的話 請不要再說了",
+      "translation": "所以請別再說那些令人心痛的話",
       "analysis": [
         { "point": "그런 아픈 말은", "explanation": "그런 (那樣的) + 아프다 (痛的) 的定語形 + 말 (話) + -은 (主題助詞)。" },
         { "point": "더 하지 말아 줘", "explanation": "더 (更) + 하다 (做) + -지 말다 (不要) + -아/어 주다 (為我) 的請求形。" }
@@ -76,7 +76,7 @@
     {
       "sectionTitle": "Chorus",
       "korean": "When I look up at the sky 닿지 않는 곳에",
-      "translation": "當我仰望天空 在觸及不到的地方",
+      "translation": "When I look up at the sky 在那遙不可及之處",
       "analysis": [
         { "point": "When I look up at the sky", "explanation": "英文歌詞，無韓文文法解析。" },
         { "point": "닿지 않는 곳에", "explanation": "닿다 (觸及) + -지 않다 (不) 的定語形 + 곳 (地方) + -에 (場所助詞)。" }
@@ -84,7 +84,7 @@
     },
     {
       "korean": "구름 같은 말로 남겨둘게 널",
-      "translation": "會用如雲般的話語將你留下",
+      "translation": "我願以雲絮般的話語，將你輕輕收存",
       "analysis": [
         { "point": "구름 같은 말로", "explanation": "구름 (雲) + 같다 (像) 的定語形 + 말 (話) + -(으)로 (用)。" },
         { "point": "남겨둘게 널", "explanation": "남겨두다 (留下) + -(으)ㄹ게 (表示意志) + 너를 (你) 的縮略。" }
@@ -92,7 +92,7 @@
     },
     {
       "korean": "아마 어떤 것보다 더 반짝일 테니",
-      "translation": "因為也許會比任何東西都更閃耀",
+      "translation": "或許那光芒將勝過世間萬物",
       "analysis": [
         { "point": "아마", "explanation": "副詞，大概、也許。" },
         { "point": "어떤 것보다 더", "explanation": "어떤 (某個) + 것 (東西) + -보다 (比起) + 더 (更)。" },
@@ -101,7 +101,7 @@
     },
     {
       "korean": "이대로 머물러 그 맘을 내게 들려줘",
-      "translation": "就這樣停留 把你的心訴說給我聽",
+      "translation": "請就此停留，將那份心意傾訴於我",
       "analysis": [
         { "point": "이대로", "explanation": "副詞，就這樣。" },
         { "point": "머물러", "explanation": "머물다 (停留) 的非格式體。" },
@@ -112,7 +112,7 @@
     {
       "sectionTitle": "Verse 2",
       "korean": "어제 기억은 새로운 장면이 되고",
-      "translation": "昨天的記憶成為新的畫面",
+      "translation": "昨日的記憶化作全新的畫面",
       "analysis": [
         { "point": "어제 기억은", "explanation": "어제 (昨天) + 기억 (記憶) + -은 (主題助詞)。" },
         { "point": "새로운 장면이 되고", "explanation": "새롭다 (新的) 的定語形 + 장면 (場面) + -이 (主格助詞) + 되다 (成為) + -고 (連接詞尾)。" }
@@ -120,7 +120,7 @@
     },
     {
       "korean": "홀로 되감아 보다",
-      "translation": "獨自回放",
+      "translation": "獨自一次次倒帶回放",
       "analysis": [
         { "point": "홀로", "explanation": "副詞，獨自。" },
         { "point": "되감아 보다", "explanation": "되감다 (重新捲、回放) + -아/어 보다 (嘗試)。" }
@@ -128,7 +128,7 @@
     },
     {
       "korean": "어두운 그 얼굴에 미소가 번졌을 때",
-      "translation": "當微笑在陰暗的臉上蔓延時",
+      "translation": "當那張陰鬱的臉龐綻放笑容的瞬間",
       "analysis": [
         { "point": "어두운 그 얼굴에", "explanation": "어둡다 (暗的) 的定語形 + 그 (那) + 얼굴 (臉) + -에 (場所助詞)。" },
         { "point": "미소가 번졌을 때", "explanation": "미소 (微笑) + -가 (主格助詞) + 번지다 (蔓延、擴散) 的過去時定語形 + 때 (時候)。" }
@@ -136,7 +136,7 @@
     },
     {
       "korean": "그게 내 하늘인 거야",
-      "translation": "那就是我的天空",
+      "translation": "那便是我的天空",
       "analysis": [
         { "point": "그게", "explanation": "그것이 (那個) 的縮略。" },
         { "point": "내 하늘인 거야", "explanation": "내 (我的) + 하늘 (天空) + -인 (是) + 것 (事情) + -이야 (陳述形終結語尾)。" }
@@ -145,7 +145,7 @@
     {
       "sectionTitle": "Pre-Chorus",
       "korean": "다 전할 수가 없어서 겹겹이 쌓이는",
-      "translation": "因為無法全部傳達 層層堆積的",
+      "translation": "因為有些心意終究無法全部傳達 層層堆積的思念",
       "analysis": [
         { "point": "다 전할 수가 없어서", "explanation": "다 (全部) + 전하다 (傳達) + -(으)ㄹ 수 없다 (無法) + -아/어서 (因為)。" },
         { "point": "겹겹이 쌓이는", "explanation": "겹겹이 (層層地) + 쌓이다 (被堆積) 的現在定語形。" }
@@ -153,7 +153,7 @@
     },
     {
       "korean": "그리움을 베고 나는 잠들어",
-      "translation": "枕著思念 我入睡",
+      "translation": "便枕著層層堆疊的思念入睡",
       "analysis": [
         { "point": "그리움을", "explanation": "그리움 (思念) + -을 (受格助詞)。" },
         { "point": "베고", "explanation": "베다 (枕) + -고 (連接詞尾)。" },
@@ -162,7 +162,7 @@
     },
     {
       "korean": "그렇게 내게 감겨와, 모든 눈물은 다 안을 테니",
-      "translation": "就這樣向我盤旋而來 因為我會擁抱所有眼淚",
+      "translation": "就這樣一點一點纏繞著我 所有的眼淚都會擁抱",
       "analysis": [
         { "point": "그렇게", "explanation": "副詞，那樣地。" },
         { "point": "내게 감겨와", "explanation": "내게 (向我) + 감기다 (被捲) + -아/어 오다 (持續)。" },
@@ -172,7 +172,7 @@
     },
     {
       "korean": "이어지는 마음을 놓지 말아 줘",
-      "translation": "請不要放開這延續的心",
+      "translation": "所以請不要放開這份仍彼此相連的心意",
       "analysis": [
         { "point": "이어지는 마음을", "explanation": "이어지다 (延續、連接) 的現在定語形 + 마음 (心) + -을 (受格助詞)。" },
         { "point": "놓지 말아 줘", "explanation": "놓다 (放開) + -지 말다 (不要) + -아/어 주다 (為我) 的請求形。" }
@@ -181,7 +181,7 @@
     {
       "sectionTitle": "Chorus",
       "korean": "When I look up at the sky 닿지 않는 곳에",
-      "translation": "當我仰望天空 在觸及不到的地方",
+      "translation": "When I look up at the sky 在那遙不可及之處",
       "analysis": [
         { "point": "When I look up at the sky", "explanation": "英文歌詞，無韓文文法解析。" },
         { "point": "닿지 않는 곳에", "explanation": "닿다 (觸及) + -지 않다 (不) 的定語形 + 곳 (地方) + -에 (場所助詞)。" }
@@ -189,7 +189,7 @@
     },
     {
       "korean": "구름 같은 말로 남겨둘게 널",
-      "translation": "會用如雲般的話語將你留下",
+      "translation": "我願以雲絮般的話語，將你輕輕收存",
       "analysis": [
         { "point": "구름 같은 말로", "explanation": "구름 (雲) + 같다 (像) 的定語形 + 말 (話) + -(으)로 (用)。" },
         { "point": "남겨둘게 널", "explanation": "남겨두다 (留下) + -(으)ㄹ게 (表示意志) + 너를 (你) 的縮略。" }
@@ -197,7 +197,7 @@
     },
     {
       "korean": "아마 어떤 것보다 더 반짝일 테니",
-      "translation": "因為也許會比任何東西都更閃耀",
+      "translation": "或許那光芒將勝過世間萬物",
       "analysis": [
         { "point": "아마", "explanation": "副詞，大概、也許。" },
         { "point": "어떤 것보다 더", "explanation": "어떤 (某個) + 것 (東西) + -보다 (比起) + 더 (更)。" },
@@ -206,7 +206,7 @@
     },
     {
       "korean": "이대로 머물러 그 맘을 내게 들려줘",
-      "translation": "就這樣停留 把你的心訴說給我聽",
+      "translation": "請就此停留，將那份心意傾訴於我",
       "analysis": [
         { "point": "이대로", "explanation": "副詞，就這樣。" },
         { "point": "머물러", "explanation": "머물다 (停留) 的非格式體。" },

@@ -6,7 +6,7 @@
     {
       "sectionTitle": "Verse 1",
       "korean": "어느 날 넌 내게 나타나",
-      "translation": "某一天你出現在我面前",
+      "translation": "某一天 你突然出現在我的世界",
       "analysis": [
         { "point": "어느 날", "explanation": "어느 (某個) + 날 (日子)，意為「某一天」。" },
         { "point": "넌", "explanation": "너는 (你) 的縮略。" },
@@ -16,7 +16,7 @@
     },
     {
       "korean": "까만 두 눈으로 하루를 흔들고",
-      "translation": "用黑色的雙眼動搖了整天",
+      "translation": "用那雙深邃的眼眸 撼動了我的日常",
       "analysis": [
         { "point": "까만", "explanation": "까맣다 (漆黑的) 的定語形。" },
         { "point": "두 눈으로", "explanation": "두 (二) + 눈 (眼睛) + -(으)로 (用)。" },
@@ -26,7 +26,7 @@
     },
     {
       "korean": "너와 나 사이의 투명한",
-      "translation": "你和我之間的透明的",
+      "translation": "你我之間那道透明的",
       "analysis": [
         { "point": "너와 나 사이의", "explanation": "너 (你) + -와 (和) + 나 (我) + 사이 (之間) + -의 (的)。" },
         { "point": "투명한", "explanation": "투명하다 (透明的) 的定語形。" }
@@ -34,7 +34,7 @@
     },
     {
       "korean": "그 벽을 뚫고서 두 손을 건넸다",
-      "translation": "穿透那面牆 伸出了雙手",
+      "translation": "穿透橫亙在你我之間的透明牆壁 向我伸出了雙手",
       "analysis": [
         { "point": "그 벽을", "explanation": "그 (那) + 벽 (牆) + -을 (受格助詞)。" },
         { "point": "뚫고서", "explanation": "뚫다 (穿透) + -고서 (連接詞尾)。" },
@@ -45,7 +45,7 @@
     {
       "sectionTitle": "Pre-Chorus",
       "korean": "예고 없이 펼쳐진 scenery",
-      "translation": "毫無預告地展開的風景",
+      "translation": "毫無預兆展開的 scenery",
       "analysis": [
         { "point": "예고 없이", "explanation": "예고 (預告) + 없이 (沒有)，意為「毫無預告地」。" },
         { "point": "펼쳐진", "explanation": "펼쳐지다 (被展開) 的過去定語形。" },
@@ -54,7 +54,7 @@
     },
     {
       "korean": "널 배경으로 그려가 이 story",
-      "translation": "以你為背景描繪著的這個故事",
+      "translation": "以你為背景 描繪著這段 story",
       "analysis": [
         { "point": "널", "explanation": "너를 (你) 的縮略。" },
         { "point": "배경으로", "explanation": "배경 (背景) + -(으)로 (作為)。" },
@@ -64,7 +64,7 @@
     },
     {
       "korean": "다음으로 넘어가기 전에",
-      "translation": "在進入下一頁之前",
+      "translation": "在翻到下一頁之前",
       "analysis": [
         { "point": "다음으로", "explanation": "다음 (下一個) + -(으)로 (向)。" },
         { "point": "넘어가기", "explanation": "넘어가다 (越過、進入) 的名詞形。" },
@@ -73,7 +73,7 @@
     },
     {
       "korean": "전부 눈에 담아갈래",
-      "translation": "想把全部收在眼裡帶走",
+      "translation": "想把這一切都收藏在眼底",
       "analysis": [
         { "point": "전부", "explanation": "副詞，全部。" },
         { "point": "눈에 담아갈래", "explanation": "눈 (眼睛) + -에 (場所) + 담다 (裝) + -아/어 가다 (帶走) + -(으)ㄹ래 (表示意志)。" }
@@ -82,7 +82,7 @@
     {
       "sectionTitle": "Chorus",
       "korean": "어느새 끝나버린 이야기",
-      "translation": "不知不覺間已經結束的故事",
+      "translation": "不知不覺間 故事已經走到了結尾",
       "analysis": [
         { "point": "어느새", "explanation": "副詞，不知不覺間。" },
         { "point": "끝나버린", "explanation": "끝나다 (結束) + -아/어 버리다 (完了) 的過去定語形。" },
@@ -91,7 +91,7 @@
     },
     {
       "korean": "미뤄둔 엔딩이 다가오네",
-      "translation": "推遲的結局靠近了",
+      "translation": "那個一再推遲的結局也終於靠近",
       "analysis": [
         { "point": "미뤄둔", "explanation": "미루다 (推遲) + -아/어 두다 (保持狀態) 的過去定語形。" },
         { "point": "엔딩이", "explanation": "엔딩 (結局) + -이 (主格助詞)。" },
@@ -100,7 +100,7 @@
     },
     {
       "korean": "잡을 수도 없는 꿈이지",
-      "translation": "是連抓住都無法抓住的夢啊",
+      "translation": "這是一場連伸手都無法抓住的夢",
       "analysis": [
         { "point": "잡을 수도 없는", "explanation": "잡다 (抓住) + -(으)ㄹ 수 (方法) + -도 (也) + 없다 (沒有) 的定語形。" },
         { "point": "꿈이지", "explanation": "꿈 (夢) + -이지 (陳述形語尾)。" }
@@ -108,7 +108,7 @@
     },
     {
       "korean": "날 부르던 너는 이제 없네",
-      "translation": "曾呼喚我的你現在不在了",
+      "translation": "那個曾呼喚我的你 如今已經不在了",
       "analysis": [
         { "point": "날", "explanation": "나를 (我) 的縮略。" },
         { "point": "부르던", "explanation": "부르다 (叫、呼喚) 的過去回想着定語形。" },
@@ -129,7 +129,7 @@
     },
     {
       "korean": "순간이란 재가 되어도",
-      "translation": "即使成為名為瞬間的灰燼",
+      "translation": "即使在一瞬間化作灰燼",
       "analysis": [
         { "point": "순간이란", "explanation": "순간 (瞬間) + -이란 (稱為...的)。" },
         { "point": "재가", "explanation": "재 (灰) + -가 (主格助詞)。" },
@@ -138,7 +138,7 @@
     },
     {
       "korean": "너와 나 사이의 투명한",
-      "translation": "你和我之間的透明的",
+      "translation": "你我之間那道透明的",
       "analysis": [
         { "point": "너와 나 사이의", "explanation": "너 (你) + -와 (和) + 나 (我) + 사이 (之間) + -의 (的)。" },
         { "point": "투명한", "explanation": "투명하다 (透明的) 的定語形。" }
@@ -146,7 +146,7 @@
     },
     {
       "korean": "온기가 남아서 살아가게 했다",
-      "translation": "溫暖留存下來 讓我能夠活下去",
+      "translation": "牆上仍殘留著溫度 讓我得以繼續活下去",
       "analysis": [
         { "point": "온기가", "explanation": "온기 (溫暖) + -가 (主格助詞)。" },
         { "point": "남아서", "explanation": "남다 (剩下) + -아/어서 (因為)。" },
@@ -156,7 +156,7 @@
     {
       "sectionTitle": "Bridge",
       "korean": "허무함을 담고서 외친 내 목소리가",
-      "translation": "蘊含著虛無吶喊的我的聲音",
+      "translation": "懷抱著這份虛無 曾喊出的聲音",
       "analysis": [
         { "point": "허무함을", "explanation": "허무함 (虛無) + -을 (受格助詞)。" },
         { "point": "담고서", "explanation": "담다 (裝) + -고서 (連接詞尾)。" },
@@ -166,7 +166,7 @@
     },
     {
       "korean": "너에게 닿지 않았음 해",
-      "translation": "希望沒有傳達到你那裡",
+      "translation": "只希望不要傳到你耳中",
       "analysis": [
         { "point": "너에게", "explanation": "너 (你) + -에게 (向)。" },
         { "point": "닿지 않았음 해", "explanation": "닿다 (觸及) + -지 않다 (不) 的過去名詞形 + 하다 (希望) 的非格式體。" }
@@ -174,7 +174,7 @@
     },
     {
       "korean": "찰나였었던 사고 같은 사건",
-      "translation": "曾是一瞬間的像事故般的事件",
+      "translation": "那場如意外般僅存在於剎那的事件",
       "analysis": [
         { "point": "찰나였었던", "explanation": "찰나 (瞬間) + -였었- (過去回想) + -던 (定語形)。" },
         { "point": "사고 같은", "explanation": "사고 (事故) + 같다 (像) 的定語形。" },
@@ -183,7 +183,7 @@
     },
     {
       "korean": "전부 눈에 담아갈래",
-      "translation": "想把全部收在眼裡帶走",
+      "translation": "想把這一切都收藏在眼底",
       "analysis": [
         { "point": "전부", "explanation": "副詞，全部。" },
         { "point": "눈에 담아갈래", "explanation": "눈 (眼睛) + -에 (場所) + 담다 (裝) + -아/어 가다 (帶走) + -(으)ㄹ래 (表示意志)。" }
@@ -192,7 +192,7 @@
     {
       "sectionTitle": "Chorus",
       "korean": "어느새 끝나버린 이야기",
-      "translation": "不知不覺間已經結束的故事",
+      "translation": "不知不覺間 故事已經走到了結尾",
       "analysis": [
         { "point": "어느새", "explanation": "副詞，不知不覺間。" },
         { "point": "끝나버린", "explanation": "끝나다 (結束) + -아/어 버리다 (完了) 的過去定語形。" },
@@ -201,7 +201,7 @@
     },
     {
       "korean": "미뤄둔 엔딩이 다가오네",
-      "translation": "推遲的結局靠近了",
+      "translation": "那個一再推遲的結局也終於靠近",
       "analysis": [
         { "point": "미뤄둔", "explanation": "미루다 (推遲) + -아/어 두다 (保持狀態) 的過去定語形。" },
         { "point": "엔딩이", "explanation": "엔딩 (結局) + -이 (主格助詞)。" },
@@ -210,7 +210,7 @@
     },
     {
       "korean": "잡을 수도 없는 꿈이지",
-      "translation": "是連抓住都無法抓住的夢啊",
+      "translation": "這是一場連伸手都無法抓住的夢",
       "analysis": [
         { "point": "잡을 수도 없는", "explanation": "잡다 (抓住) + -(으)ㄹ 수 (方法) + -도 (也) + 없다 (沒有) 的定語形。" },
         { "point": "꿈이지", "explanation": "꿈 (夢) + -이지 (陳述形語尾)。" }
@@ -218,7 +218,7 @@
     },
     {
       "korean": "날 부르던 너는 이제 없네",
-      "translation": "曾呼喚我的你現在不在了",
+      "translation": "那個曾呼喚我的你 如今已經不在了",
       "analysis": [
         { "point": "날", "explanation": "나를 (我) 的縮略。" },
         { "point": "부르던", "explanation": "부르다 (叫、呼喚) 的過去回想着定語形。" },
@@ -230,7 +230,7 @@
     {
       "sectionTitle": "Bridge 2",
       "korean": "아주 잠시 스치듯",
-      "translation": "就像短暫掠過般",
+      "translation": "只是短暫地與我擦肩而過",
       "analysis": [
         { "point": "아주", "explanation": "副詞，非常。" },
         { "point": "잠시", "explanation": "副詞，暫時、短暫。" },
@@ -239,7 +239,7 @@
     },
     {
       "korean": "내게 다가온 깊은 세상이라",
-      "translation": "是向我靠近的深邃世界",
+      "translation": "卻讓我走進了一個如此深邃的世界",
       "analysis": [
         { "point": "내게", "explanation": "나에게 (向我) 的縮略。" },
         { "point": "다가온", "explanation": "다가오다 (靠近) 的過去定語形。" },
@@ -249,7 +249,7 @@
     },
     {
       "korean": "그 장면 속 담긴 너와 내가",
-      "translation": "收在那個場面中的你和我",
+      "translation": "願那個畫面裡所承載的你和我",
       "analysis": [
         { "point": "그 장면 속", "explanation": "그 (那) + 장면 (場面) + 속 (裡面)。" },
         { "point": "담긴", "explanation": "담기다 (被裝入) 的過去定語形。" },
@@ -258,7 +258,7 @@
     },
     {
       "korean": "바래지 않기를",
-      "translation": "希望不要褪色",
+      "translation": "永遠不要褪色",
       "analysis": [
         { "point": "바래지", "explanation": "바래지다 (褪色) 的非格式體。" },
         { "point": "않기를", "explanation": "않다 (不) + -기를 (希望)。" }
@@ -267,7 +267,7 @@
     {
       "sectionTitle": "Chorus",
       "korean": "어느새 끝나버린 이야기",
-      "translation": "不知不覺間已經結束的故事",
+      "translation": "不知不覺間 故事已經走到了結尾",
       "analysis": [
         { "point": "어느새", "explanation": "副詞，不知不覺間。" },
         { "point": "끝나버린", "explanation": "끝나다 (結束) + -아/어 버리다 (完了) 的過去定語形。" },
@@ -276,7 +276,7 @@
     },
     {
       "korean": "미뤄둔 엔딩이 다가오네",
-      "translation": "推遲的結局靠近了",
+      "translation": "那個一再推遲的結局也終於靠近",
       "analysis": [
         { "point": "미뤄둔", "explanation": "미루다 (推遲) + -아/어 두다 (保持狀態) 的過去定語形。" },
         { "point": "엔딩이", "explanation": "엔딩 (結局) + -이 (主格助詞)。" },
@@ -285,7 +285,7 @@
     },
     {
       "korean": "잡을 수도 없는 꿈이지",
-      "translation": "是連抓住都無法抓住的夢啊",
+      "translation": "這是一場連伸手都無法抓住的夢",
       "analysis": [
         { "point": "잡을 수도 없는", "explanation": "잡다 (抓住) + -(으)ㄹ 수 (方法) + -도 (也) + 없다 (沒有) 的定語形。" },
         { "point": "꿈이지", "explanation": "꿈 (夢) + -이지 (陳述形語尾)。" }
@@ -293,7 +293,7 @@
     },
     {
       "korean": "날 부르던 너는 이제 없네",
-      "translation": "曾呼喚我的你現在不在了",
+      "translation": "那個曾呼喚我的你 如今已經不在了",
       "analysis": [
         { "point": "날", "explanation": "나를 (我) 的縮略。" },
         { "point": "부르던", "explanation": "부르다 (叫、呼喚) 的過去回想着定語形。" },
@@ -305,7 +305,7 @@
     {
       "sectionTitle": "Outro",
       "korean": "어젯밤 넌 꿈에 나타나",
-      "translation": "昨晚你出現在夢中",
+      "translation": "昨夜你出現在我的夢裡",
       "analysis": [
         { "point": "어젯밤", "explanation": "昨晚。" },
         { "point": "넌", "explanation": "너는 (你) 的縮略。" },
@@ -315,7 +315,7 @@
     },
     {
       "korean": "까만 두 눈으로 그 말을 건네고",
-      "translation": "用黑色的雙眼傳遞那句話",
+      "translation": "用那雙深邃的眼眸 向我傳達了那句話",
       "analysis": [
         { "point": "까만", "explanation": "까맣다 (漆黑的) 的定語形。" },
         { "point": "두 눈으로", "explanation": "두 (二) + 눈 (眼睛) + -(으)로 (用)。" },
@@ -325,7 +325,7 @@
     },
     {
       "korean": "너와 나 사이의 투명한",
-      "translation": "你和我之間的透明的",
+      "translation": "你我之間那道透明的",
       "analysis": [
         { "point": "너와 나 사이의", "explanation": "너 (你) + -와 (和) + 나 (我) + 사이 (之間) + -의 (的)。" },
         { "point": "투명한", "explanation": "투명하다 (透明的) 的定語形。" }
@@ -333,7 +333,7 @@
     },
     {
       "korean": "그 벽을 넘어서 날 품에 안았다",
-      "translation": "越過那面牆 將我擁入懷中",
+      "translation": "透明牆壁被你越過 將我擁入懷中",
       "analysis": [
         { "point": "그 벽을", "explanation": "그 (那) + 벽 (牆) + -을 (受格助詞)。" },
         { "point": "넘어서", "explanation": "넘다 (越過) + -아/어서 (然後)。" },

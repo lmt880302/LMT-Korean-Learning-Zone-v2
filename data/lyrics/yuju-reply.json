@@ -6,7 +6,7 @@
     {
       "sectionTitle": "Verse 1",
       "korean": "안녕이라는 짧은 한마디에",
-      "translation": "在「再見」這短短的一句話中",
+      "translation": "一句短短的「你好」",
       "analysis": [
         { "point": "안녕이라는", "explanation": "안녕 (你好) + 이라는 (助詞，表示稱呼、名為...的)。" },
         { "point": "짧은 한마디에", "explanation": "짧다 (短的) 的定語形 + 한마디 (一句話) + -에 (場所/原因助詞，在...中/因為...)。" }
@@ -14,7 +14,7 @@
     },
     {
       "korean": "모든 게 멈춘 듯해",
-      "translation": "彷彿一切都停止了",
+      "translation": "彷彿一切都靜止了",
       "analysis": [
         { "point": "모든 게", "explanation": "모든 것 (所有事物) + -이 (主格助詞) 的縮略。" },
         { "point": "멈춘 듯해", "explanation": "멈추다 (停止) 的過去定語形 + -듯하다 (慣用型，好像...似的)。" }
@@ -22,7 +22,7 @@
     },
     {
       "korean": "못다 한 말들을 한가득 머금고서",
-      "translation": "滿懷著沒能說完的話",
+      "translation": "懷抱著滿滿那些沒能說出口的話",
       "analysis": [
         { "point": "못다 한 말들을", "explanation": "못 다 하다 (未能全部做完) 的縮略 + 말 (話) + -들을 (受格助詞複數)。" },
         { "point": "한가득 머금고서", "explanation": "한가득 (滿滿地) + 머금다 (含著、懷著) + -고서 (連接詞尾，表示先後順序)。" }
@@ -30,7 +30,7 @@
     },
     {
       "korean": "툭 치면 곧 터질 듯한",
-      "translation": "彷彿一碰就會馬上爆發的",
+      "translation": "那些只要輕輕一碰便會潰堤的",
       "analysis": [
         { "point": "툭 치면", "explanation": "툭 (擬聲詞，輕輕敲打的聲音) + 치다 (碰、打) + -(으)면 (如果)。" },
         { "point": "곧 터질 듯한", "explanation": "곧 (馬上) + 터지다 (爆炸、爆發) + -(으)ㄹ 듯하다 (好像要...) 的定語形。" }
@@ -38,7 +38,7 @@
     },
     {
       "korean": "모든 감정을 이제 와 여기 적네",
-      "translation": "現在才來這裡寫下所有感情",
+      "translation": "所有情緒直到如今才落筆於此",
       "analysis": [
         { "point": "모든 감정을", "explanation": "모든 (所有的) + 감정 (感情) + -을 (受格助詞)。" },
         { "point": "이제 와", "explanation": "이제 (現在) + 오다 (來) 的縮略，表示「事到如今才...」。特別用語。" },
@@ -48,7 +48,7 @@
     {
       "sectionTitle": "Verse 2",
       "korean": "수없이 쓰고 지운 날들은",
-      "translation": "無數次寫了又刪的日子們",
+      "translation": "那些無數次寫下又刪去的日子",
       "analysis": [
         { "point": "수없이", "explanation": "副詞，無數次地。" },
         { "point": "쓰고 지운 날들은", "explanation": "쓰다 (寫) + -고 (連接詞尾) + 지우다 (刪除) + -ㄴ (過去定語形) + 날 (日子) + -들은 (主題助詞複數)。" }
@@ -56,7 +56,7 @@
     },
     {
       "korean": "빼곡한 페이지가 될 테니",
-      "translation": "會成為密密麻麻的頁面",
+      "translation": "終將填滿一頁頁密密麻麻的篇章",
       "analysis": [
         { "point": "빼곡한 페이지가", "explanation": "빼곡하다 (密密麻麻的) 的定語形 + 페이지 (頁面) + -가 (主格助詞)。" },
         { "point": "될 테니", "explanation": "되다 (成為) + -(으)ㄹ 터이니 (慣用型，因為將會...的緣故)。" }
@@ -64,7 +64,7 @@
     },
     {
       "korean": "넘겨보다 우리 두 손이 스치면",
-      "translation": "如果翻閱時我們的雙手擦過",
+      "translation": "翻閱時若我們的指尖輕輕交錯",
       "analysis": [
         { "point": "넘겨보다", "explanation": "넘기다 (翻) + 보다 (看)，意為「翻閱」。" },
         { "point": "우리 두 손이", "explanation": "우리 (我們) + 두 (二) + 손 (手) + -이 (主格助詞)。" },
@@ -73,7 +73,7 @@
     },
     {
       "korean": "이 마음을 건네볼게",
-      "translation": "我會試著傳遞這份心意",
+      "translation": "便將這份心意交給你",
       "analysis": [
         { "point": "이 마음을", "explanation": "이 (這) + 마음 (心) + -을 (受格助詞)。" },
         { "point": "건네볼게", "explanation": "건네다 (傳遞) + -아/어 보다 (嘗試) + -(으)ㄹ게 (表示意志的語尾)。" }
@@ -82,7 +82,7 @@
     {
       "sectionTitle": "Chorus",
       "korean": "잊지 마 영원히",
-      "translation": "不要忘記 永遠地",
+      "translation": "請永遠不要忘記",
       "analysis": [
         { "point": "잊지 마", "explanation": "잊다 (忘記) + -지 말다 (不要做...)。" },
         { "point": "영원히", "explanation": "副詞，永遠地。" }
@@ -90,14 +90,14 @@
     },
     {
       "korean": "빛나던 두 눈이",
-      "translation": "曾經閃耀的雙眼",
+      "translation": "那雙曾經閃耀的眼睛",
       "analysis": [
         { "point": "빛나던 두 눈이", "explanation": "빛나다 (閃耀) 的過去回想着定語形 + 두 (二) + 눈 (眼睛) + -이 (主格助詞)。" }
       ]
     },
     {
       "korean": "속삭이던 소원들을 결국 넌 이룰 테니까",
-      "translation": "曾經低語的願望們 最終你一定會實現",
+      "translation": "曾悄悄訴說的那些願望 你最後一定都會實現",
       "analysis": [
         { "point": "속삭이던 소원들을", "explanation": "속삭이다 (低語) 的過去回想着定語形 + 소원 (願望) + -들을 (受格助詞複數)。" },
         { "point": "결국 넌 이룰 테니까", "explanation": "결국 (最終) + 너는 (你) 的縮略 + 이루다 (實現) + -(으)ㄹ 테니까 (因為將會...的緣故)。" }
@@ -105,14 +105,14 @@
     },
     {
       "korean": "못다 한 말들이",
-      "translation": "沒能說完的話們",
+      "translation": "那些沒能說完的話",
       "analysis": [
         { "point": "못다 한 말들이", "explanation": "못 다 하다 (未能全部做完) 的縮略 + 말 (話) + -들이 (主格助詞複數)。" }
       ]
     },
     {
       "korean": "남은 칸에 모여",
-      "translation": "聚集在剩下的格子裡",
+      "translation": "全都聚集在剩下的空白裡",
       "analysis": [
         { "point": "남은 칸에", "explanation": "남다 (剩下) 的定語形 + 칸 (格子、空格) + -에 (場所助詞)。" },
         { "point": "모여", "explanation": "모이다 (聚集) 的非格式體。" }
@@ -120,7 +120,7 @@
     },
     {
       "korean": "선명하게 네게 닿게 전해 본 내 마음이야",
-      "translation": "是清晰地傳達到你那邊的我嘗試傳遞的心意",
+      "translation": "這是我寫下的心意 只願清晰地傳達到你那裡",
       "analysis": [
         { "point": "선명하게", "explanation": "선명하다 (清晰的) + -게 (副詞形語尾)。" },
         { "point": "네게 닿게", "explanation": "너에게 (向你) 的縮略 + 닿다 (到達) + -게 (使得)。" },
@@ -131,7 +131,7 @@
     {
       "sectionTitle": "Verse 3",
       "korean": "어쩌면 이미 알고 있었지",
-      "translation": "或許早就已經知道了",
+      "translation": "也許早就已經知道了吧",
       "analysis": [
         { "point": "어쩌면", "explanation": "副詞，或許、可能。" },
         { "point": "이미 알고 있었지", "explanation": "이미 (已經) + 알다 (知道) + -고 있었- (過去進行) + -지 (陳述形語尾，表示感嘆或確認)。" }
@@ -139,7 +139,7 @@
     },
     {
       "korean": "더는 갈 수 없다고",
-      "translation": "說再也無法走下去",
+      "translation": "我們已經無法再繼續往前走",
       "analysis": [
         { "point": "더는", "explanation": "副詞，再也 (不)。" },
         { "point": "갈 수 없다고", "explanation": "가다 (去、走) + -(으)ㄹ 수 없다 (無法) + -고 (引用)。" }
@@ -147,7 +147,7 @@
     },
     {
       "korean": "정답이 없는 이 불안은 더 이상 행복이 될 수 없으니까",
-      "translation": "因為沒有正確答案的這份不安 再也無法成為幸福",
+      "translation": "因為這份沒有答案的不安 再也無法成為幸福",
       "analysis": [
         { "point": "정답이 없는", "explanation": "정답 (正確答案) + -이 (主格助詞) + 없다 (沒有) 的定語形。" },
         { "point": "이 불안은", "explanation": "이 (這) + 불안 (不安) + -은 (主題助詞)。" },
@@ -156,7 +156,7 @@
     },
     {
       "korean": "그래도 고마웠다고",
-      "translation": "即使如此 還是說聲感謝",
+      "translation": "即使如此 還是想說一聲謝謝",
       "analysis": [
         { "point": "그래도", "explanation": "副詞，即使如此、雖然那樣。" },
         { "point": "고마웠다고", "explanation": "고맙다 (感謝) 的過去形 + -다고 (引用)。" }
@@ -165,7 +165,7 @@
     {
       "sectionTitle": "Chorus",
       "korean": "잊지 마 영원히",
-      "translation": "不要忘記 永遠地",
+      "translation": "請永遠不要忘記",
       "analysis": [
         { "point": "잊지 마", "explanation": "잊다 (忘記) + -지 말다 (不要做...)。" },
         { "point": "영원히", "explanation": "副詞，永遠地。" }
@@ -173,7 +173,7 @@
     },
     {
       "korean": "빛나던 두 눈이 속삭이던 소원들을",
-      "translation": "曾經閃耀的雙眼 曾經低語的願望們",
+      "translation": "那雙曾經閃耀的眼睛 曾悄悄訴說的那些願望",
       "analysis": [
         { "point": "빛나던 두 눈이", "explanation": "빛나다 (閃耀) 的過去回想着定語形 + 두 (二) + 눈 (眼睛) + -이 (主格助詞)。" },
         { "point": "속삭이던 소원들을", "explanation": "속삭이다 (低語) 的過去回想着定語形 + 소원 (願望) + -들을 (受格助詞複數)。" }
@@ -181,21 +181,21 @@
     },
     {
       "korean": "결국 넌 이룰 테니까",
-      "translation": "最終你一定會實現",
+      "translation": "你最後一定都會實現",
       "analysis": [
         { "point": "결국 넌 이룰 테니까", "explanation": "결국 (最終) + 너는 (你) 的縮略 + 이루다 (實現) + -(으)ㄹ 테니까 (因為將會...的緣故)。" }
       ]
     },
     {
       "korean": "못다 한 말들이",
-      "translation": "沒能說完的話們",
+      "translation": "那些沒能說完的話",
       "analysis": [
         { "point": "못다 한 말들이", "explanation": "못 다 하다 (未能全部做完) 的縮略 + 말 (話) + -들이 (主格助詞複數)。" }
       ]
     },
     {
       "korean": "남은 칸에 모여",
-      "translation": "聚集在剩下的格子裡",
+      "translation": "全都聚集在剩下的空白裡",
       "analysis": [
         { "point": "남은 칸에", "explanation": "남다 (剩下) 的定語形 + 칸 (格子、空格) + -에 (場所助詞)。" },
         { "point": "모여", "explanation": "모이다 (聚集) 的非格式體。" }
@@ -203,7 +203,7 @@
     },
     {
       "korean": "선명하게 네게 닿게 전해 본 내 마음이야",
-      "translation": "是清晰地傳達到你那邊的我嘗試傳遞的心意",
+      "translation": "這是我寫下的心意 只願清晰地傳達到你那裡",
       "analysis": [
         { "point": "선명하게", "explanation": "선명하다 (清晰的) + -게 (副詞形語尾)。" },
         { "point": "네게 닿게", "explanation": "너에게 (向你) 的縮略 + 닿다 (到達) + -게 (使得)。" },
@@ -214,14 +214,14 @@
     {
       "sectionTitle": "Bridge",
       "korean": "서툴렀던 날들도",
-      "translation": "曾經生澀的日子們也",
+      "translation": "那些曾經笨拙的日子",
       "analysis": [
         { "point": "서툴렀던 날들도", "explanation": "서투르다 (生疏的、笨拙的) 的過去定語形 + 날 (日子) + -들도 (也)。" }
       ]
     },
     {
       "korean": "많이 미워하진 말자",
-      "translation": "不要太過討厭",
+      "translation": "我們也別太過責怪彼此",
       "analysis": [
         { "point": "많이", "explanation": "副詞，多地。" },
         { "point": "미워하진 말자", "explanation": "미워하다 (討厭) + -지는 (強調) + 말다 (不要) + -자 (共動形語尾，讓我們...吧)。" }
@@ -230,14 +230,14 @@
     {
       "sectionTitle": "Outro",
       "korean": "꺼내지 못했던",
-      "translation": "沒能拿出來的",
+      "translation": "那些始終沒能說出口的",
       "analysis": [
         { "point": "꺼내지 못했던", "explanation": "꺼내다 (拿出) + -지 못하다 (未能) 的過去定語形。" }
       ]
     },
     {
       "korean": "남은 얘길 모아",
-      "translation": "收集剩下的故事",
+      "translation": "剩下的話語一一收集起來",
       "analysis": [
         { "point": "남은 얘길", "explanation": "남다 (剩下) 的定語形 + 이야기 (故事) 的縮略 + -을 (受格助詞)。" },
         { "point": "모아", "explanation": "모으다 (收集) 的非格式體。" }
@@ -245,7 +245,7 @@
     },
     {
       "korean": "잊지 않게 네게 보내",
-      "translation": "為了不忘記而寄給你",
+      "translation": "送到你身邊 只願你不要忘記",
       "analysis": [
         { "point": "잊지 않게", "explanation": "잊다 (忘記) + -지 않다 (不) + -게 (為了)。" },
         { "point": "네게 보내", "explanation": "너에게 (向你) 的縮略 + 보내다 (寄送) 的非格式體。" }
@@ -261,7 +261,7 @@
     },
     {
       "korean": "For you",
-      "translation": "為了你",
+      "translation": "For you",
       "analysis": [
         { "point": "For you", "explanation": "英文歌詞，無韓文文法解析。" }
       ]
