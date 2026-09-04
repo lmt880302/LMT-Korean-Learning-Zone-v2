@@ -6,7 +6,7 @@
     {
       "sectionTitle": "Chorus",
       "korean": "어디로든 데려가 줘",
-      "translation": "帶我去任何地方",
+      "translation": "帶我去任何地方吧",
       "analysis": [
         { "point": "어디로든", "explanation": "어디 (哪裡) + -로든 (無論...方向)。" },
         { "point": "데려가 줘", "explanation": "데려가다 (帶走) + -아/어 주다 (為我做...) 的請求形。" }
@@ -14,7 +14,7 @@
     },
     {
       "korean": "그때의 외로움 설렘 다 좋아",
-      "translation": "那時的孤獨 心動 全都好",
+      "translation": "那時的孤單也好、心動也好，我都喜歡",
       "analysis": [
         { "point": "그때의", "explanation": "그때 (那時) + -의 (的)。" },
         { "point": "외로움", "explanation": "名詞，孤獨。" },
@@ -24,7 +24,7 @@
     },
     {
       "korean": "안되거든 이 향기에",
-      "translation": "不行啊 在這香氣中",
+      "translation": "如果做不到的話，就讓我沉醉在",
       "analysis": [
         { "point": "안되거든", "explanation": "안되다 (不行) + -거든 (感嘆形語尾)。" },
         { "point": "이 향기에", "explanation": "이 (這) + 향기 (香氣) + -에 (場所助詞)。" }
@@ -32,7 +32,7 @@
     },
     {
       "korean": "나 그냥 취하게 내버려 둬",
-      "translation": "就讓我沉醉吧",
+      "translation": "這股香氣裡吧，任我就這樣醉下去",
       "analysis": [
         { "point": "나", "explanation": "我。" },
         { "point": "그냥", "explanation": "副詞，就、只是。" },
@@ -43,7 +43,7 @@
     {
       "sectionTitle": "Verse 1",
       "korean": "하늘 가득히 차가운 공기가",
-      "translation": "天空滿滿的冰冷空氣",
+      "translation": "當冰冷的空氣充滿整片天空",
       "analysis": [
         { "point": "하늘", "explanation": "名詞，天空。" },
         { "point": "가득히", "explanation": "副詞，滿滿地。" },
@@ -53,7 +53,7 @@
     },
     {
       "korean": "나를 스치면",
-      "translation": "掠過我的時候",
+      "translation": "輕輕掠過我的身旁",
       "analysis": [
         { "point": "나를", "explanation": "나 (我) + -를 (受格助詞)。" },
         { "point": "스치면", "explanation": "스치다 (掠過) + -(으)면 (如果/當)。" }
@@ -61,7 +61,7 @@
     },
     {
       "korean": "바람을 타고 온 너의 향기가",
-      "translation": "乘風而來的你的香氣",
+      "translation": "隨著風而來的你的香氣",
       "analysis": [
         { "point": "바람을", "explanation": "바람 (風) + -을 (受格助詞)。" },
         { "point": "타고 온", "explanation": "타다 (乘、搭) + -고 (連接詞尾) + 오다 (來) 的過去定語形。" },
@@ -71,7 +71,7 @@
     },
     {
       "korean": "머릴 스친다",
-      "translation": "掠過腦海",
+      "translation": "掠過我的髮梢",
       "analysis": [
         { "point": "머릴", "explanation": "머리 (頭、腦海) + -를 (受格助詞) 的縮略。" },
         { "point": "스친다", "explanation": "스치다 (掠過) 的現在式。" }
@@ -80,7 +80,7 @@
     {
       "sectionTitle": "Pre-Chorus",
       "korean": "스치듯 피어난 기억이",
-      "translation": "如掠過般綻放的記憶",
+      "translation": "如擦肩而過般浮現的記憶",
       "analysis": [
         { "point": "스치듯", "explanation": "스치다 (掠過) + -듯 (好像...一樣)。" },
         { "point": "피어난", "explanation": "피어나다 (綻放) 的過去定語形。" },
@@ -89,7 +89,7 @@
     },
     {
       "korean": "또다시 날 눈물짓게 하고",
-      "translation": "又再一次讓我流淚",
+      "translation": "又一次讓我紅了眼眶",
       "analysis": [
         { "point": "또다시", "explanation": "副詞，再一次。" },
         { "point": "날", "explanation": "나를 (我) 的縮略。" },
@@ -99,7 +99,7 @@
     },
     {
       "korean": "멀어진 너를 다시 안고서",
-      "translation": "再次擁抱遠去的你",
+      "translation": "再次擁抱那個已離我遠去的你",
       "analysis": [
         { "point": "멀어진", "explanation": "멀어지다 (變遠) 的過去定語形。" },
         { "point": "너를", "explanation": "你 + -를 (受格助詞)。" },
@@ -109,7 +109,7 @@
     },
     {
       "korean": "또 겨울이 다시 찾아오면",
-      "translation": "如果冬天再次來臨",
+      "translation": "當冬天又一次來臨時",
       "analysis": [
         { "point": "또", "explanation": "副詞，又。" },
         { "point": "겨울이", "explanation": "겨울 (冬天) + -이 (主格助詞)。" },
@@ -120,7 +120,7 @@
     {
       "sectionTitle": "Chorus",
       "korean": "어디로든 데려가 줘",
-      "translation": "帶我去任何地方",
+      "translation": "帶我去任何地方吧",
       "analysis": [
         { "point": "어디로든", "explanation": "어디 (哪裡) + -로든 (無論...方向)。" },
         { "point": "데려가 줘", "explanation": "데려가다 (帶走) + -아/어 주다 (為我做...) 的請求形。" }
@@ -128,7 +128,7 @@
     },
     {
       "korean": "그때의 외로움 설렘 다 좋아",
-      "translation": "那時的孤獨 心動 全都好",
+      "translation": "那時的孤單也好、心動也好，我都喜歡",
       "analysis": [
         { "point": "그때의", "explanation": "그때 (那時) + -의 (的)。" },
         { "point": "외로움", "explanation": "名詞，孤獨。" },
@@ -138,7 +138,7 @@
     },
     {
       "korean": "안되거든 이 향기에",
-      "translation": "不行啊 在這香氣中",
+      "translation": "如果做不到的話，就讓我沉醉在",
       "analysis": [
         { "point": "안되거든", "explanation": "안되다 (不行) + -거든 (感嘆形語尾)。" },
         { "point": "이 향기에", "explanation": "이 (這) + 향기 (香氣) + -에 (場所助詞)。" }
@@ -146,7 +146,7 @@
     },
     {
       "korean": "나 그냥 취하게 내버려 둬",
-      "translation": "就讓我沉醉吧",
+      "translation": "這股香氣裡吧，任我就這樣醉下去",
       "analysis": [
         { "point": "나", "explanation": "我。" },
         { "point": "그냥", "explanation": "副詞，就、只是。" },
@@ -157,7 +157,7 @@
     {
       "sectionTitle": "Verse 2",
       "korean": "넌 지금 보여?",
-      "translation": "你現在看到了嗎？",
+      "translation": "你現在看得見嗎？",
       "analysis": [
         { "point": "넌", "explanation": "너는 (你) 的縮略。" },
         { "point": "지금", "explanation": "副詞，現在。" },
@@ -166,7 +166,7 @@
     },
     {
       "korean": "느리게 내려오는 눈처럼",
-      "translation": "像緩緩落下的雪一樣",
+      "translation": "就像緩緩飄落的雪",
       "analysis": [
         { "point": "느리게", "explanation": "느리다 (慢的) 的副詞形。" },
         { "point": "내려오는", "explanation": "내려오다 (下來) 的現在定語形。" },
@@ -175,7 +175,7 @@
     },
     {
       "korean": "아무런 망설임 하나 없이",
-      "translation": "沒有任何一絲猶豫",
+      "translation": "沒有絲毫猶豫",
       "analysis": [
         { "point": "아무런", "explanation": "冠詞，任何的。" },
         { "point": "망설임", "explanation": "名詞，猶豫。" },
@@ -185,7 +185,7 @@
     },
     {
       "korean": "너에게 내려앉아",
-      "translation": "降落在你身上",
+      "translation": "輕輕落在你身上",
       "analysis": [
         { "point": "너에게", "explanation": "너 (你) + -에게 (向)。" },
         { "point": "내려앉아", "explanation": "내려앉다 (降落) 的非格式體。" }
@@ -194,7 +194,7 @@
     {
       "sectionTitle": "Pre-Chorus",
       "korean": "겨울 내 찬바람 튼 얼굴",
-      "translation": "整個冬天因寒風而龜裂的臉",
+      "translation": "被整個冬天的冷風吹得乾裂的臉龐",
       "analysis": [
         { "point": "겨울 내", "explanation": "겨울 (冬天) + 내 (整個)。" },
         { "point": "찬바람", "explanation": "名詞，冷風。" },
@@ -204,7 +204,7 @@
     },
     {
       "korean": "어루만져 주고 싶은 내 마음이야",
-      "translation": "是我想撫摸安慰你的我的心",
+      "translation": "這就是我想輕輕撫慰你的心意",
       "analysis": [
         { "point": "어루만져", "explanation": "어루만지다 (撫摸安慰) 的非格式體。" },
         { "point": "주고 싶은", "explanation": "주다 (給) + -고 싶다 (想要) 的定語形。" },
@@ -223,7 +223,7 @@
     },
     {
       "korean": "이제 곧 다음이야",
-      "translation": "現在馬上就是下一次了",
+      "translation": "下一站，很快就到了",
       "analysis": [
         { "point": "이제", "explanation": "副詞，現在。" },
         { "point": "곧", "explanation": "副詞，馬上。" },
@@ -233,7 +233,7 @@
     {
       "sectionTitle": "Rap",
       "korean": "말이 되지 않는 것들을 넌 말이 되게 해",
-      "translation": "你讓不成話的事情變成了話",
+      "translation": "那些原本不合理的事，你總能讓它們變得合理",
       "analysis": [
         { "point": "말이 되지 않는", "explanation": "말 (話) + -이 되다 (成為話，意為合理) 的否定定語形。" },
         { "point": "것들을", "explanation": "것 (東西) + -들을 (受格助詞複數)。" },
@@ -243,7 +243,7 @@
     },
     {
       "korean": "난 너의 자음이고 넌 내 영원한 모음이야",
-      "translation": "我是你的子音 你是我永遠的母音",
+      "translation": "我是你的輔音，而你是我永遠的元音",
       "analysis": [
         { "point": "난", "explanation": "나는 (我) 的縮略。" },
         { "point": "너의", "explanation": "你的。" },
@@ -256,7 +256,7 @@
     },
     {
       "korean": "많이 온 거 같은데",
-      "translation": "好像走了很多路",
+      "translation": "好像已經走了很遠",
       "analysis": [
         { "point": "많이", "explanation": "副詞，多地。" },
         { "point": "온", "explanation": "오다 (來) 的過去定語形。" },
@@ -266,7 +266,7 @@
     },
     {
       "korean": "춥다면 깍지를 껴 줄게",
-      "translation": "如果冷的話 我會給你扣緊手指",
+      "translation": "如果覺得冷，我就和你十指緊扣",
       "analysis": [
         { "point": "춥다면", "explanation": "춥다 (冷) + -(으)면 (如果)。" },
         { "point": "깍지를", "explanation": "깍지 (手指交叉) + -를 (受格助詞)。" },
@@ -275,7 +275,7 @@
     },
     {
       "korean": "보이지가 않아",
-      "translation": "看不見",
+      "translation": "如果看不見的話",
       "analysis": [
         { "point": "보이지가", "explanation": "보이다 (被看見) + -지 (否定詞根) + -가 (主格助詞)。" },
         { "point": "않아", "explanation": "않다 (不) 的非格式體。" }
@@ -283,7 +283,7 @@
     },
     {
       "korean": "널 감싸는 벙어리장갑이 돼줄게",
-      "translation": "我會成為包裹你的連指手套",
+      "translation": "我會化作包覆著你的連指手套",
       "analysis": [
         { "point": "널", "explanation": "너를 (你) 的縮略。" },
         { "point": "감싸는", "explanation": "감싸다 (包裹) 的現在定語形。" },
@@ -293,7 +293,7 @@
     },
     {
       "korean": "어디로든 데려가",
-      "translation": "帶你去任何地方",
+      "translation": "帶我去任何地方吧",
       "analysis": [
         { "point": "어디로든", "explanation": "어디 (哪裡) + -로든 (無論...方向)。" },
         { "point": "데려가", "explanation": "데려가다 (帶走) 的非格式體。" }
@@ -301,7 +301,7 @@
     },
     {
       "korean": "지난 짐들 전부 다 내려놔",
-      "translation": "把過去的行李全都放下",
+      "translation": "把過去所有的包袱都放下吧",
       "analysis": [
         { "point": "지난", "explanation": "지나다 (過去) 的定語形。" },
         { "point": "짐들", "explanation": "짐 (行李) + -들 (複數)。" },
@@ -312,7 +312,7 @@
     },
     {
       "korean": "따뜻하던 춥던",
-      "translation": "無論是溫暖的還是寒冷的",
+      "translation": "無論溫暖還是寒冷",
       "analysis": [
         { "point": "따뜻하던", "explanation": "따뜻하다 (溫暖) 的過去回想着形。" },
         { "point": "춥던", "explanation": "춥다 (冷) 的過去回想着形。" }
@@ -320,7 +320,7 @@
     },
     {
       "korean": "모든 계절을 거치고 우린 그때 첨 그대로야",
-      "translation": "經歷所有季節 我們還是那時最初的模样",
+      "translation": "走過所有季節，我們依然和最初的那時一樣",
       "analysis": [
         { "point": "모든", "explanation": "冠詞，所有的。" },
         { "point": "계절을", "explanation": "계절 (季節) + -을 (受格助詞)。" },
@@ -334,7 +334,7 @@
     {
       "sectionTitle": "Chorus",
       "korean": "어디로든 데려가 줘",
-      "translation": "帶我去任何地方",
+      "translation": "帶我去任何地方吧",
       "analysis": [
         { "point": "어디로든", "explanation": "어디 (哪裡) + -로든 (無論...方向)。" },
         { "point": "데려가 줘", "explanation": "데려가다 (帶走) + -아/어 주다 (為我做...) 的請求形。" }
@@ -342,7 +342,7 @@
     },
     {
       "korean": "그때의 외로움 설렘 다 좋아",
-      "translation": "那時的孤獨 心動 全都好",
+      "translation": "那時的孤單也好、心動也好，我都喜歡",
       "analysis": [
         { "point": "그때의", "explanation": "그때 (那時) + -의 (的)。" },
         { "point": "외로움", "explanation": "名詞，孤獨。" },
@@ -352,7 +352,7 @@
     },
     {
       "korean": "안되거든 이 향기에",
-      "translation": "不行啊 在這香氣中",
+      "translation": "如果做不到的話，就讓我沉醉在",
       "analysis": [
         { "point": "안되거든", "explanation": "안되다 (不行) + -거든 (感嘆形語尾)。" },
         { "point": "이 향기에", "explanation": "이 (這) + 향기 (香氣) + -에 (場所助詞)。" }
@@ -360,7 +360,7 @@
     },
     {
       "korean": "나 그냥 취하게 내버려 둬",
-      "translation": "就讓我沉醉吧",
+      "translation": "這股香氣裡吧，任我就這樣醉下去",
       "analysis": [
         { "point": "나", "explanation": "我。" },
         { "point": "그냥", "explanation": "副詞，就、只是。" },
@@ -371,7 +371,7 @@
     {
       "sectionTitle": "Bridge",
       "korean": "I'll be alright (괜찮아, 손잡아 줄게)",
-      "translation": "我會沒事的 (沒關係，我會牽你的手)",
+      "translation": "我會沒事的 （沒關係，我會牽著你的手）",
       "analysis": [
         { "point": "I'll be alright", "explanation": "英文歌詞，無韓文文法解析。" },
         { "point": "괜찮아", "explanation": "괜찮다 (沒關係) 的非格式體。" },
@@ -380,7 +380,7 @@
     },
     {
       "korean": "Even if you go away (Don't go away)",
-      "translation": "即使你離開 (不要離開)",
+      "translation": "即使你離開了 （不要離開）",
       "analysis": [
         { "point": "Even if you go away", "explanation": "英文歌詞，無韓文文法解析。" },
         { "point": "Don't go away", "explanation": "英文歌詞，無韓文文法解析。" }
@@ -388,7 +388,7 @@
     },
     {
       "korean": "I'll be okay (괜찮아, 손잡아 줄게)",
-      "translation": "我會沒事的 (沒關係，我會牽你的手)",
+      "translation": "我也會沒事的 （沒關係，我會牽著你的手）",
       "analysis": [
         { "point": "I'll be okay", "explanation": "英文歌詞，無韓文文法解析。" },
         { "point": "괜찮아", "explanation": "괜찮다 (沒關係) 的非格式體。" },
@@ -397,7 +397,7 @@
     },
     {
       "korean": "Even if you run away (Don't run away)",
-      "translation": "即使你逃跑 (不要逃跑)",
+      "translation": "即使你逃離我 （不要逃走）",
       "analysis": [
         { "point": "Even if you run away", "explanation": "英文歌詞，無韓文文法解析。" },
         { "point": "Don't run away", "explanation": "英文歌詞，無韓文文法解析。" }
@@ -406,7 +406,7 @@
     {
       "sectionTitle": "Chorus",
       "korean": "어디로든 데려갈게 (데려갈게)",
-      "translation": "我會帶你去任何地方 (帶你去)",
+      "translation": "我會帶你去任何地方（帶你走）",
       "analysis": [
         { "point": "어디로든", "explanation": "어디 (哪裡) + -로든 (無論...方向)。" },
         { "point": "데려갈게", "explanation": "데려가다 (帶走) + -(으)ㄹ게 (表示意志)。" }
@@ -414,7 +414,7 @@
     },
     {
       "korean": "그때의 설렘 온기 다 좋아 (I'll be okay)",
-      "translation": "那時的心動 溫暖 全都好 (我會沒事的)",
+      "translation": "那時的心動與溫度，我都喜歡（我會沒事的）",
       "analysis": [
         { "point": "그때의", "explanation": "그때 (那時) + -의 (的)。" },
         { "point": "설렘", "explanation": "名詞，心動。" },
@@ -425,7 +425,7 @@
     },
     {
       "korean": "안되거든 이 마음에",
-      "translation": "不行啊 在這心中",
+      "translation": "如果做不到的話，就在我的心裡",
       "analysis": [
         { "point": "안되거든", "explanation": "안되다 (不行) + -거든 (感嘆形語尾)。" },
         { "point": "이 마음에", "explanation": "이 (這) + 마음 (心) + -에 (場所助詞)。" }
@@ -433,7 +433,7 @@
     },
     {
       "korean": "녹지 않는 눈꽃이 되어줘",
-      "translation": "成為不融化的雪花吧",
+      "translation": "成為一朵永不融化的雪花吧",
       "analysis": [
         { "point": "녹지 않는", "explanation": "녹다 (融化) + -지 않다 (不) 的定語形。" },
         { "point": "눈꽃이", "explanation": "눈꽃 (雪花) + -이 (主格助詞)。" },
@@ -453,7 +453,7 @@
     },
     {
       "korean": "짧은 연필로 네가 적는 것들 맨 위에",
-      "translation": "用短鉛筆 在你寫的東西最上面",
+      "translation": "在你用短短的鉛筆寫下的字句最上方",
       "analysis": [
         { "point": "짧은", "explanation": "짧다 (短的) 的定語形。" },
         { "point": "연필로", "explanation": "연필 (鉛筆) + -(으)로 (用)。" },
@@ -465,21 +465,21 @@
     },
     {
       "korean": "I wanna see my name",
-      "translation": "我想看到我的名字",
+      "translation": "我想看見我的名字",
       "analysis": [
         { "point": "I wanna see my name", "explanation": "英文歌詞，無韓文文法解析。" }
       ]
     },
     {
       "korean": "When I wake up",
-      "translation": "當我醒來時",
+      "translation": "當我醒來的時候",
       "analysis": [
         { "point": "When I wake up", "explanation": "英文歌詞，無韓文文法解析。" }
       ]
     },
     {
       "korean": "우리 좁은 집안에",
-      "translation": "在我們狹窄的家裡",
+      "translation": "在我們小小的家裡",
       "analysis": [
         { "point": "우리", "explanation": "我們。" },
         { "point": "좁은", "explanation": "좁다 (狹窄的) 的定語形。" },
@@ -488,7 +488,7 @@
     },
     {
       "korean": "소중한 것들 이젠 꽤 많이 쌓였고",
-      "translation": "珍貴的東西 現在累積了不少",
+      "translation": "如今已經累積了好多珍貴的事物",
       "analysis": [
         { "point": "소중한", "explanation": "소중하다 (珍貴的) 的定語形。" },
         { "point": "것들", "explanation": "것 (東西) + -들 (複數)。" },
@@ -500,7 +500,7 @@
     },
     {
       "korean": "And we know",
-      "translation": "而我們知道",
+      "translation": "而我們都知道",
       "analysis": [
         { "point": "And we know", "explanation": "英文歌詞，無韓文文法解析。" }
       ]
