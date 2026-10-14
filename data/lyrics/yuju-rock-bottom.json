@@ -1,0 +1,303 @@
+{
+  "id": "yuju-rock-bottom",
+  "title": "Rock Bottom",
+  "artist": "YUJU (유주)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "넌 달았지 날개",
+      "translation": "你裝上了翅膀",
+      "analysis": [
+        { "point": "넌", "explanation": "너는 (你) 的縮略。" },
+        { "point": "달았지", "explanation": "달다 (裝上、添上) 的過去形 + -지 (陳述/確認語尾)。" },
+        { "point": "날개", "explanation": "名詞，翅膀。" }
+      ]
+    },
+    {
+      "korean": "난 떨어져 땅에",
+      "translation": "我掉落到地上",
+      "analysis": [
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "떨어져", "explanation": "떨어지다 (掉落) 的非格式體。" },
+        { "point": "땅에", "explanation": "땅 (地) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "더 떨어질 곳도 없이",
+      "translation": "連再往下掉的地方都沒有",
+      "analysis": [
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "떨어질", "explanation": "떨어지다 (掉落) 的未來定語形。" },
+        { "point": "곳도", "explanation": "곳 (地方) + -도 (也)。" },
+        { "point": "없이", "explanation": "없다 (沒有) 的副詞形，意為「沒有地」。" }
+      ]
+    },
+    {
+      "korean": "괴로워져 밤에",
+      "translation": "在夜裡變得痛苦",
+      "analysis": [
+        { "point": "괴로워져", "explanation": "괴롭다 (痛苦) + -아/어 지다 (變得) 的非格式體。" },
+        { "point": "밤에", "explanation": "밤 (夜晚) + -에 (時間助詞)。" }
+      ]
+    },
+    {
+      "korean": "욕도 해 달에",
+      "translation": "對著月亮也罵",
+      "analysis": [
+        { "point": "욕도", "explanation": "욕 (罵) + -도 (也)。" },
+        { "point": "해", "explanation": "하다 (做) 的非格式體。" },
+        { "point": "달에", "explanation": "달 (月亮) + -에 (對象助詞)。" }
+      ]
+    },
+    {
+      "korean": "고장이 나 버린 거지",
+      "translation": "徹底壞掉了",
+      "analysis": [
+        { "point": "고장이", "explanation": "고장 (故障) + -이 (主格助詞)。" },
+        { "point": "나 버린", "explanation": "나다 (出、發生) + -아/어 버리다 (完了) 的過去定語形。" },
+        { "point": "거지", "explanation": "것 (事情) + -이지 (是...吧) 的口語縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "보도 못한 심해로 빠뜨려준 덕에",
+      "translation": "多虧你把我推進看不見的深海",
+      "analysis": [
+        { "point": "보도 못한", "explanation": "보다 (看) + -도 못하다 (連...也無法) 的過去定語形。" },
+        { "point": "심해로", "explanation": "심해 (深海) + -(으)로 (向)。" },
+        { "point": "빠뜨려준", "explanation": "빠뜨리다 (使陷入) + -아/어 주다 (為我) 的過去定語形。" },
+        { "point": "덕에", "explanation": "덕 (恩惠、多虧) + -에 (因為)。" }
+      ]
+    },
+    {
+      "korean": "난 그 덕에",
+      "translation": "我因此",
+      "analysis": [
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "그", "explanation": "冠詞，那。" },
+        { "point": "덕에", "explanation": "덕 (恩惠、多虧) + -에 (因為)。" }
+      ]
+    },
+    {
+      "korean": "새로운 지옥을 보았어",
+      "translation": "看見了新的地獄",
+      "analysis": [
+        { "point": "새로운", "explanation": "새롭다 (新的) 的定語形。" },
+        { "point": "지옥을", "explanation": "지옥 (地獄) + -을 (受格助詞)。" },
+        { "point": "보았어", "explanation": "보다 (看) 的過去非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "아주 잊진 말아",
+      "translation": "千萬不要忘記",
+      "analysis": [
+        { "point": "아주", "explanation": "副詞，非常、千萬。" },
+        { "point": "잊진", "explanation": "잊다 (忘記) + -지 (強調) + -는 (主題助詞) 的縮略。" },
+        { "point": "말아", "explanation": "말다 (不要) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "그건 아니잖아",
+      "translation": "不是那樣啊",
+      "analysis": [
+        { "point": "그건", "explanation": "그것은 (那個) 的縮略。" },
+        { "point": "아니잖아", "explanation": "아니다 (不是) + -잖아 (不是嗎)。" }
+      ]
+    },
+    {
+      "korean": "아무 말 없다 해도",
+      "translation": "就算什麼話都不說",
+      "analysis": [
+        { "point": "아무", "explanation": "冠詞，任何。" },
+        { "point": "말", "explanation": "名詞，話。" },
+        { "point": "없다 해도", "explanation": "없다 (沒有) + 하다 (說) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "붙잡는 게 아냐",
+      "translation": "也不是挽留",
+      "analysis": [
+        { "point": "붙잡는", "explanation": "붙잡다 (抓住、挽留) 的現在定語形。" },
+        { "point": "게", "explanation": "것 (事情) + -이 (主格助詞) 的縮略。" },
+        { "point": "아냐", "explanation": "아니다 (不是) 的口語非格式體。" }
+      ]
+    },
+    {
+      "korean": "나름 괜찮아 나",
+      "translation": "我還算可以",
+      "analysis": [
+        { "point": "나름", "explanation": "副詞，還算、按自己方式。" },
+        { "point": "괜찮아", "explanation": "괜찮다 (沒關係、還好) 的非格式體。" },
+        { "point": "나", "explanation": "我。" }
+      ]
+    },
+    {
+      "korean": "더 잃을 게 없어 덕분에 난",
+      "translation": "因為你我再也沒有可失去的了",
+      "analysis": [
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "잃을", "explanation": "잃다 (失去) 的未來定語形。" },
+        { "point": "게", "explanation": "것 (東西) + -이 (主格助詞) 的縮略。" },
+        { "point": "없어", "explanation": "없다 (沒有) 的非格式體。" },
+        { "point": "덕분에", "explanation": "덕분 (多虧) + -에 (因為)。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "그날 우리 했던 말",
+      "translation": "那天我們說過的話",
+      "analysis": [
+        { "point": "그날", "explanation": "그 (那) + 날 (日子)，意為「那天」。" },
+        { "point": "우리", "explanation": "代詞，我們。" },
+        { "point": "했던", "explanation": "하다 (做、說) 的過去回想着定語形。" },
+        { "point": "말", "explanation": "名詞，話。" }
+      ]
+    },
+    {
+      "korean": "넌 모두 이뤘어",
+      "translation": "你全都實現了",
+      "analysis": [
+        { "point": "넌", "explanation": "너는 (你) 的縮略。" },
+        { "point": "모두", "explanation": "副詞，全部。" },
+        { "point": "이뤘어", "explanation": "이루다 (實現) 的過去非格式體。" }
+      ]
+    },
+    {
+      "korean": "던지듯 뱉어본 바람들도",
+      "translation": "像扔出去一樣吐出的那些願望也都",
+      "analysis": [
+        { "point": "던지듯", "explanation": "던지다 (扔) + -듯 (好像...一樣)。" },
+        { "point": "뱉어본", "explanation": "뱉다 (吐) + -아/어 보다 (嘗試) 的過去定語形。" },
+        { "point": "바람들도", "explanation": "바람 (願望) + -들 (複數) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "Wherever you are",
+      "translation": "無論你在哪裡",
+      "analysis": [
+        { "point": "Wherever you are", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "이 사랑은 이름을 잃을 테니까",
+      "translation": "因為這份愛終將失去名字",
+      "analysis": [
+        { "point": "이 사랑은", "explanation": "이 (這) + 사랑 (愛情) + -은 (主題助詞)。" },
+        { "point": "이름을", "explanation": "이름 (名字) + -을 (受格助詞)。" },
+        { "point": "잃을 테니까", "explanation": "잃다 (失去) + -(으)ㄹ 테니까 (因為將會...的緣故)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "보도 못한 심해로 빠져도 돼 더는",
+      "translation": "就算掉進看不見的深海也無所謂 再也",
+      "analysis": [
+        { "point": "보도 못한", "explanation": "보다 (看) + -도 못하다 (連...也無法) 的過去定語形。" },
+        { "point": "심해로", "explanation": "심해 (深海) + -(으)로 (向)。" },
+        { "point": "빠져도 돼", "explanation": "빠지다 (陷入) + -아/어도 되다 (也可以) 的非格式體。" },
+        { "point": "더는", "explanation": "副詞，再也。" }
+      ]
+    },
+    {
+      "korean": "두렵지 않아",
+      "translation": "不害怕了",
+      "analysis": [
+        { "point": "두렵지 않아", "explanation": "두렵다 (害怕) + -지 않다 (不) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "아주 잊진 말아",
+      "translation": "千萬不要忘記",
+      "analysis": [
+        { "point": "아주", "explanation": "副詞，非常、千萬。" },
+        { "point": "잊진", "explanation": "잊다 (忘記) + -지 (強調) + -는 (主題助詞) 的縮略。" },
+        { "point": "말아", "explanation": "말다 (不要) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "그건 아니잖아",
+      "translation": "不是那樣啊",
+      "analysis": [
+        { "point": "그건", "explanation": "그것은 (那個) 的縮略。" },
+        { "point": "아니잖아", "explanation": "아니다 (不是) + -잖아 (不是嗎)。" }
+      ]
+    },
+    {
+      "korean": "아무 말 없다 해도",
+      "translation": "就算什麼話都不說",
+      "analysis": [
+        { "point": "아무", "explanation": "冠詞，任何。" },
+        { "point": "말", "explanation": "名詞，話。" },
+        { "point": "없다 해도", "explanation": "없다 (沒有) + 하다 (說) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "붙잡는 게 아냐",
+      "translation": "也不是挽留",
+      "analysis": [
+        { "point": "붙잡는", "explanation": "붙잡다 (抓住、挽留) 的現在定語形。" },
+        { "point": "게", "explanation": "것 (事情) + -이 (主格助詞) 的縮略。" },
+        { "point": "아냐", "explanation": "아니다 (不是) 的口語非格式體。" }
+      ]
+    },
+    {
+      "korean": "나름 괜찮아 나",
+      "translation": "我還算可以",
+      "analysis": [
+        { "point": "나름", "explanation": "副詞，還算、按自己方式。" },
+        { "point": "괜찮아", "explanation": "괜찮다 (沒關係、還好) 的非格式體。" },
+        { "point": "나", "explanation": "我。" }
+      ]
+    },
+    {
+      "korean": "더 잃을 게 없어 덕분에 난",
+      "translation": "因為你我再也沒有可失去的了",
+      "analysis": [
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "잃을", "explanation": "잃다 (失去) 的未來定語形。" },
+        { "point": "게", "explanation": "것 (東西) + -이 (主格助詞) 的縮略。" },
+        { "point": "없어", "explanation": "없다 (沒有) 的非格式體。" },
+        { "point": "덕분에", "explanation": "덕분 (多虧) + -에 (因為)。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "달다", "chinese": "裝上、添上", "pos": "動詞" },
+    { "korean": "날개", "chinese": "翅膀", "pos": "名詞" },
+    { "korean": "떨어지다", "chinese": "掉落", "pos": "動詞" },
+    { "korean": "땅", "chinese": "地", "pos": "名詞" },
+    { "korean": "괴롭다", "chinese": "痛苦", "pos": "形容詞" },
+    { "korean": "밤", "chinese": "夜晚", "pos": "名詞" },
+    { "korean": "욕", "chinese": "罵", "pos": "名詞" },
+    { "korean": "달", "chinese": "月亮", "pos": "名詞" },
+    { "korean": "고장", "chinese": "故障", "pos": "名詞" },
+    { "korean": "나다", "chinese": "出、發生", "pos": "動詞" },
+    { "korean": "버리다", "chinese": "完了", "pos": "動詞" },
+    { "korean": "심해", "chinese": "深海", "pos": "名詞" },
+    { "korean": "빠뜨리다", "chinese": "使陷入", "pos": "動詞" },
+    { "korean": "덕", "chinese": "恩惠、多虧", "pos": "名詞" },
+    { "korean": "새롭다", "chinese": "新的", "pos": "形容詞" },
+    { "korean": "지옥", "chinese": "地獄", "pos": "名詞" },
+    { "korean": "잊다", "chinese": "忘記", "pos": "動詞" },
+    { "korean": "말다", "chinese": "不要", "pos": "動詞" },
+    { "korean": "아니다", "chinese": "不是", "pos": "形容詞" },
+    { "korean": "아무", "chinese": "任何", "pos": "冠詞" },
+    { "korean": "붙잡다", "chinese": "抓住、挽留", "pos": "動詞" },
+    { "korean": "나름", "chinese": "還算", "pos": "副詞" },
+    { "korean": "괜찮다", "chinese": "沒關係、還好", "pos": "形容詞" },
+    { "korean": "잃다", "chinese": "失去", "pos": "動詞" },
+    { "korean": "덕분", "chinese": "多虧", "pos": "名詞" },
+    { "korean": "이루다", "chinese": "實現", "pos": "動詞" },
+    { "korean": "던지다", "chinese": "扔", "pos": "動詞" },
+    { "korean": "뱉다", "chinese": "吐", "pos": "動詞" },
+    { "korean": "바람", "chinese": "願望", "pos": "名詞" },
+    { "korean": "사랑", "chinese": "愛情", "pos": "名詞" },
+    { "korean": "이름", "chinese": "名字", "pos": "名詞" },
+    { "korean": "빠지다", "chinese": "陷入", "pos": "動詞" },
+    { "korean": "두렵다", "chinese": "害怕", "pos": "形容詞" }
+  ]
+}

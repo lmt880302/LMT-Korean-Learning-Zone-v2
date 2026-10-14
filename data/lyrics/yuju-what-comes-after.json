@@ -1,0 +1,266 @@
+{
+  "id": "yuju-what-comes-after",
+  "title": "그 뒤가 얼마나 무서울지 모른 채 (What comes after)",
+  "artist": "YUJU (유주)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "같은 곳을 오래 걸었다는 게",
+      "translation": "我們曾在同一條路上走了那麼久",
+      "analysis": [
+        { "point": "같은 곳을", "explanation": "같다 (相同的) 的定語形 + 곳 (地方) + -을 (受格助詞)。" },
+        { "point": "오래", "explanation": "副詞，長久地。" },
+        { "point": "걸었다는 게", "explanation": "걷다 (走) 的過去形 + -다는 (引用) + 것 (事情) + -이 (主格助詞) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "뭐가 중요해 우린 다른 곳에 도착하고선",
+      "translation": "那又有什麼重要 我們終究抵達了不同的地方",
+      "analysis": [
+        { "point": "뭐가", "explanation": "뭐 (什麼) + -가 (主格助詞)。" },
+        { "point": "중요해", "explanation": "중요하다 (重要) 的非格式體。" },
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" },
+        { "point": "다른 곳에", "explanation": "다르다 (不同的) 的定語形 + 곳 (地方) + -에 (場所助詞)。" },
+        { "point": "도착하고선", "explanation": "도착하다 (到達) + -고선 (做完...之後)。" }
+      ]
+    },
+    {
+      "korean": "마치 남인 듯 안부를 묻곤 해",
+      "translation": "如今卻像陌生人一樣互相問候",
+      "analysis": [
+        { "point": "마치", "explanation": "副詞，彷彿、就像。" },
+        { "point": "남인 듯", "explanation": "남 (陌生人) + -인 듯 (好像...似的)。" },
+        { "point": "안부를", "explanation": "안부 (問候) + -를 (受格助詞)。" },
+        { "point": "묻곤 해", "explanation": "묻다 (問) + -곤 하다 (經常、會) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "더는 못 하겠다 이런 거",
+      "translation": "再也不想做這種事了",
+      "analysis": [
+        { "point": "더는", "explanation": "副詞，再也。" },
+        { "point": "못 하겠다", "explanation": "못하다 (做不到) + -겠- (意志/推測) + -다 (陳述形)。" },
+        { "point": "이런 거", "explanation": "이런 (這樣的) + 거 (東西) 的口語縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "같은 곳에 오래 머무르던 때",
+      "translation": "曾在同一個地方停留很久的時候",
+      "analysis": [
+        { "point": "같은 곳에", "explanation": "같다 (相同的) 的定語形 + 곳 (地方) + -에 (場所助詞)。" },
+        { "point": "오래", "explanation": "副詞，長久地。" },
+        { "point": "머무르던 때", "explanation": "머무르다 (停留) 的過去回想着定語形 + 때 (時候)。" }
+      ]
+    },
+    {
+      "korean": "서스럼없이 보여줬지 너의 심연",
+      "translation": "你曾毫無顧忌地讓我看見你的深淵",
+      "analysis": [
+        { "point": "서스럼없이", "explanation": "서스럼없다 (毫不猶豫、毫無顧忌) 的副詞形。" },
+        { "point": "보여줬지", "explanation": "보여주다 (展現) 的過去形 + -지 (陳述/感嘆語尾)。" },
+        { "point": "너의 심연", "explanation": "너의 (你的) + 심연 (深淵)。" }
+      ]
+    },
+    {
+      "korean": "그 안에 같이 잠기고 난 네가 되었어",
+      "translation": "我和你一同沉入其中 最後成了你",
+      "analysis": [
+        { "point": "그 안에", "explanation": "그 (那) + 안 (裡面) + -에 (場所助詞)。" },
+        { "point": "같이", "explanation": "副詞，一起。" },
+        { "point": "잠기고", "explanation": "잠기다 (沉浸、被淹沒) + -고 (連接詞尾)。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "네가 되었어", "explanation": "네가 (你) + 되다 (成為) 的過去非格式體。" }
+      ]
+    },
+    {
+      "korean": "괜한 시간이었지 이런 거",
+      "translation": "這一切終究只是白費時間",
+      "analysis": [
+        { "point": "괜한", "explanation": "괜하다 (徒然的、白費的) 的定語形。" },
+        { "point": "시간이었지", "explanation": "시간 (時間) + -이었지 (是...吧)。" },
+        { "point": "이런 거", "explanation": "이런 (這樣的) + 거 (東西) 的口語縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "우린 웃으며 서로를 새겨",
+      "translation": "我們笑著將彼此刻進心底",
+      "analysis": [
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" },
+        { "point": "웃으며", "explanation": "웃다 (笑) + -으며 (同時)。" },
+        { "point": "서로를", "explanation": "서로 (彼此) + -를 (受格助詞)。" },
+        { "point": "새겨", "explanation": "새기다 (刻、銘記) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "지우는 법조차 모르는 채로",
+      "translation": "卻連如何抹去都不知道",
+      "analysis": [
+        { "point": "지우는", "explanation": "지우다 (抹去) 的現在定語形。" },
+        { "point": "법조차", "explanation": "법 (方法) + -조차 (連...也)。" },
+        { "point": "모르는", "explanation": "모르다 (不知道) 的現在定語形。" },
+        { "point": "채로", "explanation": "채 (保持狀態) + -로 (以...狀態)。" }
+      ]
+    },
+    {
+      "korean": "우린 웃으며 서로를 보내",
+      "translation": "我們笑著送別彼此",
+      "analysis": [
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" },
+        { "point": "웃으며", "explanation": "웃다 (笑) + -으며 (同時)。" },
+        { "point": "서로를", "explanation": "서로 (彼此) + -를 (受格助詞)。" },
+        { "point": "보내", "explanation": "보내다 (送走、送別) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "그 뒤가 얼마나 무서울지 모른 채",
+      "translation": "卻不知道離別之後會有多麼可怕",
+      "analysis": [
+        { "point": "그 뒤가", "explanation": "그 (那) + 뒤 (之後) + -가 (主格助詞)。" },
+        { "point": "얼마나", "explanation": "副詞，多麼。" },
+        { "point": "무서울지", "explanation": "무섭다 (可怕) + -(으)ㄹ지 (會有多...呢)。" },
+        { "point": "모른 채", "explanation": "모르다 (不知道) 的過去定語形 + 채 (保持狀態)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "다 고장 난 채로 하는 게 사랑이라",
+      "translation": "所謂愛情 就是明明一切都已破碎卻依然繼續",
+      "analysis": [
+        { "point": "다", "explanation": "副詞，全部、完全。" },
+        { "point": "고장 난 채로", "explanation": "고장 나다 (故障) 的過去定語形 + 채로 (保持狀態)。" },
+        { "point": "하는 게", "explanation": "하다 (做) 的現在定語形 + 것 (事情) + -이 (主格助詞) 的縮略。" },
+        { "point": "사랑이라", "explanation": "사랑 (愛情) + -이라 (是)。" }
+      ]
+    },
+    {
+      "korean": "우린 볼 수가 없죠",
+      "translation": "我們卻始終看不清",
+      "analysis": [
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" },
+        { "point": "볼 수가 없죠", "explanation": "보다 (看) + -(으)ㄹ 수 없다 (無法) + -가 (強調) + -죠 (敬語語尾)。" }
+      ]
+    },
+    {
+      "korean": "끝이 없을 것 같은 눈빛",
+      "translation": "那彷彿永無止境的眼神",
+      "analysis": [
+        { "point": "끝이", "explanation": "끝 (盡頭) + -이 (主格助詞)。" },
+        { "point": "없을 것 같은", "explanation": "없다 (沒有) + -(으)ㄹ 것 같다 (好像會) 的定語形。" },
+        { "point": "눈빛", "explanation": "名詞，眼神。" }
+      ]
+    },
+    {
+      "korean": "그걸 너무 믿지 말아요",
+      "translation": "別太相信那樣的眼神",
+      "analysis": [
+        { "point": "그걸", "explanation": "그것을 (那個) 的縮略。" },
+        { "point": "너무", "explanation": "副詞，太。" },
+        { "point": "믿지 말아요", "explanation": "믿다 (相信) + -지 말다 (不要) 的敬語非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "우린 웃으며 서로를 새겨",
+      "translation": "我們笑著將彼此刻進心底",
+      "analysis": [
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" },
+        { "point": "웃으며", "explanation": "웃다 (笑) + -으며 (同時)。" },
+        { "point": "서로를", "explanation": "서로 (彼此) + -를 (受格助詞)。" },
+        { "point": "새겨", "explanation": "새기다 (刻、銘記) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "지우는 법조차 모르는 채로",
+      "translation": "卻連如何抹去都不知道",
+      "analysis": [
+        { "point": "지우는", "explanation": "지우다 (抹去) 的現在定語形。" },
+        { "point": "법조차", "explanation": "법 (方法) + -조차 (連...也)。" },
+        { "point": "모르는", "explanation": "모르다 (不知道) 的現在定語形。" },
+        { "point": "채로", "explanation": "채 (保持狀態) + -로 (以...狀態)。" }
+      ]
+    },
+    {
+      "korean": "우린 웃으며 서로를 보내",
+      "translation": "我們笑著送別彼此",
+      "analysis": [
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" },
+        { "point": "웃으며", "explanation": "웃다 (笑) + -으며 (同時)。" },
+        { "point": "서로를", "explanation": "서로 (彼此) + -를 (受格助詞)。" },
+        { "point": "보내", "explanation": "보내다 (送走、送別) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "그 뒤가 얼마나 무서울지 모른 채",
+      "translation": "卻不知道離別之後會有多麼可怕",
+      "analysis": [
+        { "point": "그 뒤가", "explanation": "그 (那) + 뒤 (之後) + -가 (主格助詞)。" },
+        { "point": "얼마나", "explanation": "副詞，多麼。" },
+        { "point": "무서울지", "explanation": "무섭다 (可怕) + -(으)ㄹ지 (會有多...呢)。" },
+        { "point": "모른 채", "explanation": "모르다 (不知道) 的過去定語形 + 채 (保持狀態)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "그 뒤가 얼마나 무서울지 모른 채",
+      "translation": "卻不知道離別之後會有多麼可怕",
+      "analysis": [
+        { "point": "그 뒤가", "explanation": "그 (那) + 뒤 (之後) + -가 (主格助詞)。" },
+        { "point": "얼마나", "explanation": "副詞，多麼。" },
+        { "point": "무서울지", "explanation": "무섭다 (可怕) + -(으)ㄹ지 (會有多...呢)。" },
+        { "point": "모른 채", "explanation": "모르다 (不知道) 的過去定語形 + 채 (保持狀態)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "같다", "chinese": "相同的", "pos": "形容詞" },
+    { "korean": "곳", "chinese": "地方", "pos": "名詞" },
+    { "korean": "오래", "chinese": "長久地", "pos": "副詞" },
+    { "korean": "걷다", "chinese": "走", "pos": "動詞" },
+    { "korean": "뭐", "chinese": "什麼", "pos": "代名詞" },
+    { "korean": "중요하다", "chinese": "重要", "pos": "形容詞" },
+    { "korean": "우리", "chinese": "我們", "pos": "代名詞" },
+    { "korean": "다르다", "chinese": "不同的", "pos": "形容詞" },
+    { "korean": "도착하다", "chinese": "到達", "pos": "動詞" },
+    { "korean": "마치", "chinese": "彷彿", "pos": "副詞" },
+    { "korean": "남", "chinese": "陌生人", "pos": "名詞" },
+    { "korean": "안부", "chinese": "問候", "pos": "名詞" },
+    { "korean": "묻다", "chinese": "問", "pos": "動詞" },
+    { "korean": "더는", "chinese": "再也", "pos": "副詞" },
+    { "korean": "못하다", "chinese": "做不到", "pos": "動詞" },
+    { "korean": "이런", "chinese": "這樣的", "pos": "冠詞" },
+    { "korean": "머무르다", "chinese": "停留", "pos": "動詞" },
+    { "korean": "때", "chinese": "時候", "pos": "名詞" },
+    { "korean": "서스럼없이", "chinese": "毫不猶豫地", "pos": "副詞" },
+    { "korean": "보여주다", "chinese": "展現", "pos": "動詞" },
+    { "korean": "심연", "chinese": "深淵", "pos": "名詞" },
+    { "korean": "안", "chinese": "裡面", "pos": "名詞" },
+    { "korean": "같이", "chinese": "一起", "pos": "副詞" },
+    { "korean": "잠기다", "chinese": "沉浸、被淹沒", "pos": "動詞" },
+    { "korean": "되다", "chinese": "成為", "pos": "動詞" },
+    { "korean": "괜하다", "chinese": "徒然的、白費的", "pos": "形容詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "웃다", "chinese": "笑", "pos": "動詞" },
+    { "korean": "서로", "chinese": "彼此", "pos": "副詞" },
+    { "korean": "새기다", "chinese": "刻、銘記", "pos": "動詞" },
+    { "korean": "지우다", "chinese": "抹去", "pos": "動詞" },
+    { "korean": "법", "chinese": "方法", "pos": "名詞" },
+    { "korean": "조차", "chinese": "連...也", "pos": "助詞" },
+    { "korean": "모르다", "chinese": "不知道", "pos": "動詞" },
+    { "korean": "채로", "chinese": "保持狀態", "pos": "助詞" },
+    { "korean": "보내다", "chinese": "送走、送別", "pos": "動詞" },
+    { "korean": "뒤", "chinese": "之後", "pos": "名詞" },
+    { "korean": "얼마나", "chinese": "多麼", "pos": "副詞" },
+    { "korean": "무섭다", "chinese": "可怕", "pos": "形容詞" },
+    { "korean": "고장 나다", "chinese": "故障", "pos": "片語" },
+    { "korean": "사랑", "chinese": "愛情", "pos": "名詞" },
+    { "korean": "보다", "chinese": "看", "pos": "動詞" },
+    { "korean": "끝", "chinese": "盡頭", "pos": "名詞" },
+    { "korean": "없다", "chinese": "沒有", "pos": "形容詞" },
+    { "korean": "눈빛", "chinese": "眼神", "pos": "名詞" },
+    { "korean": "너무", "chinese": "太", "pos": "副詞" },
+    { "korean": "믿다", "chinese": "相信", "pos": "動詞" },
+    { "korean": "말다", "chinese": "不要", "pos": "動詞" }
+  ]
+}
