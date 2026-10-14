@@ -15,7 +15,7 @@
     },
     {
       "korean": "난 떨어져 땅에",
-      "translation": "我掉落到地上",
+      "translation": "我卻墜落在地",
       "analysis": [
         { "point": "난", "explanation": "나는 (我) 的縮略。" },
         { "point": "떨어져", "explanation": "떨어지다 (掉落) 的非格式體。" },
@@ -24,7 +24,7 @@
     },
     {
       "korean": "더 떨어질 곳도 없이",
-      "translation": "連再往下掉的地方都沒有",
+      "translation": "已經沒有地方能再往下墜",
       "analysis": [
         { "point": "더", "explanation": "副詞，更。" },
         { "point": "떨어질", "explanation": "떨어지다 (掉落) 的未來定語形。" },
@@ -34,7 +34,7 @@
     },
     {
       "korean": "괴로워져 밤에",
-      "translation": "在夜裡變得痛苦",
+      "translation": "夜裡變得如此痛苦",
       "analysis": [
         { "point": "괴로워져", "explanation": "괴롭다 (痛苦) + -아/어 지다 (變得) 的非格式體。" },
         { "point": "밤에", "explanation": "밤 (夜晚) + -에 (時間助詞)。" }
@@ -42,7 +42,7 @@
     },
     {
       "korean": "욕도 해 달에",
-      "translation": "對著月亮也罵",
+      "translation": "甚至對著月亮破口大罵",
       "analysis": [
         { "point": "욕도", "explanation": "욕 (罵) + -도 (也)。" },
         { "point": "해", "explanation": "하다 (做) 的非格式體。" },
@@ -51,7 +51,7 @@
     },
     {
       "korean": "고장이 나 버린 거지",
-      "translation": "徹底壞掉了",
+      "translation": "就這樣徹底壞掉了",
       "analysis": [
         { "point": "고장이", "explanation": "고장 (故障) + -이 (主格助詞)。" },
         { "point": "나 버린", "explanation": "나다 (出、發生) + -아/어 버리다 (完了) 的過去定語形。" },
@@ -61,7 +61,7 @@
     {
       "sectionTitle": "Pre-Chorus",
       "korean": "보도 못한 심해로 빠뜨려준 덕에",
-      "translation": "多虧你把我推進看不見的深海",
+      "translation": "多虧你把我推進了從未見過的深海",
       "analysis": [
         { "point": "보도 못한", "explanation": "보다 (看) + -도 못하다 (連...也無法) 的過去定語形。" },
         { "point": "심해로", "explanation": "심해 (深海) + -(으)로 (向)。" },
@@ -71,7 +71,7 @@
     },
     {
       "korean": "난 그 덕에",
-      "translation": "我因此",
+      "translation": "而我也因此",
       "analysis": [
         { "point": "난", "explanation": "나는 (我) 的縮略。" },
         { "point": "그", "explanation": "冠詞，那。" },
@@ -80,7 +80,7 @@
     },
     {
       "korean": "새로운 지옥을 보았어",
-      "translation": "看見了新的地獄",
+      "translation": "看見了全新的地獄",
       "analysis": [
         { "point": "새로운", "explanation": "새롭다 (新的) 的定語形。" },
         { "point": "지옥을", "explanation": "지옥 (地獄) + -을 (受格助詞)。" },
@@ -90,7 +90,7 @@
     {
       "sectionTitle": "Chorus",
       "korean": "아주 잊진 말아",
-      "translation": "千萬不要忘記",
+      "translation": "可別真的忘了",
       "analysis": [
         { "point": "아주", "explanation": "副詞，非常、千萬。" },
         { "point": "잊진", "explanation": "잊다 (忘記) + -지 (強調) + -는 (主題助詞) 的縮略。" },
@@ -99,7 +99,7 @@
     },
     {
       "korean": "그건 아니잖아",
-      "translation": "不是那樣啊",
+      "translation": "不該是這樣的啊",
       "analysis": [
         { "point": "그건", "explanation": "그것은 (那個) 的縮略。" },
         { "point": "아니잖아", "explanation": "아니다 (不是) + -잖아 (不是嗎)。" }
@@ -107,7 +107,7 @@
     },
     {
       "korean": "아무 말 없다 해도",
-      "translation": "就算什麼話都不說",
+      "translation": "就算一句話也不說",
       "analysis": [
         { "point": "아무", "explanation": "冠詞，任何。" },
         { "point": "말", "explanation": "名詞，話。" },
@@ -116,7 +116,7 @@
     },
     {
       "korean": "붙잡는 게 아냐",
-      "translation": "也不是挽留",
+      "translation": "我並不是想挽留你",
       "analysis": [
         { "point": "붙잡는", "explanation": "붙잡다 (抓住、挽留) 的現在定語形。" },
         { "point": "게", "explanation": "것 (事情) + -이 (主格助詞) 的縮略。" },
@@ -125,7 +125,7 @@
     },
     {
       "korean": "나름 괜찮아 나",
-      "translation": "我還算可以",
+      "translation": "我自己也能過得還不錯",
       "analysis": [
         { "point": "나름", "explanation": "副詞，還算、按自己方式。" },
         { "point": "괜찮아", "explanation": "괜찮다 (沒關係、還好) 的非格式體。" },
@@ -134,7 +134,7 @@
     },
     {
       "korean": "더 잃을 게 없어 덕분에 난",
-      "translation": "因為你我再也沒有可失去的了",
+      "translation": "多虧了你 我已經沒什麼可失去的了",
       "analysis": [
         { "point": "더", "explanation": "副詞，更。" },
         { "point": "잃을", "explanation": "잃다 (失去) 的未來定語形。" },
@@ -166,7 +166,7 @@
     },
     {
       "korean": "던지듯 뱉어본 바람들도",
-      "translation": "像扔出去一樣吐出的那些願望也都",
+      "translation": "那些像隨手丟出去般說出口的願望也",
       "analysis": [
         { "point": "던지듯", "explanation": "던지다 (扔) + -듯 (好像...一樣)。" },
         { "point": "뱉어본", "explanation": "뱉다 (吐) + -아/어 보다 (嘗試) 的過去定語形。" },
@@ -175,14 +175,14 @@
     },
     {
       "korean": "Wherever you are",
-      "translation": "無論你在哪裡",
+      "translation": "無論你身在何處",
       "analysis": [
         { "point": "Wherever you are", "explanation": "英文歌詞，無韓文文法解析。" }
       ]
     },
     {
       "korean": "이 사랑은 이름을 잃을 테니까",
-      "translation": "因為這份愛終將失去名字",
+      "translation": "因為這份愛終究會失去名字",
       "analysis": [
         { "point": "이 사랑은", "explanation": "이 (這) + 사랑 (愛情) + -은 (主題助詞)。" },
         { "point": "이름을", "explanation": "이름 (名字) + -을 (受格助詞)。" },
@@ -192,7 +192,7 @@
     {
       "sectionTitle": "Bridge",
       "korean": "보도 못한 심해로 빠져도 돼 더는",
-      "translation": "就算掉進看不見的深海也無所謂 再也",
+      "translation": "就算再次墜入那片從未見過的深海也無妨 再也",
       "analysis": [
         { "point": "보도 못한", "explanation": "보다 (看) + -도 못하다 (連...也無法) 的過去定語形。" },
         { "point": "심해로", "explanation": "심해 (深海) + -(으)로 (向)。" },
@@ -202,7 +202,7 @@
     },
     {
       "korean": "두렵지 않아",
-      "translation": "不害怕了",
+      "translation": "我已經不再害怕",
       "analysis": [
         { "point": "두렵지 않아", "explanation": "두렵다 (害怕) + -지 않다 (不) 的非格式體。" }
       ]
@@ -210,7 +210,7 @@
     {
       "sectionTitle": "Chorus",
       "korean": "아주 잊진 말아",
-      "translation": "千萬不要忘記",
+      "translation": "可別真的忘了",
       "analysis": [
         { "point": "아주", "explanation": "副詞，非常、千萬。" },
         { "point": "잊진", "explanation": "잊다 (忘記) + -지 (強調) + -는 (主題助詞) 的縮略。" },
@@ -219,7 +219,7 @@
     },
     {
       "korean": "그건 아니잖아",
-      "translation": "不是那樣啊",
+      "translation": "不該是這樣的啊",
       "analysis": [
         { "point": "그건", "explanation": "그것은 (那個) 的縮略。" },
         { "point": "아니잖아", "explanation": "아니다 (不是) + -잖아 (不是嗎)。" }
@@ -227,7 +227,7 @@
     },
     {
       "korean": "아무 말 없다 해도",
-      "translation": "就算什麼話都不說",
+      "translation": "就算一句話也不說",
       "analysis": [
         { "point": "아무", "explanation": "冠詞，任何。" },
         { "point": "말", "explanation": "名詞，話。" },
@@ -236,7 +236,7 @@
     },
     {
       "korean": "붙잡는 게 아냐",
-      "translation": "也不是挽留",
+      "translation": "我並不是想挽留你",
       "analysis": [
         { "point": "붙잡는", "explanation": "붙잡다 (抓住、挽留) 的現在定語形。" },
         { "point": "게", "explanation": "것 (事情) + -이 (主格助詞) 的縮略。" },
@@ -245,7 +245,7 @@
     },
     {
       "korean": "나름 괜찮아 나",
-      "translation": "我還算可以",
+      "translation": "我自己也能過得還不錯",
       "analysis": [
         { "point": "나름", "explanation": "副詞，還算、按自己方式。" },
         { "point": "괜찮아", "explanation": "괜찮다 (沒關係、還好) 的非格式體。" },
@@ -254,7 +254,7 @@
     },
     {
       "korean": "더 잃을 게 없어 덕분에 난",
-      "translation": "因為你我再也沒有可失去的了",
+      "translation": "多虧了你 我已經沒什麼可失去的了",
       "analysis": [
         { "point": "더", "explanation": "副詞，更。" },
         { "point": "잃을", "explanation": "잃다 (失去) 的未來定語形。" },

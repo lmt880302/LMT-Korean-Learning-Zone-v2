@@ -6,7 +6,7 @@
     {
       "sectionTitle": "Verse 1",
       "korean": "물속에서 난",
-      "translation": "在水裡的我",
+      "translation": "身在水中的我",
       "analysis": [
         { "point": "물속에서", "explanation": "물속 (水中) + -에서 (在...裡)。" },
         { "point": "난", "explanation": "나는 (我) 的縮略。" }
@@ -14,14 +14,14 @@
     },
     {
       "korean": "살아남지 못해",
-      "translation": "活不下去",
+      "translation": "根本無法活下去",
       "analysis": [
         { "point": "살아남지 못해", "explanation": "살아남다 (存活) + -지 못하다 (無法) 的非格式體。" }
       ]
     },
     {
       "korean": "헤엄치는 법도 모르는 날 왜 밀어 넣어",
-      "translation": "連游泳都不會的我 為什麼推進水裡",
+      "translation": "連怎麼游泳都不知道的我 為什麼還要把我推進水裡",
       "analysis": [
         { "point": "헤엄치는", "explanation": "헤엄치다 (游泳) 的現在定語形。" },
         { "point": "법도", "explanation": "법 (方法) + -도 (也)。" },
@@ -33,7 +33,7 @@
     },
     {
       "korean": "잠겨버린 채",
-      "translation": "就這樣沉下去",
+      "translation": "就這樣沉入水中",
       "analysis": [
         { "point": "잠겨버린", "explanation": "잠기다 (沉沒、被淹沒) + -아/어 버리다 (完了) 的過去定語形。" },
         { "point": "채", "explanation": "保持狀態的助詞。" }
@@ -41,7 +41,7 @@
     },
     {
       "korean": "고갤 들었네",
-      "translation": "抬起了頭",
+      "translation": "我抬起了頭",
       "analysis": [
         { "point": "고갤", "explanation": "고개를 (頭) 的縮略。" },
         { "point": "들었네", "explanation": "들다 (抬) 的過去形 + -네 (感嘆形語尾)。" }
@@ -49,7 +49,7 @@
     },
     {
       "korean": "넌 눈 맞춘 채 웃고만 있는 거야",
-      "translation": "你只是對上眼笑著",
+      "translation": "你只是與我對視著 笑而不語",
       "analysis": [
         { "point": "넌", "explanation": "너는 (你) 的縮略。" },
         { "point": "눈 맞춘 채", "explanation": "눈 (眼睛) + 맞추다 (對上) 的過去定語形 + 채 (保持狀態)。" },
@@ -66,7 +66,7 @@
     },
     {
       "korean": "이 기분은 뭐야",
-      "translation": "這心情是什麼",
+      "translation": "這到底是什麼感覺",
       "analysis": [
         { "point": "이 기분은", "explanation": "이 (這) + 기분 (感覺、心情) + -은 (主題助詞)。" },
         { "point": "뭐야", "explanation": "뭐 (什麼) + -야 (是...嗎) 的口語形。" }
@@ -74,7 +74,7 @@
     },
     {
       "korean": "매번 삐끗하다 겨우 붙잡고",
-      "translation": "每次都失手 好不容易抓住",
+      "translation": "每次都差點失足 又好不容易抓住",
       "analysis": [
         { "point": "매번", "explanation": "副詞，每次。" },
         { "point": "삐끗하다", "explanation": "삐끗하다 (失誤、滑倒) 的非格式體。" },
@@ -84,7 +84,7 @@
     },
     {
       "korean": "숨을 쉬어보려는 나를",
-      "translation": "試圖呼吸的我",
+      "translation": "努力想要呼吸的我",
       "analysis": [
         { "point": "숨을", "explanation": "숨 (呼吸) + -을 (受格助詞)。" },
         { "point": "쉬어보려는", "explanation": "쉬다 (呼吸) + -아/어 보다 (嘗試) + -려는 (想要...的) 的現在定語形。" },
@@ -93,7 +93,7 @@
     },
     {
       "korean": "다시 저 끝까지 잠겨버리게 해",
-      "translation": "又讓我沉到那盡頭",
+      "translation": "又讓我再次沉入深處",
       "analysis": [
         { "point": "다시", "explanation": "副詞，再次。" },
         { "point": "저 끝까지", "explanation": "저 (那) + 끝 (盡頭) + -까지 (到...為止)。" },
@@ -109,7 +109,7 @@
     },
     {
       "korean": "너는 내게 뭐야",
-      "translation": "你對我來說是什麼",
+      "translation": "你對我而言究竟算什麼",
       "analysis": [
         { "point": "너는", "explanation": "너 (你) + -는 (主題助詞)。" },
         { "point": "내게", "explanation": "나에게 (對我) 的縮略。" },
@@ -118,7 +118,7 @@
     },
     {
       "korean": "힘이 빠져가는 몸을 붙잡고",
-      "translation": "抓住逐漸無力的身體",
+      "translation": "勉強支撐著逐漸失去力氣的身體",
       "analysis": [
         { "point": "힘이", "explanation": "힘 (力氣) + -이 (主格助詞)。" },
         { "point": "빠져가는", "explanation": "빠지다 (流失、陷入) + -아/어 가다 (漸進) 的現在定語形。" },
@@ -128,7 +128,7 @@
     },
     {
       "korean": "이곳엔 또 나만 남아 I might drown",
-      "translation": "這裡又只剩我一人 I might drown",
+      "translation": "這裡又只剩下我一個人 I might drown",
       "analysis": [
         { "point": "이곳엔", "explanation": "이곳 (這裡) + -에 (在) + -는 (強調) 的縮略。" },
         { "point": "또", "explanation": "副詞，又。" },
@@ -139,7 +139,7 @@
     },
     {
       "korean": "Save me now",
-      "translation": "Save me now",
+      "translation": "現在就救救我",
       "analysis": [
         { "point": "Save me now", "explanation": "英文歌詞，無韓文文法解析。" }
       ]
@@ -147,14 +147,14 @@
     {
       "sectionTitle": "Verse 2",
       "korean": "Lifeboat has gone away (Away)",
-      "translation": "救生艇已經離去 (Away)",
+      "translation": "救生艇已經遠去 (Away)",
       "analysis": [
         { "point": "Lifeboat has gone away (Away)", "explanation": "英文歌詞，無韓文文法解析。" }
       ]
     },
     {
       "korean": "너와 내가 내릴까 정해야 돼 (Don’t play me)",
-      "translation": "得決定你和我是否下船 (Don’t play me)",
+      "translation": "我們得決定到底要不要下船 (Don’t play me)",
       "analysis": [
         { "point": "너와 내가", "explanation": "너 (你) + -와 (和) + 내가 (我)。" },
         { "point": "내릴까", "explanation": "내리다 (下船、下車) + -(으)ㄹ까 (是否...呢)。" },
@@ -164,7 +164,7 @@
     },
     {
       "korean": "매일 머리가 아파와 (No way)",
-      "translation": "每天頭痛襲來 (No way)",
+      "translation": "每天頭痛不斷襲來 (No way)",
       "analysis": [
         { "point": "매일", "explanation": "副詞，每天。" },
         { "point": "머리가", "explanation": "머리 (頭) + -가 (主格助詞)。" },
@@ -174,7 +174,7 @@
     },
     {
       "korean": "You said you'll never go",
-      "translation": "You said you'll never go",
+      "translation": "你明明說過永遠不會離開",
       "analysis": [
         { "point": "You said you'll never go", "explanation": "英文歌詞，無韓文文法解析。" }
       ]
@@ -189,7 +189,7 @@
     },
     {
       "korean": "이 기분은 뭐야",
-      "translation": "這心情是什麼",
+      "translation": "這到底是什麼感覺",
       "analysis": [
         { "point": "이 기분은", "explanation": "이 (這) + 기분 (感覺、心情) + -은 (主題助詞)。" },
         { "point": "뭐야", "explanation": "뭐 (什麼) + -야 (是...嗎) 的口語形。" }
@@ -197,7 +197,7 @@
     },
     {
       "korean": "매번 삐끗하다 겨우 붙잡고",
-      "translation": "每次都失手 好不容易抓住",
+      "translation": "每次都差點失足 又好不容易抓住",
       "analysis": [
         { "point": "매번", "explanation": "副詞，每次。" },
         { "point": "삐끗하다", "explanation": "삐끗하다 (失誤、滑倒) 的非格式體。" },
@@ -207,7 +207,7 @@
     },
     {
       "korean": "숨을 쉬어보려는 나를",
-      "translation": "試圖呼吸的我",
+      "translation": "努力想要呼吸的我",
       "analysis": [
         { "point": "숨을", "explanation": "숨 (呼吸) + -을 (受格助詞)。" },
         { "point": "쉬어보려는", "explanation": "쉬다 (呼吸) + -아/어 보다 (嘗試) + -려는 (想要...的) 的現在定語形。" },
@@ -216,7 +216,7 @@
     },
     {
       "korean": "다시 저 끝까지 잠겨버리게 해",
-      "translation": "又讓我沉到那盡頭",
+      "translation": "又讓我再次沉入深處",
       "analysis": [
         { "point": "다시", "explanation": "副詞，再次。" },
         { "point": "저 끝까지", "explanation": "저 (那) + 끝 (盡頭) + -까지 (到...為止)。" },
@@ -232,7 +232,7 @@
     },
     {
       "korean": "너는 내게 뭐야",
-      "translation": "你對我來說是什麼",
+      "translation": "你對我而言究竟算什麼",
       "analysis": [
         { "point": "너는", "explanation": "너 (你) + -는 (主題助詞)。" },
         { "point": "내게", "explanation": "나에게 (對我) 的縮略。" },
@@ -241,7 +241,7 @@
     },
     {
       "korean": "힘이 빠져가는 몸을 붙잡고",
-      "translation": "抓住逐漸無力的身體",
+      "translation": "勉強支撐著逐漸失去力氣的身體",
       "analysis": [
         { "point": "힘이", "explanation": "힘 (力氣) + -이 (主格助詞)。" },
         { "point": "빠져가는", "explanation": "빠지다 (流失、陷入) + -아/어 가다 (漸進) 的現在定語形。" },
@@ -251,7 +251,7 @@
     },
     {
       "korean": "이곳엔 또 나만 남아 I might drown",
-      "translation": "這裡又只剩我一人 I might drown",
+      "translation": "這裡又只剩下我一個人 I might drown",
       "analysis": [
         { "point": "이곳엔", "explanation": "이곳 (這裡) + -에 (在) + -는 (強調) 的縮略。" },
         { "point": "또", "explanation": "副詞，又。" },
@@ -262,7 +262,7 @@
     },
     {
       "korean": "Save me now",
-      "translation": "Save me now",
+      "translation": "現在就救救我",
       "analysis": [
         { "point": "Save me now", "explanation": "英文歌詞，無韓文文法解析。" }
       ]
@@ -277,7 +277,7 @@
     },
     {
       "korean": "이 기분은 뭐야",
-      "translation": "這心情是什麼",
+      "translation": "這到底是什麼感覺",
       "analysis": [
         { "point": "이 기분은", "explanation": "이 (這) + 기분 (感覺、心情) + -은 (主題助詞)。" },
         { "point": "뭐야", "explanation": "뭐 (什麼) + -야 (是...嗎) 的口語形。" }
@@ -285,7 +285,7 @@
     },
     {
       "korean": "매번 삐끗하다 겨우 붙잡고",
-      "translation": "每次都失手 好不容易抓住",
+      "translation": "每次都差點失足 又好不容易抓住",
       "analysis": [
         { "point": "매번", "explanation": "副詞，每次。" },
         { "point": "삐끗하다", "explanation": "삐끗하다 (失誤、滑倒) 的非格式體。" },
@@ -295,7 +295,7 @@
     },
     {
       "korean": "숨을 쉬어보려는 나를",
-      "translation": "試圖呼吸的我",
+      "translation": "努力想要呼吸的我",
       "analysis": [
         { "point": "숨을", "explanation": "숨 (呼吸) + -을 (受格助詞)。" },
         { "point": "쉬어보려는", "explanation": "쉬다 (呼吸) + -아/어 보다 (嘗試) + -려는 (想要...的) 的現在定語形。" },
@@ -304,14 +304,14 @@
     },
     {
       "korean": "I might drown",
-      "translation": "I might drown",
+      "translation": "我可能會溺水",
       "analysis": [
         { "point": "I might drown", "explanation": "英文歌詞，無韓文文法解析。" }
       ]
     },
     {
       "korean": "Save me now",
-      "translation": "Save me now",
+      "translation": "現在就救救我",
       "analysis": [
         { "point": "Save me now", "explanation": "英文歌詞，無韓文文法解析。" }
       ]
@@ -325,7 +325,7 @@
     },
     {
       "korean": "우리 이게 뭐야",
-      "translation": "我們這算什麼",
+      "translation": "我們怎麼會變成這樣",
       "analysis": [
         { "point": "우리", "explanation": "代詞，我們。" },
         { "point": "이게", "explanation": "이것이 (這個) 的縮略。" },
@@ -334,7 +334,7 @@
     },
     {
       "korean": "저 멀리까지 가기로 했잖아",
-      "translation": "不是說好要去遠方嗎",
+      "translation": "我們不是說好要一起走到遠方嗎",
       "analysis": [
         { "point": "저 멀리까지", "explanation": "저 (那) + 멀리 (遠處) + -까지 (到...為止)。" },
         { "point": "가기로 했잖아", "explanation": "가다 (去) + -기로 하다 (決定) 的過去形 + -잖아 (不是嗎)。" }
@@ -342,7 +342,7 @@
     },
     {
       "korean": "모든 게 휘몰아쳐 더는",
-      "translation": "一切都席捲而來 再也",
+      "translation": "一切席捲而來 我再也無法",
       "analysis": [
         { "point": "모든 게", "explanation": "모든 것 (所有事物) + -이 (主格助詞) 的縮略。" },
         { "point": "휘몰아쳐", "explanation": "휘몰아치다 (席捲) 的非格式體。" },
@@ -351,14 +351,14 @@
     },
     {
       "korean": "I might drown",
-      "translation": "I might drown",
+      "translation": "我可能會溺水",
       "analysis": [
         { "point": "I might drown", "explanation": "英文歌詞，無韓文文法解析。" }
       ]
     },
     {
       "korean": "Kill me now",
-      "translation": "Kill me now",
+      "translation": "現在就殺了我",
       "analysis": [
         { "point": "Kill me now", "explanation": "英文歌詞，無韓文文法解析。" }
       ]

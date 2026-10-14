@@ -1,0 +1,356 @@
+{
+  "id": "yuju-p-s",
+  "title": "추신 (P.S.)",
+  "artist": "YUJU (유주)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "전하지 못한 말이라거나",
+      "translation": "不是什麼沒能說出口的話",
+      "analysis": [
+        { "point": "전하지 못한", "explanation": "전하다 (傳達) + -지 못하다 (未能) 的過去定語形。" },
+        { "point": "말이라거나", "explanation": "말 (話) + -이라거나 (或是...之類的)。" }
+      ]
+    },
+    {
+      "korean": "가 닿길 바라는 그런 게 아냐, 알잖아",
+      "translation": "也不是什麼盼著能傳達到你心裡的話 你明明知道的",
+      "analysis": [
+        { "point": "가 닿길", "explanation": "가 닿다 (觸及、到達) + -길 (希望) 的縮略。" },
+        { "point": "바라는", "explanation": "바라다 (希望) 的現在定語形。" },
+        { "point": "그런 게", "explanation": "그런 (那樣的) + 것 (東西) + -이 (主格助詞) 的縮略。" },
+        { "point": "아냐", "explanation": "아니다 (不是) 的口語非格式體。" },
+        { "point": "알잖아", "explanation": "알다 (知道) + -잖아 (不是嗎)。" }
+      ]
+    },
+    {
+      "korean": "어질러진 오늘 나의 맘을",
+      "translation": "把今天這顆亂糟糟的心",
+      "analysis": [
+        { "point": "어질러진", "explanation": "어지르다 (弄亂) 的被動形 어질러지다 的過去定語形。" },
+        { "point": "오늘", "explanation": "名詞，今天。" },
+        { "point": "나의 맘을", "explanation": "나의 (我的) + 마음 (心) 的縮略 + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "줄 없는 이 빈칸에",
+      "translation": "放進這片沒有橫線的空白裡",
+      "analysis": [
+        { "point": "줄 없는", "explanation": "줄 (線) + 없다 (沒有) 的現在定語形。" },
+        { "point": "이 빈칸에", "explanation": "이 (這) + 빈칸 (空白) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "담아보는 것일 뿐",
+      "translation": "我只是試著把它寫下來而已",
+      "analysis": [
+        { "point": "담아보는", "explanation": "담다 (裝) + -아/어 보다 (嘗試) 的現在定語形。" },
+        { "point": "것일 뿐", "explanation": "것 (事情) + -일 (是) + 뿐 (只是)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "마른하늘에 적당한 해",
+      "translation": "晴朗天空中恰到好處的陽光",
+      "analysis": [
+        { "point": "마른하늘에", "explanation": "마른하늘 (乾燥的天空) + -에 (場所助詞)。" },
+        { "point": "적당한 해", "explanation": "적당하다 (適當的) 的定語形 + 해 (太陽)。" }
+      ]
+    },
+    {
+      "korean": "이런 날에 눈을 뜰 때면",
+      "translation": "每當在這樣的日子睜開雙眼",
+      "analysis": [
+        { "point": "이런 날에", "explanation": "이런 (這樣的) + 날 (日子) + -에 (時間助詞)。" },
+        { "point": "눈을 뜰 때면", "explanation": "눈 (眼睛) + -을 (受格助詞) + 뜨다 (睜開) 的未來定語形 + 때면 (每當...的時候)。" }
+      ]
+    },
+    {
+      "korean": "넌 편안해했지",
+      "translation": "你總能感到安心",
+      "analysis": [
+        { "point": "넌", "explanation": "너는 (你) 的縮略。" },
+        { "point": "편안해했지", "explanation": "편안하다 (舒適的) + -아/어 하다 (感到) 的過去形 + -지 (陳述/確認語尾)。" }
+      ]
+    },
+    {
+      "korean": "마른 마음에 흐르던 비",
+      "translation": "曾落在乾涸心田裡的雨",
+      "analysis": [
+        { "point": "마른 마음에", "explanation": "마르다 (乾涸) 的定語形 + 마음 (心) + -에 (場所助詞)。" },
+        { "point": "흐르던 비", "explanation": "흐르다 (流) 的過去回想着定語形 + 비 (雨)。" }
+      ]
+    },
+    {
+      "korean": "피할 생각 같은 거 없이",
+      "translation": "從未想過要躲開",
+      "analysis": [
+        { "point": "피할", "explanation": "피하다 (躲避) 的未來定語形。" },
+        { "point": "생각 같은 거", "explanation": "생각 (想法) + 같다 (像) 的定語形 + 거 (東西) 的口語縮略。" },
+        { "point": "없이", "explanation": "없다 (沒有) 的副詞形。" }
+      ]
+    },
+    {
+      "korean": "맞으며 웃었지",
+      "translation": "就這樣迎著雨笑了",
+      "analysis": [
+        { "point": "맞으며", "explanation": "맞다 (迎接、承受) + -으며 (同時)。" },
+        { "point": "웃었지", "explanation": "웃다 (笑) 的過去形 + -지 (陳述/確認語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "오늘의 우린 기나긴 날을 지나",
+      "translation": "如今的我們走過了漫長歲月",
+      "analysis": [
+        { "point": "오늘의 우린", "explanation": "오늘 (今天) + -의 (的) + 우리는 (我們) 的縮略。" },
+        { "point": "기나긴", "explanation": "기나길다 (漫長的) 的定語形。" },
+        { "point": "날을 지나", "explanation": "날 (日子) + -을 (受格助詞) + 지나다 (經過) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "닿을 수 없는 초침이 되어도",
+      "translation": "即使成為再也無法觸及的秒針",
+      "analysis": [
+        { "point": "닿을 수 없는", "explanation": "닿다 (觸及) + -(으)ㄹ 수 없다 (無法) 的定語形。" },
+        { "point": "초침이 되어도", "explanation": "초침 (秒針) + -이 (主格助詞) + 되다 (成為) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "아이와 같은 마음을 품고 살아가는 너지만",
+      "translation": "雖然你一直懷抱著孩子般純真的心生活",
+      "analysis": [
+        { "point": "아이와 같은", "explanation": "아이 (孩子) + -와 (和) + 같다 (像) 的定語形。" },
+        { "point": "마음을 품고", "explanation": "마음 (心) + -을 (受格助詞) + 품다 (懷抱) + -고 (連接詞尾)。" },
+        { "point": "살아가는", "explanation": "살아가다 (活下去) 的現在定語形。" },
+        { "point": "너지만", "explanation": "너 (你) + -지만 (雖然)。" }
+      ]
+    },
+    {
+      "korean": "날이 선 세상에 가시를 세울 수밖에 없었던 하루에",
+      "translation": "在那不得不對這個尖銳世界豎起尖刺的一天",
+      "analysis": [
+        { "point": "날이 선", "explanation": "날 (刃) + -이 (主格助詞) + 서다 (立) 的過去定語形，意為「鋒利的」。" },
+        { "point": "세상에", "explanation": "세상 (世界) + -에 (對象助詞)。" },
+        { "point": "가시를", "explanation": "가시 (刺) + -를 (受格助詞)。" },
+        { "point": "세울 수밖에 없었던", "explanation": "세우다 (豎立) + -(으)ㄹ 수밖에 없다 (不得不) 的過去定語形。" },
+        { "point": "하루에", "explanation": "하루 (一天) + -에 (時間助詞)。" }
+      ]
+    },
+    {
+      "korean": "스스로를 더 미워하거나",
+      "translation": "或是因此更加討厭自己",
+      "analysis": [
+        { "point": "스스로를", "explanation": "스스로 (自己) + -를 (受格助詞)。" },
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "미워하거나", "explanation": "미워하다 (討厭) + -거나 (或是)。" }
+      ]
+    },
+    {
+      "korean": "무너지지 않길",
+      "translation": "願你不要就此崩潰",
+      "analysis": [
+        { "point": "무너지지 않길", "explanation": "무너지다 (崩塌) + -지 않다 (不) + -길 (希望)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "같은 시간 위를 걸어도",
+      "translation": "即使走過同一段時光",
+      "analysis": [
+        { "point": "같은 시간 위를", "explanation": "같다 (相同的) 的定語形 + 시간 (時間) + 위 (上面) + -를 (受格助詞)。" },
+        { "point": "걸어도", "explanation": "걷다 (走) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "기억은 다르게 적히니",
+      "translation": "記憶卻會寫下不同的模樣",
+      "analysis": [
+        { "point": "기억은", "explanation": "기억 (記憶) + -은 (主題助詞)。" },
+        { "point": "다르게", "explanation": "다르다 (不同) 的副詞形。" },
+        { "point": "적히니", "explanation": "적히다 (被寫下) + -니 (因為)。" }
+      ]
+    },
+    {
+      "korean": "내가 남겨질 수밖에",
+      "translation": "而我終究只能被留在原地",
+      "analysis": [
+        { "point": "내가", "explanation": "나 (我) + -가 (主格助詞)。" },
+        { "point": "남겨질", "explanation": "남기다 (留下) 的被動形 남겨지다 的未來定語形。" },
+        { "point": "수밖에", "explanation": "-(으)ㄹ 수밖에 (只能)。" }
+      ]
+    },
+    {
+      "korean": "실은 약한 날 안았던 품",
+      "translation": "那個曾擁抱著其實很脆弱的我的懷抱",
+      "analysis": [
+        { "point": "실은", "explanation": "副詞，其實。" },
+        { "point": "약한", "explanation": "약하다 (軟弱) 的定語形。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "안았던", "explanation": "안다 (擁抱) 的過去回想着定語形。" },
+        { "point": "품", "explanation": "名詞，懷抱。" }
+      ]
+    },
+    {
+      "korean": "그런 거 남겨주지 말지",
+      "translation": "你當初就不該把那樣的溫暖留給我",
+      "analysis": [
+        { "point": "그런 거", "explanation": "그런 (那樣的) + 거 (東西) 的口語縮略。" },
+        { "point": "남겨주지", "explanation": "남기다 (留下) + -아/어 주다 (為我) + -지 (否定詞根)。" },
+        { "point": "말지", "explanation": "말다 (不要) + -지 (提議/後悔語尾)。" }
+      ]
+    },
+    {
+      "korean": "오늘도 아파",
+      "translation": "今天依然會痛",
+      "analysis": [
+        { "point": "오늘도", "explanation": "오늘 (今天) + -도 (也)。" },
+        { "point": "아파", "explanation": "아프다 (痛) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus 2",
+      "korean": "내일의 우린",
+      "translation": "明天的我們",
+      "analysis": [
+        { "point": "내일의", "explanation": "내일 (明天) + -의 (的)。" },
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "한 뼘 더 먼 사람이 되어",
+      "translation": "成為彼此又疏遠了一點的人",
+      "analysis": [
+        { "point": "한 뼘", "explanation": "한 (一) + 뼘 (拃，張開手量度的長度)。" },
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "먼", "explanation": "멀다 (遠) 的定語形。" },
+        { "point": "사람이 되어", "explanation": "사람 (人) + -이 (主格助詞) + 되다 (成為) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "부르기 낯선 이름이 되어도",
+      "translation": "即使成為一個讓人難以開口稱呼的陌生名字",
+      "analysis": [
+        { "point": "부르기", "explanation": "부르다 (叫、稱呼) 的名詞形。" },
+        { "point": "낯선", "explanation": "낯설다 (陌生) 的定語形。" },
+        { "point": "이름이 되어도", "explanation": "이름 (名字) + -이 (主格助詞) + 되다 (成為) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "아이와 같은 마음을 품고 살아가는 너지만",
+      "translation": "雖然你一直懷抱著孩子般純真的心生活",
+      "analysis": [
+        { "point": "아이와 같은", "explanation": "아이 (孩子) + -와 (和) + 같다 (像) 的定語形。" },
+        { "point": "마음을 품고", "explanation": "마음 (心) + -을 (受格助詞) + 품다 (懷抱) + -고 (連接詞尾)。" },
+        { "point": "살아가는", "explanation": "살아가다 (活下去) 的現在定語形。" },
+        { "point": "너지만", "explanation": "너 (你) + -지만 (雖然)。" }
+      ]
+    },
+    {
+      "korean": "날이 선 세상에 가시를 세울 수밖에 없었던 하루에",
+      "translation": "在那不得不對這個尖銳世界豎起尖刺的一天",
+      "analysis": [
+        { "point": "날이 선", "explanation": "날 (刃) + -이 (主格助詞) + 서다 (立) 的過去定語形，意為「鋒利的」。" },
+        { "point": "세상에", "explanation": "세상 (世界) + -에 (對象助詞)。" },
+        { "point": "가시를", "explanation": "가시 (刺) + -를 (受格助詞)。" },
+        { "point": "세울 수밖에 없었던", "explanation": "세우다 (豎立) + -(으)ㄹ 수밖에 없다 (不得不) 的過去定語形。" },
+        { "point": "하루에", "explanation": "하루 (一天) + -에 (時間助詞)。" }
+      ]
+    },
+    {
+      "korean": "스스로를 더 미워하거나",
+      "translation": "或是因此更加討厭自己",
+      "analysis": [
+        { "point": "스스로를", "explanation": "스스로 (自己) + -를 (受格助詞)。" },
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "미워하거나", "explanation": "미워하다 (討厭) + -거나 (或是)。" }
+      ]
+    },
+    {
+      "korean": "무너지지 않길",
+      "translation": "願你不要就此崩潰",
+      "analysis": [
+        { "point": "무너지지 않길", "explanation": "무너지다 (崩塌) + -지 않다 (不) + -길 (希望)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "전하다", "chinese": "傳達", "pos": "動詞" },
+    { "korean": "말", "chinese": "話", "pos": "名詞" },
+    { "korean": "가 닿다", "chinese": "觸及、到達", "pos": "動詞" },
+    { "korean": "바라다", "chinese": "希望", "pos": "動詞" },
+    { "korean": "그런", "chinese": "那樣的", "pos": "冠詞" },
+    { "korean": "아니다", "chinese": "不是", "pos": "形容詞" },
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "어지르다", "chinese": "弄亂", "pos": "動詞" },
+    { "korean": "오늘", "chinese": "今天", "pos": "名詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "줄", "chinese": "線", "pos": "名詞" },
+    { "korean": "없다", "chinese": "沒有", "pos": "形容詞" },
+    { "korean": "빈칸", "chinese": "空白", "pos": "名詞" },
+    { "korean": "담다", "chinese": "裝", "pos": "動詞" },
+    { "korean": "것", "chinese": "事情", "pos": "名詞" },
+    { "korean": "뿐", "chinese": "只是", "pos": "助詞" },
+    { "korean": "마른하늘", "chinese": "乾燥的天空", "pos": "名詞" },
+    { "korean": "적당하다", "chinese": "適當的", "pos": "形容詞" },
+    { "korean": "해", "chinese": "太陽", "pos": "名詞" },
+    { "korean": "이런", "chinese": "這樣的", "pos": "冠詞" },
+    { "korean": "날", "chinese": "日子", "pos": "名詞" },
+    { "korean": "눈", "chinese": "眼睛", "pos": "名詞" },
+    { "korean": "뜨다", "chinese": "睜開", "pos": "動詞" },
+    { "korean": "때", "chinese": "時候", "pos": "名詞" },
+    { "korean": "너", "chinese": "你", "pos": "代名詞" },
+    { "korean": "편안하다", "chinese": "舒適的", "pos": "形容詞" },
+    { "korean": "흐르다", "chinese": "流", "pos": "動詞" },
+    { "korean": "비", "chinese": "雨", "pos": "名詞" },
+    { "korean": "피하다", "chinese": "躲避", "pos": "動詞" },
+    { "korean": "생각", "chinese": "想法", "pos": "名詞" },
+    { "korean": "같다", "chinese": "像", "pos": "形容詞" },
+    { "korean": "맞다", "chinese": "迎接、承受", "pos": "動詞" },
+    { "korean": "웃다", "chinese": "笑", "pos": "動詞" },
+    { "korean": "기나길다", "chinese": "漫長的", "pos": "形容詞" },
+    { "korean": "지나다", "chinese": "經過", "pos": "動詞" },
+    { "korean": "닿다", "chinese": "觸及", "pos": "動詞" },
+    { "korean": "수", "chinese": "方法", "pos": "名詞" },
+    { "korean": "초침", "chinese": "秒針", "pos": "名詞" },
+    { "korean": "되다", "chinese": "成為", "pos": "動詞" },
+    { "korean": "아이", "chinese": "孩子", "pos": "名詞" },
+    { "korean": "품다", "chinese": "懷抱", "pos": "動詞" },
+    { "korean": "살아가다", "chinese": "活下去", "pos": "動詞" },
+    { "korean": "날", "chinese": "刃", "pos": "名詞" },
+    { "korean": "서다", "chinese": "立", "pos": "動詞" },
+    { "korean": "세상", "chinese": "世界", "pos": "名詞" },
+    { "korean": "가시", "chinese": "刺", "pos": "名詞" },
+    { "korean": "세우다", "chinese": "豎立", "pos": "動詞" },
+    { "korean": "하루", "chinese": "一天", "pos": "名詞" },
+    { "korean": "스스로", "chinese": "自己", "pos": "代名詞" },
+    { "korean": "미워하다", "chinese": "討厭", "pos": "動詞" },
+    { "korean": "무너지다", "chinese": "崩塌", "pos": "動詞" },
+    { "korean": "않다", "chinese": "不", "pos": "動詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "위", "chinese": "上面", "pos": "名詞" },
+    { "korean": "걷다", "chinese": "走", "pos": "動詞" },
+    { "korean": "기억", "chinese": "記憶", "pos": "名詞" },
+    { "korean": "다르다", "chinese": "不同", "pos": "形容詞" },
+    { "korean": "적히다", "chinese": "被寫下", "pos": "動詞" },
+    { "korean": "남기다", "chinese": "留下", "pos": "動詞" },
+    { "korean": "남겨지다", "chinese": "被留下", "pos": "動詞" },
+    { "korean": "약하다", "chinese": "軟弱", "pos": "形容詞" },
+    { "korean": "안다", "chinese": "擁抱", "pos": "動詞" },
+    { "korean": "품", "chinese": "懷抱", "pos": "名詞" },
+    { "korean": "남겨주다", "chinese": "留下給", "pos": "動詞" },
+    { "korean": "말다", "chinese": "不要", "pos": "動詞" },
+    { "korean": "아프다", "chinese": "痛", "pos": "形容詞" },
+    { "korean": "내일", "chinese": "明天", "pos": "名詞" },
+    { "korean": "우리", "chinese": "我們", "pos": "代名詞" },
+    { "korean": "한", "chinese": "一", "pos": "數詞" },
+    { "korean": "뼘", "chinese": "拃", "pos": "名詞" },
+    { "korean": "멀다", "chinese": "遠", "pos": "形容詞" },
+    { "korean": "사람", "chinese": "人", "pos": "名詞" },
+    { "korean": "부르다", "chinese": "叫、稱呼", "pos": "動詞" },
+    { "korean": "낯설다", "chinese": "陌生", "pos": "形容詞" },
+    { "korean": "이름", "chinese": "名字", "pos": "名詞" }
+  ]
+}
