@@ -19,7 +19,7 @@
       ]
     },
     {
-      "korean": "가 닿길 바라는 그런 게 아냐, 알잖아",
+      "korean": "가 닿길 바라는 그런 게 아냐 알잖아",
       "translation": "也不是盼著它能傳達到你心裡，你知道的",
       "analysis": [
         {
@@ -619,7 +619,7 @@
     { "korean": "이", "chinese": "這", "pos": "冠詞" },
     { "korean": "빈칸", "chinese": "空白處", "pos": "名詞" },
     { "korean": "담다", "chinese": "裝/盛", "pos": "動詞" },
-    { "korean": "보내다", "chinese": "嘗試補助", "pos": "動詞" },
+    { "korean": "보다", "chinese": "嘗試（補助動詞）", "pos": "輔助動詞" },
     { "korean": "것", "chinese": "事情/東西", "pos": "名詞" },
     { "korean": "마른하늘", "chinese": "乾燥的天空", "pos": "名詞" },
     { "korean": "적당하다", "chinese": "適當的", "pos": "形容詞" },
