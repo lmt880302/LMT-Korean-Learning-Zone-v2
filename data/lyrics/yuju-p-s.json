@@ -6,7 +6,7 @@
     {
       "sectionTitle": "Verse 1",
       "korean": "전하지 못한 말이라거나",
-      "translation": "不是有什麼沒能說出口的話",
+      "translation": "不是有些話沒能說出口",
       "analysis": [
         {
           "point": "전하지 못한",
@@ -19,8 +19,8 @@
       ]
     },
     {
-      "korean": "가 닿길 바라는 그런 게 아냐 알잖아",
-      "translation": "也不是盼著它能傳達到你心裡，你知道的",
+      "korean": "가 닿길 바라는 그런 게 아냐, 알잖아",
+      "translation": "也不是盼著這些話能傳達給你 你知道的",
       "analysis": [
         {
           "point": "가 닿길",
@@ -46,7 +46,7 @@
     },
     {
       "korean": "어질러진 오늘 나의 맘을",
-      "translation": "只是把今天凌亂的心情",
+      "translation": "只是想把今天紛亂的心情",
       "analysis": [
         {
           "point": "어질러진",
@@ -68,7 +68,7 @@
     },
     {
       "korean": "줄 없는 이 빈칸에",
-      "translation": "填進這沒有橫線的空白處",
+      "translation": "寫進這片沒有格線的空白裡",
       "analysis": [
         {
           "point": "줄 없는",
@@ -101,7 +101,7 @@
     {
       "sectionTitle": "Verse 2",
       "korean": "마른하늘에 적당한 해",
-      "translation": "晴朗的天空裡，恰好的陽光",
+      "translation": "晴朗的天空有著恰到好處的陽光",
       "analysis": [
         {
           "point": "마른하늘에",
@@ -119,7 +119,7 @@
     },
     {
       "korean": "이런 날에 눈을 뜰 때면",
-      "translation": "每當在這樣的日子裡睜開眼",
+      "translation": "每當在這樣的日子醒來",
       "analysis": [
         {
           "point": "이런 날에",
@@ -137,7 +137,7 @@
     },
     {
       "korean": "넌 편안해했지",
-      "translation": "你總會感到很安心",
+      "translation": "你總能感到安心",
       "analysis": [
         {
           "point": "넌",
@@ -151,7 +151,7 @@
     },
     {
       "korean": "마른 마음에 흐르던 비",
-      "translation": "流過乾涸心田的那場雨",
+      "translation": "乾涸的心裡落下的雨",
       "analysis": [
         {
           "point": "마른",
@@ -173,7 +173,7 @@
     },
     {
       "korean": "피할 생각 같은 거 없이",
-      "translation": "從沒想過要躲開",
+      "translation": "你從不想著要躲開",
       "analysis": [
         {
           "point": "피할",
@@ -195,7 +195,7 @@
     },
     {
       "korean": "맞으며 웃었지",
-      "translation": "只是淋著雨，微笑著",
+      "translation": "只是淋著雨 笑著",
       "analysis": [
         {
           "point": "맞으며",
@@ -210,7 +210,7 @@
     {
       "sectionTitle": "Pre-Chorus",
       "korean": "오늘의 우린 기나긴 날을 지나",
-      "translation": "今天的我們，走過了漫長歲月",
+      "translation": "如今的我們走過漫長歲月",
       "analysis": [
         {
           "point": "오늘의",
@@ -236,7 +236,7 @@
     },
     {
       "korean": "닿을 수 없는 초침이 되어도",
-      "translation": "即使變成了再也碰不到彼此的秒針",
+      "translation": "即使成了再也無法相觸的秒針",
       "analysis": [
         {
           "point": "닿을",
@@ -259,7 +259,7 @@
     {
       "sectionTitle": "Chorus",
       "korean": "아이와 같은 마음을 품고 살아가는 너지만",
-      "translation": "雖然你懷著如孩子般純真的心生活",
+      "translation": "你依然懷著一顆如孩子般純真的心生活",
       "analysis": [
         {
           "point": "아이와 같은",
@@ -285,7 +285,7 @@
     },
     {
       "korean": "날이 선 세상에 가시를 세울 수밖에 없었던 하루에",
-      "translation": "但在面對冷酷無情的世界、不得不豎起尖刺防備的一天裡",
+      "translation": "卻也有不得不在這個尖銳的世界豎起尖刺的日子",
       "analysis": [
         {
           "point": "날이 선",
@@ -311,7 +311,7 @@
     },
     {
       "korean": "스스로를 더 미워하거나",
-      "translation": "希望你不要更加討厭自己",
+      "translation": "願你不要因此更加討厭自己",
       "analysis": [
         {
           "point": "스스로를",
@@ -329,7 +329,7 @@
     },
     {
       "korean": "무너지지 않길",
-      "translation": "也不要因此崩潰",
+      "translation": "也不要就此崩潰",
       "analysis": [
         {
           "point": "무너지지",
@@ -344,7 +344,7 @@
     {
       "sectionTitle": "Verse 3",
       "korean": "같은 시간 위를 걸어도",
-      "translation": "即使走在相同的時間裡",
+      "translation": "即使走在同一段時光裡",
       "analysis": [
         {
           "point": "같은",
@@ -366,7 +366,7 @@
     },
     {
       "korean": "기억은 다르게 적히니",
-      "translation": "記憶也會被寫成不同的模樣",
+      "translation": "記憶卻被寫成了不同的模樣",
       "analysis": [
         {
           "point": "기억은",
@@ -384,7 +384,7 @@
     },
     {
       "korean": "내가 남겨질 수밖에",
-      "translation": "我也只能被留在原地",
+      "translation": "最後也只能由我留在原地",
       "analysis": [
         {
           "point": "내가",
@@ -402,7 +402,7 @@
     },
     {
       "korean": "실은 약한 날 안았던 품",
-      "translation": "其實自己也很脆弱，卻依然擁抱我的那個懷抱",
+      "translation": "其實是那個擁抱脆弱的我的懷抱",
       "analysis": [
         {
           "point": "실은",
@@ -428,7 +428,7 @@
     },
     {
       "korean": "그런 거 남겨주지 말지",
-      "translation": "要是沒留下這些該有多好",
+      "translation": "當初就不該留下這樣的回憶啊",
       "analysis": [
         {
           "point": "그런 거",
@@ -446,7 +446,7 @@
     },
     {
       "korean": "오늘도 아파",
-      "translation": "今天依然好痛",
+      "translation": "直到今天依然很痛",
       "analysis": [
         {
           "point": "오늘도",
@@ -475,7 +475,7 @@
     },
     {
       "korean": "한 뼘 더 먼 사람이 되어",
-      "translation": "成了距離又更遠一點的人",
+      "translation": "會成為距離更遠的人",
       "analysis": [
         {
           "point": "한 뼘",
@@ -497,7 +497,7 @@
     },
     {
       "korean": "부르기 낯선 이름이 되어도",
-      "translation": "變成了喊起來有些陌生的名字",
+      "translation": "即使成了連呼喚都感到陌生的名字",
       "analysis": [
         {
           "point": "부르기",
@@ -520,7 +520,7 @@
     {
       "sectionTitle": "Chorus",
       "korean": "아이와 같은 마음을 품고 살아가는 너지만",
-      "translation": "雖然你懷著如孩子般純真的心生活",
+      "translation": "你依然懷著一顆如孩子般純真的心生活",
       "analysis": [
         {
           "point": "아이와 같은",
@@ -546,7 +546,7 @@
     },
     {
       "korean": "날이 선 세상에 가시를 세울 수밖에 없었던 하루에",
-      "translation": "但在面對冷酷無情的世界、不得不豎起尖刺防備的一天裡",
+      "translation": "卻也有不得不在這個尖銳的世界豎起尖刺的日子",
       "analysis": [
         {
           "point": "날이 선",
@@ -572,7 +572,7 @@
     },
     {
       "korean": "스스로를 더 미워하거나",
-      "translation": "希望你不要更加討厭自己",
+      "translation": "願你不要因此更加討厭自己",
       "analysis": [
         {
           "point": "스스로를",
@@ -590,7 +590,7 @@
     },
     {
       "korean": "무너지지 않길",
-      "translation": "也不要因此崩潰",
+      "translation": "也不要就此崩潰",
       "analysis": [
         {
           "point": "무너지지",
@@ -619,7 +619,7 @@
     { "korean": "이", "chinese": "這", "pos": "冠詞" },
     { "korean": "빈칸", "chinese": "空白處", "pos": "名詞" },
     { "korean": "담다", "chinese": "裝/盛", "pos": "動詞" },
-    { "korean": "보다", "chinese": "嘗試（補助動詞）", "pos": "輔助動詞" },
+    { "korean": "보내다", "chinese": "嘗試補助", "pos": "動詞" },
     { "korean": "것", "chinese": "事情/東西", "pos": "名詞" },
     { "korean": "마른하늘", "chinese": "乾燥的天空", "pos": "名詞" },
     { "korean": "적당하다", "chinese": "適當的", "pos": "形容詞" },

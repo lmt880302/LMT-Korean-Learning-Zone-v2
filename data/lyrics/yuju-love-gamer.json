@@ -6,380 +6,732 @@
     {
       "sectionTitle": "Verse 1",
       "korean": "알고 있는 거 모르지 이 모든 상황 위에",
-      "translation": "你不知道吧 其實這一切我都明白",
+      "translation": "你明明知道卻裝作不知道吧 在這一切局面之上",
       "analysis": [
-        { "point": "알고 있는", "explanation": "알다 (知道) + -고 있다 (持續) 的現在定語形。" },
-        { "point": "거", "explanation": "것 (事情) 的口語縮略。" },
-        { "point": "모르지", "explanation": "모르다 (不知道) + -지 (確認/反問語尾)。" },
-        { "point": "이 모든 상황 위에", "explanation": "이 (這) + 모든 (所有的) + 상황 (情況) + 위 (上面) + -에 (位置助詞)。" }
+        {
+          "point": "알고 있는 거",
+          "explanation": "알다（知道）＋-고 있다（持續狀態）＋-는（定語形語尾）＋거（것 的縮略，事物），表示「知道的事實」。"
+        },
+        {
+          "point": "모르지",
+          "explanation": "모르다（不知道）＋-지（終結語尾，帶確認或反諷語氣），此處有「裝作不知道吧」的意味。"
+        },
+        {
+          "point": "이 모든 상황 위에",
+          "explanation": "이（這）＋모든（所有）＋상황（狀況）＋위（上面）＋-에（場所助詞），表示「在這一切局面之上」。"
+        }
       ]
     },
     {
       "korean": "모든 걸 다 숨긴 채 바라보곤 했어 널",
-      "translation": "我藏起所有心事 就那樣望著你",
+      "translation": "我曾藏起所有心事 默默望著你",
       "analysis": [
-        { "point": "모든 걸", "explanation": "모든 것 (所有事物) + -을 (受格助詞) 的縮略。" },
-        { "point": "다", "explanation": "副詞，全部。" },
-        { "point": "숨긴 채", "explanation": "숨기다 (隱藏) 的過去定語形 + 채 (保持狀態)。" },
-        { "point": "바라보곤 했어", "explanation": "바라보다 (凝視) + -곤 하다 (經常做) 的過去非格式體。" },
-        { "point": "널", "explanation": "너를 (你) 的縮略。" }
+        {
+          "point": "모든 걸",
+          "explanation": "모든（所有）＋걸（것을 的縮略，事物＋受格助詞）。"
+        },
+        {
+          "point": "다 숨긴 채",
+          "explanation": "다（都）＋숨기다（隱藏）＋-ㄴ（定語形語尾）＋채（保持某種狀態），表示「藏起一切的狀態下」。"
+        },
+        {
+          "point": "바라보곤 했어",
+          "explanation": "바라보다（凝望）＋-곤 하다（過去反覆習慣）＋-었어（過去口語終結語尾）。"
+        },
+        {
+          "point": "널",
+          "explanation": "너를 的縮略，너（你）＋-를（受格助詞）。"
+        }
       ]
     },
     {
       "korean": "사랑이라는 게 사람을 아프게 하다 가도",
-      "translation": "所謂愛情 即使曾讓人痛徹心扉",
+      "translation": "所謂愛情 就算讓人痛苦過後",
       "analysis": [
-        { "point": "사랑이라는 게", "explanation": "사랑 (愛情) + -이라는 (所謂的) + 것 (東西) + -이 (主格助詞) 的縮略。" },
-        { "point": "사람을", "explanation": "사람 (人) + -을 (受格助詞)。" },
-        { "point": "아프게 하다", "explanation": "아프다 (痛) + -게 하다 (使...) 的陳述形。" },
-        { "point": "가도", "explanation": "가다 (去) + -아/어도 (即使) 的縮略，與前句連用表示「即使...也」。" }
+        {
+          "point": "사랑이라는 게",
+          "explanation": "사랑（愛）＋-이라는（稱作…的）＋게（것이 的縮略，事物＋主格助詞）。"
+        },
+        {
+          "point": "사람을",
+          "explanation": "사람（人）＋-을（受格助詞）。"
+        },
+        {
+          "point": "아프게 하다",
+          "explanation": "아프다（痛）＋-게 하다（使動形，使…痛苦）。"
+        },
+        {
+          "point": "가도",
+          "explanation": "가다（去）＋-어도（讓步連接詞尾），表示「即使…也」。"
+        }
       ]
     },
     {
       "korean": "돌아서 보니 별것도 아니지",
       "translation": "回頭一看 也不過如此",
       "analysis": [
-        { "point": "돌아서", "explanation": "돌아서다 (轉身) 的非格式體。" },
-        { "point": "보니", "explanation": "보다 (看) + -니 (因為/當...時)。" },
-        { "point": "별것도", "explanation": "별것 (特別的事) + -도 (也)。" },
-        { "point": "아니지", "explanation": "아니다 (不是) + -지 (陳述/確認語尾)。" }
+        {
+          "point": "돌아서",
+          "explanation": "돌아서다（轉身）的連接形，表示「轉過身」。"
+        },
+        {
+          "point": "보니",
+          "explanation": "보다（看）＋-니（連接詞尾，表示發現），表示「一看之下」。"
+        },
+        {
+          "point": "별것도",
+          "explanation": "별것（什麼特別的東西）＋-도（也），表示「連什麼特別的也」。"
+        },
+        {
+          "point": "아니지",
+          "explanation": "아니다（不是）＋-지（終結語尾，確認語氣），表示「不是嘛」。"
+        }
       ]
     },
     {
       "sectionTitle": "Pre-Chorus",
       "korean": "우린 누가 더 아파질까",
-      "translation": "我們之中 誰會傷得更深呢",
+      "translation": "我們之中 到底誰會傷得更深",
       "analysis": [
-        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" },
-        { "point": "누가", "explanation": "누구 (誰) + -가 (主格助詞)。" },
-        { "point": "더", "explanation": "副詞，更。" },
-        { "point": "아파질까", "explanation": "아프다 (痛) + -아/어 지다 (變得) + -(으)ㄹ까 (疑問)。" }
+        {
+          "point": "우린",
+          "explanation": "우리는 的縮略，우리（我們）＋-는（主題助詞）。"
+        },
+        {
+          "point": "누가",
+          "explanation": "누구（誰）＋-가（主格助詞）。"
+        },
+        {
+          "point": "더",
+          "explanation": "副詞「更」。"
+        },
+        {
+          "point": "아파질까",
+          "explanation": "아프다（痛）＋-아지다（變化）＋-ㄹ까（推測疑問終結語尾），表示「會變得更痛吧」。"
+        }
       ]
     },
     {
       "korean": "오늘의 넌 썩 행복하진 않아 보여",
-      "translation": "今天的你看起來不太幸福",
+      "translation": "今天的你看起來並不怎麼幸福",
       "analysis": [
-        { "point": "오늘의", "explanation": "오늘 (今天) + -의 (的)。" },
-        { "point": "넌", "explanation": "너는 (你) 的縮略。" },
-        { "point": "썩", "explanation": "副詞，不怎麼、並不太。" },
-        { "point": "행복하진", "explanation": "행복하다 (幸福) + -지 (強調) + -는 (主題助詞) 的縮略。" },
-        { "point": "않아 보여", "explanation": "않다 (不) + -아/어 보이다 (看起來) 的非格式體。" }
+        {
+          "point": "오늘의",
+          "explanation": "오늘（今天）＋-의（屬格助詞）。"
+        },
+        {
+          "point": "넌",
+          "explanation": "너는 的縮略，너（你）＋-는（主題助詞）。"
+        },
+        {
+          "point": "썩",
+          "explanation": "副詞「很/太」，此處與否定連用表示「並不怎麼」。"
+        },
+        {
+          "point": "행복하진",
+          "explanation": "행복하다（幸福）＋-지（否定前綴）＋-는（對比強調）的縮略，形成「並不幸福」。"
+        },
+        {
+          "point": "않아 보여",
+          "explanation": "않다（不）＋-아 보이다（看起來）＋-어（口語終結）的縮略 보여，表示「看起來不…」。"
+        }
       ]
     },
     {
       "korean": "왠지 나는 언젠가 네가",
-      "translation": "不知為何 我總覺得有一天你會",
+      "translation": "不知為何 我總覺得有一天",
       "analysis": [
-        { "point": "왠지", "explanation": "副詞，不知為何。" },
-        { "point": "나는", "explanation": "나 (我) + -는 (主題助詞)。" },
-        { "point": "언젠가", "explanation": "副詞，總有一天。" },
-        { "point": "네가", "explanation": "너 (你) + -가 (主格助詞)。" }
+        {
+          "point": "왠지",
+          "explanation": "副詞「不知為何」。"
+        },
+        {
+          "point": "나는",
+          "explanation": "나（我）＋-는（主題助詞）。"
+        },
+        {
+          "point": "언젠가",
+          "explanation": "언제（何時）＋-인가（某時），表示「總有一天」。"
+        },
+        {
+          "point": "네가",
+          "explanation": "너（你）＋-가（主格助詞），네가 是 너가 的口語變形。"
+        }
       ]
     },
     {
       "korean": "후회하고 있는 얼굴 볼 것만 같아",
-      "translation": "我好像會看見你後悔的表情",
+      "translation": "會看見你一臉後悔的模樣",
       "analysis": [
-        { "point": "후회하고 있는", "explanation": "후회하다 (後悔) + -고 있다 (正在) 的現在定語形。" },
-        { "point": "얼굴", "explanation": "名詞，臉、表情。" },
-        { "point": "볼 것만 같아", "explanation": "보다 (看) 的未來定語形 + 것만 같다 (好像會) 的非格式體。" }
+        {
+          "point": "후회하고 있는",
+          "explanation": "후회하다（後悔）＋-고 있다（進行）＋-는（定語形語尾），表示「正在後悔的」。"
+        },
+        {
+          "point": "얼굴",
+          "explanation": "名詞「臉/表情」。"
+        },
+        {
+          "point": "볼",
+          "explanation": "보다（看）＋-ㄹ（未來定語形語尾），表示「會看見的」。"
+        },
+        {
+          "point": "것만 같아",
+          "explanation": "것（事情）＋-만（只）＋같다（像）＋-아（口語終結語尾），表示「好像會…」。"
+        }
       ]
     },
     {
       "sectionTitle": "Chorus",
       "korean": "두 눈에 서롤 담고서",
-      "translation": "曾把彼此映在雙眼裡",
+      "translation": "曾將彼此映入眼底",
       "analysis": [
-        { "point": "두 눈에", "explanation": "두 (二) + 눈 (眼睛) + -에 (場所助詞)。" },
-        { "point": "서롤", "explanation": "서로를 (彼此) 的縮略。" },
-        { "point": "담고서", "explanation": "담다 (裝、盛) + -고서 (連接詞尾，表示先後)。" }
+        {
+          "point": "두 눈에",
+          "explanation": "두（兩）＋눈（眼睛）＋-에（場所助詞）。"
+        },
+        {
+          "point": "서롤",
+          "explanation": "서로（彼此）＋-를（受格助詞）的縮略。"
+        },
+        {
+          "point": "담고서",
+          "explanation": "담다（裝/映）＋-고서（連接詞尾，表示先後或狀態）。"
+        }
       ]
     },
     {
       "korean": "꿈을 나눠 먹었던 밤",
-      "translation": "曾一起分享夢想的夜晚",
+      "translation": "曾在夜裡分享彼此的夢",
       "analysis": [
-        { "point": "꿈을", "explanation": "꿈 (夢) + -을 (受格助詞)。" },
-        { "point": "나눠 먹었던", "explanation": "나누다 (分享) + -아/어 먹다 (一起做、分食) 的過去回想着定語形。" },
-        { "point": "밤", "explanation": "名詞，夜晚。" }
+        {
+          "point": "꿈을",
+          "explanation": "꿈（夢）＋-을（受格助詞）。"
+        },
+        {
+          "point": "나눠",
+          "explanation": "나누다（分享）＋-어（連接形）。"
+        },
+        {
+          "point": "먹었던",
+          "explanation": "먹다（吃）＋-었던（過去回想着定語形語尾），與 나누다 構成慣用型「나눠 먹다」，表示「一起分享」。"
+        },
+        {
+          "point": "밤",
+          "explanation": "名詞「夜晚」。"
+        }
       ]
     },
     {
       "korean": "그때 그 우리가",
       "translation": "那時的我們",
       "analysis": [
-        { "point": "그때", "explanation": "名詞，那時。" },
-        { "point": "그", "explanation": "冠詞，那。" },
-        { "point": "우리가", "explanation": "우리 (我們) + -가 (主格助詞)。" }
+        {
+          "point": "그때",
+          "explanation": "名詞「那時」。"
+        },
+        {
+          "point": "그",
+          "explanation": "冠詞「那」。"
+        },
+        {
+          "point": "우리가",
+          "explanation": "우리（我們）＋-가（主格助詞）。"
+        }
       ]
     },
     {
       "korean": "서로를 겨누고 있네",
-      "translation": "如今卻彼此對準了彼此",
+      "translation": "如今卻將彼此當成了對手",
       "analysis": [
-        { "point": "서로를", "explanation": "서로 (彼此) + -를 (受格助詞)。" },
-        { "point": "겨누고 있네", "explanation": "겨누다 (瞄準) + -고 있다 (正在) + -네 (感嘆形語尾)。" }
+        {
+          "point": "서로를",
+          "explanation": "서로（彼此）＋-를（受格助詞）。"
+        },
+        {
+          "point": "겨누고",
+          "explanation": "겨누다（瞄準/對準）＋-고（連接詞尾）。"
+        },
+        {
+          "point": "있네",
+          "explanation": "있다（正在）＋-네（感嘆終結語尾），表示「正…著呢」。"
+        }
       ]
     },
     {
       "korean": "우스워진 추억들이",
-      "translation": "那些回憶如今變得可笑",
+      "translation": "那些如今變得可笑的回憶",
       "analysis": [
-        { "point": "우스워진", "explanation": "우습다 (可笑) + -아/어 지다 (變得) 的過去定語形。" },
-        { "point": "추억들이", "explanation": "추억 (回憶) + -들 (複數) + -이 (主格助詞)。" }
+        {
+          "point": "우스워진",
+          "explanation": "우습다（可笑）＋-어지다（變化）＋-ㄴ（定語形語尾），表示「變得可笑的」。"
+        },
+        {
+          "point": "추억들이",
+          "explanation": "추억（回憶）＋-들（複數）＋-이（主格助詞）。"
+        }
       ]
     },
     {
       "korean": "어느 쪽을 더 괴롭힐는지",
-      "translation": "不知會讓哪一方更加痛苦",
+      "translation": "究竟會讓哪一方更加煎熬",
       "analysis": [
-        { "point": "어느 쪽을", "explanation": "어느 (哪) + 쪽 (邊) + -을 (受格助詞)。" },
-        { "point": "더", "explanation": "副詞，更。" },
-        { "point": "괴롭힐는지", "explanation": "괴롭히다 (折磨) + -(으)ㄹ는지 (會...呢) 的疑問形。" }
+        {
+          "point": "어느 쪽을",
+          "explanation": "어느（哪）＋쪽（邊）＋-을（受格助詞）。"
+        },
+        {
+          "point": "더",
+          "explanation": "副詞「更」。"
+        },
+        {
+          "point": "괴롭힐는지",
+          "explanation": "괴롭히다（折磨）＋-ㄹ는지（推測疑問語尾），表示「會折磨…呢」。"
+        }
       ]
     },
     {
       "korean": "Still on and on",
-      "translation": "依然一再延續",
+      "translation": "仍然糾纏不休",
       "analysis": [
-        { "point": "Still on and on", "explanation": "英文歌詞，無韓文文法解析。" }
+        {
+          "point": "Still on and on",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
       ]
     },
     {
       "korean": "It's more than just a cliché",
-      "translation": "這不只是老套的情節",
+      "translation": "這早已不只是老套的情節",
       "analysis": [
-        { "point": "It's more than just a cliché", "explanation": "英文歌詞，無韓文文法解析。" }
+        {
+          "point": "It's more than just a cliché",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
       ]
     },
     {
       "korean": "Love gamer",
       "translation": "愛情玩家",
       "analysis": [
-        { "point": "Love gamer", "explanation": "英文歌詞，無韓文文法解析。" }
+        {
+          "point": "Love gamer",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
       ]
     },
     {
       "sectionTitle": "Verse 2",
       "korean": "부서질 듯 끌어안고 모든 걸 나눴기에",
-      "translation": "因為曾像要碎掉般緊緊相擁 分享彼此的一切",
+      "translation": "曾經緊緊相擁 彼此分享一切",
       "analysis": [
-        { "point": "부서질 듯", "explanation": "부서지다 (破碎) + -(으)ㄹ 듯 (好像要...似的)。" },
-        { "point": "끌어안고", "explanation": "끌어안다 (緊緊擁抱) + -고 (連接詞尾)。" },
-        { "point": "모든 걸", "explanation": "모든 것 (所有事物) + -을 (受格助詞) 的縮略。" },
-        { "point": "나눴기에", "explanation": "나누다 (分享) 的過去形 + -기에 (因為)。" }
+        {
+          "point": "부서질 듯",
+          "explanation": "부서지다（破碎）＋-ㄹ（未來定語形語尾）＋듯（好像），表示「像要破碎般」。"
+        },
+        {
+          "point": "끌어안고",
+          "explanation": "끌어안다（緊緊抱住）＋-고（連接詞尾）。"
+        },
+        {
+          "point": "모든 걸",
+          "explanation": "모든（所有）＋걸（것을 的縮略，事物＋受格助詞）。"
+        },
+        {
+          "point": "나눴기에",
+          "explanation": "나누다（分享）＋-었（過去）＋-기에（原因連接詞尾），表示「因為分享了…」。"
+        }
       ]
     },
     {
       "korean": "가장 아픈 곳을 알고 있지",
-      "translation": "所以最清楚彼此最痛的地方",
+      "translation": "所以最清楚對方最痛的地方",
       "analysis": [
-        { "point": "가장", "explanation": "副詞，最。" },
-        { "point": "아픈", "explanation": "아프다 (痛) 的現在定語形。" },
-        { "point": "곳을", "explanation": "곳 (地方) + -을 (受格助詞)。" },
-        { "point": "알고 있지", "explanation": "알다 (知道) + -고 있다 (持續) + -지 (陳述/確認語尾)。" }
+        {
+          "point": "가장",
+          "explanation": "副詞「最」。"
+        },
+        {
+          "point": "아픈",
+          "explanation": "아프다（痛）＋-ㄴ（定語形語尾），表示「痛的」。"
+        },
+        {
+          "point": "곳을",
+          "explanation": "곳（地方）＋-을（受格助詞）。"
+        },
+        {
+          "point": "알고 있지",
+          "explanation": "알다（知道）＋-고 있다（狀態持續）＋-지（終結語尾，確認語氣）。"
+        }
       ]
     },
     {
       "korean": "나는 이 Game 이걸 이기고 싶은 게 아냐",
-      "translation": "我並不是想贏下這場遊戲",
+      "translation": "我玩這場遊戲 並不是為了贏",
       "analysis": [
-        { "point": "나는", "explanation": "나 (我) + -는 (主題助詞)。" },
-        { "point": "이 Game", "explanation": "이 (這) + Game (英文，遊戲)。" },
-        { "point": "이걸", "explanation": "이것을 (這個) 的縮略。" },
-        { "point": "이기고 싶은 게", "explanation": "이기다 (贏) + -고 싶다 (想要) 的現在定語形 + 것 (事情) + -이 (主格助詞) 的縮略。" },
-        { "point": "아냐", "explanation": "아니다 (不是) 的口語非格式體。" }
+        {
+          "point": "나는",
+          "explanation": "나（我）＋-는（主題助詞）。"
+        },
+        {
+          "point": "이 Game",
+          "explanation": "이（這）＋Game（英文，遊戲），表示「這場遊戲」。"
+        },
+        {
+          "point": "이걸",
+          "explanation": "이것을 的縮略，이것（這個）＋-을（受格助詞）。"
+        },
+        {
+          "point": "이기고 싶은",
+          "explanation": "이기다（贏）＋-고 싶다（想要）＋-은（定語形語尾），表示「想贏的」。"
+        },
+        {
+          "point": "게 아냐",
+          "explanation": "것이 아냐 的縮略，것（事情）＋-이（主格助詞）＋아니다（不是）。"
+        }
       ]
     },
     {
       "korean": "여전히 그 시간을 그리지",
-      "translation": "我依然懷念那段時光",
+      "translation": "我依然描繪著那段時光",
       "analysis": [
-        { "point": "여전히", "explanation": "副詞，依然。" },
-        { "point": "그 시간을", "explanation": "그 (那) + 시간 (時間) + -을 (受格助詞)。" },
-        { "point": "그리지", "explanation": "그리다 (想念、描繪) + -지 (陳述/確認語尾)。" }
+        {
+          "point": "여전히",
+          "explanation": "副詞「依然」。"
+        },
+        {
+          "point": "그",
+          "explanation": "冠詞「那」。"
+        },
+        {
+          "point": "시간을",
+          "explanation": "시간（時間）＋-을（受格助詞）。"
+        },
+        {
+          "point": "그리지",
+          "explanation": "그리다（描繪/思念）＋-지（終結語尾，確認語氣）。"
+        }
       ]
     },
     {
       "sectionTitle": "Pre-Chorus",
       "korean": "우린 누가 더 아파질까",
-      "translation": "我們之中 誰會傷得更深呢",
+      "translation": "我們之中 到底誰會傷得更深",
       "analysis": [
-        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" },
-        { "point": "누가", "explanation": "누구 (誰) + -가 (主格助詞)。" },
-        { "point": "더", "explanation": "副詞，更。" },
-        { "point": "아파질까", "explanation": "아프다 (痛) + -아/어 지다 (變得) + -(으)ㄹ까 (疑問)。" }
+        {
+          "point": "우린",
+          "explanation": "우리는 的縮略，우리（我們）＋-는（主題助詞）。"
+        },
+        {
+          "point": "누가",
+          "explanation": "누구（誰）＋-가（主格助詞）。"
+        },
+        {
+          "point": "더",
+          "explanation": "副詞「更」。"
+        },
+        {
+          "point": "아파질까",
+          "explanation": "아프다（痛）＋-아지다（變化）＋-ㄹ까（推測疑問終結語尾），表示「會變得更痛吧」。"
+        }
       ]
     },
     {
       "korean": "오늘의 넌 썩 행복하진 않아 보여",
-      "translation": "今天的你看起來不太幸福",
+      "translation": "今天的你看起來並不怎麼幸福",
       "analysis": [
-        { "point": "오늘의", "explanation": "오늘 (今天) + -의 (的)。" },
-        { "point": "넌", "explanation": "너는 (你) 的縮略。" },
-        { "point": "썩", "explanation": "副詞，不怎麼、並不太。" },
-        { "point": "행복하진", "explanation": "행복하다 (幸福) + -지 (強調) + -는 (主題助詞) 的縮略。" },
-        { "point": "않아 보여", "explanation": "않다 (不) + -아/어 보이다 (看起來) 的非格式體。" }
+        {
+          "point": "오늘의",
+          "explanation": "오늘（今天）＋-의（屬格助詞）。"
+        },
+        {
+          "point": "넌",
+          "explanation": "너는 的縮略，너（你）＋-는（主題助詞）。"
+        },
+        {
+          "point": "썩",
+          "explanation": "副詞「很/太」，此處與否定連用表示「並不怎麼」。"
+        },
+        {
+          "point": "행복하진",
+          "explanation": "행복하다（幸福）＋-지（否定前綴）＋-는（對比強調）的縮略，形成「並不幸福」。"
+        },
+        {
+          "point": "않아 보여",
+          "explanation": "않다（不）＋-아 보이다（看起來）＋-어（口語終結）的縮略 보여，表示「看起來不…」。"
+        }
       ]
     },
     {
       "korean": "왠지 나는 결국엔 우리",
-      "translation": "不知為何 我總覺得我們終究會",
+      "translation": "不知為何 我總覺得最後我們",
       "analysis": [
-        { "point": "왠지", "explanation": "副詞，不知為何。" },
-        { "point": "나는", "explanation": "나 (我) + -는 (主題助詞)。" },
-        { "point": "결국엔", "explanation": "결국 (最終) + -엔 (強調)。" },
-        { "point": "우리", "explanation": "代詞，我們。" }
+        {
+          "point": "왠지",
+          "explanation": "副詞「不知為何」。"
+        },
+        {
+          "point": "나는",
+          "explanation": "나（我）＋-는（主題助詞）。"
+        },
+        {
+          "point": "결국엔",
+          "explanation": "결국（最終）＋-에（助詞）＋는（強調）的縮略，表示「最終」。"
+        },
+        {
+          "point": "우리",
+          "explanation": "代名詞「我們」。"
+        }
       ]
     },
     {
       "korean": "상처 내도 놓을 수 없을 것만 같아",
-      "translation": "就算彼此傷害 好像也還是放不開",
+      "translation": "即使彼此傷害 也還是無法放手",
       "analysis": [
-        { "point": "상처 내도", "explanation": "상처 (傷) + 내다 (造成) + -아/어도 (即使)。" },
-        { "point": "놓을 수 없을", "explanation": "놓다 (放開) + -(으)ㄹ 수 없다 (無法) 的未來定語形。" },
-        { "point": "것만 같아", "explanation": "것 (事情) + -만 같다 (好像只會) 的非格式體。" }
+        {
+          "point": "상처 내도",
+          "explanation": "상처（傷）＋내다（出）＋-어도（讓步連接詞尾），表示「即使造成傷害」。"
+        },
+        {
+          "point": "놓을",
+          "explanation": "놓다（放開）＋-ㄹ（未來定語形語尾），修飾後面的 수。"
+        },
+        {
+          "point": "수 없을",
+          "explanation": "수（辦法）＋없다（沒有）＋-을（定語形語尾），表示「無法…的」。"
+        },
+        {
+          "point": "것만 같아",
+          "explanation": "것（事情）＋-만（只）＋같다（像）＋-아（口語終結語尾），表示「好像會…」。"
+        }
       ]
     },
     {
       "sectionTitle": "Chorus",
       "korean": "두 눈에 서롤 담고서",
-      "translation": "曾把彼此映在雙眼裡",
+      "translation": "曾將彼此映入眼底",
       "analysis": [
-        { "point": "두 눈에", "explanation": "두 (二) + 눈 (眼睛) + -에 (場所助詞)。" },
-        { "point": "서롤", "explanation": "서로를 (彼此) 的縮略。" },
-        { "point": "담고서", "explanation": "담다 (裝、盛) + -고서 (連接詞尾，表示先後)。" }
+        {
+          "point": "두 눈에",
+          "explanation": "두（兩）＋눈（眼睛）＋-에（場所助詞）。"
+        },
+        {
+          "point": "서롤",
+          "explanation": "서로（彼此）＋-를（受格助詞）的縮略。"
+        },
+        {
+          "point": "담고서",
+          "explanation": "담다（裝/映）＋-고서（連接詞尾，表示先後或狀態）。"
+        }
       ]
     },
     {
       "korean": "꿈을 나눠 먹었던 밤",
-      "translation": "曾一起分享夢想的夜晚",
+      "translation": "曾在夜裡分享彼此的夢",
       "analysis": [
-        { "point": "꿈을", "explanation": "꿈 (夢) + -을 (受格助詞)。" },
-        { "point": "나눠 먹었던", "explanation": "나누다 (分享) + -아/어 먹다 (一起做、分食) 的過去回想着定語形。" },
-        { "point": "밤", "explanation": "名詞，夜晚。" }
+        {
+          "point": "꿈을",
+          "explanation": "꿈（夢）＋-을（受格助詞）。"
+        },
+        {
+          "point": "나눠",
+          "explanation": "나누다（分享）＋-어（連接形）。"
+        },
+        {
+          "point": "먹었던",
+          "explanation": "먹다（吃）＋-었던（過去回想着定語形語尾），與 나누다 構成慣用型「나눠 먹다」，表示「一起分享」。"
+        },
+        {
+          "point": "밤",
+          "explanation": "名詞「夜晚」。"
+        }
       ]
     },
     {
       "korean": "그때 그 우리가",
       "translation": "那時的我們",
       "analysis": [
-        { "point": "그때", "explanation": "名詞，那時。" },
-        { "point": "그", "explanation": "冠詞，那。" },
-        { "point": "우리가", "explanation": "우리 (我們) + -가 (主格助詞)。" }
+        {
+          "point": "그때",
+          "explanation": "名詞「那時」。"
+        },
+        {
+          "point": "그",
+          "explanation": "冠詞「那」。"
+        },
+        {
+          "point": "우리가",
+          "explanation": "우리（我們）＋-가（主格助詞）。"
+        }
       ]
     },
     {
       "korean": "서로를 겨누고 있네",
-      "translation": "如今卻彼此對準了彼此",
+      "translation": "如今卻將彼此當成了對手",
       "analysis": [
-        { "point": "서로를", "explanation": "서로 (彼此) + -를 (受格助詞)。" },
-        { "point": "겨누고 있네", "explanation": "겨누다 (瞄準) + -고 있다 (正在) + -네 (感嘆形語尾)。" }
+        {
+          "point": "서로를",
+          "explanation": "서로（彼此）＋-를（受格助詞）。"
+        },
+        {
+          "point": "겨누고",
+          "explanation": "겨누다（瞄準/對準）＋-고（連接詞尾）。"
+        },
+        {
+          "point": "있네",
+          "explanation": "있다（正在）＋-네（感嘆終結語尾），表示「正…著呢」。"
+        }
       ]
     },
     {
       "korean": "우스워진 추억들이",
-      "translation": "那些回憶如今變得可笑",
+      "translation": "那些如今變得可笑的回憶",
       "analysis": [
-        { "point": "우스워진", "explanation": "우습다 (可笑) + -아/어 지다 (變得) 的過去定語形。" },
-        { "point": "추억들이", "explanation": "추억 (回憶) + -들 (複數) + -이 (主格助詞)。" }
+        {
+          "point": "우스워진",
+          "explanation": "우습다（可笑）＋-어지다（變化）＋-ㄴ（定語形語尾），表示「變得可笑的」。"
+        },
+        {
+          "point": "추억들이",
+          "explanation": "추억（回憶）＋-들（複數）＋-이（主格助詞）。"
+        }
       ]
     },
     {
       "korean": "어느 쪽을 더 괴롭힐는지",
-      "translation": "不知會讓哪一方更加痛苦",
+      "translation": "究竟會讓哪一方更加煎熬",
       "analysis": [
-        { "point": "어느 쪽을", "explanation": "어느 (哪) + 쪽 (邊) + -을 (受格助詞)。" },
-        { "point": "더", "explanation": "副詞，更。" },
-        { "point": "괴롭힐는지", "explanation": "괴롭히다 (折磨) + -(으)ㄹ는지 (會...呢) 的疑問形。" }
+        {
+          "point": "어느 쪽을",
+          "explanation": "어느（哪）＋쪽（邊）＋-을（受格助詞）。"
+        },
+        {
+          "point": "더",
+          "explanation": "副詞「更」。"
+        },
+        {
+          "point": "괴롭힐는지",
+          "explanation": "괴롭히다（折磨）＋-ㄹ는지（推測疑問語尾），表示「會折磨…呢」。"
+        }
       ]
     },
     {
       "korean": "Still on and on",
-      "translation": "依然一再延續",
+      "translation": "仍然糾纏不休",
       "analysis": [
-        { "point": "Still on and on", "explanation": "英文歌詞，無韓文文法解析。" }
+        {
+          "point": "Still on and on",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
       ]
     },
     {
       "korean": "It's more than just a cliché",
-      "translation": "這不只是老套的情節",
+      "translation": "這早已不只是老套的情節",
       "analysis": [
-        { "point": "It's more than just a cliché", "explanation": "英文歌詞，無韓文文法解析。" }
+        {
+          "point": "It's more than just a cliché",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
       ]
     },
     {
       "korean": "Love gamer",
       "translation": "愛情玩家",
       "analysis": [
-        { "point": "Love gamer", "explanation": "英文歌詞，無韓文文法解析。" }
+        {
+          "point": "Love gamer",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
       ]
     },
     {
       "sectionTitle": "Outro",
       "korean": "It's more than just a cliché",
-      "translation": "這不只是老套的情節",
+      "translation": "這早已不只是老套的情節",
       "analysis": [
-        { "point": "It's more than just a cliché", "explanation": "英文歌詞，無韓文文法解析。" }
+        {
+          "point": "It's more than just a cliché",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
       ]
     },
     {
       "korean": "Love gamer",
       "translation": "愛情玩家",
       "analysis": [
-        { "point": "Love gamer", "explanation": "英文歌詞，無韓文文法解析。" }
+        {
+          "point": "Love gamer",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
       ]
     }
   ],
   "keyVocabulary": [
     { "korean": "알다", "chinese": "知道", "pos": "動詞" },
     { "korean": "모르다", "chinese": "不知道", "pos": "動詞" },
-    { "korean": "상황", "chinese": "情況", "pos": "名詞" },
+    { "korean": "모든", "chinese": "所有", "pos": "冠詞" },
+    { "korean": "상황", "chinese": "狀況", "pos": "名詞" },
     { "korean": "위", "chinese": "上面", "pos": "名詞" },
     { "korean": "숨기다", "chinese": "隱藏", "pos": "動詞" },
-    { "korean": "바라보다", "chinese": "凝視", "pos": "動詞" },
-    { "korean": "사랑", "chinese": "愛情", "pos": "名詞" },
+    { "korean": "채", "chinese": "保持某種狀態", "pos": "名詞" },
+    { "korean": "바라보다", "chinese": "凝望", "pos": "動詞" },
+    { "korean": "사랑", "chinese": "愛", "pos": "名詞" },
     { "korean": "사람", "chinese": "人", "pos": "名詞" },
     { "korean": "아프다", "chinese": "痛", "pos": "形容詞" },
     { "korean": "돌아서다", "chinese": "轉身", "pos": "動詞" },
-    { "korean": "별것", "chinese": "特別的事", "pos": "名詞" },
+    { "korean": "보다", "chinese": "看", "pos": "動詞" },
+    { "korean": "별것", "chinese": "什麼特別的東西", "pos": "名詞" },
+    { "korean": "아니다", "chinese": "不是", "pos": "形容詞" },
     { "korean": "우리", "chinese": "我們", "pos": "代名詞" },
     { "korean": "누구", "chinese": "誰", "pos": "代名詞" },
     { "korean": "더", "chinese": "更", "pos": "副詞" },
-    { "korean": "아파지다", "chinese": "變得痛苦", "pos": "動詞" },
     { "korean": "오늘", "chinese": "今天", "pos": "名詞" },
-    { "korean": "썩", "chinese": "不怎麼", "pos": "副詞" },
+    { "korean": "썩", "chinese": "很/太", "pos": "副詞" },
     { "korean": "행복하다", "chinese": "幸福", "pos": "形容詞" },
+    { "korean": "않다", "chinese": "不", "pos": "動詞" },
     { "korean": "보이다", "chinese": "看起來", "pos": "動詞" },
     { "korean": "왠지", "chinese": "不知為何", "pos": "副詞" },
+    { "korean": "나", "chinese": "我", "pos": "代名詞" },
     { "korean": "언젠가", "chinese": "總有一天", "pos": "副詞" },
+    { "korean": "너", "chinese": "你", "pos": "代名詞" },
     { "korean": "후회하다", "chinese": "後悔", "pos": "動詞" },
-    { "korean": "얼굴", "chinese": "臉、表情", "pos": "名詞" },
+    { "korean": "얼굴", "chinese": "臉/表情", "pos": "名詞" },
+    { "korean": "것", "chinese": "事情/事物", "pos": "名詞" },
+    { "korean": "같다", "chinese": "像…一樣", "pos": "形容詞" },
+    { "korean": "두", "chinese": "兩", "pos": "數詞" },
     { "korean": "눈", "chinese": "眼睛", "pos": "名詞" },
     { "korean": "서로", "chinese": "彼此", "pos": "副詞" },
-    { "korean": "담다", "chinese": "裝、盛", "pos": "動詞" },
+    { "korean": "담다", "chinese": "裝/映", "pos": "動詞" },
     { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
     { "korean": "나누다", "chinese": "分享", "pos": "動詞" },
     { "korean": "먹다", "chinese": "吃", "pos": "動詞" },
     { "korean": "밤", "chinese": "夜晚", "pos": "名詞" },
     { "korean": "그때", "chinese": "那時", "pos": "名詞" },
-    { "korean": "겨누다", "chinese": "瞄準", "pos": "動詞" },
+    { "korean": "그", "chinese": "那", "pos": "冠詞" },
+    { "korean": "겨누다", "chinese": "瞄準/對準", "pos": "動詞" },
+    { "korean": "있다", "chinese": "有/正在", "pos": "動詞" },
     { "korean": "우습다", "chinese": "可笑", "pos": "形容詞" },
     { "korean": "추억", "chinese": "回憶", "pos": "名詞" },
-    { "korean": "쪽", "chinese": "邊、方", "pos": "名詞" },
+    { "korean": "어느", "chinese": "哪", "pos": "冠詞" },
+    { "korean": "쪽", "chinese": "邊", "pos": "名詞" },
     { "korean": "괴롭히다", "chinese": "折磨", "pos": "動詞" },
     { "korean": "부서지다", "chinese": "破碎", "pos": "動詞" },
-    { "korean": "끌어안다", "chinese": "緊緊擁抱", "pos": "動詞" },
+    { "korean": "듯", "chinese": "好像", "pos": "名詞" },
+    { "korean": "끌어안다", "chinese": "緊緊抱住", "pos": "動詞" },
     { "korean": "가장", "chinese": "最", "pos": "副詞" },
     { "korean": "곳", "chinese": "地方", "pos": "名詞" },
+    { "korean": "이", "chinese": "這", "pos": "冠詞" },
     { "korean": "이기다", "chinese": "贏", "pos": "動詞" },
+    { "korean": "싶다", "chinese": "想要", "pos": "形容詞" },
     { "korean": "여전히", "chinese": "依然", "pos": "副詞" },
     { "korean": "시간", "chinese": "時間", "pos": "名詞" },
-    { "korean": "그리다", "chinese": "想念、描繪", "pos": "動詞" },
+    { "korean": "그리다", "chinese": "描繪/思念", "pos": "動詞" },
     { "korean": "결국", "chinese": "最終", "pos": "副詞" },
     { "korean": "상처", "chinese": "傷", "pos": "名詞" },
-    { "korean": "내다", "chinese": "造成", "pos": "動詞" },
-    { "korean": "놓다", "chinese": "放開", "pos": "動詞" }
+    { "korean": "내다", "chinese": "出/造成", "pos": "動詞" },
+    { "korean": "놓다", "chinese": "放開", "pos": "動詞" },
+    { "korean": "수", "chinese": "辦法", "pos": "名詞" },
+    { "korean": "없다", "chinese": "沒有", "pos": "形容詞" }
   ]
 }

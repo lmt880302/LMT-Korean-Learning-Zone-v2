@@ -6,7 +6,7 @@
     {
       "sectionTitle": "Verse",
       "korean": "알잖아",
-      "translation": "你明明知道",
+      "translation": "你明明知道的",
       "analysis": [
         {
           "point": "알잖아",
@@ -16,7 +16,7 @@
     },
     {
       "korean": "우리 서로에게 무너지던 그날",
-      "translation": "那天我們在彼此面前崩潰",
+      "translation": "那天我們在彼此面前徹底崩潰",
       "analysis": [
         {
           "point": "우리",
@@ -56,7 +56,7 @@
     },
     {
       "korean": "감당할 수 없을 일을 벌여놓고",
-      "translation": "做了無力承擔的事",
+      "translation": "闖下了無力承擔的禍",
       "analysis": [
         {
           "point": "감당할",
@@ -78,7 +78,7 @@
     },
     {
       "korean": "그 벌을 받고 있지",
-      "translation": "如今只能承受代價",
+      "translation": "如今只能承受這一切的後果",
       "analysis": [
         {
           "point": "그",
@@ -97,7 +97,7 @@
     {
       "sectionTitle": "Chorus",
       "korean": "나는 이 관계의 이름을",
-      "translation": "這段關係的名字",
+      "translation": "讓我難過的是",
       "analysis": [
         {
           "point": "나는",
@@ -119,7 +119,7 @@
     },
     {
       "korean": "붙이지 못한 게 마음이 아파",
-      "translation": "始終無法定義 讓我心痛",
+      "translation": "始終無法為這段關係定義",
       "analysis": [
         {
           "point": "붙이지 못한",
@@ -163,7 +163,7 @@
     },
     {
       "korean": "부를 수조차 없을 테니까",
-      "translation": "或許永遠都無法為這段關係命名",
+      "translation": "連一個稱呼都給不了彼此",
       "analysis": [
         {
           "point": "부를",
@@ -186,7 +186,7 @@
     {
       "sectionTitle": "Chorus",
       "korean": "나는 이 관계의 이름을",
-      "translation": "這段關係的名字",
+      "translation": "讓我難過的是",
       "analysis": [
         {
           "point": "나는",
@@ -208,7 +208,7 @@
     },
     {
       "korean": "붙이지 못한 게 마음이 아파",
-      "translation": "始終無法定義 讓我心痛",
+      "translation": "始終無法為這段關係定義",
       "analysis": [
         {
           "point": "붙이지 못한",
@@ -252,7 +252,7 @@
     },
     {
       "korean": "부를 수조차 없을 테니까",
-      "translation": "或許永遠都無法為這段關係命名",
+      "translation": "連一個稱呼都給不了彼此",
       "analysis": [
         {
           "point": "부를",
@@ -274,165 +274,37 @@
     }
   ],
   "keyVocabulary": [
-    {
-      "korean": "알다",
-      "chinese": "知道",
-      "pos": "動詞"
-    },
-    {
-      "korean": "우리",
-      "chinese": "我們",
-      "pos": "代名詞"
-    },
-    {
-      "korean": "서로",
-      "chinese": "互相",
-      "pos": "副詞"
-    },
-    {
-      "korean": "무너지다",
-      "chinese": "崩塌",
-      "pos": "動詞"
-    },
-    {
-      "korean": "그",
-      "chinese": "那",
-      "pos": "冠詞"
-    },
-    {
-      "korean": "날",
-      "chinese": "天",
-      "pos": "名詞"
-    },
-    {
-      "korean": "물",
-      "chinese": "水",
-      "pos": "名詞"
-    },
-    {
-      "korean": "들다",
-      "chinese": "進入/滲入",
-      "pos": "動詞"
-    },
-    {
-      "korean": "버리다",
-      "chinese": "拋棄/完結補助",
-      "pos": "動詞"
-    },
-    {
-      "korean": "것",
-      "chinese": "事物/事實",
-      "pos": "名詞"
-    },
-    {
-      "korean": "감당하다",
-      "chinese": "承擔",
-      "pos": "動詞"
-    },
-    {
-      "korean": "수",
-      "chinese": "辦法",
-      "pos": "名詞"
-    },
-    {
-      "korean": "없다",
-      "chinese": "沒有",
-      "pos": "形容詞"
-    },
-    {
-      "korean": "일",
-      "chinese": "事情",
-      "pos": "名詞"
-    },
-    {
-      "korean": "벌이다",
-      "chinese": "展開/惹出",
-      "pos": "動詞"
-    },
-    {
-      "korean": "놓다",
-      "chinese": "放下/保持狀態補助",
-      "pos": "動詞"
-    },
-    {
-      "korean": "벌",
-      "chinese": "懲罰/代價",
-      "pos": "名詞"
-    },
-    {
-      "korean": "받다",
-      "chinese": "接受/承受",
-      "pos": "動詞"
-    },
-    {
-      "korean": "있다",
-      "chinese": "有/正在",
-      "pos": "動詞"
-    },
-    {
-      "korean": "나",
-      "chinese": "我",
-      "pos": "代名詞"
-    },
-    {
-      "korean": "이",
-      "chinese": "這",
-      "pos": "冠詞"
-    },
-    {
-      "korean": "관계",
-      "chinese": "關係",
-      "pos": "名詞"
-    },
-    {
-      "korean": "이름",
-      "chinese": "名字",
-      "pos": "名詞"
-    },
-    {
-      "korean": "붙이다",
-      "chinese": "貼上/賦予",
-      "pos": "動詞"
-    },
-    {
-      "korean": "못하다",
-      "chinese": "無法",
-      "pos": "動詞"
-    },
-    {
-      "korean": "마음",
-      "chinese": "心",
-      "pos": "名詞"
-    },
-    {
-      "korean": "아프다",
-      "chinese": "痛",
-      "pos": "形容詞"
-    },
-    {
-      "korean": "어쩌면",
-      "chinese": "也許",
-      "pos": "副詞"
-    },
-    {
-      "korean": "이렇게",
-      "chinese": "這樣",
-      "pos": "副詞"
-    },
-    {
-      "korean": "영원히",
-      "chinese": "永遠",
-      "pos": "副詞"
-    },
-    {
-      "korean": "부르다",
-      "chinese": "稱呼/叫",
-      "pos": "動詞"
-    },
-    {
-      "korean": "조차",
-      "chinese": "甚至",
-      "pos": "助詞"
-    }
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "우리", "chinese": "我們", "pos": "代名詞" },
+    { "korean": "서로", "chinese": "互相", "pos": "副詞" },
+    { "korean": "무너지다", "chinese": "崩塌", "pos": "動詞" },
+    { "korean": "그", "chinese": "那", "pos": "冠詞" },
+    { "korean": "날", "chinese": "天", "pos": "名詞" },
+    { "korean": "물", "chinese": "水", "pos": "名詞" },
+    { "korean": "들다", "chinese": "進入/滲入", "pos": "動詞" },
+    { "korean": "버리다", "chinese": "拋棄/完結補助", "pos": "動詞" },
+    { "korean": "것", "chinese": "事物/事實", "pos": "名詞" },
+    { "korean": "감당하다", "chinese": "承擔", "pos": "動詞" },
+    { "korean": "수", "chinese": "辦法", "pos": "名詞" },
+    { "korean": "없다", "chinese": "沒有", "pos": "形容詞" },
+    { "korean": "일", "chinese": "事情", "pos": "名詞" },
+    { "korean": "벌이다", "chinese": "展開/惹出", "pos": "動詞" },
+    { "korean": "놓다", "chinese": "放下/保持狀態補助", "pos": "動詞" },
+    { "korean": "벌", "chinese": "懲罰/代價", "pos": "名詞" },
+    { "korean": "받다", "chinese": "接受/承受", "pos": "動詞" },
+    { "korean": "있다", "chinese": "有/正在", "pos": "動詞" },
+    { "korean": "나", "chinese": "我", "pos": "代名詞" },
+    { "korean": "이", "chinese": "這", "pos": "冠詞" },
+    { "korean": "관계", "chinese": "關係", "pos": "名詞" },
+    { "korean": "이름", "chinese": "名字", "pos": "名詞" },
+    { "korean": "붙이다", "chinese": "貼上/賦予", "pos": "動詞" },
+    { "korean": "못하다", "chinese": "無法", "pos": "動詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "아프다", "chinese": "痛", "pos": "形容詞" },
+    { "korean": "어쩌면", "chinese": "也許", "pos": "副詞" },
+    { "korean": "이렇게", "chinese": "這樣", "pos": "副詞" },
+    { "korean": "영원히", "chinese": "永遠", "pos": "副詞" },
+    { "korean": "부르다", "chinese": "稱呼/叫", "pos": "動詞" },
+    { "korean": "조차", "chinese": "甚至", "pos": "助詞" }
   ]
 }
