@@ -6,305 +6,151 @@
     {
       "sectionTitle": "Verse",
       "korean": "알잖아",
-      "translation": "你明明知道的",
+      "translation": "你知道的",
       "analysis": [
-        {
-          "point": "알잖아",
-          "explanation": "알다（知道）＋-잖아 的口語終結語尾，表示提醒對方已知的事實，語氣相當於「你知道的」。"
-        }
+        { "point": "알잖아", "explanation": "알다 (知道) + -잖아 (不是嗎、你知道吧) 的口語語尾。" }
       ]
     },
     {
       "korean": "우리 서로에게 무너지던 그날",
       "translation": "那天我們在彼此面前徹底崩潰",
       "analysis": [
-        {
-          "point": "우리",
-          "explanation": "代名詞「我們」，這裡修飾後面的 서로에게。"
-        },
-        {
-          "point": "서로에게",
-          "explanation": "서로（互相）＋-에게（方向助詞），表示「對彼此」。"
-        },
-        {
-          "point": "무너지던",
-          "explanation": "무너지다（崩塌）＋-던（過去回想着定語形語尾），表示回想過去持續或反覆的狀態。"
-        },
-        {
-          "point": "그날",
-          "explanation": "그（那）＋날（天），名詞「那天」。"
-        }
+        { "point": "우리", "explanation": "代詞，我們。" },
+        { "point": "서로에게", "explanation": "서로 (彼此) + -에게 (對、向)。" },
+        { "point": "무너지던", "explanation": "무너지다 (崩塌、瓦解) 的過去回想着定語形。" },
+        { "point": "그날", "explanation": "그 (那) + 날 (日子)，意為「那天」。" }
       ]
     },
     {
       "korean": "물이 들어버린 거지",
-      "translation": "一切早已覆水難收",
+      "translation": "就這樣染上了彼此的顏色",
       "analysis": [
-        {
-          "point": "물이",
-          "explanation": "물（水）＋-이（主格助詞）。"
-        },
-        {
-          "point": "들어버린",
-          "explanation": "들다（進入/滲入）＋-어 버리다（完結/遺憾補助）＋-ㄴ（定語形語尾），表示水已經湧進來並帶有無可挽回的語氣。"
-        },
-        {
-          "point": "거지",
-          "explanation": "것（事實/情況）＋-이지 的口語縮略，表示確認或理所當然的語氣。"
-        }
+        { "point": "물이", "explanation": "물 (水) + -이 (主格助詞)。" },
+        { "point": "들어버린", "explanation": "들다 (進入) + -아/어 버리다 (完了) 的過去定語形。" },
+        { "point": "거지", "explanation": "것 (事情) + -이지 (是...吧) 的口語縮略。" }
       ]
     },
     {
       "korean": "감당할 수 없을 일을 벌여놓고",
       "translation": "闖下了無力承擔的禍",
       "analysis": [
-        {
-          "point": "감당할",
-          "explanation": "감당하다（承擔）＋-ㄹ（未來定語形語尾），修飾後面的 수。"
-        },
-        {
-          "point": "수 없을",
-          "explanation": "수（辦法）＋없다（沒有）＋-을（定語形語尾），表示「無法…的」。"
-        },
-        {
-          "point": "일을",
-          "explanation": "일（事情）＋-을（受格助詞）。"
-        },
-        {
-          "point": "벌여놓고",
-          "explanation": "벌이다（展開/惹出）＋-어 놓다（保持完成狀態的補助）＋-고（連接詞尾），表示惹出事情後持續該狀態並連接下一句。"
-        }
+        { "point": "감당할 수 없을", "explanation": "감당하다 (承擔) + -(으)ㄹ 수 없다 (無法) 的未來定語形。" },
+        { "point": "일을", "explanation": "일 (事情) + -을 (受格助詞)。" },
+        { "point": "벌여놓고", "explanation": "벌이다 (展開、惹出) + -아/어 놓다 (完成並保持) + -고 (連接詞尾)。" }
       ]
     },
     {
       "korean": "그 벌을 받고 있지",
-      "translation": "如今只能承受這一切的後果",
+      "translation": "如今只能承受這份代價",
       "analysis": [
-        {
-          "point": "그",
-          "explanation": "冠詞「那」。"
-        },
-        {
-          "point": "벌을",
-          "explanation": "벌（懲罰/代價）＋-을（受格助詞）。"
-        },
-        {
-          "point": "받고 있지",
-          "explanation": "받다（接受/承受）＋-고 있다（進行）＋-지（終結語尾），表示正在承受並帶確認語氣。"
-        }
+        { "point": "그 벌을", "explanation": "그 (那) + 벌 (懲罰) + -을 (受格助詞)。" },
+        { "point": "받고 있지", "explanation": "받다 (接受) + -고 있다 (正在) + -지 (陳述/確認語尾)。" }
       ]
     },
     {
       "sectionTitle": "Chorus",
       "korean": "나는 이 관계의 이름을",
-      "translation": "讓我難過的是",
+      "translation": "始終無法為這段關係",
       "analysis": [
-        {
-          "point": "나는",
-          "explanation": "나（我）＋-는（主題助詞），口語中常帶對比或引入話題。"
-        },
-        {
-          "point": "이",
-          "explanation": "冠詞「這」。"
-        },
-        {
-          "point": "관계의",
-          "explanation": "관계（關係）＋-의（屬格助詞）。"
-        },
-        {
-          "point": "이름을",
-          "explanation": "이름（名字）＋-을（受格助詞）。"
-        }
+        { "point": "나는", "explanation": "나 (我) + -는 (主題助詞)。" },
+        { "point": "이 관계의", "explanation": "이 (這) + 관계 (關係) + -의 (的)。" },
+        { "point": "이름을", "explanation": "이름 (名字) + -을 (受格助詞)。" }
       ]
     },
     {
       "korean": "붙이지 못한 게 마음이 아파",
-      "translation": "始終無法為這段關係定義",
+      "translation": "賦予一個名字 這讓我很難過",
       "analysis": [
-        {
-          "point": "붙이지 못한",
-          "explanation": "붙이다（貼上/賦予）＋-지 못하다（無法）＋-ㄴ（定語形語尾），表示「沒能賦予的」。"
-        },
-        {
-          "point": "게",
-          "explanation": "것이 的縮略，것（事物/事實）＋-이（主格助詞）。"
-        },
-        {
-          "point": "마음이",
-          "explanation": "마음（心）＋-이（主格助詞）。"
-        },
-        {
-          "point": "아파",
-          "explanation": "아프다（痛）＋-아（口語終結語尾），表示「痛」。"
-        }
+        { "point": "붙이지 못한", "explanation": "붙이다 (貼上) + -지 못하다 (未能) 的過去定語形。" },
+        { "point": "게", "explanation": "것 (事情) + -이 (主格助詞) 的縮略。" },
+        { "point": "마음이", "explanation": "마음 (心) + -이 (主格助詞)。" },
+        { "point": "아파", "explanation": "아프다 (痛) 的非格式體。" }
       ]
     },
     {
       "korean": "어쩌면 우리 이렇게 영원히",
-      "translation": "或許我們就會這樣直到永遠",
+      "translation": "或許我們會這樣直到永遠",
       "analysis": [
-        {
-          "point": "어쩌면",
-          "explanation": "副詞「也許/說不定」。"
-        },
-        {
-          "point": "우리",
-          "explanation": "代名詞「我們」。"
-        },
-        {
-          "point": "이렇게",
-          "explanation": "副詞「這樣」。"
-        },
-        {
-          "point": "영원히",
-          "explanation": "副詞「永遠」。"
-        }
+        { "point": "어쩌면", "explanation": "副詞，也許、說不定。" },
+        { "point": "우리", "explanation": "代詞，我們。" },
+        { "point": "이렇게", "explanation": "副詞，這樣。" },
+        { "point": "영원히", "explanation": "副詞，永遠地。" }
       ]
     },
     {
       "korean": "부를 수조차 없을 테니까",
-      "translation": "連一個稱呼都給不了彼此",
+      "translation": "連彼此都無法稱呼",
       "analysis": [
-        {
-          "point": "부를",
-          "explanation": "부르다（稱呼/叫）＋-ㄹ（未來定語形語尾），修飾後面的 수。"
-        },
-        {
-          "point": "수조차",
-          "explanation": "수（辦法）＋-조차（助詞，甚至），表示「連辦法都」。"
-        },
-        {
-          "point": "없을",
-          "explanation": "없다（沒有）＋-을（定語形語尾），表示「沒有的」。"
-        },
-        {
-          "point": "테니까",
-          "explanation": "-ㄹ 터이니까 的縮略，表示推測的原因「因為大概會…」。"
-        }
+        { "point": "부를", "explanation": "부르다 (稱呼) 的未來定語形。" },
+        { "point": "수조차", "explanation": "수 (方法) + -조차 (連...也)。" },
+        { "point": "없을", "explanation": "없다 (沒有) 的未來定語形。" },
+        { "point": "테니까", "explanation": "-(으)ㄹ 테니까 (因為將會...的緣故)。" }
       ]
     },
     {
       "sectionTitle": "Chorus",
       "korean": "나는 이 관계의 이름을",
-      "translation": "讓我難過的是",
+      "translation": "始終無法為這段關係",
       "analysis": [
-        {
-          "point": "나는",
-          "explanation": "나（我）＋-는（主題助詞），口語中常帶對比或引入話題。"
-        },
-        {
-          "point": "이",
-          "explanation": "冠詞「這」。"
-        },
-        {
-          "point": "관계의",
-          "explanation": "관계（關係）＋-의（屬格助詞）。"
-        },
-        {
-          "point": "이름을",
-          "explanation": "이름（名字）＋-을（受格助詞）。"
-        }
+        { "point": "나는", "explanation": "나 (我) + -는 (主題助詞)。" },
+        { "point": "이 관계의", "explanation": "이 (這) + 관계 (關係) + -의 (的)。" },
+        { "point": "이름을", "explanation": "이름 (名字) + -을 (受格助詞)。" }
       ]
     },
     {
       "korean": "붙이지 못한 게 마음이 아파",
-      "translation": "始終無法為這段關係定義",
+      "translation": "賦予一個名字 這讓我很難過",
       "analysis": [
-        {
-          "point": "붙이지 못한",
-          "explanation": "붙이다（貼上/賦予）＋-지 못하다（無法）＋-ㄴ（定語形語尾），表示「沒能賦予的」。"
-        },
-        {
-          "point": "게",
-          "explanation": "것이 的縮略，것（事物/事實）＋-이（主格助詞）。"
-        },
-        {
-          "point": "마음이",
-          "explanation": "마음（心）＋-이（主格助詞）。"
-        },
-        {
-          "point": "아파",
-          "explanation": "아프다（痛）＋-아（口語終結語尾），表示「痛」。"
-        }
+        { "point": "붙이지 못한", "explanation": "붙이다 (貼上) + -지 못하다 (未能) 的過去定語形。" },
+        { "point": "게", "explanation": "것 (事情) + -이 (主格助詞) 的縮略。" },
+        { "point": "마음이", "explanation": "마음 (心) + -이 (主格助詞)。" },
+        { "point": "아파", "explanation": "아프다 (痛) 的非格式體。" }
       ]
     },
     {
       "korean": "어쩌면 우리 이렇게 영원히",
-      "translation": "或許我們就會這樣直到永遠",
+      "translation": "或許我們會這樣直到永遠",
       "analysis": [
-        {
-          "point": "어쩌면",
-          "explanation": "副詞「也許/說不定」。"
-        },
-        {
-          "point": "우리",
-          "explanation": "代名詞「我們」。"
-        },
-        {
-          "point": "이렇게",
-          "explanation": "副詞「這樣」。"
-        },
-        {
-          "point": "영원히",
-          "explanation": "副詞「永遠」。"
-        }
+        { "point": "어쩌면", "explanation": "副詞，也許、說不定。" },
+        { "point": "우리", "explanation": "代詞，我們。" },
+        { "point": "이렇게", "explanation": "副詞，這樣。" },
+        { "point": "영원히", "explanation": "副詞，永遠地。" }
       ]
     },
     {
       "korean": "부를 수조차 없을 테니까",
-      "translation": "連一個稱呼都給不了彼此",
+      "translation": "連彼此都無法稱呼",
       "analysis": [
-        {
-          "point": "부를",
-          "explanation": "부르다（稱呼/叫）＋-ㄹ（未來定語形語尾），修飾後面的 수。"
-        },
-        {
-          "point": "수조차",
-          "explanation": "수（辦法）＋-조차（助詞，甚至），表示「連辦法都」。"
-        },
-        {
-          "point": "없을",
-          "explanation": "없다（沒有）＋-을（定語形語尾），表示「沒有的」。"
-        },
-        {
-          "point": "테니까",
-          "explanation": "-ㄹ 터이니까 的縮略，表示推測的原因「因為大概會…」。"
-        }
+        { "point": "부를", "explanation": "부르다 (稱呼) 的未來定語形。" },
+        { "point": "수조차", "explanation": "수 (方法) + -조차 (連...也)。" },
+        { "point": "없을", "explanation": "없다 (沒有) 的未來定語形。" },
+        { "point": "테니까", "explanation": "-(으)ㄹ 테니까 (因為將會...的緣故)。" }
       ]
     }
   ],
   "keyVocabulary": [
     { "korean": "알다", "chinese": "知道", "pos": "動詞" },
     { "korean": "우리", "chinese": "我們", "pos": "代名詞" },
-    { "korean": "서로", "chinese": "互相", "pos": "副詞" },
-    { "korean": "무너지다", "chinese": "崩塌", "pos": "動詞" },
-    { "korean": "그", "chinese": "那", "pos": "冠詞" },
-    { "korean": "날", "chinese": "天", "pos": "名詞" },
+    { "korean": "서로", "chinese": "彼此", "pos": "副詞" },
+    { "korean": "무너지다", "chinese": "崩塌、瓦解", "pos": "動詞" },
+    { "korean": "날", "chinese": "日子", "pos": "名詞" },
     { "korean": "물", "chinese": "水", "pos": "名詞" },
-    { "korean": "들다", "chinese": "進入/滲入", "pos": "動詞" },
-    { "korean": "버리다", "chinese": "拋棄/完結補助", "pos": "動詞" },
-    { "korean": "것", "chinese": "事物/事實", "pos": "名詞" },
+    { "korean": "들다", "chinese": "進入", "pos": "動詞" },
     { "korean": "감당하다", "chinese": "承擔", "pos": "動詞" },
-    { "korean": "수", "chinese": "辦法", "pos": "名詞" },
-    { "korean": "없다", "chinese": "沒有", "pos": "形容詞" },
     { "korean": "일", "chinese": "事情", "pos": "名詞" },
-    { "korean": "벌이다", "chinese": "展開/惹出", "pos": "動詞" },
-    { "korean": "놓다", "chinese": "放下/保持狀態補助", "pos": "動詞" },
-    { "korean": "벌", "chinese": "懲罰/代價", "pos": "名詞" },
-    { "korean": "받다", "chinese": "接受/承受", "pos": "動詞" },
-    { "korean": "있다", "chinese": "有/正在", "pos": "動詞" },
-    { "korean": "나", "chinese": "我", "pos": "代名詞" },
-    { "korean": "이", "chinese": "這", "pos": "冠詞" },
+    { "korean": "벌이다", "chinese": "展開、惹出", "pos": "動詞" },
+    { "korean": "벌", "chinese": "懲罰", "pos": "名詞" },
+    { "korean": "받다", "chinese": "接受", "pos": "動詞" },
     { "korean": "관계", "chinese": "關係", "pos": "名詞" },
     { "korean": "이름", "chinese": "名字", "pos": "名詞" },
-    { "korean": "붙이다", "chinese": "貼上/賦予", "pos": "動詞" },
-    { "korean": "못하다", "chinese": "無法", "pos": "動詞" },
+    { "korean": "붙이다", "chinese": "貼上", "pos": "動詞" },
     { "korean": "마음", "chinese": "心", "pos": "名詞" },
     { "korean": "아프다", "chinese": "痛", "pos": "形容詞" },
     { "korean": "어쩌면", "chinese": "也許", "pos": "副詞" },
     { "korean": "이렇게", "chinese": "這樣", "pos": "副詞" },
-    { "korean": "영원히", "chinese": "永遠", "pos": "副詞" },
-    { "korean": "부르다", "chinese": "稱呼/叫", "pos": "動詞" },
-    { "korean": "조차", "chinese": "甚至", "pos": "助詞" }
+    { "korean": "영원히", "chinese": "永遠地", "pos": "副詞" },
+    { "korean": "부르다", "chinese": "稱呼", "pos": "動詞" },
+    { "korean": "수", "chinese": "方法", "pos": "名詞" },
+    { "korean": "없다", "chinese": "沒有", "pos": "形容詞" }
   ]
 }
