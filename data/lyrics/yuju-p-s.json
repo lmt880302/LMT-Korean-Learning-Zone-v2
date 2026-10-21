@@ -51,7 +51,7 @@
     {
       "sectionTitle": "Verse 2",
       "korean": "마른하늘에 적당한 해",
-      "translation": "晴空中恰到好處的陽光",
+      "translation": "晴朗的天空有著恰到好處的陽光",
       "analysis": [
         { "point": "마른하늘에", "explanation": "마른하늘 (乾燥的天空) + -에 (場所助詞)。" },
         { "point": "적당한 해", "explanation": "적당하다 (適當的) 的定語形 + 해 (太陽)。" }
@@ -59,7 +59,7 @@
     },
     {
       "korean": "이런 날에 눈을 뜰 때면",
-      "translation": "每當在這樣的日子睜開眼",
+      "translation": "每當在這樣的日子醒來",
       "analysis": [
         { "point": "이런 날에", "explanation": "이런 (這樣的) + 날 (日子) + -에 (時間助詞)。" },
         { "point": "눈을 뜰 때면", "explanation": "눈 (眼睛) + -을 (受格助詞) + 뜨다 (睜開) 的未來定語形 + 때면 (每當...的時候)。" }
