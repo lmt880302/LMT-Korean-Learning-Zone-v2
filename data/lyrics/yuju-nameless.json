@@ -23,7 +23,7 @@
     },
     {
       "korean": "물이 들어버린 거지",
-      "translation": "就這樣染上了彼此的顏色",
+      "translation": "就這樣彼此浸染",
       "analysis": [
         { "point": "물이", "explanation": "물 (水) + -이 (主格助詞)。" },
         { "point": "들어버린", "explanation": "들다 (進入) + -아/어 버리다 (完了) 的過去定語形。" },
@@ -50,7 +50,7 @@
     {
       "sectionTitle": "Chorus",
       "korean": "나는 이 관계의 이름을",
-      "translation": "始終無法為這段關係",
+      "translation": "這段關係的名字",
       "analysis": [
         { "point": "나는", "explanation": "나 (我) + -는 (主題助詞)。" },
         { "point": "이 관계의", "explanation": "이 (這) + 관계 (關係) + -의 (的)。" },
@@ -59,7 +59,7 @@
     },
     {
       "korean": "붙이지 못한 게 마음이 아파",
-      "translation": "賦予一個名字 這讓我很難過",
+      "translation": "始終無法為它命名 令我如此心痛",
       "analysis": [
         { "point": "붙이지 못한", "explanation": "붙이다 (貼上) + -지 못하다 (未能) 的過去定語形。" },
         { "point": "게", "explanation": "것 (事情) + -이 (主格助詞) 的縮略。" },
@@ -69,7 +69,7 @@
     },
     {
       "korean": "어쩌면 우리 이렇게 영원히",
-      "translation": "或許我們會這樣直到永遠",
+      "translation": "或許我們就會這樣直到永遠",
       "analysis": [
         { "point": "어쩌면", "explanation": "副詞，也許、說不定。" },
         { "point": "우리", "explanation": "代詞，我們。" },
@@ -79,7 +79,7 @@
     },
     {
       "korean": "부를 수조차 없을 테니까",
-      "translation": "連彼此都無法稱呼",
+      "translation": "連一個稱呼都給不了彼此",
       "analysis": [
         { "point": "부를", "explanation": "부르다 (稱呼) 的未來定語形。" },
         { "point": "수조차", "explanation": "수 (方法) + -조차 (連...也)。" },
@@ -90,7 +90,7 @@
     {
       "sectionTitle": "Chorus",
       "korean": "나는 이 관계의 이름을",
-      "translation": "始終無法為這段關係",
+      "translation": "這段關係的名字",
       "analysis": [
         { "point": "나는", "explanation": "나 (我) + -는 (主題助詞)。" },
         { "point": "이 관계의", "explanation": "이 (這) + 관계 (關係) + -의 (的)。" },
@@ -99,7 +99,7 @@
     },
     {
       "korean": "붙이지 못한 게 마음이 아파",
-      "translation": "賦予一個名字 這讓我很難過",
+      "translation": "始終無法為它命名 令我如此心痛",
       "analysis": [
         { "point": "붙이지 못한", "explanation": "붙이다 (貼上) + -지 못하다 (未能) 的過去定語形。" },
         { "point": "게", "explanation": "것 (事情) + -이 (主格助詞) 的縮略。" },
@@ -109,7 +109,7 @@
     },
     {
       "korean": "어쩌면 우리 이렇게 영원히",
-      "translation": "或許我們會這樣直到永遠",
+      "translation": "或許我們就會這樣直到永遠",
       "analysis": [
         { "point": "어쩌면", "explanation": "副詞，也許、說不定。" },
         { "point": "우리", "explanation": "代詞，我們。" },
@@ -119,7 +119,7 @@
     },
     {
       "korean": "부를 수조차 없을 테니까",
-      "translation": "連彼此都無法稱呼",
+      "translation": "連一個稱呼都給不了彼此",
       "analysis": [
         { "point": "부를", "explanation": "부르다 (稱呼) 的未來定語形。" },
         { "point": "수조차", "explanation": "수 (方法) + -조차 (連...也)。" },
